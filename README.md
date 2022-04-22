@@ -1,2 +1,2 @@
-# RustDocs
+# Rust Docs
 Documentation
