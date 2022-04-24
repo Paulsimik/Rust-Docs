@@ -1,5 +1,5 @@
-|Shortname|ID|Components|Asset||
-|:---:|:---:|:---:|:---:||
+|Shortname|ID|Components|Asset|
+|:---:|:---:|:---:|:---:|
 |Berry-Black-Collectable|3408978181|CollectibleEntity<br>Spawnable<br>|Assets/bundled/Prefabs/autospawn/collectable/Berry-Black/Berry-Black-Collectable.prefab|
 |Berry-Blue-Collectable|2764599810|CollectibleEntity<br>Spawnable<br>|Assets/bundled/Prefabs/autospawn/collectable/Berry-Blue/Berry-Blue-Collectable.prefab|
 |Berry-Green-Collectable|3306182606|CollectibleEntity<br>Spawnable<br>|Assets/bundled/Prefabs/autospawn/collectable/Berry-Green/Berry-Green-Collectable.prefab|
