@@ -1,4 +1,5 @@
 #Colors
+
 |Name|RGBA|HEX|
 |:---:|:---:|:---:|
 |Red|0.8 0.28 0.2 1|cd4632|
@@ -6,6 +7,7 @@
 |Blue|0.204 0.596 0.859 1|3498db|
 
 #Fonts
+
 |Name|
 |:---|
 |assets/content/ui/fonts/droidsansmono.ttf|
