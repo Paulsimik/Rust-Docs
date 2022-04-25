@@ -1,5 +1,4 @@
-[
-  |Shortname|ID|Components|Asset|
+|Shortname|ID|Components|Asset|
   |:---:|:---:|:---:|:---:|
   |Berry-Black-Collectable|3408978181|CollectibleEntity<br>BaseNetworkable<br>BaseMonoBehaviour<br>Spawnable<br>|Assets/bundled/Prefabs/autospawn/collectable/Berry-Black/Berry-Black-Collectable.prefab|
   |Berry-Blue-Collectable|2764599810|CollectibleEntity<br>BaseNetworkable<br>BaseMonoBehaviour<br>Spawnable<br>|Assets/bundled/Prefabs/autospawn/collectable/Berry-Blue/Berry-Blue-Collectable.prefab|
@@ -1297,4 +1296,3 @@
   |Zombie|2805320019|Zombie<br>BaseCombatEntity<br>BaseEntity<br>BaseNpc<br>BaseNetworkable<br>BaseMonoBehaviour<br>NavMeshAgent<br>Spawnable<br>AiManagedAgent<br>CapsuleCollider<br>|Assets/Rust.Ai/Agents/Zombie/Zombie.prefab|
   |TestRidableHorse|2421623959|RidableHorse<br>BaseCombatEntity<br>BaseEntity<br>BaseMountable<br>BaseVehicle<br>BaseNetworkable<br>BaseMonoBehaviour<br>CapsuleCollider<br>Rigidbody<br>Spawnable<br>|Assets/Rust.Ai/NextAI/TestRidableHorse.prefab|
   |VisualShelvesTest|3989929317|VisualStorageContainer<br>BaseCombatEntity<br>BaseEntity<br>StorageContainer<br>BaseNetworkable<br>DecayEntity<br>BaseMonoBehaviour<br>|Assets/Scripts/Entity/Misc/VisualStorageContainer/VisualShelvesTest.prefab"
-]
