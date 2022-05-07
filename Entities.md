@@ -457,6 +457,7 @@
 |ScrapTransportHelicopter|3484163637|Spawnable<br>ScrapTransportHelicopter<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>BaseHelicopterVehicle<br>Rigidbody<br>PhysicsEffects<br>EntityFlag_Toggle<br>|Assets/Content/Vehicles/Scrap Heli Carrier/ScrapTransportHelicopter.prefab|
 |ServerGibs_ScrapTransport|1202855575|HelicopterDebris<br>BaseCombatEntity<br>ResourceDispenser<br>|Assets/Content/Vehicles/Scrap Heli Carrier/ServerGibs_ScrapTransport.prefab|
 |fuel_storage_scrapheli|2664694037|StorageContainer<br>BaseCombatEntity<br>BoxCollider<br>LootDistanceOverride<br>|Assets/Content/Vehicles/Scrap Heli Carrier/SubEnts/fuel_storage_scrapheli.prefab|
+|sedanrail.entity|207357730|Rigidbody<br>Model<br>|Assets/Content/Vehicles/Sedan_a/sedanrail.entity.prefab|
 |sedantest.entity|350141265|BasicCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Model<br>SedanWheelSmoke<br>|Assets/Content/Vehicles/Sedan_a/sedantest.entity.prefab|
 |_SnowmobileBase|2664297018|Snowmobile<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>MagnetLiftable<br>|Assets/Content/Vehicles/Snowmobiles/_SnowmobileBase.prefab|
 |Snowmobile|4272265309|Snowmobile<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>MagnetLiftable<br>|Assets/Content/Vehicles/Snowmobiles/Snowmobile.prefab|
@@ -468,10 +469,14 @@
 |SubmarineTorpedoStorage|2609093601|StorageContainer<br>BaseCombatEntity<br>|Assets/Content/Vehicles/Submarine/SubEnts/SubmarineTorpedoStorage.prefab|
 |SubmarineDuo.entity|903349679|SubmarineDuo<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>|Assets/Content/Vehicles/Submarine/SubmarineDuo.entity.prefab|
 |SubmarineSolo.entity|3623991100|BaseSubmarine<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>|Assets/Content/Vehicles/Submarine/SubmarineSolo.entity.prefab|
-|trainCarriageTEMP.entity|117498947|TrainCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>|Assets/Content/Vehicles/TrainTEMP/trainCarriageTEMP.entity.prefab|
-|trainEngineTEMP.entity|2792486285|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>|Assets/Content/Vehicles/TrainTEMP/trainEngineTEMP.entity.prefab|
+|_BaseTrainWagon.entity|3542189355|TrainCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>|Assets/Content/Vehicles/Train/_BaseTrainWagon.entity.prefab|
+|TrainWagonA.entity|382138391|TrainCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>|Assets/Content/Vehicles/Train/TrainWagonA.entity.prefab|
+|TrainWagonB.entity|1470785358|TrainCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>|Assets/Content/Vehicles/Train/TrainWagonB.entity.prefab|
+|TrainWagonC.entity|1549305686|TrainCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>|Assets/Content/Vehicles/Train/TrainWagonC.entity.prefab|
+|TrainWagonD.entity|2780689094|TrainCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>|Assets/Content/Vehicles/Train/TrainWagonD.entity.prefab|
 |workcart_fuel_storage|2293470337|StorageContainer<br>BaseCombatEntity<br>|Assets/Content/Vehicles/WorkCart/SubEnts/workcart_fuel_storage.prefab|
 |workcart.entity|612480793|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>|Assets/Content/Vehicles/WorkCart/workcart.entity.prefab|
+|workcart_aboveground.entity|2047788867|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>|Assets/Content/Vehicles/WorkCart/workcart_aboveground.entity.prefab|
 |40mm_grenade_he|1859672190|TimedExplosive<br>ServerProjectile<br>CapsuleCollider<br>|Assets/Prefabs/Ammo/40mmGrenade/40mm_grenade_he.prefab|
 |40mm_grenade_smoke|1502533292|SmokeGrenade<br>ServerProjectile<br>CapsuleCollider<br>|Assets/Prefabs/Ammo/40mmGrenade/40mm_grenade_smoke.prefab|
 |arrow|26759631|WorldItem<br>BoxCollider<br>Rigidbody<br>ColliderInfo<br>|Assets/Prefabs/Ammo/Arrow/arrow.prefab|
@@ -493,6 +498,7 @@
 |gates.external.high.stone|4211374971|Door<br>BaseCombatEntity<br>DecayEntity<br>StabilityEntity<br>Model<br>|Assets/Prefabs/Building/gates.external.high/gates.external.high.stone/gates.external.high.stone.prefab|
 |gates.external.high.wood|95147612|Door<br>BaseCombatEntity<br>DecayEntity<br>StabilityEntity<br>Model<br>|Assets/Prefabs/Building/gates.external.high/gates.external.high.wood/gates.external.high.wood.prefab|
 |ladder.wooden.wall|2150203378|GroundWatch<br>DestroyOnGroundMissing<br>BaseLadder<br>BoxCollider<br>|Assets/Prefabs/Building/ladder.wall.wood/ladder.wooden.wall.prefab|
+|ZiplineArrivalPoint|498646963|ZiplineArrivalPoint<br>|Assets/Prefabs/Building/powerline.zipline/ZiplineArrivalPoint.prefab|
 |ZiplineLaunchPoint|912900196|ZiplineLaunchPoint<br>|Assets/Prefabs/Building/powerline.zipline/ZiplineLaunchPoint.prefab|
 |ZiplineMountable|4256848933|ZiplineMountable<br>BaseCombatEntity<br>|Assets/Prefabs/Building/powerline.zipline/ZiplineMountable.prefab|
 |wall.external.high.stone|1585379529|SimpleBuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>NavMeshObstacle<br>|Assets/Prefabs/Building/wall.external.high.stone/wall.external.high.stone.prefab|
