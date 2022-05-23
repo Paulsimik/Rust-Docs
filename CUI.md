@@ -12,3 +12,25 @@
 |assets/content/ui/fonts/permanentmarker.ttf|
 |assets/content/ui/fonts/robotocondensed-bold.ttf|
 |assets/content/ui/fonts/robotocondensed-regular.ttf|
+
+# Classes
+```json
+static public CuiElementContainer CreateElementContainer(string panelName, string color, string material, float fadeIn, float fadeOut, string aMin, string aMax, bool useCursor = false, string parent = "Overlay")
+            {
+                var element = new CuiElementContainer()
+                {
+                    {
+                        new CuiPanel
+                        {
+                            Image = { Color = color, Material = material, FadeIn = fadeIn },
+                            RectTransform = { AnchorMin = aMin, AnchorMax = aMax },
+                            FadeOut = fadeOut,
+                            CursorEnabled = useCursor
+                        },
+                        new CuiElement().Parent = parent,
+                        panelName
+                    }
+                };
+                return element;
+            }
+```            
