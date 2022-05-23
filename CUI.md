@@ -33,4 +33,30 @@ static public CuiElementContainer CreateElementContainer(string panelName, strin
                 };
                 return element;
             }
-```            
+```       
+```ruby
+static public void CreateLabel(ref CuiElementContainer container, string panel, string color, float fadeIn, float fadeOut, string text, int size, string aMin, string aMax, TextAnchor align = TextAnchor.MiddleCenter)
+            {
+                container.Add(new CuiLabel
+                {
+                    Text = { Color = color, FontSize = size, Align = align, Text = text, FadeIn = fadeIn },
+                    RectTransform = { AnchorMin = aMin, AnchorMax = aMax },
+                    FadeOut = fadeOut
+                },
+                panel);
+
+            }
+```
+```ruby
+static public void CreateButton(ref CuiElementContainer container, string panel, string color, float fadeIn, float fadeOut, string text, int size, string aMin, string aMax, string command, TextAnchor align = TextAnchor.MiddleCenter)
+            {
+                container.Add(new CuiButton
+                {
+                    Button = { Color = color, Command = command, FadeIn = fadeIn },
+                    RectTransform = { AnchorMin = aMin, AnchorMax = aMax },
+                    Text = { Text = text, FontSize = size, Align = align, FadeIn = fadeIn },
+                    FadeOut= fadeOut
+                },
+                panel);
+            }
+```
