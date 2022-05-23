@@ -14,7 +14,7 @@
 |assets/content/ui/fonts/robotocondensed-regular.ttf|
 
 # Classes
-```json
+```ruby
 static public CuiElementContainer CreateElementContainer(string panelName, string color, string material, float fadeIn, float fadeOut, string aMin, string aMax, bool useCursor = false, string parent = "Overlay")
             {
                 var element = new CuiElementContainer()
