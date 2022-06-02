@@ -654,6 +654,7 @@
 |![](https://rustlabs.com/img/items180/building.planner.png)|Building Plan|building.planner|1525520776|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/grenade.smoke.png)|Smoke Grenade|grenade.smoke|1263920163|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/spraycan.png)|Spray Can|spraycan|-596876839|ItemModEntity<br>ItemBlueprint<br>|
+|![](https://rustlabs.com/img/items180/spraycandecal.png)|Spray Can Decal|spraycandecal|-1366326648||
 |![](https://rustlabs.com/img/items180/supply.signal.png)|Supply Signal|supply.signal|1397052267|ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/surveycharge.png)|Survey Charge|surveycharge|1975934948|ItemModEntity<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/wiretool.png)|Wire Tool|wiretool|-144417939|ItemModEntity<br>ItemBlueprint<br>|
@@ -692,6 +693,7 @@
 |![](https://rustlabs.com/img/items180/soundlight.png)|Sound Light|soundlight|-343857907|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/telephone.png)|Telephone|telephone|1234878710|ItemBlueprint<br>ItemModEntity<br>ItemModDeployable<br>|
 |![](https://rustlabs.com/img/items180/weapon.mod.8x.scope.png)|16x Zoom Scope|weapon.mod.8x.scope|174866732|ItemBlueprint<br>ItemModEntity<br>ItemModSound<br>|
+|![](https://rustlabs.com/img/items180/weapon.mod.extendedmags.png)|Extended Magazine|weapon.mod.extendedmags|2005491391|ItemBlueprint<br>ItemModEntity<br>ItemModSound<br>|
 |![](https://rustlabs.com/img/items180/weapon.mod.flashlight.png)|Weapon flashlight|weapon.mod.flashlight|952603248|ItemBlueprint<br>ItemModEntity<br>ItemModSound<br>|
 |![](https://rustlabs.com/img/items180/weapon.mod.holosight.png)|Holosight|weapon.mod.holosight|442289265|ItemBlueprint<br>ItemModEntity<br>ItemModSound<br>|
 |![](https://rustlabs.com/img/items180/weapon.mod.lasersight.png)|Weapon Lasersight|weapon.mod.lasersight|-132516482|ItemBlueprint<br>ItemModEntity<br>ItemModSound<br>|
@@ -724,6 +726,7 @@
 |![](https://rustlabs.com/img/items180/skull.png)|Skull|skull|1312843609|ItemModEntity<br>ItemModProjectile<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/hammer.png)|Hammer|hammer|200773292|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |![](https://rustlabs.com/img/items180/hatchet.png)|Hatchet|hatchet|-1252059217|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
+|![](https://rustlabs.com/img/items180/hmlmg.png)|HMLMG|hmlmg|-1214542497|ItemModEntity<br>ItemModContainer<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/knife.combat.png)|Combat Knife|knife.combat|2040726127|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |![](https://rustlabs.com/img/items180/rifle.l96.png)|L96 Rifle|rifle.l96|-778367295|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |![](https://rustlabs.com/img/items180/rifle.lr300.png)|LR-300 Assault Rifle|rifle.lr300|-1812555177|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
