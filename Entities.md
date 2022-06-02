@@ -270,6 +270,15 @@
 |cinelight_spot_warm|2260738994|CinematicEntity<br>|Assets/bundled/Prefabs/modding/cinematic/cinelights/cinelight_spot_warm.prefab|
 |cinelight_spot_white|1180129634|CinematicEntity<br>|Assets/bundled/Prefabs/modding/cinematic/cinelights/cinelight_spot_white.prefab|
 |twitch_dropbox.deployed|1572428470|DropBox<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>|Assets/bundled/Prefabs/modding/Events/Twitch/twitch_dropbox.deployed.prefab|
+|invisible_crate_basic|506215165|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|Assets/bundled/Prefabs/modding/lootables/Invisible/invisible_lootable_prefabs/invisible_crate_basic.prefab|
+|invisible_crate_elite|3590920894|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|Assets/bundled/Prefabs/modding/lootables/Invisible/invisible_lootable_prefabs/invisible_crate_elite.prefab|
+|invisible_crate_normal|1510201832|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|Assets/bundled/Prefabs/modding/lootables/Invisible/invisible_lootable_prefabs/invisible_crate_normal.prefab|
+|invisible_crate_normal_2|2789666127|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|Assets/bundled/Prefabs/modding/lootables/Invisible/invisible_lootable_prefabs/invisible_crate_normal_2.prefab|
+|invisible_crate_normal_2_food|178719473|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|Assets/bundled/Prefabs/modding/lootables/Invisible/invisible_lootable_prefabs/invisible_crate_normal_2_food.prefab|
+|invisible_crate_normal_2_medical|3143506515|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|Assets/bundled/Prefabs/modding/lootables/Invisible/invisible_lootable_prefabs/invisible_crate_normal_2_medical.prefab|
+|invisible_crate_tools|922765448|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|Assets/bundled/Prefabs/modding/lootables/Invisible/invisible_lootable_prefabs/invisible_crate_tools.prefab|
+|invisible_foodbox|3009986025|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|Assets/bundled/Prefabs/modding/lootables/Invisible/invisible_lootable_prefabs/invisible_foodbox.prefab|
+|invisible_vehicle_parts|2291464081|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|Assets/bundled/Prefabs/modding/lootables/Invisible/invisible_lootable_prefabs/invisible_vehicle_parts.prefab|
 |napalm|184893264|FireBall<br>Rigidbody<br>BoxCollider<br>|Assets/bundled/Prefabs/napalm.prefab|
 |oilFireballSmall|3550347674|FireBall<br>Rigidbody<br>BoxCollider<br>|Assets/bundled/Prefabs/oilFireballSmall.prefab|
 |crate_basic|1603759333|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|Assets/bundled/Prefabs/radtown/crate_basic.prefab|
@@ -365,8 +374,25 @@
 |relationship_manager|827927784|RelationshipManager<br>|Assets/bundled/Prefabs/system/server/relationship_manager.prefab|
 |ResourceDepositManager|4020369301|ResourceDepositManager<br>|Assets/bundled/Prefabs/system/server/ResourceDepositManager.prefab|
 |tree_manager|1308421945|TreeManager<br>|Assets/bundled/Prefabs/system/tree_manager.prefab|
+|floor.triangle.grill_static|2437998989||Assets/Content/Building/Parts/static/floor.triangle.grill_static.prefab|
+|wall.external.high.stone_static|3714004034||Assets/Content/Building/Parts/static/wall.external.high.stone_static.prefab|
+|wall.external.high.wood_static|2953985093||Assets/Content/Building/Parts/static/wall.external.high.wood_static.prefab|
+|wall.frame.cell.gate.door_static|2530959899||Assets/Content/Building/Parts/static/wall.frame.cell.gate.door_static.prefab|
+|wall.frame.cell.gate_static|3142139264||Assets/Content/Building/Parts/static/wall.frame.cell.gate_static.prefab|
+|wall.frame.cell_static|3557945461||Assets/Content/Building/Parts/static/wall.frame.cell_static.prefab|
+|wall.frame.netting_static|2148809972||Assets/Content/Building/Parts/static/wall.frame.netting_static.prefab|
+|wall.frame.shopfront.door_static|1591787277|Door<br>BaseCombatEntity<br>DecayEntity<br>StabilityEntity<br>Model<br>|Assets/Content/Building/Parts/static/wall.frame.shopfront.door_static.prefab|
+|wall.frame.shopfront_static|870345784|Door<br>BaseCombatEntity<br>DecayEntity<br>StabilityEntity<br>Model<br>|Assets/Content/Building/Parts/static/wall.frame.shopfront_static.prefab|
+|wall.window.glass.reinforced_static|3432446071||Assets/Content/Building/Parts/static/wall.window.glass.reinforced_static.prefab|
+|wall.frame.fence.gate.door_static|715943790||Assets/Content/Building/Parts/wall.frame.fence.gate.door_static.prefab|
+|wall.frame.fence.gate_static|786344126||Assets/Content/Building/Parts/wall.frame.fence.gate_static.prefab|
+|wall.frame.fence_static|536470519||Assets/Content/Building/Parts/wall.frame.fence_static.prefab|
+|wall.window.bars.metal_static|3276278428||Assets/Content/Building/Parts/wall.window.bars.metal_static.prefab|
+|wall.window.bars.toptier_static|3544865234||Assets/Content/Building/Parts/wall.window.bars.toptier_static.prefab|
+|wall.window.bars.wood_static|3173513614||Assets/Content/Building/Parts/wall.window.bars.wood_static.prefab|
 |Tree_Marking|954334883|TreeMarker<br>|Assets/Content/Nature/TreesPrefabs/Trees/Effects/Tree_Marking.prefab|
 |Tree_Marking_NoSpherecast|1966986960|TreeMarker<br>|Assets/Content/Nature/TreesPrefabs/Trees/Effects/Tree_Marking_NoSpherecast.prefab|
+|barricade_cover_wood|3949715543||Assets/Content/Props/Barricades_static/barricade_cover_wood.prefab|
 |FogMachine|1390895812|FogMachine<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|Assets/Content/Props/Fog Machine/FogMachine.prefab|
 |Excavator Lighting Static|1362540524|LightListener<br>|Assets/Content/Props/light_fixtures/v2/Radtown Work Prefabs/Excavator Lighting Static.prefab|
 |Excavator_Lights|863874129|LightListener<br>|Assets/Content/Props/light_fixtures/v2/Radtown Work Prefabs/Excavator_Lights.prefab|
@@ -457,7 +483,7 @@
 |ScrapTransportHelicopter|3484163637|Spawnable<br>ScrapTransportHelicopter<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>BaseHelicopterVehicle<br>Rigidbody<br>PhysicsEffects<br>EntityFlag_Toggle<br>|Assets/Content/Vehicles/Scrap Heli Carrier/ScrapTransportHelicopter.prefab|
 |ServerGibs_ScrapTransport|1202855575|HelicopterDebris<br>BaseCombatEntity<br>ResourceDispenser<br>|Assets/Content/Vehicles/Scrap Heli Carrier/ServerGibs_ScrapTransport.prefab|
 |fuel_storage_scrapheli|2664694037|StorageContainer<br>BaseCombatEntity<br>BoxCollider<br>LootDistanceOverride<br>|Assets/Content/Vehicles/Scrap Heli Carrier/SubEnts/fuel_storage_scrapheli.prefab|
-|sedanrail.entity|207357730|Rigidbody<br>Model<br>|Assets/Content/Vehicles/Sedan_a/sedanrail.entity.prefab|
+|sedanrail.entity|207357730|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Model<br>Spawnable<br>|Assets/Content/Vehicles/Sedan_a/sedanrail.entity.prefab|
 |sedantest.entity|350141265|BasicCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Model<br>SedanWheelSmoke<br>|Assets/Content/Vehicles/Sedan_a/sedantest.entity.prefab|
 |_SnowmobileBase|2664297018|Snowmobile<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>MagnetLiftable<br>|Assets/Content/Vehicles/Snowmobiles/_SnowmobileBase.prefab|
 |Snowmobile|4272265309|Snowmobile<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>MagnetLiftable<br>|Assets/Content/Vehicles/Snowmobiles/Snowmobile.prefab|
@@ -477,6 +503,7 @@
 |workcart_fuel_storage|2293470337|StorageContainer<br>BaseCombatEntity<br>|Assets/Content/Vehicles/WorkCart/SubEnts/workcart_fuel_storage.prefab|
 |workcart.entity|612480793|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>|Assets/Content/Vehicles/WorkCart/workcart.entity.prefab|
 |workcart_aboveground.entity|2047788867|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>|Assets/Content/Vehicles/WorkCart/workcart_aboveground.entity.prefab|
+|workcart_aboveground2.entity|2138552575|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>|Assets/Content/Vehicles/WorkCart/workcart_aboveground2.entity.prefab|
 |40mm_grenade_he|1859672190|TimedExplosive<br>ServerProjectile<br>CapsuleCollider<br>|Assets/Prefabs/Ammo/40mmGrenade/40mm_grenade_he.prefab|
 |40mm_grenade_smoke|1502533292|SmokeGrenade<br>ServerProjectile<br>CapsuleCollider<br>|Assets/Prefabs/Ammo/40mmGrenade/40mm_grenade_smoke.prefab|
 |arrow|26759631|WorldItem<br>BoxCollider<br>Rigidbody<br>ColliderInfo<br>|Assets/Prefabs/Ammo/Arrow/arrow.prefab|
@@ -754,6 +781,7 @@
 |softcore|1954920076|GameModeSoftcore<br>BaseGameMode<br>|Assets/Prefabs/GameModes/softcore.prefab|
 |teamdeathmatch|18701516|BaseGameMode<br>|Assets/Prefabs/GameModes/teamdeathmatch.prefab|
 |vanilla|2957505463|BaseGameMode<br>|Assets/Prefabs/GameModes/vanilla.prefab|
+|weapontest|798330873|BaseGameMode<br>|Assets/Prefabs/GameModes/weapontest.prefab|
 |bass.weapon|2465202152|InstrumentToolGuitar<br>HeldEntity<br>InstrumentKeyController<br>|Assets/Prefabs/Instruments/Bass/bass.weapon.prefab|
 |cowbell.weapon|52738779|InstrumentTool<br>InstrumentKeyController<br>|Assets/Prefabs/Instruments/Cowbell/cowbell.weapon.prefab|
 |drumkit.deployed|1980628900|StaticInstrument<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>InstrumentKeyController<br>InstrumentIKController<br>|Assets/Prefabs/Instruments/Drumkit/drumkit.deployed.prefab|
@@ -1107,7 +1135,9 @@
 |planner|1435750071|Planner<br>|Assets/Prefabs/Tools/Planner/planner.prefab|
 |grenade.smoke.deployed|1464001967|SmokeGrenade<br>Rigidbody<br>CapsuleCollider<br>|Assets/Prefabs/Tools/Smoke Grenade/grenade.smoke.deployed.prefab|
 |smoke_grenade.weapon|3642747736|GrenadeWeapon<br>HeldEntity<br>AttackEntity<br>|Assets/Prefabs/Tools/Smoke Grenade/smoke_grenade.weapon.prefab|
+|SprayLineDecal|2542129442|SprayCanSpray_Freehand<br>BaseCombatEntity<br>DecayEntity<br>DeferredDecal<br>GroundWatch<br>BoxCollider<br>DestroyOnGroundMissing<br>|Assets/Prefabs/Tools/Spraycan/FreehandSpray/SprayLineDecal.prefab|
 |spraycan.weapon|4251031431|SprayCan<br>|Assets/Prefabs/Tools/Spraycan/spraycan.weapon.prefab|
+|spray.decal|3884356627|SprayCanSpray_Decal<br>BaseCombatEntity<br>DecayEntity<br>Model<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|Assets/Prefabs/Tools/Spraycan/Sprays/spray.decal.prefab|
 |grenade.supplysignal.deployed|3350651790|SupplySignal<br>Rigidbody<br>CapsuleCollider<br>|Assets/Prefabs/Tools/Supply Signal/grenade.supplysignal.deployed.prefab|
 |supplysignal.weapon|775476535|GrenadeWeapon<br>HeldEntity<br>AttackEntity<br>|Assets/Prefabs/Tools/Supply Signal/supplysignal.weapon.prefab|
 |survey_charge.deployed|2141863453|SurveyCharge<br>Rigidbody<br>BoxCollider<br>|Assets/Prefabs/Tools/SurveyCharge/survey_charge.deployed.prefab|
@@ -1174,6 +1204,7 @@
 |telephone.deployed|2160363615|Telephone<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>DestroyOnGroundMissing<br>PhoneController<br>GroundWatch<br>|Assets/Prefabs/VoiceAudio/Telephone/telephone.deployed.prefab|
 |8xScope.entity|4005260636|ProjectileWeaponMod<br>|Assets/Prefabs/Weapon Mods/8x Scope/8xScope.entity.prefab|
 |8xScope.vm.attachment|545873399|ProjectileWeaponMod<br>Model<br>IronSightOverride<br>ViewmodelScope<br>HideIfScoped<br>|Assets/Prefabs/Weapon Mods/8x Scope/8xScope.vm.attachment.prefab|
+|extendedmags.entity|330399465|ProjectileWeaponMod<br>|Assets/Prefabs/Weapon Mods/ExtendedMags/extendedmags.entity.prefab|
 |flashlight.entity|3357772531|ProjectileWeaponMod<br>|Assets/Prefabs/Weapon Mods/Flashlight/flashlight.entity.prefab|
 |flashlight.vm.attachment|1529000711|ProjectileWeaponMod<br>Model<br>HideIfScoped<br>|Assets/Prefabs/Weapon Mods/Flashlight/flashlight.vm.attachment.prefab|
 |holosight.entity|1518608834|ProjectileWeaponMod<br>|Assets/Prefabs/Weapon Mods/Holosight/holosight.entity.prefab|
@@ -1215,6 +1246,7 @@
 |skull.entity|1140399555|BaseMelee<br>HeldEntity<br>|Assets/Prefabs/Weapons/Halloween/Skull_Halloween/skull.entity.prefab|
 |hammer.entity|388861612|Hammer<br>HeldEntity<br>AttackEntity<br>|Assets/Prefabs/Weapons/Hammer/hammer.entity.prefab|
 |hatchet.entity|365233245|BaseMelee<br>HeldEntity<br>|Assets/Prefabs/Weapons/Hatchet/hatchet.entity.prefab|
+|hmlmg.entity|3459133190|BaseProjectile<br>HeldEntity<br>Model<br>|Assets/Prefabs/Weapons/HMLMG/hmlmg.entity.prefab|
 |knife.combat.entity|327944951|BaseMelee<br>HeldEntity<br>Model<br>|Assets/Prefabs/Weapons/Knife/knife.combat.entity.prefab|
 |l96.entity|2620171289|BaseProjectile<br>HeldEntity<br>Model<br>|Assets/Prefabs/Weapons/L96/l96.entity.prefab|
 |lr300.entity|844375121|BaseProjectile<br>HeldEntity<br>Model<br>|Assets/Prefabs/Weapons/lr300/lr300.entity.prefab|
