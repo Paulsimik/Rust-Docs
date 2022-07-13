@@ -1,5 +1,19 @@
 |Name|
 |:---:|
+|assets/bundled/prefabs/radtown/sound/crate-ammunition-close.asset|
+|assets/bundled/prefabs/radtown/sound/crate-ammunition-open.asset|
+|assets/bundled/prefabs/radtown/sound/crate-food-close.asset|
+|assets/bundled/prefabs/radtown/sound/crate-food-open.asset|
+|assets/bundled/prefabs/radtown/sound/crate-fuel-closed.asset|
+|assets/bundled/prefabs/radtown/sound/crate-fuel-open.asset|
+|assets/bundled/prefabs/radtown/sound/crate-medical-close.asset|
+|assets/bundled/prefabs/radtown/sound/crate-medical-open.asset|
+|assets/bundled/prefabs/radtown/sound/crate-tools-close.asset|
+|assets/bundled/prefabs/radtown/sound/crate-tools-open.asset|
+|assets/bundled/prefabs/radtown/sound/tech-parts-close.asset|
+|assets/bundled/prefabs/radtown/sound/tech-parts-open.asset|
+|assets/bundled/prefabs/radtown/sound/vehicle-parts-close.asset|
+|assets/bundled/prefabs/radtown/sound/vehicle-parts-open.asset|
 |assets/content/image effects/postfx_volumes/building_exposure.asset|
 |assets/content/image effects/postfx_volumes/cctv.asset|
 |assets/content/image effects/postfx_volumes/cctv_mlrs.asset|
@@ -1652,6 +1666,7 @@
 |assets/content/properties/recoil/new/hmlmgrecoil.nopattern.asset|
 |assets/content/properties/recoil/new/lr300.recoil.nopattern.asset|
 |assets/content/properties/recoil/new/m249recoil.nopattern.asset|
+|assets/content/properties/recoil/new/m39recoil.nopattern.asset|
 |assets/content/properties/recoil/new/m92.recoil.nopattern.asset|
 |assets/content/properties/recoil/new/mp5.recoil.nopattern.asset|
 |assets/content/properties/recoil/new/sap.recoil.nopattern.asset|
@@ -1745,8 +1760,11 @@
 |assets/content/properties/spawnpopulation/v3_arid_forest.asset|
 |assets/content/properties/spawnpopulation/v3_arid_forestside.asset|
 |assets/content/properties/spawnpopulation/v3_ores.asset|
+|assets/content/properties/spawnpopulation/v3_ores_nocliff.asset|
 |assets/content/properties/spawnpopulation/v3_ores_sand.asset|
+|assets/content/properties/spawnpopulation/v3_ores_sand_nocliff.asset|
 |assets/content/properties/spawnpopulation/v3_ores_snow.asset|
+|assets/content/properties/spawnpopulation/v3_ores_snow_nocliff.asset|
 |assets/content/properties/spawnpopulation/v3_temp_beachside.asset|
 |assets/content/properties/spawnpopulation/v3_temp_field.asset|
 |assets/content/properties/spawnpopulation/v3_temp_forest.asset|
@@ -3956,6 +3974,13 @@
 |assets/content/vehicles/modularcar/car_presets/4socket modular car preset camper van 1.asset|
 |assets/content/vehicles/modularcar/car_presets/4socket modular car preset camper van 2.asset|
 |assets/content/vehicles/modularcar/car_presets/4socket modular car preset camper van.asset|
+|assets/content/vehicles/modularcar/car_presets/admin/2mod armored rear engine.asset|
+|assets/content/vehicles/modularcar/car_presets/admin/3mod armored rear engine.asset|
+|assets/content/vehicles/modularcar/car_presets/admin/3mod double seats.asset|
+|assets/content/vehicles/modularcar/car_presets/admin/3mod double taxi.asset|
+|assets/content/vehicles/modularcar/car_presets/admin/4mod quad engine.asset|
+|assets/content/vehicles/modularcar/car_presets/admin/4mod solo engine armored.asset|
+|assets/content/vehicles/modularcar/car_presets/admin/4mod triple taxi.asset|
 |assets/content/vehicles/modularcar/car_presets/debug/3socket modular car preset camper van 1.asset|
 |assets/content/vehicles/modularcar/car_presets/debug/4socket modular car preset camper van 1.asset|
 |assets/content/vehicles/modularcar/car_presets/debug/4socket modular car preset camper van 2.asset|
@@ -5653,6 +5678,7 @@
 |assets/prefabs/weapons/ak47u/ak47u.skinnable.asset|
 |assets/prefabs/weapons/ak47u/iceskin/ak47ice.skin.asset|
 |assets/prefabs/weapons/ak47u/sound/ak47-gunshot-body.asset|
+|assets/prefabs/weapons/ak47u/sound/ak47-gunshot-body-suppressed.asset|
 |assets/prefabs/weapons/ak47u/sound/ak47-gunshot-lfe.asset|
 |assets/prefabs/weapons/ak47u/sound/ak47-gunshot-mech.asset|
 |assets/prefabs/weapons/ak47u/sound/ak47-gunshot-tail-outdoor.asset|
@@ -5691,6 +5717,11 @@
 |assets/prefabs/weapons/bolt rifle/sound/bolt-rifle-deploy-3p.asset|
 |assets/prefabs/weapons/bolt rifle/sound/bolt-rifle-dryfire.asset|
 |assets/prefabs/weapons/bolt rifle/sound/bolt-rifle-eject-shell.asset|
+|assets/prefabs/weapons/bolt rifle/sound/bolt-rifle-gunshot-body.asset|
+|assets/prefabs/weapons/bolt rifle/sound/bolt-rifle-gunshot-body-suppressed.asset|
+|assets/prefabs/weapons/bolt rifle/sound/bolt-rifle-gunshot-lfe.asset|
+|assets/prefabs/weapons/bolt rifle/sound/bolt-rifle-gunshot-mech.asset|
+|assets/prefabs/weapons/bolt rifle/sound/bolt-rifle-gunshot-tail-outdoor.asset|
 |assets/prefabs/weapons/bolt rifle/sound/bolt-rifle-insert-bullet.asset|
 |assets/prefabs/weapons/bone club/bone_club.skinnable.asset|
 |assets/prefabs/weapons/bone club/sound/bone-club-attack.asset|
@@ -5753,6 +5784,10 @@
 |assets/prefabs/weapons/doubleshotgun/sound/doubleshotgun-deploy.asset|
 |assets/prefabs/weapons/doubleshotgun/sound/double-shotgun-deploy-3p.asset|
 |assets/prefabs/weapons/doubleshotgun/sound/doubleshotgun-dump_shells.asset|
+|assets/prefabs/weapons/doubleshotgun/sound/double-shotgun-gunshot-body.asset|
+|assets/prefabs/weapons/doubleshotgun/sound/double-shotgun-gunshot-lfe.asset|
+|assets/prefabs/weapons/doubleshotgun/sound/double-shotgun-gunshot-mech.asset|
+|assets/prefabs/weapons/doubleshotgun/sound/double-shotgun-gunshot-tail-outdoor.asset|
 |assets/prefabs/weapons/doubleshotgun/sound/doubleshotgun-insert_shells.asset|
 |assets/prefabs/weapons/doubleshotgun/sound/doubleshotgun-open_barrel.asset|
 |assets/prefabs/weapons/eoka pistol/eoka.skinnable.asset|
@@ -5760,6 +5795,10 @@
 |assets/prefabs/weapons/eoka pistol/sound/eoka-pistol-deploy.asset|
 |assets/prefabs/weapons/eoka pistol/sound/eoka-pistol-deploy-3p.asset|
 |assets/prefabs/weapons/eoka pistol/sound/eoka-pistol-flint-strike.asset|
+|assets/prefabs/weapons/eoka pistol/sound/eoka-pistol-gunshot-body.asset|
+|assets/prefabs/weapons/eoka pistol/sound/eoka-pistol-gunshot-lfe.asset|
+|assets/prefabs/weapons/eoka pistol/sound/eoka-pistol-gunshot-mech.asset|
+|assets/prefabs/weapons/eoka pistol/sound/eoka-pistol-gunshot-tail-outdoor.asset|
 |assets/prefabs/weapons/eoka pistol/sound/eoka-pistol-insert-bullet.asset|
 |assets/prefabs/weapons/eoka pistol/sound/eoka-pistol-push-barrel.asset|
 |assets/prefabs/weapons/eoka pistol/sound/eoka-pistol-scrape.asset|
@@ -5828,6 +5867,12 @@
 |assets/prefabs/weapons/l96/sound/l96-bolt-grab.asset|
 |assets/prefabs/weapons/l96/sound/l96-bolt-start.asset|
 |assets/prefabs/weapons/l96/sound/l96-deploy.asset|
+|assets/prefabs/weapons/l96/sound/l96-gunshot-body.asset|
+|assets/prefabs/weapons/l96/sound/l96-gunshot-body-suppressed.asset|
+|assets/prefabs/weapons/l96/sound/l96-gunshot-lfe.asset|
+|assets/prefabs/weapons/l96/sound/l96-gunshot-lfe-suppressed.asset|
+|assets/prefabs/weapons/l96/sound/l96-gunshot-mech.asset|
+|assets/prefabs/weapons/l96/sound/l96-gunshot-tail-outdoor.asset|
 |assets/prefabs/weapons/l96/sound/l96-insert-mag.asset|
 |assets/prefabs/weapons/l96/sound/l96-reload-finish.asset|
 |assets/prefabs/weapons/l96/sound/l96-reload-start.asset|
@@ -5847,6 +5892,7 @@
 |assets/prefabs/weapons/lr300/sound/lr300-dryfire.asset|
 |assets/prefabs/weapons/lr300/sound/lr300-grab-mag.asset|
 |assets/prefabs/weapons/lr300/sound/lr300-gunshot-body.asset|
+|assets/prefabs/weapons/lr300/sound/lr300-gunshot-body-suppressed.asset|
 |assets/prefabs/weapons/lr300/sound/lr300-gunshot-lfe.asset|
 |assets/prefabs/weapons/lr300/sound/lr300-gunshot-mech.asset|
 |assets/prefabs/weapons/lr300/sound/lr300-gunshot-tail-outdoor.asset|
@@ -5862,6 +5908,11 @@
 |assets/prefabs/weapons/m249/sound/m249-chainbelt.asset|
 |assets/prefabs/weapons/m249/sound/m249-deploy.asset|
 |assets/prefabs/weapons/m249/sound/m249-deploy-3p.asset|
+|assets/prefabs/weapons/m249/sound/m249-gunshot-body.asset|
+|assets/prefabs/weapons/m249/sound/m249-gunshot-body-suppressed.asset|
+|assets/prefabs/weapons/m249/sound/m249-gunshot-lfe.asset|
+|assets/prefabs/weapons/m249/sound/m249-gunshot-mech.asset|
+|assets/prefabs/weapons/m249/sound/m249-gunshot-tail-outdoor.asset|
 |assets/prefabs/weapons/m249/sound/m249-place_bullets.asset|
 |assets/prefabs/weapons/m249/sound/m249-topcover_close.asset|
 |assets/prefabs/weapons/m249/sound/m249-topcover_open.asset|
@@ -5870,6 +5921,11 @@
 |assets/prefabs/weapons/m39 emr/sound/m39-attack-silenced.asset|
 |assets/prefabs/weapons/m39 emr/sound/m39-bolt-action.asset|
 |assets/prefabs/weapons/m39 emr/sound/m39-deploy.asset|
+|assets/prefabs/weapons/m39 emr/sound/m39-gunshot-body.asset|
+|assets/prefabs/weapons/m39 emr/sound/m39-gunshot-body-suppressed.asset|
+|assets/prefabs/weapons/m39 emr/sound/m39-gunshot-lfe.asset|
+|assets/prefabs/weapons/m39 emr/sound/m39-gunshot-mech.asset|
+|assets/prefabs/weapons/m39 emr/sound/m39-gunshot-tail-outdoor.asset|
 |assets/prefabs/weapons/m39 emr/sound/m39-insert-mag.asset|
 |assets/prefabs/weapons/m39 emr/sound/m39-reload-start.asset|
 |assets/prefabs/weapons/m39 emr/sound/m39-remove-mag.asset|
@@ -5881,6 +5937,7 @@
 |assets/prefabs/weapons/m92/sounds/m92-deploy-3p.asset|
 |assets/prefabs/weapons/m92/sounds/m92-dryfire.asset|
 |assets/prefabs/weapons/m92/sounds/m92-gunshot-body.asset|
+|assets/prefabs/weapons/m92/sounds/m92-gunshot-body-suppressed.asset|
 |assets/prefabs/weapons/m92/sounds/m92-gunshot-lfe.asset|
 |assets/prefabs/weapons/m92/sounds/m92-gunshot-mech.asset|
 |assets/prefabs/weapons/m92/sounds/m92-gunshot-tail-outdoor.asset|
@@ -5911,8 +5968,10 @@
 |assets/prefabs/weapons/mp5/sound/mp5-deploy-3p.asset|
 |assets/prefabs/weapons/mp5/sound/mp5-fire-select.asset|
 |assets/prefabs/weapons/mp5/sound/mp5-gunshot-body.asset|
+|assets/prefabs/weapons/mp5/sound/mp5-gunshot-body-suppressed.asset|
 |assets/prefabs/weapons/mp5/sound/mp5-gunshot-lfe.asset|
 |assets/prefabs/weapons/mp5/sound/mp5-gunshot-mech.asset|
+|assets/prefabs/weapons/mp5/sound/mp5-gunshot-mech-suppressed.asset|
 |assets/prefabs/weapons/mp5/sound/mp5-gunshot-tail-outdoor.asset|
 |assets/prefabs/weapons/nailgun/sound/nailgun-attack.asset|
 |assets/prefabs/weapons/nailgun/sound/nailgun-clip-in.asset|
@@ -5964,6 +6023,10 @@
 |assets/prefabs/weapons/pipe shotgun/sound/waterpipe-shotgun-deploy.asset|
 |assets/prefabs/weapons/pipe shotgun/sound/waterpipe-shotgun-deploy-3p.asset|
 |assets/prefabs/weapons/pipe shotgun/sound/waterpipe-shotgun-dryfire.asset|
+|assets/prefabs/weapons/pipe shotgun/sound/waterpipe-shotgun-gunshot-body.asset|
+|assets/prefabs/weapons/pipe shotgun/sound/waterpipe-shotgun-gunshot-lfe.asset|
+|assets/prefabs/weapons/pipe shotgun/sound/waterpipe-shotgun-gunshot-mech.asset|
+|assets/prefabs/weapons/pipe shotgun/sound/waterpipe-shotgun-gunshot-tail-outdoor.asset|
 |assets/prefabs/weapons/pipe shotgun/sound/waterpipe-shotgun-insert-shell.asset|
 |assets/prefabs/weapons/pipe shotgun/sound/waterpipe-shotgun-reload-start.asset|
 |assets/prefabs/weapons/python/python.skinnable.asset|
@@ -5973,12 +6036,21 @@
 |assets/prefabs/weapons/python/sound/python-deploy-3p.asset|
 |assets/prefabs/weapons/python/sound/python-dryfire.asset|
 |assets/prefabs/weapons/python/sound/python-eject-shells.asset|
+|assets/prefabs/weapons/python/sound/python-gunshot-body.asset|
+|assets/prefabs/weapons/python/sound/python-gunshot-lfe.asset|
+|assets/prefabs/weapons/python/sound/python-gunshot-mech.asset|
+|assets/prefabs/weapons/python/sound/python-gunshot-tail-outdoor.asset|
 |assets/prefabs/weapons/python/sound/python-insert-shells.asset|
 |assets/prefabs/weapons/python/sound/python-open-cylinder.asset|
 |assets/prefabs/weapons/revolver/pistol_revolver.skinnable.asset|
 |assets/prefabs/weapons/revolver/sound/revolver-attack.asset|
 |assets/prefabs/weapons/revolver/sound/revolver-deploy-3p.asset|
 |assets/prefabs/weapons/revolver/sound/revolver-eject-shells.asset|
+|assets/prefabs/weapons/revolver/sound/revolver-gunshot-body.asset|
+|assets/prefabs/weapons/revolver/sound/revolver-gunshot-body-suppressed.asset|
+|assets/prefabs/weapons/revolver/sound/revolver-gunshot-lfe.asset|
+|assets/prefabs/weapons/revolver/sound/revolver-gunshot-mech.asset|
+|assets/prefabs/weapons/revolver/sound/revolver-gunshot-tail-outdoor.asset|
 |assets/prefabs/weapons/revolver/sound/revolver-insert-shells.asset|
 |assets/prefabs/weapons/revolver/sound/revolver-open-cylinder.asset|
 |assets/prefabs/weapons/revolver/sound/revolver-prime-striker.asset|
@@ -6030,6 +6102,11 @@
 |assets/prefabs/weapons/sawnoff_shotgun/sound/sawnoff-shotgun-deploy-3p.asset|
 |assets/prefabs/weapons/sawnoff_shotgun/sound/sawnoff-shotgun-dryfire.asset|
 |assets/prefabs/weapons/sawnoff_shotgun/sound/sawnoff-shotgun-flip-over.asset|
+|assets/prefabs/weapons/sawnoff_shotgun/sound/sawnoff-shotgun-gunshot-body.asset|
+|assets/prefabs/weapons/sawnoff_shotgun/sound/sawnoff-shotgun-gunshot-body-suppressed.asset|
+|assets/prefabs/weapons/sawnoff_shotgun/sound/sawnoff-shotgun-gunshot-lfe.asset|
+|assets/prefabs/weapons/sawnoff_shotgun/sound/sawnoff-shotgun-gunshot-mech.asset|
+|assets/prefabs/weapons/sawnoff_shotgun/sound/sawnoff-shotgun-gunshot-tail-outdoor.asset|
 |assets/prefabs/weapons/sawnoff_shotgun/sound/sawnoff-shotgun-insert-shell.asset|
 |assets/prefabs/weapons/sawnoff_shotgun/sound/sawnoff-shotgun-pumpaction.asset|
 |assets/prefabs/weapons/sawnoff_shotgun/sound/sawnoff-shotgun-pump-forward.asset|
@@ -6043,6 +6120,7 @@
 |assets/prefabs/weapons/semi auto pistol/sound/revolver-dryfire.asset|
 |assets/prefabs/weapons/semi auto pistol/sound/semi_pistol-attack-silenced.asset|
 |assets/prefabs/weapons/semi auto pistol/sound/semi-auto-pistol-gunshot-body.asset|
+|assets/prefabs/weapons/semi auto pistol/sound/semi-auto-pistol-gunshot-body-suppressed.asset|
 |assets/prefabs/weapons/semi auto pistol/sound/semi-auto-pistol-gunshot-lfe.asset|
 |assets/prefabs/weapons/semi auto pistol/sound/semi-auto-pistol-gunshot-mech.asset|
 |assets/prefabs/weapons/semi auto pistol/sound/semi-auto-pistol-gunshot-tail-outdoor.asset|
@@ -6060,12 +6138,14 @@
 |assets/prefabs/weapons/semi auto rifle/sound/sar-deploy_grab_forearm.asset|
 |assets/prefabs/weapons/semi auto rifle/sound/sar-deploy-3p.asset|
 |assets/prefabs/weapons/semi auto rifle/sound/semi-auto-rifle-gunshot-body.asset|
+|assets/prefabs/weapons/semi auto rifle/sound/semi-auto-rifle-gunshot-body-suppressed.asset|
 |assets/prefabs/weapons/semi auto rifle/sound/semi-auto-rifle-gunshot-lfe.asset|
 |assets/prefabs/weapons/semi auto rifle/sound/semi-auto-rifle-gunshot-mech.asset|
 |assets/prefabs/weapons/semi auto rifle/sound/semi-auto-rifle-gunshot-tail-outdoor.asset|
 |assets/prefabs/weapons/smg/smg.skinnable.asset|
 |assets/prefabs/weapons/smg/sound/ak74u-dryfire.asset|
 |assets/prefabs/weapons/smg/sound/custom-smg-gunshot-body.asset|
+|assets/prefabs/weapons/smg/sound/custom-smg-gunshot-body-suppressed.asset|
 |assets/prefabs/weapons/smg/sound/custom-smg-gunshot-lfe.asset|
 |assets/prefabs/weapons/smg/sound/custom-smg-gunshot-mech.asset|
 |assets/prefabs/weapons/smg/sound/custom-smg-gunshot-tail-outdoor.asset|
@@ -6081,6 +6161,11 @@
 |assets/prefabs/weapons/spas12/sound/spas12-attack-silenced.asset|
 |assets/prefabs/weapons/spas12/sound/spas12-deploy.asset|
 |assets/prefabs/weapons/spas12/sound/spas12-fire-1.asset|
+|assets/prefabs/weapons/spas12/sound/spas12-gunshot-body.asset|
+|assets/prefabs/weapons/spas12/sound/spas12-gunshot-body-suppressed.asset|
+|assets/prefabs/weapons/spas12/sound/spas12-gunshot-lfe.asset|
+|assets/prefabs/weapons/spas12/sound/spas12-gunshot-mech.asset|
+|assets/prefabs/weapons/spas12/sound/spas12-gunshot-tail-outdoor.asset|
 |assets/prefabs/weapons/spas12/sound/spas12-insert_shell.asset|
 |assets/prefabs/weapons/spas12/sound/spas12-insert_shell_breach.asset|
 |assets/prefabs/weapons/spas12/sound/spas12-pump_back.asset|
@@ -6129,6 +6214,7 @@
 |assets/prefabs/weapons/thompson/sound/thompson-deploy-3p.asset|
 |assets/prefabs/weapons/thompson/sound/thompson-dryfire.asset|
 |assets/prefabs/weapons/thompson/sound/thompson-gunshot-body.asset|
+|assets/prefabs/weapons/thompson/sound/thompson-gunshot-body-suppressed.asset|
 |assets/prefabs/weapons/thompson/sound/thompson-gunshot-lfe.asset|
 |assets/prefabs/weapons/thompson/sound/thompson-gunshot-mech.asset|
 |assets/prefabs/weapons/thompson/sound/thompson-gunshot-tail-outdoor.asset|
