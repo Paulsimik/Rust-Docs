@@ -155,6 +155,10 @@
 |assets/bundled/prefabs/fx/hit_notify.prefab|
 |assets/bundled/prefabs/fx/impacts/additive/explosion.prefab|
 |assets/bundled/prefabs/fx/impacts/additive/fire.prefab|
+|assets/bundled/prefabs/fx/impacts/bloodreplacement/fleshbloodimpact_blunt_white.prefab|
+|assets/bundled/prefabs/fx/impacts/bloodreplacement/fleshbloodimpact_bullet_white.prefab|
+|assets/bundled/prefabs/fx/impacts/bloodreplacement/fleshbloodimpact_slash_white.prefab|
+|assets/bundled/prefabs/fx/impacts/bloodreplacement/fleshbloodimpact_stab_white.prefab|
 |assets/bundled/prefabs/fx/impacts/blunt/cloth/cloth1.prefab|
 |assets/bundled/prefabs/fx/impacts/blunt/clothflesh/clothflesh1.prefab|
 |assets/bundled/prefabs/fx/impacts/blunt/concrete/concrete1.prefab|
@@ -1104,6 +1108,11 @@
 |assets/prefabs/tools/smoke grenade/effects/smokegrenade.prefab|
 |assets/prefabs/tools/smoke grenade/effects/smokegrenade_small.prefab|
 |assets/prefabs/tools/spraycan/effects/vfx_spray.prefab|
+|assets/prefabs/tools/supply signal/effects/bounce.prefab|
+|assets/prefabs/tools/supply signal/effects/deploy.prefab|
+|assets/prefabs/tools/supply signal/effects/holster.prefab|
+|assets/prefabs/tools/supply signal/effects/pullpin.prefab|
+|assets/prefabs/tools/supply signal/effects/throw.prefab|
 |assets/prefabs/tools/surveycharge/effects/deploy.prefab|
 |assets/prefabs/tools/wire/effects/plugeffect.prefab|
 |assets/prefabs/voiceaudio/boombox/effects/boombox-deploy.prefab|
