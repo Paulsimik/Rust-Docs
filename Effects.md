@@ -700,6 +700,12 @@
 |assets/content/vehicles/crane_magnet/effects/lightgroup body.prefab|
 |assets/content/vehicles/crane_magnet/effects/magnetdust.prefab|
 |assets/content/vehicles/crane_magnet/effects/refract.prefab|
+|assets/content/vehicles/locomotive/fx/coaling tower emptying fx.prefab|
+|assets/content/vehicles/locomotive/fx/coupling fx.prefab|
+|assets/content/vehicles/locomotive/fx/locomotive lighting fx.prefab|
+|assets/content/vehicles/locomotive/fx/train coupling fx.prefab|
+|assets/content/vehicles/locomotive/fx/wagon coal unloading fx.prefab|
+|assets/content/vehicles/locomotive/fx/wagon loot unloading fx.prefab|
 |assets/content/vehicles/mlrs/effects/cabinlighting.prefab|
 |assets/content/vehicles/mlrs/effects/pfx_airburst.prefab|
 |assets/content/vehicles/mlrs/effects/pfx_mlrs_backfire.prefab|
@@ -711,8 +717,6 @@
 |assets/content/vehicles/modularcar/effects/wheel-impact.prefab|
 |assets/content/vehicles/scrap heli carrier/effects/debris_effect.prefab|
 |assets/content/vehicles/scrap heli carrier/effects/wheel-impact.prefab|
-|assets/content/vehicles/snowmobiles/effects/clientonly (temp working file).prefab|
-|assets/content/vehicles/snowmobiles/effects/pfx_ski_sparks_l (also temp).prefab|
 |assets/content/vehicles/snowmobiles/effects/pfx_wheel_spin_dirt_tread v2.prefab|
 |assets/content/vehicles/snowmobiles/effects/pfx_wheel_trail_dirt_r v2.prefab|
 |assets/content/vehicles/snowmobiles/effects/pfx_wheel_trail_dirt_tread.prefab|
@@ -1269,6 +1273,11 @@
 |assets/prefabs/weapons/flamethrower/effects/gascan_out.prefab|
 |assets/prefabs/weapons/flamethrower/effects/toggle_flame.prefab|
 |assets/prefabs/weapons/flamethrower/effects/valve_open.prefab|
+|assets/prefabs/weapons/flashbang/effects/deploy.prefab|
+|assets/prefabs/weapons/flashbang/effects/fx-flashbang-boom.prefab|
+|assets/prefabs/weapons/flashbang/effects/pullpin.prefab|
+|assets/prefabs/weapons/flashbang/effects/pullpinstart.prefab|
+|assets/prefabs/weapons/flashbang/effects/throw.prefab|
 |assets/prefabs/weapons/grenade launcher/effects/attack.prefab|
 |assets/prefabs/weapons/grenade launcher/effects/deploy.prefab|
 |assets/prefabs/weapons/grenade launcher/effects/reload_end.prefab|
@@ -1438,6 +1447,17 @@
 |assets/prefabs/weapons/machete/effects/hit-soft.prefab|
 |assets/prefabs/weapons/machete/effects/swing_thirdperson.prefab|
 |assets/prefabs/weapons/machete/effects/throw.prefab|
+|assets/prefabs/weapons/molotov cocktail/effects/laterimprovementwip/burstwip.prefab|
+|assets/prefabs/weapons/molotov cocktail/effects/laterimprovementwip/chainspring_c1_3_jnt_flame.prefab|
+|assets/prefabs/weapons/molotov cocktail/effects/laterimprovementwip/pfx_firepoint.prefab|
+|assets/prefabs/weapons/molotov cocktail/effects/laterimprovementwip/pfx_molotov_cloth2.prefab|
+|assets/prefabs/weapons/molotov cocktail/effects/laterimprovementwip/pfx_molotov_ground.prefab|
+|assets/prefabs/weapons/molotov cocktail/effects/laterimprovementwip/pfx_molotov_ground_billboard.prefab|
+|assets/prefabs/weapons/molotov cocktail/effects/laterimprovementwip/pfx_molotov_ground_v2.prefab|
+|assets/prefabs/weapons/molotov cocktail/effects/laterimprovementwip/v_molotov_cocktail_cloth_flame.prefab|
+|assets/prefabs/weapons/molotov cocktail/effects/laterimprovementwip/visuals.prefab|
+|assets/prefabs/weapons/molotov cocktail/effects/molotovexplode.prefab|
+|assets/prefabs/weapons/molotov cocktail/effects/pfx_omni_ground_flame.prefab|
 |assets/prefabs/weapons/mp5/effects/attack.prefab|
 |assets/prefabs/weapons/mp5/effects/attack_muzzlebrake.prefab|
 |assets/prefabs/weapons/mp5/effects/attack_shake.prefab|
