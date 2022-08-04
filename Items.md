@@ -6,6 +6,7 @@
 |![](https://rustlabs.com/img/items180/kayak.png)|Kayak|kayak|190184021|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/rhib.png)|RHIB|rhib|1394042569|ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/rowboat.png)|Rowboat|rowboat|1878053256|ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/locomotive.png)|Locomotive|locomotive|-2027988285|ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/minihelicopter.repair.png)|MC repair|minihelicopter.repair|1426574435|ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/aiming.module.mlrs.png)|MLRS Aiming Module|aiming.module.mlrs|343045591|ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/mlrs.png)|MLRS|mlrs|-1449152644|ItemBlueprint<br>|
@@ -300,10 +301,10 @@
 |![](https://rustlabs.com/img/items180/sign.post.single.png)|Single Sign Post|sign.post.single|1542290441|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>ItemModSign<br>ItemMod<br>|
 |![](https://rustlabs.com/img/items180/sign.post.town.png)|One Sided Town Sign Post|sign.post.town|-1832422579|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>ItemModSign<br>ItemMod<br>|
 |![](https://rustlabs.com/img/items180/sign.post.town.roof.png)|Two Sided Town Sign Post|sign.post.town.roof|826309791|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>ItemModSign<br>ItemMod<br>|
-|![](https://rustlabs.com/img/items180/sign.wooden.huge.png)|Huge Wooden Sign|sign.wooden.huge|-143132326|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>ItemModSign<br>ItemMod<br>|
-|![](https://rustlabs.com/img/items180/sign.wooden.large.png)|Large Wooden Sign|sign.wooden.large|1153652756|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>ItemModSign<br>ItemMod<br>|
-|![](https://rustlabs.com/img/items180/sign.wooden.medium.png)|Medium Wooden Sign|sign.wooden.medium|-1819233322|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>ItemModSign<br>ItemMod<br>|
-|![](https://rustlabs.com/img/items180/sign.wooden.small.png)|Small Wooden Sign|sign.wooden.small|-1138208076|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>ItemModSign<br>ItemMod<br>|
+|![](https://rustlabs.com/img/items180/sign.wooden.huge.png)|Huge Wooden Sign|sign.wooden.huge|-143132326|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/sign.wooden.large.png)|Large Wooden Sign|sign.wooden.large|1153652756|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/sign.wooden.medium.png)|Medium Wooden Sign|sign.wooden.medium|-1819233322|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/sign.wooden.small.png)|Small Wooden Sign|sign.wooden.small|-1138208076|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
 |![](https://rustlabs.com/img/items180/guntrap.png)|Shotgun Trap|guntrap|352499047|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/sleepingbag.png)|Sleeping Bag|sleepingbag|-1754948969|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/stash.small.png)|Small Stash|stash.small|-369760990|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
@@ -492,6 +493,7 @@
 |![](https://rustlabs.com/img/items180/sunglasses.png)|Sunglasses|sunglasses|352321488|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/gun.water.png)|Water Gun|gun.water|722955039|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |![](https://rustlabs.com/img/items180/pistol.water.png)|Water Pistol|pistol.water|-1815301988|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
+|![](https://rustlabs.com/img/items180/trophy.png)|Twitch Rivals Trophy|trophy|975983052|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/twitchsunglasses.png)|Purple Sunglasses|twitchsunglasses|20489901|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/twitch.headset.png)|Headset|twitch.headset|-1569700847|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/hobobarrel.png)|Hobo Barrel|hobobarrel|-1442559428|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
@@ -719,6 +721,7 @@
 |![](https://rustlabs.com/img/items180/pistol.eoka.png)|Eoka Pistol|pistol.eoka|-75944661|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/grenade.f1.png)|F1 Grenade|grenade.f1|143803535|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/flamethrower.png)|Flame Thrower|flamethrower|-1215753368|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
+|![](https://rustlabs.com/img/items180/grenade.flashbang.png)|Flashbang|grenade.flashbang|-936921910|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/multiplegrenadelauncher.png)|Multiple Grenade Launcher|multiplegrenadelauncher|-1123473824|ItemModEntity<br>ItemModContainer<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/knife.butcher.png)|Butcher Knife|knife.butcher|-194509282|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |![](https://rustlabs.com/img/items180/pitchfork.png)|Pitchfork|pitchfork|1090916276|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
@@ -735,6 +738,7 @@
 |![](https://rustlabs.com/img/items180/pistol.m92.png)|M92 Pistol|pistol.m92|-852563019|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |![](https://rustlabs.com/img/items180/mace.png)|Mace|mace|-1966748496|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |![](https://rustlabs.com/img/items180/machete.png)|Machete|machete|-1137865085|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
+|![](https://rustlabs.com/img/items180/grenade.molotov.png)|Molotov Cocktail|grenade.molotov|1556365900|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/smg.mp5.png)|MP5A4|smg.mp5|1318558775|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |![](https://rustlabs.com/img/items180/pistol.nailgun.png)|Nailgun|pistol.nailgun|1953903201|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |![](https://rustlabs.com/img/items180/paddle.png)|Paddle|paddle|1491189398|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
