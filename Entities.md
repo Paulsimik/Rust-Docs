@@ -245,6 +245,7 @@
 |Fireball|3369311876|FireBall<br>Rigidbody<br>BoxCollider<br>|Assets/bundled/Prefabs/Fireball.prefab|
 |Fireball_Small|2086405370|FireBall<br>Rigidbody<br>BoxCollider<br>|Assets/bundled/Prefabs/Fireball_Small.prefab|
 |Fireball_Small_Arrow|1081379866|FireBall<br>Rigidbody<br>BoxCollider<br>|Assets/bundled/Prefabs/Fireball_Small_Arrow.prefab|
+|Fireball_Small_Molotov|2673585394|FireBall<br>Rigidbody<br>BoxCollider<br>|Assets/bundled/Prefabs/Fireball_Small_Molotov.prefab|
 |fireball_small_shotgun|1837652231|FireBall<br>Rigidbody<br>BoxCollider<br>|Assets/bundled/Prefabs/fireball_small_shotgun.prefab|
 |NPCVendingMachine_building_hapis|1566614566|NPCVendingMachine<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>BoxCollider<br>|Assets/bundled/Prefabs/hapis/NPCVendingMachine_building_hapis.prefab|
 |NPCVendingMachine_Buyres_hapis|924385556|NPCVendingMachine<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>BoxCollider<br>|Assets/bundled/Prefabs/hapis/NPCVendingMachine_Buyres_hapis.prefab|
@@ -327,14 +328,23 @@
 |bbq.static|128449714|BaseOven<br>BaseCombatEntity<br>DecayEntity<br>EntityFlag_Toggle<br>Model<br>MeshCollider<br>|Assets/bundled/Prefabs/static/bbq.static.prefab|
 |bbq.static_hidden|787806833|BaseOven<br>BaseCombatEntity<br>DecayEntity<br>EntityFlag_Toggle<br>Model<br>MeshCollider<br>|Assets/bundled/Prefabs/static/bbq.static_hidden.prefab|
 |campfire_static|1339281147|BaseOven<br>BaseCombatEntity<br>DecayEntity<br>EntityFlag_Toggle<br>MeshCollider<br>|Assets/bundled/Prefabs/static/campfire_static.prefab|
-|chair.invisible.static|624857933|BaseChair<br>BaseCombatEntity<br>MeshCollider<br>|Assets/bundled/Prefabs/static/chair.invisible.static.prefab|
+|chair.invisible.static|624857933|BaseChair<br>BaseCombatEntity<br>MeshCollider<br>ColliderInfo<br>|Assets/bundled/Prefabs/static/chair.invisible.static.prefab|
 |chair.static|629849447|BaseChair<br>BaseCombatEntity<br>MeshCollider<br>|Assets/bundled/Prefabs/static/chair.static.prefab|
+|chair_a.static|1671004260|BaseChair<br>BaseCombatEntity<br>|Assets/bundled/Prefabs/static/chair_a.static.prefab|
+|chair_b.static|2560344996|BaseChair<br>BaseCombatEntity<br>|Assets/bundled/Prefabs/static/chair_b.static.prefab|
+|chair_c.static|641900253|BaseChair<br>BaseCombatEntity<br>|Assets/bundled/Prefabs/static/chair_c.static.prefab|
 |ChippyArcadeMachine.static|1418740895|BaseArcadeMachine<br>BaseCombatEntity<br>BaseMountable<br>Model<br>|Assets/bundled/Prefabs/static/ChippyArcadeMachine.static.prefab|
+|controlchair.static|4116424082|BaseChair<br>BaseCombatEntity<br>MeshCollider<br>|Assets/bundled/Prefabs/static/controlchair.static.prefab|
+|desk_a.static|4176420588|BaseEntity<br>MeshCollider<br>|Assets/bundled/Prefabs/static/desk_a.static.prefab|
+|desk_b.static|3954468111|BaseEntity<br>MeshCollider<br>|Assets/bundled/Prefabs/static/desk_b.static.prefab|
+|desk_c.static|3912035642|BaseEntity<br>MeshCollider<br>|Assets/bundled/Prefabs/static/desk_c.static.prefab|
+|desk_d.static|3780996193|BaseEntity<br>MeshCollider<br>|Assets/bundled/Prefabs/static/desk_d.static.prefab|
 |door.hinged.bunker.door|2478940882|Door<br>BaseCombatEntity<br>DecayEntity<br>StabilityEntity<br>Model<br>|Assets/bundled/Prefabs/static/door.hinged.bunker.door.prefab|
 |door.hinged.bunker_hatch|744964644|Animator<br>Door<br>BaseCombatEntity<br>DecayEntity<br>StabilityEntity<br>Model<br>|Assets/bundled/Prefabs/static/door.hinged.bunker_hatch.prefab|
 |door.hinged.cargo_ship|696742392|Door<br>BaseCombatEntity<br>DecayEntity<br>StabilityEntity<br>Model<br>|Assets/bundled/Prefabs/static/door.hinged.cargo_ship.prefab|
 |door.hinged.elevator_door|323267652|Animator<br>Door<br>BaseCombatEntity<br>DecayEntity<br>StabilityEntity<br>Model<br>|Assets/bundled/Prefabs/static/door.hinged.elevator_door.prefab|
 |door.hinged.garage_a|3899244415|Door<br>BaseCombatEntity<br>DecayEntity<br>StabilityEntity<br>Model<br>|Assets/bundled/Prefabs/static/door.hinged.garage_a.prefab|
+|door.hinged.garage_security|2796827395|Door<br>BaseCombatEntity<br>DecayEntity<br>StabilityEntity<br>Model<br>|Assets/bundled/Prefabs/static/door.hinged.garage_security.prefab|
 |door.hinged.industrial_a_a|3536315470|Door<br>BaseCombatEntity<br>DecayEntity<br>StabilityEntity<br>Model<br>|Assets/bundled/Prefabs/static/door.hinged.industrial_a_a.prefab|
 |door.hinged.industrial_a_b|3408144370|Door<br>BaseCombatEntity<br>DecayEntity<br>StabilityEntity<br>Model<br>|Assets/bundled/Prefabs/static/door.hinged.industrial_a_b.prefab|
 |door.hinged.industrial_a_c|1027662705|Door<br>BaseCombatEntity<br>DecayEntity<br>StabilityEntity<br>Model<br>|Assets/bundled/Prefabs/static/door.hinged.industrial_a_c.prefab|
@@ -364,6 +374,10 @@
 |researchtable_static|1827442529|ResearchTable<br>BaseCombatEntity<br>DecayEntity<br>|Assets/bundled/Prefabs/static/researchtable_static.prefab|
 |small_refinery_static|919097516|BaseOven<br>BaseCombatEntity<br>DecayEntity<br>EntityFlag_Toggle<br>|Assets/bundled/Prefabs/static/small_refinery_static.prefab|
 |spikes_static|1372671731|Barricade<br>BaseCombatEntity<br>MeshCollider<br>|Assets/bundled/Prefabs/static/spikes_static.prefab|
+|tabledoor_a.static|1860240765|BaseEntity<br>MeshCollider<br>|Assets/bundled/Prefabs/static/tabledoor_a.static.prefab|
+|tabledoor_b.static|1983756250|BaseEntity<br>MeshCollider<br>|Assets/bundled/Prefabs/static/tabledoor_b.static.prefab|
+|toilet_a.static|1465881654|BaseChair<br>BaseCombatEntity<br>|Assets/bundled/Prefabs/static/toilet_a.static.prefab|
+|toilet_b.static|3816788004|BaseChair<br>BaseCombatEntity<br>|Assets/bundled/Prefabs/static/toilet_b.static.prefab|
 |wall.frame.shopfront.metal.static|3894884980|ShopFront<br>BaseCombatEntity<br>DecayEntity<br>|Assets/bundled/Prefabs/static/wall.frame.shopfront.metal.static.prefab|
 |water_catcher_small.static|2789540452|WaterCatcher<br>BaseCombatEntity<br>ContainerIOEntity<br>IOEntity<br>DecayEntity<br>|Assets/bundled/Prefabs/static/water_catcher_small.static.prefab|
 |workbench1.static|1899388596|Workbench<br>BaseCombatEntity<br>DecayEntity<br>Model<br>|Assets/bundled/Prefabs/static/workbench1.static.prefab|
@@ -444,6 +458,8 @@
 |JunkTest|1028065701|BaseCombatEntity<br>Rigidbody<br>BoxCollider<br>MagnetLiftable<br>|Assets/Content/Vehicles/Crane_Magnet/JunkTest.prefab|
 |magnetcrane.entity|273775677|MagnetCrane<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Model<br>Rigidbody<br>|Assets/Content/Vehicles/Crane_Magnet/magnetcrane.entity.prefab|
 |Shreddable_PickupTruck|962565779|BaseCombatEntity<br>Rigidbody<br>MagnetLiftable<br>|Assets/Content/Vehicles/Crane_Magnet/Shreddable_PickupTruck.prefab|
+|locomotive.entity|2650221279|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|Assets/Content/Vehicles/Locomotive/locomotive.entity.prefab|
+|locomotive_fuel_storage|663729320|StorageContainer<br>BaseCombatEntity<br>|Assets/Content/Vehicles/Locomotive/SubEnts/locomotive_fuel_storage.prefab|
 |minicopter.entity|2278499844|MiniCopter<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>|Assets/Content/Vehicles/MiniCopter/minicopter.entity.prefab|
 |fuel_storage|1950679400|StorageContainer<br>BaseCombatEntity<br>BoxCollider<br>|Assets/Content/Vehicles/MiniCopter/SubEnts/fuel_storage.prefab|
 |mlrs.entity|223554808|MLRS<br>BaseCombatEntity<br>Spawnable<br>Model<br>|Assets/Content/Vehicles/MLRS/mlrs.entity.prefab|
@@ -527,14 +543,23 @@
 |SubmarineDuo.entity|903349679|SubmarineDuo<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>|Assets/Content/Vehicles/Submarine/SubmarineDuo.entity.prefab|
 |SubmarineSolo.entity|3623991100|BaseSubmarine<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>|Assets/Content/Vehicles/Submarine/SubmarineSolo.entity.prefab|
 |_BaseTrainWagon.entity|3542189355|TrainCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>|Assets/Content/Vehicles/Train/_BaseTrainWagon.entity.prefab|
-|TrainWagonA.entity|382138391|TrainCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>|Assets/Content/Vehicles/Train/TrainWagonA.entity.prefab|
-|TrainWagonB.entity|1470785358|TrainCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>|Assets/Content/Vehicles/Train/TrainWagonB.entity.prefab|
-|TrainWagonC.entity|1549305686|TrainCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>|Assets/Content/Vehicles/Train/TrainWagonC.entity.prefab|
-|TrainWagonD.entity|2780689094|TrainCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>|Assets/Content/Vehicles/Train/TrainWagonD.entity.prefab|
+|wagon_crate_normal|4146332373|LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|Assets/Content/Vehicles/Train/SubEnts/wagon_crate_normal.prefab|
+|wagon_crate_normal_2|2546469069|LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|Assets/Content/Vehicles/Train/SubEnts/wagon_crate_normal_2.prefab|
+|wagon_crate_normal_2_food|3995865518|LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|Assets/Content/Vehicles/Train/SubEnts/wagon_crate_normal_2_food.prefab|
+|wagon_crate_normal_2_medical|856168163|LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|Assets/Content/Vehicles/Train/SubEnts/wagon_crate_normal_2_medical.prefab|
+|wagon_storage|1494645463|StorageContainer<br>BaseCombatEntity<br>|Assets/Content/Vehicles/Train/SubEnts/wagon_storage.prefab|
+|wagon_storage_fuel|2395425898|StorageContainer<br>BaseCombatEntity<br>|Assets/Content/Vehicles/Train/SubEnts/wagon_storage_fuel.prefab|
+|wagon_storage_lootwagon|543933070|StorageContainer<br>BaseCombatEntity<br>|Assets/Content/Vehicles/Train/SubEnts/wagon_storage_lootwagon.prefab|
+|TrainWagonA.entity|382138391|TrainCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|Assets/Content/Vehicles/Train/TrainWagonA.entity.prefab|
+|TrainWagonB.entity|1470785358|TrainCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|Assets/Content/Vehicles/Train/TrainWagonB.entity.prefab|
+|TrainWagonC.entity|1549305686|TrainCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|Assets/Content/Vehicles/Train/TrainWagonC.entity.prefab|
+|TrainWagonUnloadable.entity|3185889399|TrainCarUnloadable<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|Assets/Content/Vehicles/Train/TrainWagonUnloadable.entity.prefab|
+|TrainWagonUnloadableFuel.entity|1888107197|TrainCarUnloadable<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>TrainCarFuelHatches<br>|Assets/Content/Vehicles/Train/TrainWagonUnloadableFuel.entity.prefab|
+|TrainWagonUnloadableLoot.entity|3078064982|TrainCarUnloadable<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|Assets/Content/Vehicles/Train/TrainWagonUnloadableLoot.entity.prefab|
 |workcart_fuel_storage|2293470337|StorageContainer<br>BaseCombatEntity<br>|Assets/Content/Vehicles/WorkCart/SubEnts/workcart_fuel_storage.prefab|
 |workcart.entity|612480793|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>|Assets/Content/Vehicles/WorkCart/workcart.entity.prefab|
-|workcart_aboveground.entity|2047788867|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>|Assets/Content/Vehicles/WorkCart/workcart_aboveground.entity.prefab|
-|workcart_aboveground2.entity|2138552575|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>|Assets/Content/Vehicles/WorkCart/workcart_aboveground2.entity.prefab|
+|workcart_aboveground.entity|2047788867|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|Assets/Content/Vehicles/WorkCart/workcart_aboveground.entity.prefab|
+|workcart_aboveground2.entity|2138552575|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|Assets/Content/Vehicles/WorkCart/workcart_aboveground2.entity.prefab|
 |40mm_grenade_he|1859672190|TimedExplosive<br>ServerProjectile<br>CapsuleCollider<br>|Assets/Prefabs/Ammo/40mmGrenade/40mm_grenade_he.prefab|
 |40mm_grenade_smoke|1502533292|SmokeGrenade<br>ServerProjectile<br>CapsuleCollider<br>|Assets/Prefabs/Ammo/40mmGrenade/40mm_grenade_smoke.prefab|
 |arrow|26759631|WorldItem<br>BoxCollider<br>Rigidbody<br>ColliderInfo<br>|Assets/Prefabs/Ammo/Arrow/arrow.prefab|
@@ -832,15 +857,20 @@
 |RFBroadcaster.static|1174518703|RFBroadcaster<br>BaseCombatEntity<br>DecayEntity<br>MeshCollider<br>|Assets/Prefabs/IO/Electric/Other/RFBroadcaster.static.prefab|
 |ANDSwitch|2864014888|ANDSwitch<br>BaseCombatEntity<br>DecayEntity<br>|Assets/Prefabs/IO/Electric/Switches/ANDSwitch.prefab|
 |CardReader|1841596500|CardReader<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|Assets/Prefabs/IO/Electric/Switches/CardReader.prefab|
+|DoorManipulator.Invisible|3444518220|DoorManipulator<br>BaseCombatEntity<br>DecayEntity<br>|Assets/Prefabs/IO/Electric/Switches/DoorManipulator.Invisible.prefab|
 |DoorManipulator|3165678508|DoorManipulator<br>BaseCombatEntity<br>DecayEntity<br>|Assets/Prefabs/IO/Electric/Switches/DoorManipulator.prefab|
 |FuseBox|3622071578|ItemBasedFlowRestrictor<br>BaseCombatEntity<br>DecayEntity<br>|Assets/Prefabs/IO/Electric/Switches/FuseBox/FuseBox.prefab|
 |ORSwitch|2179325520|ORSwitch<br>BaseCombatEntity<br>DecayEntity<br>|Assets/Prefabs/IO/Electric/Switches/ORSwitch.prefab|
 |PressButton|4224395968|PressButton<br>BaseCombatEntity<br>DecayEntity<br>|Assets/Prefabs/IO/Electric/Switches/PressButton/PressButton.prefab|
+|PressButton_compact|3594608867|PressButton<br>BaseCombatEntity<br>DecayEntity<br>|Assets/Prefabs/IO/Electric/Switches/PressButton/PressButton_compact.prefab|
 |PressButton_TrainStairwell|1802909967|PressButton_TrainTunnel<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>BoxCollider<br>|Assets/Prefabs/IO/Electric/Switches/PressButton/PressButton_TrainStairwell.prefab|
 |SimpleSwitch|2055550712|ElectricSwitch<br>BaseCombatEntity<br>DecayEntity<br>|Assets/Prefabs/IO/Electric/Switches/SimpleSwitch/SimpleSwitch.prefab|
+|SimpleSwitch_LightSwitch|407841511|ElectricSwitch<br>BaseCombatEntity<br>DecayEntity<br>|Assets/Prefabs/IO/Electric/Switches/SimpleSwitch_LightSwitch/SimpleSwitch_LightSwitch.prefab|
 |Splitter|850739563|Splitter<br>BaseCombatEntity<br>DecayEntity<br>|Assets/Prefabs/IO/Electric/Switches/Splitter.prefab|
 |TimerSwitch|2873681431|TimerSwitch<br>BaseCombatEntity<br>DecayEntity<br>|Assets/Prefabs/IO/Electric/Switches/TimerSwitch.prefab|
+|XORSwitch|4139825974|XORSwitch<br>BaseCombatEntity<br>DecayEntity<br>|Assets/Prefabs/IO/Electric/Switches/XORSwitch.prefab|
 |WheelSwitch|1268553078|WheelSwitch<br>BaseCombatEntity<br>DecayEntity<br>|Assets/Prefabs/IO/Kinetic/WheelSwitch.prefab|
+|WheelSwitch_wheel_only|3508954061|WheelSwitch<br>BaseCombatEntity<br>DecayEntity<br>|Assets/Prefabs/IO/Kinetic/WheelSwitch_wheel_only.prefab|
 |lock.key|2106860026|KeyLock<br>|Assets/Prefabs/Locks/keylock/lock.key.prefab|
 |lock.code|3518824735|CodeLock<br>|Assets/Prefabs/Locks/Keypad/lock.code.prefab|
 |generic_world|3255145925|DroppedItem<br>PhysicsEffects<br>|Assets/Prefabs/Misc/Burlap Sack/generic_world.prefab|
@@ -977,6 +1007,7 @@
 |watergun.entity|37937194|Model<br>LiquidWeapon<br>HeldEntity<br>AttackEntity<br>LiquidWeaponEffects<br>|Assets/Prefabs/Misc/Summer_DLC/WaterGun/watergun.entity.prefab|
 |waterpistol.entity|1502994528|LiquidWeapon<br>HeldEntity<br>AttackEntity<br>Model<br>LiquidWeaponEffects<br>|Assets/Prefabs/Misc/Summer_DLC/WaterPistol/waterpistol.entity.prefab|
 |supply_drop|3632568684|SupplyDrop<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>EntityTimedDestroy<br>Rigidbody<br>|Assets/Prefabs/Misc/Supply Drop/supply_drop.prefab|
+|trophy.deployed|3271649842|TwitchTrophy<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|Assets/Prefabs/Misc/Trophy/trophy.deployed.prefab|
 |Tunnel_Dwelling_A|1864849250|NPCDwelling<br>|Assets/Prefabs/Misc/TunnelDwelling/Tunnel_Dwelling_A.prefab|
 |Tunnel_Dwelling_B|914018621|NPCDwelling<br>|Assets/Prefabs/Misc/TunnelDwelling/Tunnel_Dwelling_B.prefab|
 |Tunnel_Dwelling_C|2692544615|NPCDwelling<br>|Assets/Prefabs/Misc/TunnelDwelling/Tunnel_Dwelling_C.prefab|
@@ -1182,6 +1213,7 @@
 |DriverSeat|4088163379|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|Assets/Prefabs/Vehicle/Seats/DriverSeat.prefab|
 |GunnerTest|986236302|BaseAimable<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|Assets/Prefabs/Vehicle/Seats/GunnerTest.prefab|
 |KayakSeat|2907322464|KayakSeat<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicleMountPoint<br>MeshCollider<br>|Assets/Prefabs/Vehicle/Seats/KayakSeat.prefab|
+|LocomotiveDriver|3398691772|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|Assets/Prefabs/Vehicle/Seats/LocomotiveDriver.prefab|
 |MiniHeliPassenger|1231746772|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|Assets/Prefabs/Vehicle/Seats/MiniHeliPassenger.prefab|
 |MiniHeliSeat|3742994540|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|Assets/Prefabs/Vehicle/Seats/MiniHeliSeat.prefab|
 |ModularCarDriverSeat|1924089654|ModularCarSeat<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicleMountPoint<br>BaseVehicleSeat<br>|Assets/Prefabs/Vehicle/Seats/ModularCarDriverSeat.prefab|
@@ -1269,6 +1301,8 @@
 |grenade.f1.entity|45697420|GrenadeWeapon<br>HeldEntity<br>AttackEntity<br>|Assets/Prefabs/Weapons/F1 Grenade/grenade.f1.entity.prefab|
 |flamethrower.entity|3717106868|FlameThrower<br>HeldEntity<br>Model<br>|Assets/Prefabs/Weapons/Flamethrower/flamethrower.entity.prefab|
 |Flamethrower_fireball|844008300|FireBall<br>Rigidbody<br>BoxCollider<br>|Assets/Prefabs/Weapons/Flamethrower/Flamethrower_fireball.prefab|
+|grenade.flashbang.deployed|1436152685|Flashbang<br>Rigidbody<br>CapsuleCollider<br>|Assets/Prefabs/Weapons/Flashbang/grenade.flashbang.deployed.prefab|
+|grenade.flashbang.entity|758326244|GrenadeWeapon<br>HeldEntity<br>AttackEntity<br>|Assets/Prefabs/Weapons/Flashbang/grenade.flashbang.entity.prefab|
 |MGL.entity|1233562048|BaseLauncher<br>HeldEntity<br>AttackEntity<br>Model<br>|Assets/Prefabs/Weapons/Grenade Launcher/MGL.entity.prefab|
 |hacksaw.weapon|2487927393|BaseMelee<br>HeldEntity<br>|Assets/Prefabs/Weapons/Hacksaw/hacksaw.weapon.prefab|
 |butcherknife.entity|1362182970|BaseMelee<br>HeldEntity<br>|Assets/Prefabs/Weapons/Halloween/Butcher Knife/butcherknife.entity.prefab|
@@ -1287,6 +1321,8 @@
 |mace.entity|2927698044|BaseMelee<br>HeldEntity<br>|Assets/Prefabs/Weapons/Mace/mace.entity.prefab|
 |machete.weapon|2942508801|BaseMelee<br>HeldEntity<br>|Assets/Prefabs/Weapons/Machete/machete.weapon.prefab|
 |militaryflamethrower.entity|1710208928|FlameThrower<br>HeldEntity<br>Model<br>|Assets/Prefabs/Weapons/Military Flamethrower/militaryflamethrower.entity.prefab|
+|grenade.molotov.deployed|2144253630|FlameExplosive<br>Rigidbody<br>CapsuleCollider<br>|Assets/Prefabs/Weapons/Molotov Cocktail/grenade.molotov.deployed.prefab|
+|grenade.molotov.entity|4104126979|MolotovCocktail<br>HeldEntity<br>ThrownWeapon<br>AttackEntity<br>|Assets/Prefabs/Weapons/Molotov Cocktail/grenade.molotov.entity.prefab|
 |mp5.entity|2545523575|BaseProjectile<br>HeldEntity<br>Model<br>|Assets/Prefabs/Weapons/mp5/mp5.entity.prefab|
 |nailgun.entity|4279856314|BaseProjectile<br>HeldEntity<br>Model<br>|Assets/Prefabs/Weapons/Nailgun/nailgun.entity.prefab|
 |paddle.entity|1850172004|Paddle<br>HeldEntity<br>AttackEntity<br>|Assets/Prefabs/Weapons/Paddle/paddle.entity.prefab|
@@ -1334,25 +1370,25 @@
 |Horse.Corpse|2898915566|HorseCorpse<br>BaseCombatEntity<br>BaseCorpse<br>ResourceDispenser<br>|Assets/Rust.Ai/Agents/Horse/Horse.Corpse.prefab|
 |Horse|3880446623|Horse<br>BaseCombatEntity<br>BaseNpc<br>NavMeshAgent<br>Spawnable<br>AiManagedAgent<br>CapsuleCollider<br>|Assets/Rust.Ai/Agents/Horse/Horse.prefab|
 |NPC_Bandit_Guard|412745708|BanditGuard<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/BanditGuard/NPC_Bandit_Guard.prefab|
-|ScientistNPC_Cargo|3623670799|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/Scientist/ScientistNPC_Cargo.prefab|
-|ScientistNPC_Cargo_Turret_Any|1639447304|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/Scientist/ScientistNPC_Cargo_Turret_Any.prefab|
-|ScientistNPC_Cargo_Turret_LR300|881071619|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/Scientist/ScientistNPC_Cargo_Turret_LR300.prefab|
-|ScientistNPC_CH47_Gunner|1017671955|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/Scientist/ScientistNPC_CH47_Gunner.prefab|
-|ScientistNPC_Excavator|4293908444|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/Scientist/ScientistNPC_Excavator.prefab|
-|ScientistNPC_Full_Any|1539172658|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/Scientist/ScientistNPC_Full_Any.prefab|
-|ScientistNPC_Full_LR300|3763080634|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/Scientist/ScientistNPC_Full_LR300.prefab|
-|ScientistNPC_Full_MP5|3595426380|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/Scientist/ScientistNPC_Full_MP5.prefab|
-|ScientistNPC_Full_Pistol|712785714|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/Scientist/ScientistNPC_Full_Pistol.prefab|
-|ScientistNPC_Full_Shotgun|1410044857|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/Scientist/ScientistNPC_Full_Shotgun.prefab|
-|ScientistNPC_Heavy|1536035819|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>NavMeshAgent<br>NPCPlayerNavigator<br>MusicChangeIntensity<br>ScientistBrain<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/Scientist/ScientistNPC_Heavy.prefab|
-|ScientistNPC_Junkpile_Pistol|2066159302|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>ScientistBrain<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>NavMeshAgent<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/Scientist/ScientistNPC_Junkpile_Pistol.prefab|
-|ScientistNPC_Oilrig|548379897|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/Scientist/ScientistNPC_Oilrig.prefab|
-|ScientistNPC_Patrol|4272904018|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/Scientist/ScientistNPC_Patrol.prefab|
-|ScientistNPC_Peacekeeper|2390854225|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/Scientist/ScientistNPC_Peacekeeper.prefab|
-|ScientistNPC_Roam|4199494415|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/Scientist/ScientistNPC_Roam.prefab|
-|ScientistNPC_RoamTethered|529928930|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/Scientist/ScientistNPC_RoamTethered.prefab|
-|NPC_TunnelDweller|732025282|TunnelDweller<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/TunnelDweller/NPC_TunnelDweller.prefab|
-|NPC_UnderwaterDweller|1605597847|UnderwaterDweller<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/UnderwaterDweller/NPC_UnderwaterDweller.prefab|
+|ScientistNPC_Cargo|3623670799|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>CapsuleCollider<br>Rigidbody<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/Scientist/ScientistNPC_Cargo.prefab|
+|ScientistNPC_Cargo_Turret_Any|1639447304|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>CapsuleCollider<br>Rigidbody<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/Scientist/ScientistNPC_Cargo_Turret_Any.prefab|
+|ScientistNPC_Cargo_Turret_LR300|881071619|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>CapsuleCollider<br>Rigidbody<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/Scientist/ScientistNPC_Cargo_Turret_LR300.prefab|
+|ScientistNPC_CH47_Gunner|1017671955|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>CapsuleCollider<br>Rigidbody<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/Scientist/ScientistNPC_CH47_Gunner.prefab|
+|ScientistNPC_Excavator|4293908444|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>CapsuleCollider<br>Rigidbody<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/Scientist/ScientistNPC_Excavator.prefab|
+|ScientistNPC_Full_Any|1539172658|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>CapsuleCollider<br>Rigidbody<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/Scientist/ScientistNPC_Full_Any.prefab|
+|ScientistNPC_Full_LR300|3763080634|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>CapsuleCollider<br>Rigidbody<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/Scientist/ScientistNPC_Full_LR300.prefab|
+|ScientistNPC_Full_MP5|3595426380|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>CapsuleCollider<br>Rigidbody<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/Scientist/ScientistNPC_Full_MP5.prefab|
+|ScientistNPC_Full_Pistol|712785714|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>CapsuleCollider<br>Rigidbody<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/Scientist/ScientistNPC_Full_Pistol.prefab|
+|ScientistNPC_Full_Shotgun|1410044857|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>CapsuleCollider<br>Rigidbody<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/Scientist/ScientistNPC_Full_Shotgun.prefab|
+|ScientistNPC_Heavy|1536035819|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>CapsuleCollider<br>Rigidbody<br>NavMeshAgent<br>NPCPlayerNavigator<br>MusicChangeIntensity<br>ScientistBrain<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/Scientist/ScientistNPC_Heavy.prefab|
+|ScientistNPC_Junkpile_Pistol|2066159302|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>ScientistBrain<br>PlayerInventory<br>PlayerEyes<br>CapsuleCollider<br>Rigidbody<br>NavMeshAgent<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/Scientist/ScientistNPC_Junkpile_Pistol.prefab|
+|ScientistNPC_Oilrig|548379897|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>CapsuleCollider<br>Rigidbody<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/Scientist/ScientistNPC_Oilrig.prefab|
+|ScientistNPC_Patrol|4272904018|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>CapsuleCollider<br>Rigidbody<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/Scientist/ScientistNPC_Patrol.prefab|
+|ScientistNPC_Peacekeeper|2390854225|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>CapsuleCollider<br>Rigidbody<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/Scientist/ScientistNPC_Peacekeeper.prefab|
+|ScientistNPC_Roam|4199494415|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>CapsuleCollider<br>Rigidbody<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/Scientist/ScientistNPC_Roam.prefab|
+|ScientistNPC_RoamTethered|529928930|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>CapsuleCollider<br>Rigidbody<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/Scientist/ScientistNPC_RoamTethered.prefab|
+|NPC_TunnelDweller|732025282|TunnelDweller<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>CapsuleCollider<br>Rigidbody<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/TunnelDweller/NPC_TunnelDweller.prefab|
+|NPC_UnderwaterDweller|1605597847|UnderwaterDweller<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>CapsuleCollider<br>Rigidbody<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/UnderwaterDweller/NPC_UnderwaterDweller.prefab|
 |NPCPlayerTest|1256759028|NPCPlayer<br>BaseCombatEntity<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>|Assets/Rust.Ai/Agents/NPCPlayer/NPCPlayerTest.prefab|
 |FrankensteinPet|3489787657|FrankensteinPet<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>NavMeshAgent<br>FrankensteinBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/Pet/FrankensteinPet.prefab|
 |frankensteinpet_corpse|3842948583|NPCPlayerCorpse<br>BaseCombatEntity<br>LootableCorpse<br>BaseCorpse<br>HumanBodyResourceDispenser<br>Buoyancy<br>|Assets/Rust.Ai/Agents/NPCPlayer/Pet/frankensteinpet_corpse.prefab|
@@ -1364,4 +1400,7 @@
 |Zombie.Corpse|81333250|BaseCorpse<br>|Assets/Rust.Ai/Agents/Zombie/Zombie.Corpse.prefab|
 |Zombie|2805320019|Zombie<br>BaseCombatEntity<br>BaseNpc<br>NavMeshAgent<br>Spawnable<br>AiManagedAgent<br>CapsuleCollider<br>|Assets/Rust.Ai/Agents/Zombie/Zombie.prefab|
 |TestRidableHorse|2421623959|RidableHorse<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>CapsuleCollider<br>Rigidbody<br>Spawnable<br>|Assets/Rust.Ai/NextAI/TestRidableHorse.prefab|
+|coaling_tower_mechanism.entity|4234742552|CoalingTower<br>BaseCombatEntity<br>DecayEntity<br>|Assets/Scenes/Prefabs/Trainyard/coaling_tower_mechanism.entity.prefab|
+|coaling_tower_fuel_storage.entity|597741544|PercentFullStorageContainer<br>BaseCombatEntity<br>DecayEntity<br>|Assets/Scenes/Prefabs/Trainyard/SubEnts/coaling_tower_fuel_storage.entity.prefab|
+|coaling_tower_ore_storage.entity|3609973791|OreHopper<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>|Assets/Scenes/Prefabs/Trainyard/SubEnts/coaling_tower_ore_storage.entity.prefab|
 |VisualShelvesTest|3989929317|VisualStorageContainer<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>|Assets/Scripts/Entity/Misc/VisualStorageContainer/VisualShelvesTest.prefab|
