@@ -18,6 +18,7 @@
 |assets/content/image effects/postfx_volumes/cctv.asset|
 |assets/content/image effects/postfx_volumes/cctv_mlrs.asset|
 |assets/content/image effects/postfx_volumes/cold.asset|
+|assets/content/image effects/postfx_volumes/flashbang.asset|
 |assets/content/image effects/postfx_volumes/hot.asset|
 |assets/content/image effects/postfx_volumes/hurt.asset|
 |assets/content/image effects/postfx_volumes/low_oxygen.asset|
@@ -300,11 +301,7 @@
 |assets/content/properties/buildinggrade/toptier.asset|
 |assets/content/properties/buildinggrade/twigs.asset|
 |assets/content/properties/buildinggrade/wood.asset|
-|assets/content/properties/camera/environment collection.asset|
-|assets/content/properties/camera/environment quality 0.asset|
-|assets/content/properties/camera/environment quality 1.asset|
-|assets/content/properties/camera/environment quality 2.asset|
-|assets/content/properties/camera/environment quality 3.asset|
+|assets/content/properties/camera/environment properties.asset|
 |assets/content/properties/damage/damage.arrow.asset|
 |assets/content/properties/damage/damage.buckshot.asset|
 |assets/content/properties/damage/damage.default.asset|
@@ -1259,6 +1256,7 @@
 |assets/content/properties/lootspawn/generated/items/misc/keycard_blue.asset|
 |assets/content/properties/lootspawn/generated/items/misc/keycard_green.asset|
 |assets/content/properties/lootspawn/generated/items/misc/keycard_red.asset|
+|assets/content/properties/lootspawn/generated/items/misc/locomotive.asset|
 |assets/content/properties/lootspawn/generated/items/misc/mlrs.asset|
 |assets/content/properties/lootspawn/generated/items/misc/photo.asset|
 |assets/content/properties/lootspawn/generated/items/misc/pumpkinbasket.asset|
@@ -1328,6 +1326,8 @@
 |assets/content/properties/lootspawn/generated/items/weapon/flamethrower.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/grenade.beancan.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/grenade.f1.asset|
+|assets/content/properties/lootspawn/generated/items/weapon/grenade.flashbang.asset|
+|assets/content/properties/lootspawn/generated/items/weapon/grenade.molotov.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/gun.water.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/hmlmg.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/knife.bone.asset|
@@ -3309,6 +3309,7 @@
 |assets/content/sound/soundclasses/water-movement.sound-class.asset|
 |assets/content/sound/soundclasses/weapon-deploy.sound-class.asset|
 |assets/content/sound/soundclasses/weapon-explosion.sound-class.asset|
+|assets/content/sound/soundclasses/weapon-flashbang.sound-class.asset|
 |assets/content/sound/soundclasses/weapon-gunshot.sound-class.asset|
 |assets/content/sound/soundclasses/weapon-gunshot-silenced.sound-class.asset|
 |assets/content/sound/soundclasses/weapon-handling.sound-class.asset|
@@ -4180,7 +4181,7 @@
 |assets/content/vehicles/submarine/sound/submarine-water-idle-loop.asset|
 |assets/content/vehicles/submarine/sound/submarine-water-movement-loop.asset|
 |assets/content/vehicles/submarine/sound/submarine-water-submerge.asset|
-|assets/content/vehicles/train/trainwagon.population.asset|
+|assets/content/vehicles/train/traincars.population.asset|
 |assets/content/vehicles/workcart/sound/workcart-active-loop.asset|
 |assets/content/vehicles/workcart/sound/workcart-barricade-break.asset|
 |assets/content/vehicles/workcart/sound/workcart-brake-loop.asset|
@@ -4199,7 +4200,21 @@
 |assets/content/vehicles/workcart/sound/workcart-engine-stop.asset|
 |assets/content/vehicles/workcart/sound/workcart-explosion.asset|
 |assets/content/vehicles/workcart/sound/workcart-explosion-debris.asset|
+|assets/content/vehicles/workcart/sound/workcart-fuel-wagon-close.asset|
+|assets/content/vehicles/workcart/sound/workcart-fuel-wagon-open.asset|
 |assets/content/vehicles/workcart/sound/workcart-impact.asset|
+|assets/content/vehicles/workcart/sound/workcart-locomotive-active-loop.asset|
+|assets/content/vehicles/workcart/sound/workcart-locomotive-dismount.asset|
+|assets/content/vehicles/workcart/sound/workcart-locomotive-engine.loop-definition.asset|
+|assets/content/vehicles/workcart/sound/workcart-locomotive-engine-idle-loop.asset|
+|assets/content/vehicles/workcart/sound/workcart-locomotive-engine-low-loop.asset|
+|assets/content/vehicles/workcart/sound/workcart-locomotive-engine-start.asset|
+|assets/content/vehicles/workcart/sound/workcart-locomotive-horn-loop.asset|
+|assets/content/vehicles/workcart/sound/workcart-locomotive-horn-start.asset|
+|assets/content/vehicles/workcart/sound/workcart-locomotive-mount.asset|
+|assets/content/vehicles/workcart/sound/workcart-locomotive-movement-loop.asset|
+|assets/content/vehicles/workcart/sound/workcart-locomotive-movement-start.asset|
+|assets/content/vehicles/workcart/sound/workcart-locomotive-movement-stop.asset|
 |assets/content/vehicles/workcart/sound/workcart-mount.asset|
 |assets/content/vehicles/workcart/sound/workcart-movement-loop.asset|
 |assets/content/vehicles/workcart/sound/workcart-movement-start.asset|
@@ -4210,8 +4225,8 @@
 |assets/content/vehicles/workcart/sound/workcart-toggle-lights.asset|
 |assets/content/vehicles/workcart/sound/workcart-track-clatter-loop.asset|
 |assets/content/vehicles/workcart/sound/workcart-turn-loop.asset|
-|assets/content/vehicles/workcart/workcart_aboveground.population.asset|
-|assets/content/vehicles/workcart/workcart_aboveground2.population.asset|
+|assets/content/vehicles/workcart/sound/workcart-unloadable-end.asset|
+|assets/content/vehicles/workcart/sound/workcart-unloadable-start.asset|
 |assets/content/workshop/items/book.accident.sitem.asset|
 |assets/content/workshop/items/crates/bag.high.sitem.asset|
 |assets/content/workshop/items/crates/bag.low.sitem.asset|
@@ -4628,6 +4643,8 @@
 |assets/prefabs/deployable/ceiling light/sound/ceiling-light-turn-on-quiet.asset|
 |assets/prefabs/deployable/chair/chair.deployed.skinnable.asset|
 |assets/prefabs/deployable/chair/sound/chair-deploy.asset|
+|assets/prefabs/deployable/chair/sound/chair-dismount.asset|
+|assets/prefabs/deployable/chair/sound/chair-mount.asset|
 |assets/prefabs/deployable/chinooklockedcrate/hack_progress_beep.asset|
 |assets/prefabs/deployable/chinooklockedcrate/laptoploop.asset|
 |assets/prefabs/deployable/chinooklockedcrate/unlocked.asset|
@@ -5120,6 +5137,10 @@
 |assets/prefabs/misc/halloween/trophy skulls/skins/skulltrophy.table.skin.asset|
 |assets/prefabs/misc/halloween/trophy skulls/skulltrophy.sitem.asset|
 |assets/prefabs/misc/halloween/trophy skulls/skulltrophy.skinnable.asset|
+|assets/prefabs/misc/item drop/sounds/backpack-close.asset|
+|assets/prefabs/misc/item drop/sounds/backpack-open.asset|
+|assets/prefabs/misc/item drop/sounds/hard-case-close.asset|
+|assets/prefabs/misc/item drop/sounds/hard-case-open.asset|
 |assets/prefabs/misc/marketplace/cobaltdeliverydroneconfig.asset|
 |assets/prefabs/misc/marketplace/sound/marketplace-button-press.asset|
 |assets/prefabs/misc/marketplace/sound/marketplace-close.asset|
@@ -5248,6 +5269,7 @@
 |assets/prefabs/misc/summer_dlc/waterpistol/sound/water-pistol-refill-start.asset|
 |assets/prefabs/misc/summer_dlc/waterpistol/sound/water-pistol-shoot.asset|
 |assets/prefabs/misc/summer_dlc/waterpistol/sound/water-pistol-trigger-back.asset|
+|assets/prefabs/misc/trophy/twitchtrophy.sitem.asset|
 |assets/prefabs/misc/twitch/blocky_sunglasses/twitchsunglasses.sitem.asset|
 |assets/prefabs/misc/twitch/headsetcap/skins/hat.cap_headset.twitch.itemskin.asset|
 |assets/prefabs/misc/twitch/headsetcap/twitchheadset.sitem.asset|
@@ -5817,6 +5839,11 @@
 |assets/prefabs/weapons/flamethrower/sounds/flamethrower-pilot-loop.asset|
 |assets/prefabs/weapons/flamethrower/sounds/flamethrower-toggle_flame.asset|
 |assets/prefabs/weapons/flamethrower/sounds/flamethrower-valve_open.asset|
+|assets/prefabs/weapons/flashbang/sound/flashbang-deafloop.asset|
+|assets/prefabs/weapons/flashbang/sound/flashbang-deploy.asset|
+|assets/prefabs/weapons/flashbang/sound/flashbang-explosion.asset|
+|assets/prefabs/weapons/flashbang/sound/flashbang-pull-pin.asset|
+|assets/prefabs/weapons/flashbang/sound/flashbang-pull-pin-start.asset|
 |assets/prefabs/weapons/grenade launcher/sound/grenade-launcher-attack.asset|
 |assets/prefabs/weapons/grenade launcher/sound/grenade-launcher-deploy.asset|
 |assets/prefabs/weapons/grenade launcher/sound/grenade-launcher-explosion.asset|
@@ -5956,6 +5983,14 @@
 |assets/prefabs/weapons/machete/sounds/machete-strike.asset|
 |assets/prefabs/weapons/machete/sounds/machete-strike-muted.asset|
 |assets/prefabs/weapons/machete/sounds/machete-strike-soft.asset|
+|assets/prefabs/weapons/molotov cocktail/sound/molotov-cocktail-burn-in-hand-loop.asset|
+|assets/prefabs/weapons/molotov cocktail/sound/molotov-cocktail-deploy.asset|
+|assets/prefabs/weapons/molotov cocktail/sound/molotov-cocktail-explosion.asset|
+|assets/prefabs/weapons/molotov cocktail/sound/molotov-cocktail-fireball-burn-loop.asset|
+|assets/prefabs/weapons/molotov cocktail/sound/molotov-cocktail-ignite.asset|
+|assets/prefabs/weapons/molotov cocktail/sound/molotov-cocktail-ignite-finish.asset|
+|assets/prefabs/weapons/molotov cocktail/sound/molotov-cocktail-ignite-start.asset|
+|assets/prefabs/weapons/molotov cocktail/sound/molotov-cocktail-throw.asset|
 |assets/prefabs/weapons/mp5/mp5.skinnable.asset|
 |assets/prefabs/weapons/mp5/sound/mp5-attack.asset|
 |assets/prefabs/weapons/mp5/sound/mp5-attack-silenced.asset|
@@ -6243,6 +6278,7 @@
 |assets/prefabs/weapons/waterbucket/sound/waterbucket-throw-3p.asset|
 |assets/prefabs/weapons/waterbucket/sound/waterspill.asset|
 |assets/prefabs/weapons/waterbucket/sound/well-waterproduction.asset|
+|assets/resources/train wagon loot data.asset|
 |assets/resources/worldspline prefab shared data.asset|
 |assets/rust.ai/agents/animal/animal.aidesign.asset|
 |assets/rust.ai/agents/animal/animal.bear.aidesign.asset|
@@ -6439,6 +6475,22 @@
 |assets/rust.ai/nextai/ridablehorse/items/wood.horse.protection.asset|
 |assets/rust.ai/nextai/ridablehorse/items/wood.horse.rider.protection.asset|
 |assets/rust.ai/nextai/sound/horse-eat.asset|
+|assets/scenes/prefabs/trainyard/sound/coaling-tower-arm-movement-lower.asset|
+|assets/scenes/prefabs/trainyard/sound/coaling-tower-arm-movement-raise.asset|
+|assets/scenes/prefabs/trainyard/sound/coaling-tower-liquid-tank-fill-loop.asset|
+|assets/scenes/prefabs/trainyard/sound/coaling-tower-machine-active-loop.asset|
+|assets/scenes/prefabs/trainyard/sound/coaling-tower-ore-bin-loop.asset|
+|assets/scenes/prefabs/trainyard/sound/coaling-tower-shunt-failure.asset|
+|assets/scenes/prefabs/trainyard/sound/coaling-tower-suction-air-loop.asset|
+|assets/scenes/prefabs/trainyard/sound/coaling-tower-suction-air-start.asset|
+|assets/scenes/prefabs/trainyard/sound/coaling-tower-suction-air-stop.asset|
+|assets/scenes/prefabs/trainyard/sound/coaling-tower-suction-liquid-loop.asset|
+|assets/scenes/prefabs/trainyard/sound/coaling-tower-suction-liquid-loop-interior-pipe.asset|
+|assets/scenes/prefabs/trainyard/sound/coaling-tower-suction-liquid-start.asset|
+|assets/scenes/prefabs/trainyard/sound/coaling-tower-suction-liquid-stop.asset|
+|assets/scenes/prefabs/trainyard/sound/coaling-tower-suction-ore-loop.asset|
+|assets/scenes/prefabs/trainyard/sound/coaling-tower-suction-ore-loop-interior-pipe.asset|
+|assets/scenes/prefabs/trainyard/sound/coaling-tower-suction-ore-start.asset|
 |assets/scenes/test/billbtestmap/billbtestmap terrain.asset|
 |assets/scenes/test/coastal_cliffs/coastal_cliffs_test.asset|
 |assets/scripts/game/techtree/techtree.asset|
