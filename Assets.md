@@ -3702,6 +3702,7 @@
 |assets/content/sound/sounddefinitions/weather/rain-light.asset|
 |assets/content/sound/sounddefinitions/weather/sting-thunder-light.asset|
 |assets/content/sound/sounddefinitions/weather/sting-thunder-medium.asset|
+|assets/content/sound/ui/armor-break.asset|
 |assets/content/sound/ui/ui-add-to-cart.asset|
 |assets/content/sound/ui/ui-drop-bone.asset|
 |assets/content/sound/ui/ui-drop-can-empty.asset|
@@ -3810,6 +3811,9 @@
 |assets/content/structures/excavator/prefabs/sound/excavator-wheel-motor-stop.asset|
 |assets/content/structures/excavator/prefabs/sound/rock_debris_loop.asset|
 |assets/content/structures/excavator/prefabs/sound/rock_debris_loop_quiet.asset|
+|assets/content/structures/lifts/sound/lift-movement-loop.asset|
+|assets/content/structures/lifts/sound/lift-movement-start.asset|
+|assets/content/structures/lifts/sound/lift-movement-stop.asset|
 |assets/content/ui/fonts/bootstrap robotocondensed-bold sdf.asset|
 |assets/content/ui/fonts/bootstrap robotocondensed-regular sdf.asset|
 |assets/content/ui/fonts/droidsansmono sdf.asset|
@@ -4051,6 +4055,7 @@
 |assets/content/vehicles/modularcar/sound/modular-car-large-engine-3x-loop-idle.asset|
 |assets/content/vehicles/modularcar/sound/modular-car-lift-close.asset|
 |assets/content/vehicles/modularcar/sound/modular-car-lift-deploy.asset|
+|assets/content/vehicles/modularcar/sound/modular-car-lift-destroy.asset|
 |assets/content/vehicles/modularcar/sound/modular-car-lift-loop.asset|
 |assets/content/vehicles/modularcar/sound/modular-car-lift-open.asset|
 |assets/content/vehicles/modularcar/sound/modular-car-lift-start.asset|
@@ -4409,6 +4414,7 @@
 |assets/plugins/rust.ui/controls/rustbutton.grey.asset|
 |assets/plugins/rust.ui/controls/rustbutton.header.asset|
 |assets/plugins/rust.ui/controls/rustbutton.listitem.asset|
+|assets/plugins/rust.ui/controls/rustbutton.lootall.asset|
 |assets/plugins/rust.ui/controls/rustbutton.menu.asset|
 |assets/plugins/rust.ui/controls/rustbutton.menu-notice-banreport.asset|
 |assets/plugins/rust.ui/controls/rustbutton.menu-right.asset|
@@ -4812,8 +4818,11 @@
 |assets/prefabs/deployable/reactive target/sounds/hit.asset|
 |assets/prefabs/deployable/reactive target/sounds/knockdown.asset|
 |assets/prefabs/deployable/reactive target/sounds/reactive-target-deploy.asset|
-|assets/prefabs/deployable/reactive target/sounds/reset.asset|
+|assets/prefabs/deployable/reactive target/sounds/reactive-target-lower.asset|
+|assets/prefabs/deployable/reactive target/sounds/reactive-target-raise.asset|
 |assets/prefabs/deployable/recycler/sounds/grinding_loop.asset|
+|assets/prefabs/deployable/recycler/sounds/recycler-close.asset|
+|assets/prefabs/deployable/recycler/sounds/recycler-open.asset|
 |assets/prefabs/deployable/recycler/sounds/recycle-start.asset|
 |assets/prefabs/deployable/recycler/sounds/recycle-stop.asset|
 |assets/prefabs/deployable/repair bench/sound/repair-bench-close.asset|
