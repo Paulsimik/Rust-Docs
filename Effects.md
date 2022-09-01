@@ -4,6 +4,7 @@
 |assets/bundled/prefabs/fx/animals/flies/flies_looping.prefab|
 |assets/bundled/prefabs/fx/animals/flies/flies_medium.prefab|
 |assets/bundled/prefabs/fx/animals/flies/flies_small.prefab|
+|assets/bundled/prefabs/fx/armor_break.prefab|
 |assets/bundled/prefabs/fx/beartrap/arm.prefab|
 |assets/bundled/prefabs/fx/beartrap/fire.prefab|
 |assets/bundled/prefabs/fx/bucket_drop_debris.prefab|
@@ -848,6 +849,7 @@
 |assets/prefabs/deployable/mixingtable/effects/mixingtable.enabled.vfx.prefab|
 |assets/prefabs/deployable/mixingtable/effects/mixing-table-deploy.prefab|
 |assets/prefabs/deployable/modular car lift/effects/modular-car-lift-deploy.prefab|
+|assets/prefabs/deployable/modular car lift/effects/modular-car-lift-destroy.prefab|
 |assets/prefabs/deployable/oil refinery/effects/oil-refinery-deploy.prefab|
 |assets/prefabs/deployable/planters/effects/planter-deploy.prefab|
 |assets/prefabs/deployable/playerioents/detectors/hbhfsensor/effects/detect_down.prefab|
@@ -857,6 +859,7 @@
 |assets/prefabs/deployable/reactive target/effects/reactive-target-deploy.prefab|
 |assets/prefabs/deployable/reactive target/effects/snd_hit.prefab|
 |assets/prefabs/deployable/reactive target/effects/snd_knockdown.prefab|
+|assets/prefabs/deployable/reactive target/effects/snd_lower.prefab|
 |assets/prefabs/deployable/reactive target/effects/snd_reset.prefab|
 |assets/prefabs/deployable/reactive target/effects/tire_smokepuff.prefab|
 |assets/prefabs/deployable/recycler/effects/start.prefab|
