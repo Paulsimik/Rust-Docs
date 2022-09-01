@@ -768,9 +768,9 @@
 |sign.hanging.banner.large|637495597|Signage<br>BaseCombatEntity<br>DecayEntity<br>DestroyOnGroundMissing<br>GroundWatch<br>MeshCollider<br>|Assets/Prefabs/Deployable/Signs/sign.hanging.banner.large.prefab|
 |sign.hanging.ornate|1283107100|Signage<br>BaseCombatEntity<br>DecayEntity<br>DestroyOnGroundMissing<br>GroundWatch<br>MeshCollider<br>|Assets/Prefabs/Deployable/Signs/sign.hanging.ornate.prefab|
 |sign.hanging|550204242|Signage<br>BaseCombatEntity<br>DecayEntity<br>DestroyOnGroundMissing<br>GroundWatch<br>MeshCollider<br>|Assets/Prefabs/Deployable/Signs/sign.hanging.prefab|
-|sign.huge.wood|3618197174|Signage<br>BaseCombatEntity<br>DecayEntity<br>MeshCollider<br>DestroyOnGroundMissing<br>GroundWatch<br>|Assets/Prefabs/Deployable/Signs/sign.huge.wood.prefab|
-|sign.large.wood|3479792512|Signage<br>BaseCombatEntity<br>DecayEntity<br>MeshCollider<br>DestroyOnGroundMissing<br>GroundWatch<br>|Assets/Prefabs/Deployable/Signs/sign.large.wood.prefab|
-|sign.medium.wood|3715545584|Signage<br>BaseCombatEntity<br>DecayEntity<br>MeshCollider<br>DestroyOnGroundMissing<br>GroundWatch<br>|Assets/Prefabs/Deployable/Signs/sign.medium.wood.prefab|
+|sign.huge.wood|3618197174|Signage<br>BaseCombatEntity<br>DecayEntity<br>DestroyOnGroundMissing<br>GroundWatch<br>BoxCollider<br>|Assets/Prefabs/Deployable/Signs/sign.huge.wood.prefab|
+|sign.large.wood|3479792512|Signage<br>BaseCombatEntity<br>DecayEntity<br>DestroyOnGroundMissing<br>GroundWatch<br>BoxCollider<br>|Assets/Prefabs/Deployable/Signs/sign.large.wood.prefab|
+|sign.medium.wood|3715545584|Signage<br>BaseCombatEntity<br>DecayEntity<br>DestroyOnGroundMissing<br>GroundWatch<br>BoxCollider<br>|Assets/Prefabs/Deployable/Signs/sign.medium.wood.prefab|
 |sign.pictureframe.landscape|3215377795|Signage<br>BaseCombatEntity<br>DecayEntity<br>DestroyOnGroundMissing<br>GroundWatch<br>BoxCollider<br>|Assets/Prefabs/Deployable/Signs/sign.pictureframe.landscape.prefab|
 |sign.pictureframe.portrait|1960724311|Signage<br>BaseCombatEntity<br>DecayEntity<br>DestroyOnGroundMissing<br>GroundWatch<br>BoxCollider<br>|Assets/Prefabs/Deployable/Signs/sign.pictureframe.portrait.prefab|
 |sign.pictureframe.tall|3159642196|Signage<br>BaseCombatEntity<br>DecayEntity<br>DestroyOnGroundMissing<br>GroundWatch<br>BoxCollider<br>|Assets/Prefabs/Deployable/Signs/sign.pictureframe.tall.prefab|
@@ -781,7 +781,7 @@
 |sign.post.single|58270319|Signage<br>BaseCombatEntity<br>DecayEntity<br>DestroyOnGroundMissing<br>GroundWatch<br>MeshCollider<br>|Assets/Prefabs/Deployable/Signs/sign.post.single.prefab|
 |sign.post.town|120534793|Signage<br>BaseCombatEntity<br>DecayEntity<br>DestroyOnGroundMissing<br>GroundWatch<br>MeshCollider<br>|Assets/Prefabs/Deployable/Signs/sign.post.town.prefab|
 |sign.post.town.roof|4057957010|Signage<br>BaseCombatEntity<br>DecayEntity<br>DestroyOnGroundMissing<br>GroundWatch<br>MeshCollider<br>|Assets/Prefabs/Deployable/Signs/sign.post.town.roof.prefab|
-|sign.small.wood|1447270506|Signage<br>BaseCombatEntity<br>DecayEntity<br>MeshCollider<br>DestroyOnGroundMissing<br>GroundWatch<br>|Assets/Prefabs/Deployable/Signs/sign.small.wood.prefab|
+|sign.small.wood|1447270506|Signage<br>BaseCombatEntity<br>DecayEntity<br>DestroyOnGroundMissing<br>GroundWatch<br>BoxCollider<br>|Assets/Prefabs/Deployable/Signs/sign.small.wood.prefab|
 |SignContent|2104891901|SignContent<br>|Assets/Prefabs/Deployable/Signs/SignContent.prefab|
 |guntrap.deployed|1348746224|GunTrap<br>BaseCombatEntity<br>DecayEntity<br>Model<br>DestroyOnGroundMissing<br>GroundWatch<br>BoxCollider<br>BoxCollider<br>BoxCollider<br>BoxCollider<br>|Assets/Prefabs/Deployable/Single Shot Trap/guntrap.deployed.prefab|
 |sleepingbag_leather_deployed|159326486|BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>SleepingBag<br>BaseCombatEntity<br>Model<br>|Assets/Prefabs/Deployable/Sleeping Bag/sleepingbag_leather_deployed.prefab|
@@ -825,6 +825,7 @@
 |smallwaterbottle.entity|139849256|BaseLiquidVessel<br>HeldEntity<br>|Assets/Prefabs/Food/Small Water Bottle/smallwaterbottle.entity.prefab|
 |waterjug.entity|366999130|BaseLiquidVessel<br>HeldEntity<br>|Assets/Prefabs/Food/Water Jug/waterjug.entity.prefab|
 |deathmatch|3323268180|BaseGameMode<br>|Assets/Prefabs/GameModes/deathmatch.prefab|
+|hardcore|2882540700|GameModeHardcore<br>BaseGameMode<br>|Assets/Prefabs/GameModes/hardcore.prefab|
 |kingofthehillDM|825419898|BaseGameMode<br>|Assets/Prefabs/GameModes/kingofthehillDM.prefab|
 |kingofthehillTeam|4276462027|BaseGameMode<br>|Assets/Prefabs/GameModes/kingofthehillTeam.prefab|
 |CapturePoint|3788504645|GameModeCapturePoint<br>Model<br>|Assets/Prefabs/GameModes/Objects/CapturePoint/CapturePoint.prefab|
@@ -978,7 +979,7 @@
 |junkpile_water_c|1744083475|Spawnable<br>JunkPileWater<br>|Assets/Prefabs/Misc/JunkPile_Water/junkpile_water_c.prefab|
 |DeliveryDroneMarker|3742716325|MapMarkerDeliveryDrone<br>|Assets/Prefabs/Misc/Marketplace/DeliveryDroneMarker.prefab|
 |drone.delivery|2325891644|DeliveryDrone<br>BaseCombatEntity<br>RemoteControlEntity<br>Rigidbody<br>|Assets/Prefabs/Misc/Marketplace/drone.delivery.prefab|
-|Marketplace|3953076030|Marketplace<br>Model<br>BoxCollider<br>|Assets/Prefabs/Misc/Marketplace/Marketplace.prefab|
+|Marketplace|3953076030|Marketplace<br>Model<br>|Assets/Prefabs/Misc/Marketplace/Marketplace.prefab|
 |MarketTerminal|407767262|MarketTerminal<br>BaseCombatEntity<br>DecayEntity<br>Model<br>BoxCollider<br>|Assets/Prefabs/Misc/Marketplace/MarketTerminal.prefab|
 |orebonus_generic|1618627814|OreHotSpot<br>SphereCollider<br>|Assets/Prefabs/Misc/OreBonus/orebonus_generic.prefab|
 |parachute|1268659691|BaseEntity<br>|Assets/Prefabs/Misc/Parachute/parachute.prefab|
@@ -1390,7 +1391,7 @@
 |NPC_TunnelDweller|732025282|TunnelDweller<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>CapsuleCollider<br>Rigidbody<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/TunnelDweller/NPC_TunnelDweller.prefab|
 |NPC_UnderwaterDweller|1605597847|UnderwaterDweller<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>CapsuleCollider<br>Rigidbody<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/UnderwaterDweller/NPC_UnderwaterDweller.prefab|
 |NPCPlayerTest|1256759028|NPCPlayer<br>BaseCombatEntity<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>|Assets/Rust.Ai/Agents/NPCPlayer/NPCPlayerTest.prefab|
-|FrankensteinPet|3489787657|FrankensteinPet<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>NavMeshAgent<br>FrankensteinBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/Pet/FrankensteinPet.prefab|
+|FrankensteinPet|3489787657|FrankensteinPet<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>NavMeshAgent<br>FrankensteinBrain<br>BaseAIBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/Pet/FrankensteinPet.prefab|
 |frankensteinpet_corpse|3842948583|NPCPlayerCorpse<br>BaseCombatEntity<br>LootableCorpse<br>BaseCorpse<br>HumanBodyResourceDispenser<br>Buoyancy<br>|Assets/Rust.Ai/Agents/NPCPlayer/Pet/frankensteinpet_corpse.prefab|
 |FrankensteinPetMarker|3667371159|MapMarkerPet<br>|Assets/Rust.Ai/Agents/NPCPlayer/Pet/FrankensteinPetMarker.prefab|
 |Stag.Corpse|784238137|BaseCorpse<br>ResourceDispenser<br>|Assets/Rust.Ai/Agents/Stag/Stag.Corpse.prefab|
