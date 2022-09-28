@@ -689,6 +689,7 @@
 |assets/content/props/fog machine/effects/emission.prefab|
 |assets/content/structures/excavator/prefabs/effects/enginerumble.prefab|
 |assets/content/structures/excavator/prefabs/effects/rockvibration.prefab|
+|assets/content/structures/office_interiors/effects/vent-door-open.prefab|
 |assets/content/vehicles/boats/effects/small-boat-push-land.prefab|
 |assets/content/vehicles/boats/effects/small-boat-push-water.prefab|
 |assets/content/vehicles/boats/effects/splash.prefab|
