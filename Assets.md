@@ -1046,6 +1046,7 @@
 |assets/content/properties/lootspawn/generated/items/food/chicken.cooked.asset|
 |assets/content/properties/lootspawn/generated/items/food/chicken.raw.asset|
 |assets/content/properties/lootspawn/generated/items/food/chocholate.asset|
+|assets/content/properties/lootspawn/generated/items/food/chocolate.asset|
 |assets/content/properties/lootspawn/generated/items/food/clone.corn.asset|
 |assets/content/properties/lootspawn/generated/items/food/clone.hemp.asset|
 |assets/content/properties/lootspawn/generated/items/food/clone.pumpkin.asset|
