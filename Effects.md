@@ -662,6 +662,7 @@
 |assets/content/effects/muzzleflashes/smg/shell_eject_smg.prefab|
 |assets/content/effects/objects/decal_box.prefab|
 |assets/content/effects/water/bullet_trails_underwater_01.prefab|
+|assets/content/effects/weather/dust/vfx_dust_cinematic_volume.prefab|
 |assets/content/effects/weather/lightning/lightningbolt.prefab|
 |assets/content/effects/weather/pfx_auroras.prefab|
 |assets/content/effects/weather/pfx_lightning_medium.prefab|
@@ -689,6 +690,7 @@
 |assets/content/props/fog machine/effects/emission.prefab|
 |assets/content/structures/excavator/prefabs/effects/enginerumble.prefab|
 |assets/content/structures/excavator/prefabs/effects/rockvibration.prefab|
+|assets/content/structures/office_interiors/effects/vent-door-close.prefab|
 |assets/content/structures/office_interiors/effects/vent-door-open.prefab|
 |assets/content/vehicles/boats/effects/small-boat-push-land.prefab|
 |assets/content/vehicles/boats/effects/small-boat-push-water.prefab|
@@ -1106,6 +1108,24 @@
 |assets/prefabs/tools/keycard/effects/attack.prefab|
 |assets/prefabs/tools/keycard/effects/deploy.prefab|
 |assets/prefabs/tools/keycard/effects/swipe.prefab|
+|assets/prefabs/tools/lumberjack_tools/effects_metal/effects/attack_shake.prefab|
+|assets/prefabs/tools/lumberjack_tools/effects_metal/effects/deploy.prefab|
+|assets/prefabs/tools/lumberjack_tools/effects_metal/effects/lumberjack-axe-strike.prefab|
+|assets/prefabs/tools/lumberjack_tools/effects_metal/effects/lumberjack-axe-strike-muted.prefab|
+|assets/prefabs/tools/lumberjack_tools/effects_metal/effects/lumberjack-pick-strike.prefab|
+|assets/prefabs/tools/lumberjack_tools/effects_metal/effects/lumberjack-pick-strike-muted.prefab|
+|assets/prefabs/tools/lumberjack_tools/effects_metal/effects/strike_screenshake.prefab|
+|assets/prefabs/tools/lumberjack_tools/effects_metal/effects/swing.prefab|
+|assets/prefabs/tools/lumberjack_tools/effects_metal/effects/throw.prefab|
+|assets/prefabs/tools/lumberjack_tools/effects_stone/effects/attack_shake.prefab|
+|assets/prefabs/tools/lumberjack_tools/effects_stone/effects/concrete-axe-strike.prefab|
+|assets/prefabs/tools/lumberjack_tools/effects_stone/effects/concrete-axe-strike-muted.prefab|
+|assets/prefabs/tools/lumberjack_tools/effects_stone/effects/concrete-pick-strike.prefab|
+|assets/prefabs/tools/lumberjack_tools/effects_stone/effects/concrete-pick-strike-muted.prefab|
+|assets/prefabs/tools/lumberjack_tools/effects_stone/effects/deploy.prefab|
+|assets/prefabs/tools/lumberjack_tools/effects_stone/effects/strike_screenshake.prefab|
+|assets/prefabs/tools/lumberjack_tools/effects_stone/effects/swing.prefab|
+|assets/prefabs/tools/lumberjack_tools/effects_stone/effects/throw.prefab|
 |assets/prefabs/tools/medical syringe/effects/inject_friend.prefab|
 |assets/prefabs/tools/medical syringe/effects/inject_self.prefab|
 |assets/prefabs/tools/medical syringe/effects/pop_button_cap.prefab|
