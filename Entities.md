@@ -1187,6 +1187,10 @@
 |keycard_blue_pickup.entity|675407027|ItemPickup<br>WorldItem<br>PhysicsEffects<br>|Assets/Prefabs/Tools/Keycard/keycard_blue_pickup.entity.prefab|
 |keycard_green_pickup.entity|1317896088|ItemPickup<br>WorldItem<br>PhysicsEffects<br>|Assets/Prefabs/Tools/Keycard/keycard_green_pickup.entity.prefab|
 |keycard_red_pickup.entity|3985212893|ItemPickup<br>WorldItem<br>PhysicsEffects<br>|Assets/Prefabs/Tools/Keycard/keycard_red_pickup.entity.prefab|
+|concrete_hatchet.entity|1777756171|BaseMelee<br>HeldEntity<br>|Assets/Prefabs/Tools/LumberJack_Tools/concrete_hatchet.entity.prefab|
+|concrete_pickaxe.entity|1480417083|BaseMelee<br>HeldEntity<br>|Assets/Prefabs/Tools/LumberJack_Tools/concrete_pickaxe.entity.prefab|
+|lumberjack_axe.entity|4035646930|BaseMelee<br>HeldEntity<br>|Assets/Prefabs/Tools/LumberJack_Tools/lumberjack_axe.entity.prefab|
+|lumberjack_pick.entity|1725165540|BaseMelee<br>HeldEntity<br>|Assets/Prefabs/Tools/LumberJack_Tools/lumberjack_pick.entity.prefab|
 |CargoMarker|843218194|MapMarkerCH47<br>|Assets/Prefabs/Tools/Map/CargoMarker.prefab|
 |CH47Marker|3775898198|MapMarkerCH47<br>|Assets/Prefabs/Tools/Map/CH47Marker.prefab|
 |CrateMarker|2366974922|MobileMapMarker<br>|Assets/Prefabs/Tools/Map/CrateMarker.prefab|
