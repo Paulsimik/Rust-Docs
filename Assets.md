@@ -844,6 +844,7 @@
 |assets/content/properties/lootspawn/generated/items/attire/hat.wolf.asset|
 |assets/content/properties/lootspawn/generated/items/attire/hazmatsuit.arcticsuit.asset|
 |assets/content/properties/lootspawn/generated/items/attire/hazmatsuit.asset|
+|assets/content/properties/lootspawn/generated/items/attire/hazmatsuit.lumberjack.asset|
 |assets/content/properties/lootspawn/generated/items/attire/hazmatsuit.nomadsuit.asset|
 |assets/content/properties/lootspawn/generated/items/attire/hazmatsuit.spacesuit.asset|
 |assets/content/properties/lootspawn/generated/items/attire/hazmatsuit_scientist.asset|
@@ -1299,6 +1300,8 @@
 |assets/content/properties/lootspawn/generated/items/tool/icepick.salvaged.asset|
 |assets/content/properties/lootspawn/generated/items/tool/jackhammer.asset|
 |assets/content/properties/lootspawn/generated/items/tool/keycard_green.asset|
+|assets/content/properties/lootspawn/generated/items/tool/lumberjack.hatchet.asset|
+|assets/content/properties/lootspawn/generated/items/tool/lumberjack.pickaxe.asset|
 |assets/content/properties/lootspawn/generated/items/tool/pickaxe.asset|
 |assets/content/properties/lootspawn/generated/items/tool/rf.detonator.asset|
 |assets/content/properties/lootspawn/generated/items/tool/sickle.asset|
@@ -1580,6 +1583,7 @@
 |assets/content/properties/protection/clothing/wood_armor.asset|
 |assets/content/properties/protection/clothing/wood_armor_helmet.asset|
 |assets/content/properties/protection/corpse_protection.asset|
+|assets/content/properties/protection/debrisbuildingblocker.asset|
 |assets/content/properties/protection/deployablegeneric.asset|
 |assets/content/properties/protection/deployablelighting.asset|
 |assets/content/properties/protection/deployablemetal.asset|
@@ -3735,6 +3739,18 @@
 |assets/content/sound/ui/ui-drop-wood.asset|
 |assets/content/sound/ui/ui-drop-wood-light.asset|
 |assets/content/sound/ui/ui-drop-wood-med.asset|
+|assets/content/sound/ui/ui-foliage-drop.asset|
+|assets/content/sound/ui/ui-foliage-pickup.asset|
+|assets/content/sound/ui/ui-liquid-container-drop.asset|
+|assets/content/sound/ui/ui-liquid-container-pickup.asset|
+|assets/content/sound/ui/ui-metal-knife-drop.asset|
+|assets/content/sound/ui/ui-metal-knife-pickup.asset|
+|assets/content/sound/ui/ui-metal-large-drop.asset|
+|assets/content/sound/ui/ui-metal-large-pickup.asset|
+|assets/content/sound/ui/ui-metal-medium-drop.asset|
+|assets/content/sound/ui/ui-metal-medium-loose-drop.asset|
+|assets/content/sound/ui/ui-metal-medium-loose-pickup.asset|
+|assets/content/sound/ui/ui-metal-medium-pickup.asset|
 |assets/content/sound/ui/ui-pickup-bone.asset|
 |assets/content/sound/ui/ui-pickup-can-empty.asset|
 |assets/content/sound/ui/ui-pickup-can-full.asset|
@@ -3765,6 +3781,16 @@
 |assets/content/sound/ui/ui-pickup-wood.asset|
 |assets/content/sound/ui/ui-pickup-wood-light.asset|
 |assets/content/sound/ui/ui-pickup-wood-med.asset|
+|assets/content/sound/ui/ui-pills-drop.asset|
+|assets/content/sound/ui/ui-pills-pickup.asset|
+|assets/content/sound/ui/ui-plastic-large-drop.asset|
+|assets/content/sound/ui/ui-plastic-large-pickup.asset|
+|assets/content/sound/ui/ui-plastic-medium-drop.asset|
+|assets/content/sound/ui/ui-plastic-medium-pickup.asset|
+|assets/content/sound/ui/ui-small-chain-drop.asset|
+|assets/content/sound/ui/ui-small-chain-pickup.asset|
+|assets/content/sound/ui/ui-thick-rubbery-drop.asset|
+|assets/content/sound/ui/ui-thick-rubbery-pickup.asset|
 |assets/content/sound/worldmusic/air-wolf-music-loop.ambience-def.asset|
 |assets/content/sound/worldmusic/air-wolf-music-loop.ambience-list.asset|
 |assets/content/sound/worldmusic/air-wolf-music-loop.asset|
@@ -3815,6 +3841,8 @@
 |assets/content/structures/lifts/sound/lift-movement-loop.asset|
 |assets/content/structures/lifts/sound/lift-movement-start.asset|
 |assets/content/structures/lifts/sound/lift-movement-stop.asset|
+|assets/content/structures/office_interiors/sound/vent-close.asset|
+|assets/content/structures/office_interiors/sound/vent-open.asset|
 |assets/content/ui/fonts/bootstrap robotocondensed-bold sdf.asset|
 |assets/content/ui/fonts/bootstrap robotocondensed-regular sdf.asset|
 |assets/content/ui/fonts/droidsansmono sdf.asset|
@@ -4210,6 +4238,7 @@
 |assets/content/vehicles/workcart/sound/workcart-fuel-wagon-open.asset|
 |assets/content/vehicles/workcart/sound/workcart-impact.asset|
 |assets/content/vehicles/workcart/sound/workcart-locomotive-active-loop.asset|
+|assets/content/vehicles/workcart/sound/workcart-locomotive-bell-ding.asset|
 |assets/content/vehicles/workcart/sound/workcart-locomotive-dismount.asset|
 |assets/content/vehicles/workcart/sound/workcart-locomotive-engine.loop-definition.asset|
 |assets/content/vehicles/workcart/sound/workcart-locomotive-engine-idle-loop.asset|
@@ -4423,6 +4452,7 @@
 |assets/plugins/rust.ui/controls/rustbutton.missiontoggle.asset|
 |assets/plugins/rust.ui/controls/rustbutton.normal.asset|
 |assets/plugins/rust.ui/controls/rustbutton.serverbrowser.asset|
+|assets/plugins/rust.ui/controls/rustbutton.servertag.asset|
 |assets/plugins/rust.ui/controls/rustbutton.success.asset|
 |assets/plugins/rust.ui/controls/rustbutton.success.toggle.asset|
 |assets/plugins/rust.ui/controls/rustbutton.tab.red.asset|
@@ -4444,6 +4474,7 @@
 |assets/plugins/rust.ui/controls/tabcontrol.normal.asset|
 |assets/plugins/rust.ui/controls/tabcontrol.sidebar.asset|
 |assets/plugins/rust.ui/controls/timelinemarker.asset|
+|assets/plugins/rust.ui/controls/ui.tweaks.dropdown.item.asset|
 |assets/plugins/rust.ui/icons/rusticon.asset|
 |assets/prefabs/ammo/torpedo/sound/torpedo-explosion.asset|
 |assets/prefabs/ammo/torpedo/sound/torpedo-explosion-splash.asset|
@@ -4593,6 +4624,7 @@
 |assets/prefabs/clothes/skirt.hide/skirt.hide.skinnable.asset|
 |assets/prefabs/clothes/suit.hazmat/arctic/hazmat.arctic.skin.asset|
 |assets/prefabs/clothes/suit.hazmat/hazmat.skinnable.asset|
+|assets/prefabs/clothes/suit.hazmat/lumberjack/hazmat.lumberjack.skin.asset|
 |assets/prefabs/clothes/suit.hazmat/nomad/hazmat.nomad.skin.asset|
 |assets/prefabs/clothes/suit.hazmat/spacesuit/hazmat.spacesuit.skin.asset|
 |assets/prefabs/clothes/tshirt.long/black/tshirt.long.black.itemskin.asset|
@@ -5629,6 +5661,16 @@
 |assets/prefabs/tools/jackhammer/sound/mechanics_loop.asset|
 |assets/prefabs/tools/keycard/sound/keycard_swing.asset|
 |assets/prefabs/tools/keycard/sound/keycard_swipe.asset|
+|assets/prefabs/tools/lumberjack_tools/sound/concrete-axe-attack.asset|
+|assets/prefabs/tools/lumberjack_tools/sound/concrete-axe-impact.asset|
+|assets/prefabs/tools/lumberjack_tools/sound/concrete-axe-impact-muted.asset|
+|assets/prefabs/tools/lumberjack_tools/sound/concrete-pick-impact.asset|
+|assets/prefabs/tools/lumberjack_tools/sound/concrete-pick-impact-muted.asset|
+|assets/prefabs/tools/lumberjack_tools/sound/lumberjack-axe-attack.asset|
+|assets/prefabs/tools/lumberjack_tools/sound/lumberjack-axe-impact.asset|
+|assets/prefabs/tools/lumberjack_tools/sound/lumberjack-axe-impact-muted.asset|
+|assets/prefabs/tools/lumberjack_tools/sound/lumberjack-pick-impact.asset|
+|assets/prefabs/tools/lumberjack_tools/sound/lumberjack-pick-impact-muted.asset|
 |assets/prefabs/tools/medical syringe/sound/syringe-deploy.asset|
 |assets/prefabs/tools/medical syringe/sound/syringe-deploy-3p.asset|
 |assets/prefabs/tools/medical syringe/sound/syringe-inject-friend.asset|
