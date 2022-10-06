@@ -136,6 +136,7 @@
 |![](https://rustlabs.com/img/items180/attire.banditguard.png)|Bandit Guard Gear|attire.banditguard|-1622110948|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
 |![](https://rustlabs.com/img/items180/hazmatsuit.arcticsuit.png)|Arctic Suit|hazmatsuit.arcticsuit|-470439097|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
 |![](https://rustlabs.com/img/items180/hazmatsuit.png)|Hazmat Suit|hazmatsuit|1266491000|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
+|![](https://rustlabs.com/img/items180/hazmatsuit.lumberjack.png)|Lumberjack Suit|hazmatsuit.lumberjack|861513346|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
 |![](https://rustlabs.com/img/items180/hazmatsuit.nomadsuit.png)|Nomad Suit|hazmatsuit.nomadsuit|491263800|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
 |![](https://rustlabs.com/img/items180/hazmatsuit_scientist.png)|Scientist Suit|hazmatsuit_scientist|-253079493|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
 |![](https://rustlabs.com/img/items180/hazmatsuit_scientist_arctic.png)|Arctic Scientist Suit|hazmatsuit_scientist_arctic|1107575710|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
@@ -301,10 +302,10 @@
 |![](https://rustlabs.com/img/items180/sign.post.single.png)|Single Sign Post|sign.post.single|1542290441|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>ItemModSign<br>ItemMod<br>|
 |![](https://rustlabs.com/img/items180/sign.post.town.png)|One Sided Town Sign Post|sign.post.town|-1832422579|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>ItemModSign<br>ItemMod<br>|
 |![](https://rustlabs.com/img/items180/sign.post.town.roof.png)|Two Sided Town Sign Post|sign.post.town.roof|826309791|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>ItemModSign<br>ItemMod<br>|
-|![](https://rustlabs.com/img/items180/sign.wooden.huge.png)|Huge Wooden Sign|sign.wooden.huge|-143132326|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
-|![](https://rustlabs.com/img/items180/sign.wooden.large.png)|Large Wooden Sign|sign.wooden.large|1153652756|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
-|![](https://rustlabs.com/img/items180/sign.wooden.medium.png)|Medium Wooden Sign|sign.wooden.medium|-1819233322|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
-|![](https://rustlabs.com/img/items180/sign.wooden.small.png)|Small Wooden Sign|sign.wooden.small|-1138208076|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/sign.wooden.huge.png)|Huge Wooden Sign|sign.wooden.huge|-143132326|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>ItemModSign<br>ItemMod<br>|
+|![](https://rustlabs.com/img/items180/sign.wooden.large.png)|Large Wooden Sign|sign.wooden.large|1153652756|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>ItemModSign<br>ItemMod<br>|
+|![](https://rustlabs.com/img/items180/sign.wooden.medium.png)|Medium Wooden Sign|sign.wooden.medium|-1819233322|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>ItemModSign<br>ItemMod<br>|
+|![](https://rustlabs.com/img/items180/sign.wooden.small.png)|Small Wooden Sign|sign.wooden.small|-1138208076|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>ItemModSign<br>ItemMod<br>|
 |![](https://rustlabs.com/img/items180/guntrap.png)|Shotgun Trap|guntrap|352499047|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/sleepingbag.png)|Sleeping Bag|sleepingbag|-1754948969|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/stash.small.png)|Small Stash|stash.small|-369760990|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
@@ -334,7 +335,7 @@
 |![](https://rustlabs.com/img/items180/cactusflesh.png)|Cactus Flesh|cactusflesh|1783512007|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>ItemModCompostable<br>|
 |![](https://rustlabs.com/img/items180/can.beans.png)|Can of Beans|can.beans|-700591459|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>|
 |![](https://rustlabs.com/img/items180/can.tuna.png)|Can of Tuna|can.tuna|-1941646328|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>|
-|![](https://rustlabs.com/img/items180/chocholate.png)|Chocolate Bar|chocholate|363467698|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>ItemModCompostable<br>|
+|![](https://rustlabs.com/img/items180/chocolate.png)|Chocolate Bar|chocolate|-965336208|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>ItemModCompostable<br>|
 |![](https://rustlabs.com/img/items180/fish.anchovy.png)|Anchovy|fish.anchovy|342438846|ItemModSwap<br>ItemModMenuOption<br>ItemModCompostable<br>ItemModFishable<br>|
 |![](https://rustlabs.com/img/items180/fish.catfish.png)|Catfish|fish.catfish|-587989372|ItemModSwap<br>ItemModMenuOption<br>ItemModCompostable<br>ItemModFishable<br>|
 |![](https://rustlabs.com/img/items180/fish.cooked.png)|Cooked Fish|fish.cooked|1668129151|ItemModConsume<br>ItemModConsumable<br>ItemModCookable<br>ItemModMenuOption<br>ItemModCompostable<br>|
@@ -650,6 +651,10 @@
 |![](https://rustlabs.com/img/items180/keycard_green.png)|Green Keycard|keycard_green|37122747|ItemModEntity<br>ItemModKeycard<br>|
 |![](https://rustlabs.com/img/items180/keycard_red.png)|Red Keycard|keycard_red|-1880870149|ItemModEntity<br>ItemModKeycard<br>|
 |![](https://rustlabs.com/img/items180/largemedkit.png)|Large Medkit|largemedkit|254522515|ItemModConsume<br>ItemModConsumable<br>ItemBlueprint<br>ItemModMenuOption<br>|
+|![](https://rustlabs.com/img/items180/concretehatchet.png)|Concrete Hatchet|concretehatchet|1176355476|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
+|![](https://rustlabs.com/img/items180/concretepickaxe.png)|Concrete Pickaxe|concretepickaxe|-1360171080|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
+|![](https://rustlabs.com/img/items180/lumberjack.hatchet.png)|Prototype Hatchet|lumberjack.hatchet|-399173933|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
+|![](https://rustlabs.com/img/items180/lumberjack.pickaxe.png)|Prototype Pickaxe|lumberjack.pickaxe|236677901|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |![](https://rustlabs.com/img/items180/map.png)|Paper Map|map|696029452|ItemBlueprint<br>ItemModEntity<br>ItemModContainerRestriction<br>|
 |![](https://rustlabs.com/img/items180/syringe.medical.png)|Medical Syringe|syringe.medical|1079279582|ItemModEntity<br>ItemBlueprint<br>ItemModConsumable<br>|
 |![](https://rustlabs.com/img/items180/rf_pager.png)|RF Pager|rf_pager|-566907190|ItemModRFListener<br>ItemMod<br>ItemBlueprint<br>|
