@@ -5661,6 +5661,10 @@
 |assets/prefabs/tools/jackhammer/sound/mechanics_loop.asset|
 |assets/prefabs/tools/keycard/sound/keycard_swing.asset|
 |assets/prefabs/tools/keycard/sound/keycard_swipe.asset|
+|assets/prefabs/tools/lumberjack_tools/concrete_hatchet.skin.asset|
+|assets/prefabs/tools/lumberjack_tools/concrete_pickaxe.skin.asset|
+|assets/prefabs/tools/lumberjack_tools/lumberjack_axe.skin.asset|
+|assets/prefabs/tools/lumberjack_tools/lumberjack_pick.skin.asset|
 |assets/prefabs/tools/lumberjack_tools/sound/concrete-axe-attack.asset|
 |assets/prefabs/tools/lumberjack_tools/sound/concrete-axe-impact.asset|
 |assets/prefabs/tools/lumberjack_tools/sound/concrete-axe-impact-muted.asset|
