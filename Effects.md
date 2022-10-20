@@ -1055,6 +1055,8 @@
 |assets/prefabs/missions/effects/mission_failed.prefab|
 |assets/prefabs/missions/effects/mission_objective_complete.prefab|
 |assets/prefabs/missions/effects/mission_victory.prefab|
+|assets/prefabs/missions/portal/proceduraldungeon/effects/appear.prefab|
+|assets/prefabs/missions/portal/proceduraldungeon/effects/disappear.prefab|
 |assets/prefabs/npc/autoturret/effects/autoturret-deploy.prefab|
 |assets/prefabs/npc/autoturret/effects/offline.prefab|
 |assets/prefabs/npc/autoturret/effects/online.prefab|
@@ -1312,6 +1314,11 @@
 |assets/prefabs/weapons/hacksaw/effects/attack-1.prefab|
 |assets/prefabs/weapons/hacksaw/effects/attack-2.prefab|
 |assets/prefabs/weapons/hacksaw/effects/hit.prefab|
+|assets/prefabs/weapons/halloween/baseballbat/effects/attack-1.prefab|
+|assets/prefabs/weapons/halloween/baseballbat/effects/attack-2.prefab|
+|assets/prefabs/weapons/halloween/baseballbat/effects/deploy.prefab|
+|assets/prefabs/weapons/halloween/baseballbat/effects/hit.prefab|
+|assets/prefabs/weapons/halloween/baseballbat/effects/throw.prefab|
 |assets/prefabs/weapons/halloween/butcher knife/effects/attack-1.prefab|
 |assets/prefabs/weapons/halloween/butcher knife/effects/attack-2.prefab|
 |assets/prefabs/weapons/halloween/butcher knife/effects/deploy.prefab|
@@ -1339,6 +1346,15 @@
 |assets/prefabs/weapons/halloween/sickle/effects/strike-soft.prefab|
 |assets/prefabs/weapons/halloween/sickle/effects/swing.prefab|
 |assets/prefabs/weapons/halloween/sickle/effects/throw.prefab|
+|assets/prefabs/weapons/halloween/skull torch/effects/attack.prefab|
+|assets/prefabs/weapons/halloween/skull torch/effects/attack_lit.prefab|
+|assets/prefabs/weapons/halloween/skull torch/effects/deploy.prefab|
+|assets/prefabs/weapons/halloween/skull torch/effects/extinguish.prefab|
+|assets/prefabs/weapons/halloween/skull torch/effects/ignite.prefab|
+|assets/prefabs/weapons/halloween/skull torch/effects/strike.prefab|
+|assets/prefabs/weapons/halloween/skull torch/effects/strike_lit.prefab|
+|assets/prefabs/weapons/halloween/skull torch/effects/strike_screenshake.prefab|
+|assets/prefabs/weapons/halloween/skull torch/effects/torch_loop.prefab|
 |assets/prefabs/weapons/hammer/effects/attack.prefab|
 |assets/prefabs/weapons/hammer/effects/deploy.prefab|
 |assets/prefabs/weapons/hammer/effects/holster.prefab|
