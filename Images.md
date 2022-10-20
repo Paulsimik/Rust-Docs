@@ -3,6 +3,7 @@
 |assets/prefabs/missions/items/captain_log.png|
 |assets/prefabs/missions/items/fishing.tackle.icon.png|
 |assets/prefabs/missions/items/vodka_bottle.icon.png|
+|assets/prefabs/missions/portal/proceduraldungeon/effects/bunker_door_haunted_fx.tga|
 |assets/prefabs/missions/textures/mission_icon.png|
 |assets/prefabs/missions/textures/mission_icon_complete.png|
 |assets/prefabs/missions/textures/mission_provider.png|
