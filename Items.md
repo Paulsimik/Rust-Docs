@@ -90,6 +90,7 @@
 |![](https://rustlabs.com/img/items180/halloween.mummysuit.png)|Mummy Suit|halloween.mummysuit|277730763|ItemModWearable<br>|
 |![](https://rustlabs.com/img/items180/scarecrow.suit.png)|Scarecrow Suit|scarecrow.suit|273951840|ItemModWearable<br>|
 |![](https://rustlabs.com/img/items180/scarecrowhead.png)|Scarecrow Wrap|scarecrowhead|809942731|ItemModWearable<br>ItemBlueprint<br>|
+|![](https://rustlabs.com/img/items180/metal.facemask.hockey.png)|Hockey Mask|metal.facemask.hockey|-1334569149|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/attire.hide.helterneck.png)|Hide Halterneck|attire.hide.helterneck|3222790|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/hat.beenie.png)|Beenie Hat|hat.beenie|1675639563|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/hat.boonie.png)|Boonie Hat|hat.boonie|-23994173|ItemModWearable<br>ItemBlueprint<br>|
@@ -728,9 +729,11 @@
 |![](https://rustlabs.com/img/items180/flamethrower.png)|Flame Thrower|flamethrower|-1215753368|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |![](https://rustlabs.com/img/items180/grenade.flashbang.png)|Flashbang|grenade.flashbang|-936921910|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/multiplegrenadelauncher.png)|Multiple Grenade Launcher|multiplegrenadelauncher|-1123473824|ItemModEntity<br>ItemModContainer<br>ItemBlueprint<br>|
+|![](https://rustlabs.com/img/items180/mace.baseballbat.png)|Baseball Bat|mace.baseballbat|-2026042603|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |![](https://rustlabs.com/img/items180/knife.butcher.png)|Butcher Knife|knife.butcher|-194509282|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |![](https://rustlabs.com/img/items180/pitchfork.png)|Pitchfork|pitchfork|1090916276|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |![](https://rustlabs.com/img/items180/sickle.png)|Sickle|sickle|-1368584029|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
+|![](https://rustlabs.com/img/items180/torch.torch.skull.png)|Cultist Deer Torch|torch.torch.skull|-1175656359|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/skull.png)|Skull|skull|1312843609|ItemModEntity<br>ItemModProjectile<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/hammer.png)|Hammer|hammer|200773292|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |![](https://rustlabs.com/img/items180/hatchet.png)|Hatchet|hatchet|-1252059217|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
