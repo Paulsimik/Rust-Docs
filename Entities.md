@@ -407,7 +407,7 @@
 |Tree_Marking|954334883|TreeMarker<br>|Assets/Content/Nature/TreesPrefabs/Trees/Effects/Tree_Marking.prefab|
 |Tree_Marking_NoSpherecast|1966986960|TreeMarker<br>|Assets/Content/Nature/TreesPrefabs/Trees/Effects/Tree_Marking_NoSpherecast.prefab|
 |barricade_cover_wood_static|2194500231||Assets/Content/Props/Barricades_static/barricade_cover_wood_static.prefab|
-|FogMachine|1390895812|FogMachine<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|Assets/Content/Props/Fog Machine/FogMachine.prefab|
+|FogMachine|1390895812|FogMachine<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>BoxCollider<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|Assets/Content/Props/Fog Machine/FogMachine.prefab|
 |Excavator Lighting Static|1362540524|LightListener<br>|Assets/Content/Props/light_fixtures/v2/Radtown Work Prefabs/Excavator Lighting Static.prefab|
 |Excavator_Lights|863874129|LightListener<br>|Assets/Content/Props/light_fixtures/v2/Radtown Work Prefabs/Excavator_Lights.prefab|
 |Roadsign1|1470494616|CapsuleCollider<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>Spawnable<br>TakeCollisionDamage<br>|Assets/Content/Props/roadsigns/Roadsign1.prefab|
@@ -421,7 +421,7 @@
 |Roadsign9|2277225257|CapsuleCollider<br>BoxCollider<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>Spawnable<br>TakeCollisionDamage<br>|Assets/Content/Props/roadsigns/Roadsign9.prefab|
 |sentry.bandit.static|1386184467|NPCAutoTurret<br>BaseCombatEntity<br>ContainerIOEntity<br>IOEntity<br>DecayEntity<br>Model<br>CapsuleCollider<br>|Assets/Content/Props/sentry_scientists/sentry.bandit.static.prefab|
 |sentry.scientist.static|324270742|NPCAutoTurret<br>BaseCombatEntity<br>ContainerIOEntity<br>IOEntity<br>DecayEntity<br>Model<br>CapsuleCollider<br>|Assets/Content/Props/sentry_scientists/sentry.scientist.static.prefab|
-|StrobeLight|699083235|StrobeLight<br>BoxCollider<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|Assets/Content/Props/Strobe Light/StrobeLight.prefab|
+|StrobeLight|699083235|StrobeLight<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|Assets/Content/Props/Strobe Light/StrobeLight.prefab|
 |TrainBarricade|1221760186|TrainBarricade<br>Spawnable<br>|Assets/Content/Props/train_tunnels/TrainBarricade.prefab|
 |TrainBarricadeHeavy|1363243026|TrainBarricade<br>Spawnable<br>|Assets/Content/Props/train_tunnels/TrainBarricadeHeavy.prefab|
 |door.hinged.arctic.garage|276455361|Door<br>BaseCombatEntity<br>DecayEntity<br>StabilityEntity<br>Model<br>|Assets/Content/Structures/Arctic_base_modules/door.hinged.arctic.garage.prefab|
@@ -1096,7 +1096,7 @@
 |sled.deployed|4063253222|Sled<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>PhysicsEffects<br>|Assets/Prefabs/Misc/XMas/sled/sled.deployed.prefab|
 |presentdrop|1473303316|SupplyDrop<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>EntityTimedDestroy<br>Rigidbody<br>|Assets/Prefabs/Misc/XMas/sleigh/presentdrop.prefab|
 |SantaSleigh|247291312|SantaSleigh<br>Model<br>|Assets/Prefabs/Misc/XMas/sleigh/SantaSleigh.prefab|
-|SnowMachine|2117501564|SnowMachine<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>BoxCollider<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|Assets/Prefabs/Misc/XMas/snow_machine/Models/SnowMachine.prefab|
+|SnowMachine|2117501564|SnowMachine<br>BaseCombatEntity<br>ContainerIOEntity<br>IOEntity<br>DecayEntity<br>BoxCollider<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|Assets/Prefabs/Misc/XMas/snow_machine/Models/SnowMachine.prefab|
 |snowball.entity|591451995|BaseMelee<br>HeldEntity<br>|Assets/Prefabs/Misc/XMas/Snowball/snowball.entity.prefab|
 |snowballgun.entity|3228215527|SnowballGun<br>HeldEntity<br>AttackEntity<br>Model<br>|Assets/Prefabs/Misc/XMas/SnowballGun/snowballgun.entity.prefab|
 |snowman.deployed|1103550732|DecorDeployable<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|Assets/Prefabs/Misc/XMas/Snowman/snowman.deployed.prefab|
@@ -1111,6 +1111,13 @@
 |MissionLootBox_Basic|3128236346|WhitelistLootContainer<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>BoxCollider<br>|Assets/Prefabs/Missions/Entities/MissionLootBox_Basic.prefab|
 |MissionStash|3490516309|WhitelistLootContainer<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>BoxCollider<br>|Assets/Prefabs/Missions/Entities/MissionStash.prefab|
 |TackleBox|1126295133|WhitelistLootContainer<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>BoxCollider<br>|Assets/Prefabs/Missions/Entities/TackleBox.prefab|
+|Bunker|2750475248|MonumentNavMesh<br>DynamicDungeon<br>|Assets/Prefabs/Missions/Portal/Bunker.prefab|
+|Bunker_Corridor_A|362606634|DynamicDungeon<br>MonumentNavMesh<br>|Assets/Prefabs/Missions/Portal/Bunker_Corridor_A.prefab|
+|Bunker_Door_Portal|2895212062|BasePortal<br>|Assets/Prefabs/Missions/Portal/Bunker_Door_Portal.prefab|
+|Bunker_Entrance|3789623955|BunkerEntrance<br>Model<br>AiLocationManager<br>AIInformationZone<br>|Assets/Prefabs/Missions/Portal/Bunker_Entrance.prefab|
+|HalloweenPortalEntry|3939551954|HalloweenDungeon<br>BaseCombatEntity<br>BoxCollider<br>Spawnable<br>|Assets/Prefabs/Missions/Portal/HalloweenPortalEntry.prefab|
+|HalloweenPortalExit|1686410832|BasePortal<br>BoxCollider<br>|Assets/Prefabs/Missions/Portal/HalloweenPortalExit.prefab|
+|MineDungeon|3461158248|ProceduralDynamicDungeon<br>MonumentNavMesh<br>|Assets/Prefabs/Missions/Portal/MineDungeon.prefab|
 |autoturret_deployed|3312510084|AutoTurret<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>Model<br>DestroyOnGroundMissing<br>GroundWatch<br>CapsuleCollider<br>|Assets/Prefabs/NPC/AutoTurret/autoturret_deployed.prefab|
 |AirWolfSpawner|3960558419|VehicleSpawner<br>BoxCollider<br>|Assets/Prefabs/NPC/Bandit/AirWolfSpawner.prefab|
 |BoatSpawner|2609911909|VehicleSpawner<br>BoxCollider<br>|Assets/Prefabs/NPC/Bandit/BoatSpawner.prefab|
@@ -1154,6 +1161,8 @@
 |SAM_site_turret_deployed|2059775839|SamSite<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|Assets/Prefabs/NPC/SAM_Site_turret/SAM_site_turret_deployed.prefab|
 |SAM_Static|2934818568|SamSite<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|Assets/Prefabs/NPC/SAM_Site_turret/SAM_Static.prefab|
 |Scarecrow|3473349223|ScarecrowNPC<br>BaseCombatEntity<br>BasePlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>Spawnable<br>NPCPlayerNavigator<br>NavMeshAgent<br>ScarecrowBrain<br>Spawnable<br>|Assets/Prefabs/NPC/Scarecrow/Scarecrow.prefab|
+|Scarecrow_Dungeon|3019050354|ScarecrowNPC<br>BaseCombatEntity<br>BasePlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>Spawnable<br>NPCPlayerNavigator<br>NavMeshAgent<br>ScarecrowBrain<br>Spawnable<br>|Assets/Prefabs/NPC/Scarecrow/Scarecrow_Dungeon.prefab|
+|Scarecrow_DungeonNoRoam|70161046|ScarecrowNPC<br>BaseCombatEntity<br>BasePlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>Spawnable<br>NPCPlayerNavigator<br>NavMeshAgent<br>ScarecrowBrain<br>Spawnable<br>|Assets/Prefabs/NPC/Scarecrow/Scarecrow_DungeonNoRoam.prefab|
 |scientist_corpse|1236143239|NPCPlayerCorpse<br>BaseCombatEntity<br>LootableCorpse<br>BaseCorpse<br>HumanBodyResourceDispenser<br>Buoyancy<br>|Assets/Prefabs/NPC/Scientist/scientist_corpse.prefab|
 |black_berry.entity|654911969|GrowableEntity<br>BoxCollider<br>|Assets/Prefabs/Plants/Berrry/Black/black_berry.entity.prefab|
 |blue_berry.entity|402225589|GrowableEntity<br>BoxCollider<br>|Assets/Prefabs/Plants/Berrry/Blue/blue_berry.entity.prefab|
@@ -1310,9 +1319,11 @@
 |grenade.flashbang.entity|758326244|GrenadeWeapon<br>HeldEntity<br>AttackEntity<br>|Assets/Prefabs/Weapons/Flashbang/grenade.flashbang.entity.prefab|
 |MGL.entity|1233562048|BaseLauncher<br>HeldEntity<br>AttackEntity<br>Model<br>|Assets/Prefabs/Weapons/Grenade Launcher/MGL.entity.prefab|
 |hacksaw.weapon|2487927393|BaseMelee<br>HeldEntity<br>|Assets/Prefabs/Weapons/Hacksaw/hacksaw.weapon.prefab|
+|mace.baseballbat|1769459881|BaseMelee<br>HeldEntity<br>|Assets/Prefabs/Weapons/Halloween/BaseballBat/mace.baseballbat.prefab|
 |butcherknife.entity|1362182970|BaseMelee<br>HeldEntity<br>|Assets/Prefabs/Weapons/Halloween/Butcher Knife/butcherknife.entity.prefab|
 |pitchfork.entity|1009417331|BaseMelee<br>HeldEntity<br>|Assets/Prefabs/Weapons/Halloween/Pitchfork/pitchfork.entity.prefab|
 |sickle.entity|124547093|BaseMelee<br>HeldEntity<br>|Assets/Prefabs/Weapons/Halloween/Sickle/sickle.entity.prefab|
+|skulltorch.entity|3258690150|TorchWeapon<br>HeldEntity<br>AttackEntity<br>MaterialParameterToggle<br>|Assets/Prefabs/Weapons/Halloween/Skull Torch/skulltorch.entity.prefab|
 |skull.entity|1140399555|BaseMelee<br>HeldEntity<br>|Assets/Prefabs/Weapons/Halloween/Skull_Halloween/skull.entity.prefab|
 |hammer.entity|388861612|Hammer<br>HeldEntity<br>AttackEntity<br>|Assets/Prefabs/Weapons/Hammer/hammer.entity.prefab|
 |hatchet.entity|365233245|BaseMelee<br>HeldEntity<br>|Assets/Prefabs/Weapons/Hatchet/hatchet.entity.prefab|
@@ -1393,6 +1404,7 @@
 |ScientistNPC_Roam|4199494415|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>CapsuleCollider<br>Rigidbody<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/Scientist/ScientistNPC_Roam.prefab|
 |ScientistNPC_RoamTethered|529928930|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>CapsuleCollider<br>Rigidbody<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/Scientist/ScientistNPC_RoamTethered.prefab|
 |NPC_TunnelDweller|732025282|TunnelDweller<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>CapsuleCollider<br>Rigidbody<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/TunnelDweller/NPC_TunnelDweller.prefab|
+|NPC_TunnelDwellerSpawned|1934869703|TunnelDweller<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>CapsuleCollider<br>Rigidbody<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/TunnelDweller/NPC_TunnelDwellerSpawned.prefab|
 |NPC_UnderwaterDweller|1605597847|UnderwaterDweller<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>CapsuleCollider<br>Rigidbody<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/HumanNPC/UnderwaterDweller/NPC_UnderwaterDweller.prefab|
 |NPCPlayerTest|1256759028|NPCPlayer<br>BaseCombatEntity<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>|Assets/Rust.Ai/Agents/NPCPlayer/NPCPlayerTest.prefab|
 |FrankensteinPet|3489787657|FrankensteinPet<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>NavMeshAgent<br>FrankensteinBrain<br>BaseAIBrain<br>NPCPlayerNavigator<br>|Assets/Rust.Ai/Agents/NPCPlayer/Pet/FrankensteinPet.prefab|
