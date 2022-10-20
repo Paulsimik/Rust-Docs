@@ -1339,6 +1339,7 @@
 |assets/content/properties/lootspawn/generated/items/weapon/lmg.m249.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/longsword.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/mace.asset|
+|assets/content/properties/lootspawn/generated/items/weapon/mace.baseballbat.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/machete.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/multiplegrenadelauncher.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/paddle.asset|
@@ -4529,6 +4530,7 @@
 |assets/prefabs/clothes/halloween.ghostsheet/cloth.ghostsheet.asset|
 |assets/prefabs/clothes/halloween.ghostsheet/player_skeleton.ghostsheet.asset|
 |assets/prefabs/clothes/halloween.ghostsheet/sbmat_ghostsheet.asset|
+|assets/prefabs/clothes/haloween.hockeymask/metal.facemask.hockey.skin.asset|
 |assets/prefabs/clothes/halterneck.hide/halterneck.hide.skinnable.asset|
 |assets/prefabs/clothes/hat.beenie/black/hat.beenie.black.itemskin.asset|
 |assets/prefabs/clothes/hat.beenie/blue/hat.beenie.blue.itemskin.asset|
@@ -5422,6 +5424,7 @@
 |assets/prefabs/missions/deerhunt_basic.asset|
 |assets/prefabs/missions/divemaster_cratefree.asset|
 |assets/prefabs/missions/divemaster_sharkhunt.asset|
+|assets/prefabs/missions/dungeonmission.asset|
 |assets/prefabs/missions/fisherman_fishing.asset|
 |assets/prefabs/missions/fisherman_oilhunt.asset|
 |assets/prefabs/missions/fisherman_tackle.asset|
@@ -5446,6 +5449,7 @@
 |assets/prefabs/missions/objectives/testing/killboar.asset|
 |assets/prefabs/missions/objectives/testing/killdeer.asset|
 |assets/prefabs/missions/objectives/testing/killshark.asset|
+|assets/prefabs/missions/objectives/testing/movedungeon.asset|
 |assets/prefabs/missions/objectives/testing/moveobjectivefirst.asset|
 |assets/prefabs/missions/objectives/testing/moveobjectivefirst_close.asset|
 |assets/prefabs/missions/objectives/testing/moveobjectivefirst_roughly.asset|
@@ -5456,7 +5460,10 @@
 |assets/prefabs/missions/objectives/testing/speakwithprovider_returntackle.asset|
 |assets/prefabs/missions/objectives/testing/speakwithprovider_returnvodka.asset|
 |assets/prefabs/missions/objectives/testing/speakwithprovider_returnwood.asset|
+|assets/prefabs/missions/portal/halloweendungeon.population.asset|
+|assets/prefabs/missions/portal/proceduraldungeon/effects/portalwind.asset|
 |assets/prefabs/missions/positiongenerator/beachgen.asset|
+|assets/prefabs/missions/positiongenerator/dungeongen.asset|
 |assets/prefabs/missions/positiongenerator/forestgen.asset|
 |assets/prefabs/missions/positiongenerator/lakesidegen.asset|
 |assets/prefabs/missions/positiongenerator/oceangen.asset|
@@ -5488,6 +5495,7 @@
 |assets/prefabs/npc/bandit/airwolfhelivendor.asset|
 |assets/prefabs/npc/bandit/boatvendor.asset|
 |assets/prefabs/npc/bandit/divemasterconversation.asset|
+|assets/prefabs/npc/bandit/dungeonmissiontestconversation.asset|
 |assets/prefabs/npc/bandit/fishermanconversation.asset|
 |assets/prefabs/npc/bandit/hunterconversation.asset|
 |assets/prefabs/npc/bandit/hunterconversationfull.asset|
@@ -5908,6 +5916,18 @@
 |assets/prefabs/weapons/grenade launcher/sound/grenade-launcher-reload-single-spin.asset|
 |assets/prefabs/weapons/grenade launcher/sound/grenade-launcher-reload-single-start.asset|
 |assets/prefabs/weapons/grenade launcher/sound/grenade-launcher-reload-start.asset|
+|assets/prefabs/weapons/halloween/baseballbat/mace.baseballbat.skin.asset|
+|assets/prefabs/weapons/halloween/baseballbat/sound/baseball-bat-strike.asset|
+|assets/prefabs/weapons/halloween/skull torch/sbmat_skulltorch.asset|
+|assets/prefabs/weapons/halloween/skull torch/sound/skull-torch-attack.asset|
+|assets/prefabs/weapons/halloween/skull torch/sound/skull-torch-attack-lit.asset|
+|assets/prefabs/weapons/halloween/skull torch/sound/skull-torch-burn-loop.asset|
+|assets/prefabs/weapons/halloween/skull torch/sound/skull-torch-deploy.asset|
+|assets/prefabs/weapons/halloween/skull torch/sound/skull-torch-extinguish.asset|
+|assets/prefabs/weapons/halloween/skull torch/sound/skull-torch-ignite.asset|
+|assets/prefabs/weapons/halloween/skull torch/sound/skull-torch-strike.asset|
+|assets/prefabs/weapons/halloween/skull torch/sound/skull-torch-strike-lit.asset|
+|assets/prefabs/weapons/halloween/skull torch/torch.skull.skin.asset|
 |assets/prefabs/weapons/halloween/skull_halloween/skull.skin.asset|
 |assets/prefabs/weapons/hammer/hammer.skinnable.asset|
 |assets/prefabs/weapons/hammer/sound/hammer-attack.asset|
@@ -6027,6 +6047,7 @@
 |assets/prefabs/weapons/m92/sounds/m92-safety-off.asset|
 |assets/prefabs/weapons/m92/sounds/m92-slide-open.asset|
 |assets/prefabs/weapons/m92/sounds/m92-slide-shut.asset|
+|assets/prefabs/weapons/mace/mace.skinnable.asset|
 |assets/prefabs/weapons/mace/sound/2handed-mace-attack.asset|
 |assets/prefabs/weapons/mace/sound/2handed-mace-attack-3p.asset|
 |assets/prefabs/weapons/mace/sound/2handed-mace-deploy.asset|
@@ -6325,6 +6346,7 @@
 |assets/prefabs/weapons/torch/sound/torch-extinguish.asset|
 |assets/prefabs/weapons/torch/sound/torch-ignite.asset|
 |assets/prefabs/weapons/torch/sound/torch-strike.asset|
+|assets/prefabs/weapons/torch/torch.skinnable.asset|
 |assets/prefabs/weapons/waterbucket/sound/waterbucket-deploy.asset|
 |assets/prefabs/weapons/waterbucket/sound/waterbucket-deploy-3p.asset|
 |assets/prefabs/weapons/waterbucket/sound/waterbucket-fill-container.asset|
@@ -6451,6 +6473,7 @@
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/scientist.patrol.aidesign.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/scientist.peacekeeper.aidesign.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/scientist.roam.aidesign.asset|
+|assets/rust.ai/agents/npcplayer/humannpc/scientist/scientist.spawnmovetovector3.aidesign.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/testloadout.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/tunneldweller/tunneldwellera.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/tunneldweller/tunneldwellerb.asset|
@@ -6470,6 +6493,7 @@
 |assets/rust.ai/agents/npcplayer/pet/sound/frankenstein-monster-vocal-hurt.asset|
 |assets/rust.ai/agents/npcplayer/pet/sound/frankenstein-monster-vocal-ordered.asset|
 |assets/rust.ai/agents/npcplayer/scarecrow.aidesign.asset|
+|assets/rust.ai/agents/npcplayer/scarecrow.dungeon.noroam.aidesign.asset|
 |assets/rust.ai/agents/stag/footsteps/stag-footstep-concrete.asset|
 |assets/rust.ai/agents/stag/footsteps/stag-footstep-dirt.asset|
 |assets/rust.ai/agents/stag/footsteps/stag-footstep-grass.asset|
