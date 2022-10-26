@@ -1852,6 +1852,11 @@
 |assets/content/properties/steamcategories/limited-halloween2021-599.steam.asset|
 |assets/content/properties/steamcategories/limited-halloween2021-699.steam.asset|
 |assets/content/properties/steamcategories/limited-halloween2021-899.steam.asset|
+|assets/content/properties/steamcategories/limited-halloween2022-299.steam.asset|
+|assets/content/properties/steamcategories/limited-halloween2022-399.steam.asset|
+|assets/content/properties/steamcategories/limited-halloween2022-499.steam.asset|
+|assets/content/properties/steamcategories/limited-halloween2022-599.steam.asset|
+|assets/content/properties/steamcategories/limited-halloween2022-799.steam.asset|
 |assets/content/properties/steamcategories/limited-july4-2021-1000.steam.asset|
 |assets/content/properties/steamcategories/limited-july4-2021-500.steam.asset|
 |assets/content/properties/steamcategories/limited-movember2020.steam.asset|
@@ -4463,6 +4468,7 @@
 |assets/plugins/rust.ui/controls/rustimagebutton.toggle.danger.asset|
 |assets/plugins/rust.ui/controls/rustimagebutton.toggle.success.asset|
 |assets/plugins/rust.ui/controls/rustinput.normal.asset|
+|assets/plugins/rust.ui/controls/rustinput.serverbrowser.asset|
 |assets/plugins/rust.ui/controls/rustinput.transparent.asset|
 |assets/plugins/rust.ui/controls/rustoption.normal.asset|
 |assets/plugins/rust.ui/controls/rustslider.demo.asset|
@@ -6337,6 +6343,7 @@
 |assets/prefabs/weapons/toolgun/gmod.toolgun.sitem.asset|
 |assets/prefabs/weapons/toolgun/sound/repairerror.asset|
 |assets/prefabs/weapons/toolgun/sound/toolgun-attack.asset|
+|assets/prefabs/weapons/torch/effects/sbmat_fire_dynamic.asset|
 |assets/prefabs/weapons/torch/sound/torch-attack.asset|
 |assets/prefabs/weapons/torch/sound/torch-attack-3p.asset|
 |assets/prefabs/weapons/torch/sound/torch-attack-lit.asset|
