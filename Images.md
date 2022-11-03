@@ -15,6 +15,9 @@
 |assets/scenes/prefabs/airfield/airfield_1/splattexture0.png|
 |assets/scenes/prefabs/airfield/airfield_1/splattexture1.png|
 |assets/scenes/prefabs/airfield/airfield_1/topologytexture.png|
+|assets/scenes/prefabs/airfield/airfield_1_root_lods/airfield_1_root_hlod_albedo.png|
+|assets/scenes/prefabs/airfield/airfield_1_root_lods/airfield_1_root_hlod_normals.png|
+|assets/scenes/prefabs/airfield/airfield_1_root_lods/airfield_1_root_hlod_specular.png|
 |assets/scenes/prefabs/arctic research bases/arctic_research_base_a/alphatexture.png|
 |assets/scenes/prefabs/arctic research bases/arctic_research_base_a/biometexture.png|
 |assets/scenes/prefabs/arctic research bases/arctic_research_base_a/blendtexture.png|
@@ -36,6 +39,9 @@
 |assets/scenes/prefabs/bandid_town/bandit_town/splattexture1.png|
 |assets/scenes/prefabs/bandid_town/bandit_town/topologytexture.png|
 |assets/scenes/prefabs/bandid_town/bandit_town/watertexture.png|
+|assets/scenes/prefabs/bandid_town/bandit_town_root_lods/bandit_town_root_hlod_albedo.png|
+|assets/scenes/prefabs/bandid_town/bandit_town_root_lods/bandit_town_root_hlod_normals.png|
+|assets/scenes/prefabs/bandid_town/bandit_town_root_lods/bandit_town_root_hlod_specular.png|
 |assets/scenes/prefabs/cave/cave_large_hard/alphatexture.png|
 |assets/scenes/prefabs/cave/cave_large_hard/biometexture.png|
 |assets/scenes/prefabs/cave/cave_large_hard/blendtexture.png|
@@ -121,6 +127,9 @@
 |assets/scenes/prefabs/compound/compound/splattexture0.png|
 |assets/scenes/prefabs/compound/compound/splattexture1.png|
 |assets/scenes/prefabs/compound/compound/topologytexture.png|
+|assets/scenes/prefabs/compound/compound_root_lods/compound_root_hlod_albedo.png|
+|assets/scenes/prefabs/compound/compound_root_lods/compound_root_hlod_normals.png|
+|assets/scenes/prefabs/compound/compound_root_lods/compound_root_hlod_specular.png|
 |assets/scenes/prefabs/desert military bases/desert_military_base_a/biometexture.png|
 |assets/scenes/prefabs/desert military bases/desert_military_base_a/blendtexture.png|
 |assets/scenes/prefabs/desert military bases/desert_military_base_a/heighttexture.png|
@@ -167,6 +176,15 @@
 |assets/scenes/prefabs/fishing_village/fishing_village_a/splattexture0.png|
 |assets/scenes/prefabs/fishing_village/fishing_village_a/splattexture1.png|
 |assets/scenes/prefabs/fishing_village/fishing_village_a/topologytexture.png|
+|assets/scenes/prefabs/fishing_village/fishing_village_a_roota_lods/fishing_village_a_roota_hlod_albedo.png|
+|assets/scenes/prefabs/fishing_village/fishing_village_a_roota_lods/fishing_village_a_roota_hlod_normals.png|
+|assets/scenes/prefabs/fishing_village/fishing_village_a_roota_lods/fishing_village_a_roota_hlod_specular.png|
+|assets/scenes/prefabs/fishing_village/fishing_village_b_rootb_lods/fishing_village_b_rootb_hlod_albedo.png|
+|assets/scenes/prefabs/fishing_village/fishing_village_b_rootb_lods/fishing_village_b_rootb_hlod_normals.png|
+|assets/scenes/prefabs/fishing_village/fishing_village_b_rootb_lods/fishing_village_b_rootb_hlod_specular.png|
+|assets/scenes/prefabs/fishing_village/fishing_village_c_rootc_lods/fishing_village_c_rootc_hlod_albedo.png|
+|assets/scenes/prefabs/fishing_village/fishing_village_c_rootc_lods/fishing_village_c_rootc_hlod_normals.png|
+|assets/scenes/prefabs/fishing_village/fishing_village_c_rootc_lods/fishing_village_c_rootc_hlod_specular.png|
 |assets/scenes/prefabs/gas_station/gas_station/alphatexture.png|
 |assets/scenes/prefabs/gas_station/gas_station/biometexture.png|
 |assets/scenes/prefabs/gas_station/gas_station/blendtexture.png|
@@ -175,6 +193,9 @@
 |assets/scenes/prefabs/gas_station/gas_station/splattexture0.png|
 |assets/scenes/prefabs/gas_station/gas_station/splattexture1.png|
 |assets/scenes/prefabs/gas_station/gas_station/topologytexture.png|
+|assets/scenes/prefabs/gas_station/gas_station_root_lods/gas_station_root_hlod_albedo.png|
+|assets/scenes/prefabs/gas_station/gas_station_root_lods/gas_station_root_hlod_normals.png|
+|assets/scenes/prefabs/gas_station/gas_station_root_lods/gas_station_root_hlod_specular.png|
 |assets/scenes/prefabs/harbor/harbor_1/alphatexture.png|
 |assets/scenes/prefabs/harbor/harbor_1/biometexture.png|
 |assets/scenes/prefabs/harbor/harbor_1/blendtexture.png|
@@ -183,6 +204,9 @@
 |assets/scenes/prefabs/harbor/harbor_1/splattexture0.png|
 |assets/scenes/prefabs/harbor/harbor_1/splattexture1.png|
 |assets/scenes/prefabs/harbor/harbor_1/topologytexture.png|
+|assets/scenes/prefabs/harbor/harbor_1_root1_lods/harbor_1_root1_hlod_albedo.png|
+|assets/scenes/prefabs/harbor/harbor_1_root1_lods/harbor_1_root1_hlod_normals.png|
+|assets/scenes/prefabs/harbor/harbor_1_root1_lods/harbor_1_root1_hlod_specular.png|
 |assets/scenes/prefabs/harbor/harbor_2/alphatexture.png|
 |assets/scenes/prefabs/harbor/harbor_2/biometexture.png|
 |assets/scenes/prefabs/harbor/harbor_2/blendtexture.png|
@@ -191,6 +215,9 @@
 |assets/scenes/prefabs/harbor/harbor_2/splattexture0.png|
 |assets/scenes/prefabs/harbor/harbor_2/splattexture1.png|
 |assets/scenes/prefabs/harbor/harbor_2/topologytexture.png|
+|assets/scenes/prefabs/harbor/harbor_2_root2_lods/harbor_2_root2_hlod_albedo.png|
+|assets/scenes/prefabs/harbor/harbor_2_root2_lods/harbor_2_root2_hlod_normals.png|
+|assets/scenes/prefabs/harbor/harbor_2_root2_lods/harbor_2_root2_hlod_specular.png|
 |assets/scenes/prefabs/ice lakes/ice_lake_1/alphatexture.png|
 |assets/scenes/prefabs/ice lakes/ice_lake_1/biometexture.png|
 |assets/scenes/prefabs/ice lakes/ice_lake_1/blendtexture.png|
@@ -234,6 +261,15 @@
 |assets/scenes/prefabs/junkyard/junkyard/splattexture1.png|
 |assets/scenes/prefabs/junkyard/junkyard/topologytexture.png|
 |assets/scenes/prefabs/junkyard/junkyard/watertexture.png|
+|assets/scenes/prefabs/junkyard/junkyard_root_lods/junkyard_root_hlod_albedo.png|
+|assets/scenes/prefabs/junkyard/junkyard_root_lods/junkyard_root_hlod_normals.png|
+|assets/scenes/prefabs/junkyard/junkyard_root_lods/junkyard_root_hlod_specular.png|
+|assets/scenes/prefabs/launch site/launch_site_offices_lods/launch_site_offices_hlod_albedo.png|
+|assets/scenes/prefabs/launch site/launch_site_offices_lods/launch_site_offices_hlod_normals.png|
+|assets/scenes/prefabs/launch site/launch_site_offices_lods/launch_site_offices_hlod_specular.png|
+|assets/scenes/prefabs/launch site/launch_site_platform_lods/launch_site_platform_hlod_albedo.png|
+|assets/scenes/prefabs/launch site/launch_site_platform_lods/launch_site_platform_hlod_normals.png|
+|assets/scenes/prefabs/launch site/launch_site_platform_lods/launch_site_platform_hlod_specular.png|
 |assets/scenes/prefabs/launch site/launchsite/alphatexture.png|
 |assets/scenes/prefabs/launch site/launchsite/biometexture.png|
 |assets/scenes/prefabs/launch site/launchsite/blendtexture.png|
@@ -242,6 +278,9 @@
 |assets/scenes/prefabs/launch site/launchsite/splattexture0.png|
 |assets/scenes/prefabs/launch site/launchsite/splattexture1.png|
 |assets/scenes/prefabs/launch site/launchsite/topologytexture.png|
+|assets/scenes/prefabs/lighthouse/lighthouse_root_lods/lighthouse_root_hlod_albedo.png|
+|assets/scenes/prefabs/lighthouse/lighthouse_root_lods/lighthouse_root_hlod_normals.png|
+|assets/scenes/prefabs/lighthouse/lighthouse_root_lods/lighthouse_root_hlod_specular.png|
 |assets/scenes/prefabs/military tunnels/military_tunnel_1/alphatexture.png|
 |assets/scenes/prefabs/military tunnels/military_tunnel_1/biometexture.png|
 |assets/scenes/prefabs/military tunnels/military_tunnel_1/blendtexture.png|
@@ -250,6 +289,9 @@
 |assets/scenes/prefabs/military tunnels/military_tunnel_1/splattexture0.png|
 |assets/scenes/prefabs/military tunnels/military_tunnel_1/splattexture1.png|
 |assets/scenes/prefabs/military tunnels/military_tunnel_1/topologytexture.png|
+|assets/scenes/prefabs/military tunnels/military_tunnel_1_root_lods/military_tunnel_1_root_hlod_albedo.png|
+|assets/scenes/prefabs/military tunnels/military_tunnel_1_root_lods/military_tunnel_1_root_hlod_normals.png|
+|assets/scenes/prefabs/military tunnels/military_tunnel_1_root_lods/military_tunnel_1_root_hlod_specular.png|
 |assets/scenes/prefabs/mining quarries/mining_quarry_a/alphatexture.png|
 |assets/scenes/prefabs/mining quarries/mining_quarry_a/biometexture.png|
 |assets/scenes/prefabs/mining quarries/mining_quarry_a/blendtexture.png|
@@ -282,6 +324,9 @@
 |assets/scenes/prefabs/mining/warehouse/splattexture0.png|
 |assets/scenes/prefabs/mining/warehouse/splattexture1.png|
 |assets/scenes/prefabs/mining/warehouse/topologytexture.png|
+|assets/scenes/prefabs/mining/warehouse_root_lods/warehouse_root_hlod_albedo.png|
+|assets/scenes/prefabs/mining/warehouse_root_lods/warehouse_root_hlod_normals.png|
+|assets/scenes/prefabs/mining/warehouse_root_lods/warehouse_root_hlod_specular.png|
 |assets/scenes/prefabs/mountain/mountain_1/alphatexture.png|
 |assets/scenes/prefabs/mountain/mountain_1/biometexture.png|
 |assets/scenes/prefabs/mountain/mountain_1/heighttexture.png|
@@ -317,6 +362,12 @@
 |assets/scenes/prefabs/mountain/mountain_5/splattexture0.png|
 |assets/scenes/prefabs/mountain/mountain_5/splattexture1.png|
 |assets/scenes/prefabs/mountain/mountain_5/topologytexture.png|
+|assets/scenes/prefabs/oilrig/oilrig_root_lods/oilrig_root_hlod_albedo.png|
+|assets/scenes/prefabs/oilrig/oilrig_root_lods/oilrig_root_hlod_normals.png|
+|assets/scenes/prefabs/oilrig/oilrig_root_lods/oilrig_root_hlod_specular.png|
+|assets/scenes/prefabs/oilrig/oilrig_small_root_lods/oilrig_small_root_hlod_albedo.png|
+|assets/scenes/prefabs/oilrig/oilrig_small_root_lods/oilrig_small_root_hlod_normals.png|
+|assets/scenes/prefabs/oilrig/oilrig_small_root_lods/oilrig_small_root_hlod_specular.png|
 |assets/scenes/prefabs/overgrowth/overgrowth_dressing/alphatexture.png|
 |assets/scenes/prefabs/overgrowth/overgrowth_dressing/biometexture.png|
 |assets/scenes/prefabs/overgrowth/overgrowth_dressing/heighttexture.png|
@@ -332,6 +383,9 @@
 |assets/scenes/prefabs/power substations/power_sub_big_1/splattexture0.png|
 |assets/scenes/prefabs/power substations/power_sub_big_1/splattexture1.png|
 |assets/scenes/prefabs/power substations/power_sub_big_1/topologytexture.png|
+|assets/scenes/prefabs/power substations/power_sub_big_1_root_lods/power_sub_big_1_root_hlod_albedo.png|
+|assets/scenes/prefabs/power substations/power_sub_big_1_root_lods/power_sub_big_1_root_hlod_normals.png|
+|assets/scenes/prefabs/power substations/power_sub_big_1_root_lods/power_sub_big_1_root_hlod_specular.png|
 |assets/scenes/prefabs/power substations/power_sub_big_2/alphatexture.png|
 |assets/scenes/prefabs/power substations/power_sub_big_2/biometexture.png|
 |assets/scenes/prefabs/power substations/power_sub_big_2/blendtexture.png|
@@ -340,6 +394,9 @@
 |assets/scenes/prefabs/power substations/power_sub_big_2/splattexture0.png|
 |assets/scenes/prefabs/power substations/power_sub_big_2/splattexture1.png|
 |assets/scenes/prefabs/power substations/power_sub_big_2/topologytexture.png|
+|assets/scenes/prefabs/power substations/power_sub_big_2_root_lods/power_sub_big_2_root_hlod_albedo.png|
+|assets/scenes/prefabs/power substations/power_sub_big_2_root_lods/power_sub_big_2_root_hlod_normals.png|
+|assets/scenes/prefabs/power substations/power_sub_big_2_root_lods/power_sub_big_2_root_hlod_specular.png|
 |assets/scenes/prefabs/power substations/power_sub_small_1/alphatexture.png|
 |assets/scenes/prefabs/power substations/power_sub_small_1/biometexture.png|
 |assets/scenes/prefabs/power substations/power_sub_small_1/blendtexture.png|
@@ -348,6 +405,9 @@
 |assets/scenes/prefabs/power substations/power_sub_small_1/splattexture0.png|
 |assets/scenes/prefabs/power substations/power_sub_small_1/splattexture1.png|
 |assets/scenes/prefabs/power substations/power_sub_small_1/topologytexture.png|
+|assets/scenes/prefabs/power substations/power_sub_small_1_root_lods/power_sub_small_1_root_hlod_albedo.png|
+|assets/scenes/prefabs/power substations/power_sub_small_1_root_lods/power_sub_small_1_root_hlod_normals.png|
+|assets/scenes/prefabs/power substations/power_sub_small_1_root_lods/power_sub_small_1_root_hlod_specular.png|
 |assets/scenes/prefabs/power substations/power_sub_small_2/alphatexture.png|
 |assets/scenes/prefabs/power substations/power_sub_small_2/biometexture.png|
 |assets/scenes/prefabs/power substations/power_sub_small_2/blendtexture.png|
@@ -356,6 +416,9 @@
 |assets/scenes/prefabs/power substations/power_sub_small_2/splattexture0.png|
 |assets/scenes/prefabs/power substations/power_sub_small_2/splattexture1.png|
 |assets/scenes/prefabs/power substations/power_sub_small_2/topologytexture.png|
+|assets/scenes/prefabs/power substations/power_sub_small_2_root_lods/power_sub_small_2_root_hlod_albedo.png|
+|assets/scenes/prefabs/power substations/power_sub_small_2_root_lods/power_sub_small_2_root_hlod_normals.png|
+|assets/scenes/prefabs/power substations/power_sub_small_2_root_lods/power_sub_small_2_root_hlod_specular.png|
 |assets/scenes/prefabs/powerplant/powerplant/alphatexture.png|
 |assets/scenes/prefabs/powerplant/powerplant/biometexture.png|
 |assets/scenes/prefabs/powerplant/powerplant/blendtexture.png|
@@ -364,6 +427,9 @@
 |assets/scenes/prefabs/powerplant/powerplant/splattexture0.png|
 |assets/scenes/prefabs/powerplant/powerplant/splattexture1.png|
 |assets/scenes/prefabs/powerplant/powerplant/topologytexture.png|
+|assets/scenes/prefabs/powerplant/powerplant_root_lods/powerplant_root_hlod_albedo.png|
+|assets/scenes/prefabs/powerplant/powerplant_root_lods/powerplant_root_hlod_normals.png|
+|assets/scenes/prefabs/powerplant/powerplant_root_lods/powerplant_root_hlod_specular.png|
 |assets/scenes/prefabs/rocks/rocks_dressing/biometexture.png|
 |assets/scenes/prefabs/rocks/rocks_dressing/heighttexture.png|
 |assets/scenes/prefabs/rocks/rocks_dressing/normaltexture.png|
@@ -377,6 +443,9 @@
 |assets/scenes/prefabs/satellite dish/satellite_dish/splattexture0.png|
 |assets/scenes/prefabs/satellite dish/satellite_dish/splattexture1.png|
 |assets/scenes/prefabs/satellite dish/satellite_dish/topologytexture.png|
+|assets/scenes/prefabs/satellite dish/satellite_dish_root_lods/satellite_dish_root_hlod_albedo.png|
+|assets/scenes/prefabs/satellite dish/satellite_dish_root_lods/satellite_dish_root_hlod_normals.png|
+|assets/scenes/prefabs/satellite dish/satellite_dish_root_lods/satellite_dish_root_hlod_specular.png|
 |assets/scenes/prefabs/sewer branch/sewer_branch/alphatexture.png|
 |assets/scenes/prefabs/sewer branch/sewer_branch/biometexture.png|
 |assets/scenes/prefabs/sewer branch/sewer_branch/blendtexture.png|
@@ -385,6 +454,9 @@
 |assets/scenes/prefabs/sewer branch/sewer_branch/splattexture0.png|
 |assets/scenes/prefabs/sewer branch/sewer_branch/splattexture1.png|
 |assets/scenes/prefabs/sewer branch/sewer_branch/topologytexture.png|
+|assets/scenes/prefabs/sewer branch/sewer_branch_root_lods/sewer_branch_root_hlod_albedo.png|
+|assets/scenes/prefabs/sewer branch/sewer_branch_root_lods/sewer_branch_root_hlod_normals.png|
+|assets/scenes/prefabs/sewer branch/sewer_branch_root_lods/sewer_branch_root_hlod_specular.png|
 |assets/scenes/prefabs/sphere tank/sphere_tank/alphatexture.png|
 |assets/scenes/prefabs/sphere tank/sphere_tank/biometexture.png|
 |assets/scenes/prefabs/sphere tank/sphere_tank/blendtexture.png|
@@ -393,6 +465,9 @@
 |assets/scenes/prefabs/sphere tank/sphere_tank/splattexture0.png|
 |assets/scenes/prefabs/sphere tank/sphere_tank/splattexture1.png|
 |assets/scenes/prefabs/sphere tank/sphere_tank/topologytexture.png|
+|assets/scenes/prefabs/sphere tank/sphere_tank_root_lods/sphere_tank_root_hlod_albedo.png|
+|assets/scenes/prefabs/sphere tank/sphere_tank_root_lods/sphere_tank_root_hlod_normals.png|
+|assets/scenes/prefabs/sphere tank/sphere_tank_root_lods/sphere_tank_root_hlod_specular.png|
 |assets/scenes/prefabs/stables/stables_a/alphatexture.png|
 |assets/scenes/prefabs/stables/stables_a/biometexture.png|
 |assets/scenes/prefabs/stables/stables_a/blendtexture.png|
@@ -401,6 +476,9 @@
 |assets/scenes/prefabs/stables/stables_a/splattexture0.png|
 |assets/scenes/prefabs/stables/stables_a/splattexture1.png|
 |assets/scenes/prefabs/stables/stables_a/topologytexture.png|
+|assets/scenes/prefabs/stables/stables_a_root_lods/stables_a_root_hlod_albedo.png|
+|assets/scenes/prefabs/stables/stables_a_root_lods/stables_a_root_hlod_normals.png|
+|assets/scenes/prefabs/stables/stables_a_root_lods/stables_a_root_hlod_specular.png|
 |assets/scenes/prefabs/stables/stables_b/alphatexture.png|
 |assets/scenes/prefabs/stables/stables_b/biometexture.png|
 |assets/scenes/prefabs/stables/stables_b/blendtexture.png|
@@ -409,6 +487,9 @@
 |assets/scenes/prefabs/stables/stables_b/splattexture0.png|
 |assets/scenes/prefabs/stables/stables_b/splattexture1.png|
 |assets/scenes/prefabs/stables/stables_b/topologytexture.png|
+|assets/scenes/prefabs/stables/stables_b_root_lods/stables_b_root_hlod_albedo.png|
+|assets/scenes/prefabs/stables/stables_b_root_lods/stables_b_root_hlod_normals.png|
+|assets/scenes/prefabs/stables/stables_b_root_lods/stables_b_root_hlod_specular.png|
 |assets/scenes/prefabs/supermarket/supermarket/alphatexture.png|
 |assets/scenes/prefabs/supermarket/supermarket/biometexture.png|
 |assets/scenes/prefabs/supermarket/supermarket/blendtexture.png|
@@ -417,6 +498,9 @@
 |assets/scenes/prefabs/supermarket/supermarket/splattexture0.png|
 |assets/scenes/prefabs/supermarket/supermarket/splattexture1.png|
 |assets/scenes/prefabs/supermarket/supermarket/topologytexture.png|
+|assets/scenes/prefabs/supermarket/supermarket_root_lods/supermarket_root_hlod_albedo.png|
+|assets/scenes/prefabs/supermarket/supermarket_root_lods/supermarket_root_hlod_normals.png|
+|assets/scenes/prefabs/supermarket/supermarket_root_lods/supermarket_root_hlod_specular.png|
 |assets/scenes/prefabs/swamps/swamp_a/alphatexture.png|
 |assets/scenes/prefabs/swamps/swamp_a/biometexture.png|
 |assets/scenes/prefabs/swamps/swamp_a/blendtexture.png|
@@ -453,6 +537,9 @@
 |assets/scenes/prefabs/swamps/swamp_c/swamp_c_splats_splat_texture_1.png|
 |assets/scenes/prefabs/swamps/swamp_c/topologytexture.png|
 |assets/scenes/prefabs/swamps/swamp_c/watertexture.png|
+|assets/scenes/prefabs/swamps/swamp_c_root_lods/swamp_c_root_hlod_albedo.png|
+|assets/scenes/prefabs/swamps/swamp_c_root_lods/swamp_c_root_hlod_normals.png|
+|assets/scenes/prefabs/swamps/swamp_c_root_lods/swamp_c_root_hlod_specular.png|
 |assets/scenes/prefabs/trainyard/trainyard/alphatexture.png|
 |assets/scenes/prefabs/trainyard/trainyard/biometexture.png|
 |assets/scenes/prefabs/trainyard/trainyard/blendtexture.png|
@@ -461,6 +548,9 @@
 |assets/scenes/prefabs/trainyard/trainyard/splattexture0.png|
 |assets/scenes/prefabs/trainyard/trainyard/splattexture1.png|
 |assets/scenes/prefabs/trainyard/trainyard/topologytexture.png|
+|assets/scenes/prefabs/trainyard/trainyard_root_lods/trainyard_root_hlod_albedo.png|
+|assets/scenes/prefabs/trainyard/trainyard_root_lods/trainyard_root_hlod_normals.png|
+|assets/scenes/prefabs/trainyard/trainyard_root_lods/trainyard_root_hlod_specular.png|
 |assets/scenes/prefabs/tunnels/entrance/alphatexture.png|
 |assets/scenes/prefabs/tunnels/entrance/biometexture.png|
 |assets/scenes/prefabs/tunnels/entrance/blendtexture.png|
@@ -477,6 +567,9 @@
 |assets/scenes/prefabs/water treatment plant/water_treatment_plant/splattexture0.png|
 |assets/scenes/prefabs/water treatment plant/water_treatment_plant/splattexture1.png|
 |assets/scenes/prefabs/water treatment plant/water_treatment_plant/topologytexture.png|
+|assets/scenes/prefabs/water treatment plant/water_treatment_plant_root_lods/water_treatment_plant_root_hlod_albedo.png|
+|assets/scenes/prefabs/water treatment plant/water_treatment_plant_root_lods/water_treatment_plant_root_hlod_normals.png|
+|assets/scenes/prefabs/water treatment plant/water_treatment_plant_root_lods/water_treatment_plant_root_hlod_specular.png|
 |assets/scenes/prefabs/water wells/water_well_a/water_well_a/alphatexture.png|
 |assets/scenes/prefabs/water wells/water_well_a/water_well_a/biometexture.png|
 |assets/scenes/prefabs/water wells/water_well_a/water_well_a/blendtexture.png|
