@@ -6,7 +6,6 @@
 |![](https://rustlabs.com/img/items180/kayak.png)|Kayak|kayak|190184021|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/rhib.png)|RHIB|rhib|1394042569|ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/rowboat.png)|Rowboat|rowboat|1878053256|ItemBlueprint<br>ItemModEntity<br>|
-|![](https://rustlabs.com/img/items180/locomotive.png)|Locomotive|locomotive|-2027988285|ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/minihelicopter.repair.png)|MC repair|minihelicopter.repair|1426574435|ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/aiming.module.mlrs.png)|MLRS Aiming Module|aiming.module.mlrs|343045591|ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/mlrs.png)|MLRS|mlrs|-1449152644|ItemBlueprint<br>|
@@ -16,6 +15,7 @@
 |![](https://rustlabs.com/img/items180/snowmobiletomaha.png)|Tomaha Snowmobile|snowmobiletomaha|1768112091|ItemBlueprint<br>ItemModEntityReference<br>|
 |![](https://rustlabs.com/img/items180/submarineduo.png)|Duo Submarine|submarineduo|1015352446|ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/submarinesolo.png)|Solo Submarine|submarinesolo|-187031121|ItemBlueprint<br>|
+|![](https://rustlabs.com/img/items180/locomotive.png)|Locomotive|locomotive|-2027988285|ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/wagon.png)|Wagon|wagon|996757362|ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/workcart.png)|Work Cart|workcart|-810326667|ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/ammo.grenadelauncher.buckshot.png)|40mm Shotgun Round|ammo.grenadelauncher.buckshot|1055319033|ItemModProjectile<br>ItemBlueprint<br>|
@@ -701,6 +701,7 @@
 |![](https://rustlabs.com/img/items180/soundlight.png)|Sound Light|soundlight|-343857907|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/telephone.png)|Telephone|telephone|1234878710|ItemBlueprint<br>ItemModEntity<br>ItemModDeployable<br>|
 |![](https://rustlabs.com/img/items180/weapon.mod.8x.scope.png)|16x Zoom Scope|weapon.mod.8x.scope|174866732|ItemBlueprint<br>ItemModEntity<br>ItemModSound<br>|
+|![](https://rustlabs.com/img/items180/weapon.mod.burstmodule.png)|Burst Module|weapon.mod.burstmodule|838308300|ItemBlueprint<br>ItemModEntity<br>ItemModSound<br>|
 |![](https://rustlabs.com/img/items180/weapon.mod.extendedmags.png)|Extended Magazine|weapon.mod.extendedmags|2005491391|ItemBlueprint<br>ItemModEntity<br>ItemModSound<br>|
 |![](https://rustlabs.com/img/items180/weapon.mod.flashlight.png)|Weapon flashlight|weapon.mod.flashlight|952603248|ItemBlueprint<br>ItemModEntity<br>ItemModSound<br>|
 |![](https://rustlabs.com/img/items180/weapon.mod.holosight.png)|Holosight|weapon.mod.holosight|442289265|ItemBlueprint<br>ItemModEntity<br>ItemModSound<br>|
@@ -728,6 +729,7 @@
 |![](https://rustlabs.com/img/items180/grenade.f1.png)|F1 Grenade|grenade.f1|143803535|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/flamethrower.png)|Flame Thrower|flamethrower|-1215753368|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |![](https://rustlabs.com/img/items180/grenade.flashbang.png)|Flashbang|grenade.flashbang|-936921910|ItemModEntity<br>ItemBlueprint<br>|
+|![](https://rustlabs.com/img/items180/pistol.prototype17.png)|Prototype 17|pistol.prototype17|1914691295|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |![](https://rustlabs.com/img/items180/multiplegrenadelauncher.png)|Multiple Grenade Launcher|multiplegrenadelauncher|-1123473824|ItemModEntity<br>ItemModContainer<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/mace.baseballbat.png)|Baseball Bat|mace.baseballbat|-2026042603|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |![](https://rustlabs.com/img/items180/knife.butcher.png)|Butcher Knife|knife.butcher|-194509282|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
