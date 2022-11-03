@@ -704,12 +704,6 @@
 |assets/content/vehicles/crane_magnet/effects/lightgroup body.prefab|
 |assets/content/vehicles/crane_magnet/effects/magnetdust.prefab|
 |assets/content/vehicles/crane_magnet/effects/refract.prefab|
-|assets/content/vehicles/locomotive/fx/coaling tower emptying fx.prefab|
-|assets/content/vehicles/locomotive/fx/coupling fx.prefab|
-|assets/content/vehicles/locomotive/fx/locomotive lighting fx.prefab|
-|assets/content/vehicles/locomotive/fx/train coupling fx.prefab|
-|assets/content/vehicles/locomotive/fx/wagon coal unloading fx.prefab|
-|assets/content/vehicles/locomotive/fx/wagon loot unloading fx.prefab|
 |assets/content/vehicles/mlrs/effects/cabinlighting.prefab|
 |assets/content/vehicles/mlrs/effects/pfx_airburst.prefab|
 |assets/content/vehicles/mlrs/effects/pfx_mlrs_backfire.prefab|
@@ -732,12 +726,18 @@
 |assets/content/vehicles/submarine/effects/submarine collision effect abovewater.prefab|
 |assets/content/vehicles/submarine/effects/submarine collision effect underwater.prefab|
 |assets/content/vehicles/submarine/effects/submarine-destroy.prefab|
-|assets/content/vehicles/workcart/effects/pfx_workcart_couple.prefab|
-|assets/content/vehicles/workcart/effects/pfx_workcart_damage_light.prefab|
-|assets/content/vehicles/workcart/effects/pfx_workcart_damage_medium.prefab|
-|assets/content/vehicles/workcart/effects/pfx_workcart_damage_severe.prefab|
-|assets/content/vehicles/workcart/effects/pfx_workcart_engine_trouble.prefab|
-|assets/content/vehicles/workcart/effects/pfx_workcart_friction_sparks.prefab|
+|assets/content/vehicles/trains/locomotive/fx/coaling tower emptying fx.prefab|
+|assets/content/vehicles/trains/locomotive/fx/coupling fx.prefab|
+|assets/content/vehicles/trains/locomotive/fx/locomotive lighting fx.prefab|
+|assets/content/vehicles/trains/locomotive/fx/train coupling fx.prefab|
+|assets/content/vehicles/trains/locomotive/fx/wagon coal unloading fx.prefab|
+|assets/content/vehicles/trains/locomotive/fx/wagon loot unloading fx.prefab|
+|assets/content/vehicles/trains/workcart/effects/pfx_workcart_couple.prefab|
+|assets/content/vehicles/trains/workcart/effects/pfx_workcart_damage_light.prefab|
+|assets/content/vehicles/trains/workcart/effects/pfx_workcart_damage_medium.prefab|
+|assets/content/vehicles/trains/workcart/effects/pfx_workcart_damage_severe.prefab|
+|assets/content/vehicles/trains/workcart/effects/pfx_workcart_engine_trouble.prefab|
+|assets/content/vehicles/trains/workcart/effects/pfx_workcart_friction_sparks.prefab|
 |assets/content/weapons/_gestures/effects/drink.prefab|
 |assets/content/weapons/_gestures/effects/eat_1hand_celery.prefab|
 |assets/content/weapons/_gestures/effects/eat_2hand_chewymeat.prefab|
@@ -1304,6 +1304,20 @@
 |assets/prefabs/weapons/flashbang/effects/pullpin.prefab|
 |assets/prefabs/weapons/flashbang/effects/pullpinstart.prefab|
 |assets/prefabs/weapons/flashbang/effects/throw.prefab|
+|assets/prefabs/weapons/glockskin/effects/attack.prefab|
+|assets/prefabs/weapons/glockskin/effects/attack_muzzlebrake.prefab|
+|assets/prefabs/weapons/glockskin/effects/attack_shake.prefab|
+|assets/prefabs/weapons/glockskin/effects/attack_shake_ads.prefab|
+|assets/prefabs/weapons/glockskin/effects/attack_silenced.prefab|
+|assets/prefabs/weapons/glockskin/effects/deploy.prefab|
+|assets/prefabs/weapons/glockskin/effects/dryfire.prefab|
+|assets/prefabs/weapons/glockskin/effects/eject_pistol_shell.prefab|
+|assets/prefabs/weapons/glockskin/effects/insert_clip.prefab|
+|assets/prefabs/weapons/glockskin/effects/move_clip.prefab|
+|assets/prefabs/weapons/glockskin/effects/reload_finish.prefab|
+|assets/prefabs/weapons/glockskin/effects/reload_start.prefab|
+|assets/prefabs/weapons/glockskin/effects/w_drop_mag.prefab|
+|assets/prefabs/weapons/glockskin/effects/w_eject_pistol_shell.prefab|
 |assets/prefabs/weapons/grenade launcher/effects/attack.prefab|
 |assets/prefabs/weapons/grenade launcher/effects/deploy.prefab|
 |assets/prefabs/weapons/grenade launcher/effects/reload_end.prefab|
