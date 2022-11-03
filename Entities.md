@@ -458,8 +458,6 @@
 |JunkTest|1028065701|BaseCombatEntity<br>Rigidbody<br>BoxCollider<br>MagnetLiftable<br>|Assets/Content/Vehicles/Crane_Magnet/JunkTest.prefab|
 |magnetcrane.entity|273775677|MagnetCrane<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Model<br>Rigidbody<br>|Assets/Content/Vehicles/Crane_Magnet/magnetcrane.entity.prefab|
 |Shreddable_PickupTruck|962565779|BaseCombatEntity<br>Rigidbody<br>MagnetLiftable<br>|Assets/Content/Vehicles/Crane_Magnet/Shreddable_PickupTruck.prefab|
-|locomotive.entity|2650221279|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|Assets/Content/Vehicles/Locomotive/locomotive.entity.prefab|
-|locomotive_fuel_storage|663729320|StorageContainer<br>BaseCombatEntity<br>|Assets/Content/Vehicles/Locomotive/SubEnts/locomotive_fuel_storage.prefab|
 |minicopter.entity|2278499844|MiniCopter<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>|Assets/Content/Vehicles/MiniCopter/minicopter.entity.prefab|
 |fuel_storage|1950679400|StorageContainer<br>BaseCombatEntity<br>BoxCollider<br>|Assets/Content/Vehicles/MiniCopter/SubEnts/fuel_storage.prefab|
 |mlrs.entity|223554808|MLRS<br>BaseCombatEntity<br>Spawnable<br>Model<br>|Assets/Content/Vehicles/MLRS/mlrs.entity.prefab|
@@ -542,24 +540,37 @@
 |SubmarineTorpedoStorage|2609093601|StorageContainer<br>BaseCombatEntity<br>|Assets/Content/Vehicles/Submarine/SubEnts/SubmarineTorpedoStorage.prefab|
 |SubmarineDuo.entity|903349679|SubmarineDuo<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>|Assets/Content/Vehicles/Submarine/SubmarineDuo.entity.prefab|
 |SubmarineSolo.entity|3623991100|BaseSubmarine<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>|Assets/Content/Vehicles/Submarine/SubmarineSolo.entity.prefab|
-|_BaseTrainWagon.entity|3542189355|TrainCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>|Assets/Content/Vehicles/Train/_BaseTrainWagon.entity.prefab|
-|wagon_crate_normal|4146332373|LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|Assets/Content/Vehicles/Train/SubEnts/wagon_crate_normal.prefab|
-|wagon_crate_normal_2|2546469069|LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|Assets/Content/Vehicles/Train/SubEnts/wagon_crate_normal_2.prefab|
-|wagon_crate_normal_2_food|3995865518|LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|Assets/Content/Vehicles/Train/SubEnts/wagon_crate_normal_2_food.prefab|
-|wagon_crate_normal_2_medical|856168163|LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|Assets/Content/Vehicles/Train/SubEnts/wagon_crate_normal_2_medical.prefab|
-|wagon_storage|1494645463|StorageContainer<br>BaseCombatEntity<br>|Assets/Content/Vehicles/Train/SubEnts/wagon_storage.prefab|
-|wagon_storage_fuel|2395425898|StorageContainer<br>BaseCombatEntity<br>|Assets/Content/Vehicles/Train/SubEnts/wagon_storage_fuel.prefab|
-|wagon_storage_lootwagon|543933070|StorageContainer<br>BaseCombatEntity<br>|Assets/Content/Vehicles/Train/SubEnts/wagon_storage_lootwagon.prefab|
-|TrainWagonA.entity|382138391|TrainCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|Assets/Content/Vehicles/Train/TrainWagonA.entity.prefab|
-|TrainWagonB.entity|1470785358|TrainCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|Assets/Content/Vehicles/Train/TrainWagonB.entity.prefab|
-|TrainWagonC.entity|1549305686|TrainCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|Assets/Content/Vehicles/Train/TrainWagonC.entity.prefab|
-|TrainWagonUnloadable.entity|3185889399|TrainCarUnloadable<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|Assets/Content/Vehicles/Train/TrainWagonUnloadable.entity.prefab|
-|TrainWagonUnloadableFuel.entity|1888107197|TrainCarUnloadable<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>TrainCarFuelHatches<br>|Assets/Content/Vehicles/Train/TrainWagonUnloadableFuel.entity.prefab|
-|TrainWagonUnloadableLoot.entity|3078064982|TrainCarUnloadable<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|Assets/Content/Vehicles/Train/TrainWagonUnloadableLoot.entity.prefab|
-|workcart_fuel_storage|2293470337|StorageContainer<br>BaseCombatEntity<br>|Assets/Content/Vehicles/WorkCart/SubEnts/workcart_fuel_storage.prefab|
-|workcart.entity|612480793|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>|Assets/Content/Vehicles/WorkCart/workcart.entity.prefab|
-|workcart_aboveground.entity|2047788867|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|Assets/Content/Vehicles/WorkCart/workcart_aboveground.entity.prefab|
-|workcart_aboveground2.entity|2138552575|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|Assets/Content/Vehicles/WorkCart/workcart_aboveground2.entity.prefab|
+|BlackjackMachine.caboose|1222396292|BlackjackMachine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Model<br>|Assets/Content/Vehicles/Trains/Caboose/BlackjackMachine/BlackjackMachine.caboose.prefab|
+|BlackjackMachine.static|4069869784|BlackjackMachine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Model<br>|Assets/Content/Vehicles/Trains/Caboose/BlackjackMachine/BlackjackMachine.static.prefab|
+|BlackjackPlayerSeat|3524763474|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|Assets/Content/Vehicles/Trains/Caboose/BlackjackMachine/SubEnts/BlackjackPlayerSeat.prefab|
+|BlackjackPlayerStorage|3997338700|CardGamePlayerStorage<br>BaseCombatEntity<br>DecayEntity<br>|Assets/Content/Vehicles/Trains/Caboose/BlackjackMachine/SubEnts/BlackjackPlayerStorage.prefab|
+|BlackjackPotStorage|833556451|StorageContainer<br>BaseCombatEntity<br>|Assets/Content/Vehicles/Trains/Caboose/BlackjackMachine/SubEnts/BlackjackPotStorage.prefab|
+|Caboose_Generator|125353848|ElectricGenerator<br>BaseCombatEntity<br>DecayEntity<br>|Assets/Content/Vehicles/Trains/Caboose/Caboose_Generator.prefab|
+|Caboose_LightSwitch|489802822|ElectricSwitch<br>BaseCombatEntity<br>DecayEntity<br>|Assets/Content/Vehicles/Trains/Caboose/Caboose_LightSwitch.prefab|
+|Caboose_XORSwitch|389254161|XORSwitch<br>BaseCombatEntity<br>DecayEntity<br>|Assets/Content/Vehicles/Trains/Caboose/Caboose_XORSwitch.prefab|
+|CardTable.caboose|1209592591|CardTable<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Model<br>|Assets/Content/Vehicles/Trains/Caboose/CardTable.caboose.prefab|
+|SlotMachine.caboose|1863405911|SlotMachine<br>BaseCombatEntity<br>Model<br>|Assets/Content/Vehicles/Trains/Caboose/SlotMachine.caboose.prefab|
+|TrainCaboose.entity|1965024162|TrainCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|Assets/Content/Vehicles/Trains/Caboose/TrainCaboose.entity.prefab|
+|locomotive.entity|2404699083|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|Assets/Content/Vehicles/Trains/Locomotive/locomotive.entity.prefab|
+|locomotive_fuel_storage|1731121048|StorageContainer<br>BaseCombatEntity<br>|Assets/Content/Vehicles/Trains/Locomotive/SubEnts/locomotive_fuel_storage.prefab|
+|_BaseTrainWagon.entity|526417839|TrainCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>|Assets/Content/Vehicles/Trains/Wagons/_BaseTrainWagon.entity.prefab|
+|wagon_crate_normal|2225695845|LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|Assets/Content/Vehicles/Trains/Wagons/SubEnts/wagon_crate_normal.prefab|
+|wagon_crate_normal_2|1187125596|LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|Assets/Content/Vehicles/Trains/Wagons/SubEnts/wagon_crate_normal_2.prefab|
+|wagon_crate_normal_2_food|3590824134|LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|Assets/Content/Vehicles/Trains/Wagons/SubEnts/wagon_crate_normal_2_food.prefab|
+|wagon_crate_normal_2_medical|2479563290|LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|Assets/Content/Vehicles/Trains/Wagons/SubEnts/wagon_crate_normal_2_medical.prefab|
+|wagon_storage|3798073427|StorageContainer<br>BaseCombatEntity<br>|Assets/Content/Vehicles/Trains/Wagons/SubEnts/wagon_storage.prefab|
+|wagon_storage_fuel|2600682814|StorageContainer<br>BaseCombatEntity<br>|Assets/Content/Vehicles/Trains/Wagons/SubEnts/wagon_storage_fuel.prefab|
+|wagon_storage_lootwagon|4110027805|StorageContainer<br>BaseCombatEntity<br>|Assets/Content/Vehicles/Trains/Wagons/SubEnts/wagon_storage_lootwagon.prefab|
+|TrainWagonA.entity|2448805006|TrainCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|Assets/Content/Vehicles/Trains/Wagons/TrainWagonA.entity.prefab|
+|TrainWagonB.entity|329987112|TrainCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|Assets/Content/Vehicles/Trains/Wagons/TrainWagonB.entity.prefab|
+|TrainWagonC.entity|3004380666|TrainCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|Assets/Content/Vehicles/Trains/Wagons/TrainWagonC.entity.prefab|
+|TrainWagonUnloadable.entity|3925609063|TrainCarUnloadable<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|Assets/Content/Vehicles/Trains/Wagons/TrainWagonUnloadable.entity.prefab|
+|TrainWagonUnloadableFuel.entity|1383224408|TrainCarUnloadable<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>TrainCarFuelHatches<br>|Assets/Content/Vehicles/Trains/Wagons/TrainWagonUnloadableFuel.entity.prefab|
+|TrainWagonUnloadableLoot.entity|2485848884|TrainCarUnloadable<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|Assets/Content/Vehicles/Trains/Wagons/TrainWagonUnloadableLoot.entity.prefab|
+|workcart_fuel_storage|340386975|StorageContainer<br>BaseCombatEntity<br>|Assets/Content/Vehicles/Trains/WorkCart/SubEnts/workcart_fuel_storage.prefab|
+|workcart.entity|2059952138|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>|Assets/Content/Vehicles/Trains/WorkCart/workcart.entity.prefab|
+|workcart_aboveground.entity|1173017984|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|Assets/Content/Vehicles/Trains/WorkCart/workcart_aboveground.entity.prefab|
+|workcart_aboveground2.entity|2466349118|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|Assets/Content/Vehicles/Trains/WorkCart/workcart_aboveground2.entity.prefab|
 |40mm_grenade_he|1859672190|TimedExplosive<br>ServerProjectile<br>CapsuleCollider<br>|Assets/Prefabs/Ammo/40mmGrenade/40mm_grenade_he.prefab|
 |40mm_grenade_smoke|1502533292|SmokeGrenade<br>ServerProjectile<br>CapsuleCollider<br>|Assets/Prefabs/Ammo/40mmGrenade/40mm_grenade_smoke.prefab|
 |arrow|26759631|WorldItem<br>BoxCollider<br>Rigidbody<br>ColliderInfo<br>|Assets/Prefabs/Ammo/Arrow/arrow.prefab|
@@ -635,15 +646,15 @@
 |beartrap|922529517|BearTrap<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|Assets/Prefabs/Deployable/Bear Trap/beartrap.prefab|
 |bed_deployed|3928883189|BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>SleepingBag<br>BaseCombatEntity<br>Model<br>|Assets/Prefabs/Deployable/Bed/bed_deployed.prefab|
 |campfire|4160694184|BaseOven<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>EntityFlag_Toggle<br>Model<br>MeshCollider<br>|Assets/Prefabs/Deployable/Campfire/campfire.prefab|
-|_cardtable_base|1708930778|CardTable<br>BaseCombatEntity<br>BaseMountable<br>Model<br>|Assets/Prefabs/Deployable/Card Table/_cardtable_base.prefab|
-|cardtable.deployed|1845856065|CardTable<br>BaseCombatEntity<br>BaseMountable<br>Model<br>DestroyOnGroundMissing<br>GroundWatch<br>|Assets/Prefabs/Deployable/Card Table/cardtable.deployed.prefab|
-|cardtable.static_configA|4262635170|CardTable<br>BaseCombatEntity<br>BaseMountable<br>Model<br>|Assets/Prefabs/Deployable/Card Table/cardtable.static_configA.prefab|
-|cardtable.static_configA_hidden|2597581320|CardTable<br>BaseCombatEntity<br>BaseMountable<br>Model<br>|Assets/Prefabs/Deployable/Card Table/cardtable.static_configA_hidden.prefab|
-|cardtable.static_configB|2447998865|CardTable<br>BaseCombatEntity<br>BaseMountable<br>Model<br>|Assets/Prefabs/Deployable/Card Table/cardtable.static_configB.prefab|
-|cardtable.static_configC|1390750221|CardTable<br>BaseCombatEntity<br>BaseMountable<br>Model<br>|Assets/Prefabs/Deployable/Card Table/cardtable.static_configC.prefab|
-|cardtable.static_configD|690460714|CardTable<br>BaseCombatEntity<br>BaseMountable<br>Model<br>|Assets/Prefabs/Deployable/Card Table/cardtable.static_configD.prefab|
-|CardTablePlayerStorage|1544890879|CardTablePlayerStorage<br>BaseCombatEntity<br>DecayEntity<br>|Assets/Prefabs/Deployable/Card Table/SubEnts/CardTablePlayerStorage.prefab|
-|CardTablePotStorage|969933255|StorageContainer<br>BaseCombatEntity<br>|Assets/Prefabs/Deployable/Card Table/SubEnts/CardTablePotStorage.prefab|
+|_cardtable_base|1708930778|CardTable<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Model<br>|Assets/Prefabs/Deployable/Card Table/_cardtable_base.prefab|
+|cardtable.deployed|1845856065|CardTable<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Model<br>DestroyOnGroundMissing<br>GroundWatch<br>|Assets/Prefabs/Deployable/Card Table/cardtable.deployed.prefab|
+|cardtable.static_configA|4262635170|CardTable<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Model<br>|Assets/Prefabs/Deployable/Card Table/cardtable.static_configA.prefab|
+|cardtable.static_configA_hidden|2597581320|CardTable<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Model<br>|Assets/Prefabs/Deployable/Card Table/cardtable.static_configA_hidden.prefab|
+|cardtable.static_configB|2447998865|CardTable<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Model<br>|Assets/Prefabs/Deployable/Card Table/cardtable.static_configB.prefab|
+|cardtable.static_configC|1390750221|CardTable<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Model<br>|Assets/Prefabs/Deployable/Card Table/cardtable.static_configC.prefab|
+|cardtable.static_configD|690460714|CardTable<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Model<br>|Assets/Prefabs/Deployable/Card Table/cardtable.static_configD.prefab|
+|CardGamePlayerStorage|3031328897|CardGamePlayerStorage<br>BaseCombatEntity<br>DecayEntity<br>|Assets/Prefabs/Deployable/Card Table/SubEnts/CardGamePlayerStorage.prefab|
+|CardGamePotStorage|1584910940|StorageContainer<br>BaseCombatEntity<br>|Assets/Prefabs/Deployable/Card Table/SubEnts/CardGamePotStorage.prefab|
 |CardTableSeat|2254147427|CardTableSeat<br>BaseCombatEntity<br>BaseMountable<br>|Assets/Prefabs/Deployable/Card Table/SubEnts/CardTableSeat.prefab|
 |cctv.static|1096666154|CCTV_RC<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>BoxCollider<br>|Assets/Prefabs/Deployable/CCTVCamera/cctv.static.prefab|
 |cctv_deployed|2633567939|CCTV_RC<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|Assets/Prefabs/Deployable/CCTVCamera/cctv_deployed.prefab|
@@ -1281,6 +1292,7 @@
 |telephone.deployed|2160363615|Telephone<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>DestroyOnGroundMissing<br>PhoneController<br>GroundWatch<br>|Assets/Prefabs/VoiceAudio/Telephone/telephone.deployed.prefab|
 |8xScope.entity|4005260636|ProjectileWeaponMod<br>|Assets/Prefabs/Weapon Mods/8x Scope/8xScope.entity.prefab|
 |8xScope.vm.attachment|545873399|ProjectileWeaponMod<br>Model<br>IronSightOverride<br>ViewmodelScope<br>HideIfScoped<br>|Assets/Prefabs/Weapon Mods/8x Scope/8xScope.vm.attachment.prefab|
+|burstmodule.entity|1243102785|ProjectileWeaponMod<br>|Assets/Prefabs/Weapon Mods/BurstModule/burstmodule.entity.prefab|
 |extendedmags.entity|330399465|ProjectileWeaponMod<br>|Assets/Prefabs/Weapon Mods/ExtendedMags/extendedmags.entity.prefab|
 |flashlight.entity|3357772531|ProjectileWeaponMod<br>|Assets/Prefabs/Weapon Mods/Flashlight/flashlight.entity.prefab|
 |flashlight.vm.attachment|1529000711|ProjectileWeaponMod<br>Model<br>HideIfScoped<br>|Assets/Prefabs/Weapon Mods/Flashlight/flashlight.vm.attachment.prefab|
@@ -1317,6 +1329,7 @@
 |Flamethrower_fireball|844008300|FireBall<br>Rigidbody<br>BoxCollider<br>|Assets/Prefabs/Weapons/Flamethrower/Flamethrower_fireball.prefab|
 |grenade.flashbang.deployed|1436152685|Flashbang<br>Rigidbody<br>CapsuleCollider<br>|Assets/Prefabs/Weapons/Flashbang/grenade.flashbang.deployed.prefab|
 |grenade.flashbang.entity|758326244|GrenadeWeapon<br>HeldEntity<br>AttackEntity<br>|Assets/Prefabs/Weapons/Flashbang/grenade.flashbang.entity.prefab|
+|glock.entity|636374895|BaseProjectile<br>HeldEntity<br>Model<br>|Assets/Prefabs/Weapons/GlockSkin/glock.entity.prefab|
 |MGL.entity|1233562048|BaseLauncher<br>HeldEntity<br>AttackEntity<br>Model<br>|Assets/Prefabs/Weapons/Grenade Launcher/MGL.entity.prefab|
 |hacksaw.weapon|2487927393|BaseMelee<br>HeldEntity<br>|Assets/Prefabs/Weapons/Hacksaw/hacksaw.weapon.prefab|
 |mace.baseballbat|1769459881|BaseMelee<br>HeldEntity<br>|Assets/Prefabs/Weapons/Halloween/BaseballBat/mace.baseballbat.prefab|
