@@ -549,8 +549,11 @@
 |Caboose_LightSwitch|489802822|ElectricSwitch<br>BaseCombatEntity<br>DecayEntity<br>|Assets/Content/Vehicles/Trains/Caboose/Caboose_LightSwitch.prefab|
 |Caboose_XORSwitch|389254161|XORSwitch<br>BaseCombatEntity<br>DecayEntity<br>|Assets/Content/Vehicles/Trains/Caboose/Caboose_XORSwitch.prefab|
 |CardTable.caboose|1209592591|CardTable<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Model<br>|Assets/Content/Vehicles/Trains/Caboose/CardTable.caboose.prefab|
+|CardTable.caboose_static|858712032|CardTable<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Model<br>|Assets/Content/Vehicles/Trains/Caboose/CardTable.caboose_static.prefab|
 |SlotMachine.caboose|1863405911|SlotMachine<br>BaseCombatEntity<br>Model<br>|Assets/Content/Vehicles/Trains/Caboose/SlotMachine.caboose.prefab|
-|TrainCaboose.entity|1965024162|TrainCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|Assets/Content/Vehicles/Trains/Caboose/TrainCaboose.entity.prefab|
+|SlotMachine.caboose_static|3666013697|SlotMachine<br>BaseCombatEntity<br>Model<br>|Assets/Content/Vehicles/Trains/Caboose/SlotMachine.caboose_static.prefab|
+|TrainCaboose.entity|1965024162|TrainCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>Model<br>|Assets/Content/Vehicles/Trains/Caboose/TrainCaboose.entity.prefab|
+|TrainCaboose.static|2633527920|BaseEntity<br>Model<br>|Assets/Content/Vehicles/Trains/Caboose/TrainCaboose.static.prefab|
 |locomotive.entity|2404699083|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|Assets/Content/Vehicles/Trains/Locomotive/locomotive.entity.prefab|
 |locomotive_fuel_storage|1731121048|StorageContainer<br>BaseCombatEntity<br>|Assets/Content/Vehicles/Trains/Locomotive/SubEnts/locomotive_fuel_storage.prefab|
 |_BaseTrainWagon.entity|526417839|TrainCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>|Assets/Content/Vehicles/Trains/Wagons/_BaseTrainWagon.entity.prefab|
@@ -633,7 +636,9 @@
 |wall.half|3531096400|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|Assets/Prefabs/Building Core/wall.half/wall.half.prefab|
 |wall.low|310235277|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|Assets/Prefabs/Building Core/wall.low/wall.low.prefab|
 |wall.window|2326657495|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|Assets/Prefabs/Building Core/wall.window/wall.window.prefab|
+|debris.stone.external.wall|3573484548|GroundWatch<br>DebrisEntity<br>|Assets/Prefabs/Debris/debris.stone.external.wall.prefab|
 |debris.wall|1424066995|GroundWatch<br>DestroyOnGroundMissing<br>DebrisEntity<br>BoxCollider<br>|Assets/Prefabs/Debris/debris.wall.prefab|
+|debris.wood.external.wall|2304619954|GroundWatch<br>DebrisEntity<br>|Assets/Prefabs/Debris/debris.wood.external.wall.prefab|
 |barricade.concrete|2057881102|GroundWatch<br>DestroyOnGroundMissing<br>Barricade<br>BaseCombatEntity<br>MeshCollider<br>NavMeshObstacle<br>Model<br>|Assets/Prefabs/Deployable/Barricades/barricade.concrete.prefab|
 |barricade.cover.wood|1581233281|Barricade<br>BaseCombatEntity<br>|Assets/Prefabs/Deployable/Barricades/barricade.cover.wood.prefab|
 |barricade.metal|3824663394|GroundWatch<br>DestroyOnGroundMissing<br>Barricade<br>BaseCombatEntity<br>MeshCollider<br>NavMeshObstacle<br>|Assets/Prefabs/Deployable/Barricades/barricade.metal.prefab|
