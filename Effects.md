@@ -851,8 +851,11 @@
 |assets/prefabs/deployable/mailbox/effects/mailbox-deploy.prefab|
 |assets/prefabs/deployable/mixingtable/effects/mixingtable.enabled.vfx.prefab|
 |assets/prefabs/deployable/mixingtable/effects/mixing-table-deploy.prefab|
+|assets/prefabs/deployable/modular car lift/effects/modular-car-lift-addremovelock.prefab|
+|assets/prefabs/deployable/modular car lift/effects/modular-car-lift-changelockcode.prefab|
 |assets/prefabs/deployable/modular car lift/effects/modular-car-lift-deploy.prefab|
 |assets/prefabs/deployable/modular car lift/effects/modular-car-lift-destroy.prefab|
+|assets/prefabs/deployable/modular car lift/effects/modular-car-lift-repair.prefab|
 |assets/prefabs/deployable/oil refinery/effects/oil-refinery-deploy.prefab|
 |assets/prefabs/deployable/planters/effects/planter-deploy.prefab|
 |assets/prefabs/deployable/playerioents/detectors/hbhfsensor/effects/detect_down.prefab|
@@ -1511,6 +1514,7 @@
 |assets/prefabs/weapons/molotov cocktail/effects/laterimprovementwip/v_molotov_cocktail_cloth_flame.prefab|
 |assets/prefabs/weapons/molotov cocktail/effects/laterimprovementwip/visuals.prefab|
 |assets/prefabs/weapons/molotov cocktail/effects/molotovexplode.prefab|
+|assets/prefabs/weapons/molotov cocktail/effects/molotovexplodeunderwater.prefab|
 |assets/prefabs/weapons/molotov cocktail/effects/pfx_omni_ground_flame.prefab|
 |assets/prefabs/weapons/mp5/effects/attack.prefab|
 |assets/prefabs/weapons/mp5/effects/attack_muzzlebrake.prefab|
