@@ -389,7 +389,6 @@
 |![](https://rustlabs.com/img/items180/fun.trumpet.png)|Plumber's Trumpet|fun.trumpet|273172220|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/fun.tuba.png)|Sousaphone|fun.tuba|1784406797|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/xylophone.png)|Xylobone|xylophone|-211235948|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
-|![](https://rustlabs.com/img/items180/car.key.png)|Car Key|car.key|946662961|ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/door.key.png)|Door Key|door.key|-1112793865|ItemBlueprint<br>ItemModBurnable<br>|
 |![](https://rustlabs.com/img/items180/lock.key.png)|Key Lock|lock.key|-850982208|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/lock.code.png)|Code Lock|lock.code|1159991980|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
@@ -685,7 +684,7 @@
 |![](https://rustlabs.com/img/items180/vehicle.2mod.passengers.png)|Passenger Vehicle Module|vehicle.2mod.passengers|895374329|ItemBlueprint<br>ItemModVehicleModule<br>|
 |![](https://rustlabs.com/img/items180/vehicle.module.png)|Generic vehicle module|vehicle.module|878301596|ItemBlueprint<br>ItemModVehicleModule<br>|
 |![](https://rustlabs.com/img/items180/boombox.png)|Boom Box|boombox|-1113501606|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
-|![](https://rustlabs.com/img/items180/fun.boomboxportable.png)|Portable Boom Box|fun.boomboxportable|576509618|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
+|![](https://rustlabs.com/img/items180/fun.boomboxportable.png)|Portable Boom Box|fun.boomboxportable|576509618|ItemModEntity<br>ItemBlueprint<br>ItemModCassetteContainer<br>ItemMod<br>|
 |![](https://rustlabs.com/img/items180/cassette.png)|Cassette - Long|cassette|476066818|ItemBlueprint<br>ItemModCassette<br>ItemMod<br>|
 |![](https://rustlabs.com/img/items180/cassette.medium.png)|Cassette - Medium|cassette.medium|-912398867|ItemBlueprint<br>ItemModCassette<br>ItemMod<br>|
 |![](https://rustlabs.com/img/items180/cassette.short.png)|Cassette - Short|cassette.short|1523403414|ItemBlueprint<br>ItemModCassette<br>ItemMod<br>|
