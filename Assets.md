@@ -1280,9 +1280,11 @@
 |assets/content/properties/lootspawn/generated/items/res/explosives.asset|
 |assets/content/properties/lootspawn/generated/items/res/gunpowder.asset|
 |assets/content/properties/lootspawn/generated/items/res/horsedung.asset|
+|assets/content/properties/lootspawn/generated/items/res/hq.metal.ore.asset|
 |assets/content/properties/lootspawn/generated/items/res/leather.asset|
 |assets/content/properties/lootspawn/generated/items/res/lowgradefuel.asset|
 |assets/content/properties/lootspawn/generated/items/res/metal.fragments.asset|
+|assets/content/properties/lootspawn/generated/items/res/metal.ore.asset|
 |assets/content/properties/lootspawn/generated/items/res/metal.refined.asset|
 |assets/content/properties/lootspawn/generated/items/res/paper.asset|
 |assets/content/properties/lootspawn/generated/items/res/scrap.asset|
@@ -5793,6 +5795,10 @@
 |assets/prefabs/voiceaudio/telephone/sound/telephone-ring-loop-payphone.asset|
 |assets/prefabs/voiceaudio/telephone/sound/telephone-ring-mobile-loop.asset|
 |assets/prefabs/voiceaudio/telephone/sound/telephone-ring-remote.asset|
+|assets/prefabs/weapon mods/flashlight/sound/flashlight-off.asset|
+|assets/prefabs/weapon mods/flashlight/sound/flashlight-on.asset|
+|assets/prefabs/weapon mods/lasersight/sound/laser-sight-off.asset|
+|assets/prefabs/weapon mods/lasersight/sound/laser-sight-on.asset|
 |assets/prefabs/weapon mods/mod_attach.sound.asset|
 |assets/prefabs/weapon mods/silencers/effects/silencer_attach.sound.asset|
 |assets/prefabs/weapon mods/silencers/sound/silenced_shot.asset|
