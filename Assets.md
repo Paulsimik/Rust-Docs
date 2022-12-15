@@ -15,6 +15,7 @@
 |assets/bundled/prefabs/radtown/sound/vehicle-parts-close.asset|
 |assets/bundled/prefabs/radtown/sound/vehicle-parts-open.asset|
 |assets/content/image effects/postfx_volumes/building_exposure.asset|
+|assets/content/image effects/postfx_volumes/candyworld.asset|
 |assets/content/image effects/postfx_volumes/cctv.asset|
 |assets/content/image effects/postfx_volumes/cctv_mlrs.asset|
 |assets/content/image effects/postfx_volumes/cold.asset|
@@ -834,6 +835,7 @@
 |assets/content/properties/lootspawn/generated/items/attire/femaleeyebrow.style01.asset|
 |assets/content/properties/lootspawn/generated/items/attire/femalepubichair.style01.asset|
 |assets/content/properties/lootspawn/generated/items/attire/ghostsheet.asset|
+|assets/content/properties/lootspawn/generated/items/attire/gingerbreadsuit.asset|
 |assets/content/properties/lootspawn/generated/items/attire/halloween.mummysuit.asset|
 |assets/content/properties/lootspawn/generated/items/attire/halloween.surgeonsuit.asset|
 |assets/content/properties/lootspawn/generated/items/attire/hat.beenie.asset|
@@ -867,7 +869,9 @@
 |assets/content/properties/lootspawn/generated/items/attire/mask.balaclava.asset|
 |assets/content/properties/lootspawn/generated/items/attire/mask.bandana.asset|
 |assets/content/properties/lootspawn/generated/items/attire/metal.facemask.asset|
+|assets/content/properties/lootspawn/generated/items/attire/metal.facemask.icemask.asset|
 |assets/content/properties/lootspawn/generated/items/attire/metal.plate.torso.asset|
+|assets/content/properties/lootspawn/generated/items/attire/metal.plate.torso.icevest.asset|
 |assets/content/properties/lootspawn/generated/items/attire/nightvisiongoggles.asset|
 |assets/content/properties/lootspawn/generated/items/attire/pants.asset|
 |assets/content/properties/lootspawn/generated/items/attire/pants.shorts.asset|
@@ -1164,6 +1168,7 @@
 |assets/content/properties/lootspawn/generated/items/items/campfire.asset|
 |assets/content/properties/lootspawn/generated/items/items/ceilinglight.asset|
 |assets/content/properties/lootspawn/generated/items/items/chair.asset|
+|assets/content/properties/lootspawn/generated/items/items/chair.icethrone.asset|
 |assets/content/properties/lootspawn/generated/items/items/chineselantern.asset|
 |assets/content/properties/lootspawn/generated/items/items/dropbox.asset|
 |assets/content/properties/lootspawn/generated/items/items/fireplace.stone.asset|
@@ -1491,6 +1496,8 @@
 |assets/content/properties/playerinventory/fisherman.asset|
 |assets/content/properties/playerinventory/fishing.asset|
 |assets/content/properties/playerinventory/garry.asset|
+|assets/content/properties/playerinventory/gingerbreadman.asset|
+|assets/content/properties/playerinventory/gingerbreadmanmelee.asset|
 |assets/content/properties/playerinventory/halloween2020.asset|
 |assets/content/properties/playerinventory/hunter.asset|
 |assets/content/properties/playerinventory/instruments.asset|
@@ -3812,6 +3819,10 @@
 |assets/content/sound/worldmusic/stable-music-loop.ambience-def.asset|
 |assets/content/sound/worldmusic/stable-music-loop.ambience-list.asset|
 |assets/content/sound/worldmusic/stable-music-loop.asset|
+|assets/content/sound/xmas/gingerbread/gingerbread-crumble.asset|
+|assets/content/sound/xmas/gingerbread/gingerbread-footstep.asset|
+|assets/content/sound/xmas/gingerbread/gingerbread-footstep-light.asset|
+|assets/content/sound/xmas/gingerbread/gingerbread-impact.asset|
 |assets/content/structures/arctic_base_modules/sound/arctic-base-garage-door-close-end.asset|
 |assets/content/structures/arctic_base_modules/sound/arctic-base-garage-door-close-start.asset|
 |assets/content/structures/arctic_base_modules/sound/arctic-base-garage-door-open-end.asset|
@@ -4621,6 +4632,7 @@
 |assets/prefabs/clothes/mask.bandana/skull.black/mask.bandana.skull.black.skin.asset|
 |assets/prefabs/clothes/mask.bandana/skull.red/mask.bandana.skull.red.skin.asset|
 |assets/prefabs/clothes/mask.metal/mask.metal.skinnable.asset|
+|assets/prefabs/clothes/mask.metal/metalicefacemask/metal.facemask.icemask.skin.asset|
 |assets/prefabs/clothes/night.vision.goggles/sound/battery_change.asset|
 |assets/prefabs/clothes/night.vision.goggles/sound/goggles_loop.asset|
 |assets/prefabs/clothes/night.vision.goggles/sound/goggles_off.asset|
@@ -4681,6 +4693,7 @@
 |assets/prefabs/clothes/tshirt/tshirt.skinnable.asset|
 |assets/prefabs/clothes/tshirt/urbancamo/tshirt.urbancamo.itemskin.asset|
 |assets/prefabs/clothes/vest.metal/vest.metal.skinnable.asset|
+|assets/prefabs/clothes/vest.metal/vest.metal_ice/metal.plate.torso.icevest.skin.asset|
 |assets/prefabs/clothes/vest.roadsign/vest.roadsign.skinnable.asset|
 |assets/prefabs/deployable/barricades/barricade.concrete.skinnable.asset|
 |assets/prefabs/deployable/barricades/barricade.sandbags.skinnable.asset|
@@ -4720,6 +4733,7 @@
 |assets/prefabs/deployable/ceiling light/sound/ceiling-light-turn-on.asset|
 |assets/prefabs/deployable/ceiling light/sound/ceiling-light-turn-on-quiet.asset|
 |assets/prefabs/deployable/chair/chair.deployed.skinnable.asset|
+|assets/prefabs/deployable/chair/ice_throne/chair.icethrone.skin.asset|
 |assets/prefabs/deployable/chair/sound/chair-deploy.asset|
 |assets/prefabs/deployable/chair/sound/chair-dismount.asset|
 |assets/prefabs/deployable/chair/sound/chair-mount.asset|
@@ -5408,6 +5422,7 @@
 |assets/prefabs/misc/xmas/loottables/world/smallstocking.asset|
 |assets/prefabs/misc/xmas/loottables/world/superstocking.asset|
 |assets/prefabs/misc/xmas/loottables/world/worldgiftbox.asset|
+|assets/prefabs/misc/xmas/loottables/world/xmastunnelcrateextra.asset|
 |assets/prefabs/misc/xmas/neon_sign/neon.signs.sitem.asset|
 |assets/prefabs/misc/xmas/neon_sign/sound/neon-sign-active-loop.ambience-def.asset|
 |assets/prefabs/misc/xmas/neon_sign/sound/neon-sign-active-loop.ambience-list.asset|
@@ -5450,6 +5465,7 @@
 |assets/prefabs/misc/xmas/sound/xmas-firework-explode-multi.asset|
 |assets/prefabs/misc/xmas/sound/xmas-firework-mortar-launch.asset|
 |assets/prefabs/misc/xmas/sound/xmas-firework-roman-candle-launch.asset|
+|assets/prefabs/misc/xmas/staticdecor/snow-machine-static-loop.asset|
 |assets/prefabs/misc/xmas/wearable/santabeard/santabeard.sitem.asset|
 |assets/prefabs/misc/xmas/wearable/snowman_helmet/snowman_helmet.sitem.asset|
 |assets/prefabs/misc/xmas/windowgarland/windowgardland.sitem.asset|
@@ -5499,6 +5515,7 @@
 |assets/prefabs/missions/objectives/testing/speakwithprovider_returnwood.asset|
 |assets/prefabs/missions/portal/halloweendungeon.population.asset|
 |assets/prefabs/missions/portal/proceduraldungeon/effects/portalwind.asset|
+|assets/prefabs/missions/portal/xmasdungeon.population.asset|
 |assets/prefabs/missions/positiongenerator/beachgen.asset|
 |assets/prefabs/missions/positiongenerator/dungeongen.asset|
 |assets/prefabs/missions/positiongenerator/forestgen.asset|
@@ -6510,6 +6527,8 @@
 |assets/rust.ai/agents/horse/sound/snort.asset|
 |assets/rust.ai/agents/horse/sound/whinny.asset|
 |assets/rust.ai/agents/horse/sound/whinny-large.asset|
+|assets/rust.ai/agents/npcplayer/gingerbread/gingerbread.aidesign.asset|
+|assets/rust.ai/agents/npcplayer/gingerbread/gingerbreadmelee.aidesign.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/bandit_guard.aidesign.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/heavyscientist.oilrig.aidesign.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/heavyscientist-1.asset|
