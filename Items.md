@@ -116,6 +116,7 @@
 |![](https://rustlabs.com/img/items180/mask.balaclava.png)|Improvised Balaclava|mask.balaclava|-2012470695|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/mask.bandana.png)|Bandana Mask|mask.bandana|-702051347|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/metal.facemask.png)|Metal Facemask|metal.facemask|-194953424|ItemModWearable<br>ItemBlueprint<br>|
+|![](https://rustlabs.com/img/items180/metal.facemask.icemask.png)|Ice Metal Facemask|metal.facemask.icemask|110116923|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/nightvisiongoggles.png)|Night Vision Goggles|nightvisiongoggles|-1518883088|ItemModWearable<br>ItemBlueprint<br>ItemModRepair<br>|
 |![](https://rustlabs.com/img/items180/attire.ninja.suit.png)|Ninja Suit|attire.ninja.suit|-1506417026|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/burlap.trousers.png)|Burlap Trousers|burlap.trousers|1992974553|ItemModWearable<br>ItemBlueprint<br>|
@@ -149,6 +150,7 @@
 |![](https://rustlabs.com/img/items180/tshirt.long.png)|Longsleeve T-Shirt|tshirt.long|935692442|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/tshirt.png)|T-Shirt|tshirt|223891266|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/metal.plate.torso.png)|Metal Chest Plate|metal.plate.torso|1110385766|ItemModWearable<br>ItemBlueprint<br>|
+|![](https://rustlabs.com/img/items180/metal.plate.torso.icevest.png)|Ice Metal Chest Plate|metal.plate.torso.icevest|-1478855279|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/roadsign.jacket.png)|Road Sign Jacket|roadsign.jacket|-2002277461|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/bleach.png)|Bleach|bleach|1553078977||
 |![](https://rustlabs.com/img/items180/ducttape.png)|Duct Tape|ducttape|1401987718|ItemBlueprint<br>|
@@ -198,6 +200,7 @@
 |![](https://rustlabs.com/img/items180/cardtable.png)|Card Table|cardtable|1081921512|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/ceilinglight.png)|Ceiling Light|ceilinglight|1142993169|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/chair.png)|Chair|chair|1534542921|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/chair.icethrone.png)|Ice Throne|chair.icethrone|-1944704288|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/composter.png)|Composter|composter|-1488398114|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/computerstation.png)|Computer Station|computerstation|-1588628467|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/drone.png)|Drone|drone|1588492232|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
@@ -529,6 +532,7 @@
 |![](https://rustlabs.com/img/items180/snowman.png)|Snowman|snowman|1629293099|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/stocking.large.png)|SUPER Stocking|stocking.large|-465682601|ItemModEntity<br>ItemModDeployable<br>|
 |![](https://rustlabs.com/img/items180/stocking.small.png)|Small Stocking|stocking.small|1668858301|ItemModEntity<br>ItemModDeployable<br>ItemModUpgrade<br>|
+|![](https://rustlabs.com/img/items180/gingerbreadsuit.png)|Gingerbread Suit|gingerbreadsuit|-558880549|ItemModWearable<br>ItemFootstepSounds<br>ItemCorpseOverride<br>|
 |![](https://rustlabs.com/img/items180/attire.reindeer.headband.png)|Reindeer Antlers|attire.reindeer.headband|-324675402|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/santabeard.png)|Santa Beard|santabeard|2126889441|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/santahat.png)|Santa Hat|santahat|-575483084|ItemModWearable<br>|
