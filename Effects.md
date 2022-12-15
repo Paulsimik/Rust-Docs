@@ -50,6 +50,7 @@
 |assets/bundled/prefabs/fx/decals/bullet/flesh/decal_bullet_flesh_entry_01.prefab|
 |assets/bundled/prefabs/fx/decals/bullet/flesh/decal_bullet_flesh_exit_01.prefab|
 |assets/bundled/prefabs/fx/decals/bullet/forest/decal_bullet_forest_01.prefab|
+|assets/bundled/prefabs/fx/decals/bullet/gingerbread/decal_bullet_gingerbread_01.prefab|
 |assets/bundled/prefabs/fx/decals/bullet/glass/decal_bullet_glass.prefab|
 |assets/bundled/prefabs/fx/decals/bullet/glass/decal_bullet_glass2.prefab|
 |assets/bundled/prefabs/fx/decals/bullet/glass/decal_bullet_glass3.prefab|
@@ -166,6 +167,7 @@
 |assets/bundled/prefabs/fx/impacts/blunt/dirt/dirt1.prefab|
 |assets/bundled/prefabs/fx/impacts/blunt/flesh/fleshbloodimpact.prefab|
 |assets/bundled/prefabs/fx/impacts/blunt/generic/generic1.prefab|
+|assets/bundled/prefabs/fx/impacts/blunt/gingerbread/impact_blunt_gingerbread.prefab|
 |assets/bundled/prefabs/fx/impacts/blunt/glass/glass1.prefab|
 |assets/bundled/prefabs/fx/impacts/blunt/grass/grass1.prefab|
 |assets/bundled/prefabs/fx/impacts/blunt/gravel/slash_rock_01.prefab|
@@ -187,6 +189,7 @@
 |assets/bundled/prefabs/fx/impacts/bullet/generic/generic2.prefab|
 |assets/bundled/prefabs/fx/impacts/bullet/generic/generic3.prefab|
 |assets/bundled/prefabs/fx/impacts/bullet/generic/generic4.prefab|
+|assets/bundled/prefabs/fx/impacts/bullet/gingerbread/impact_bullet_gingerbread.prefab|
 |assets/bundled/prefabs/fx/impacts/bullet/glass/glass1.prefab|
 |assets/bundled/prefabs/fx/impacts/bullet/grass/grass1.prefab|
 |assets/bundled/prefabs/fx/impacts/bullet/gravel/bullet_impact_rock.prefab|
@@ -247,6 +250,21 @@
 |assets/bundled/prefabs/fx/impacts/footstep/burlap/water/boot_footstep_water.prefab|
 |assets/bundled/prefabs/fx/impacts/footstep/burlap/wood/footstep-wood.prefab|
 |assets/bundled/prefabs/fx/impacts/footstep/crouch/water/boot_footstep_water.prefab|
+|assets/bundled/prefabs/fx/impacts/footstep/gingerbread/cloth/footstep-cloth.prefab|
+|assets/bundled/prefabs/fx/impacts/footstep/gingerbread/concrete/footstep-concrete.prefab|
+|assets/bundled/prefabs/fx/impacts/footstep/gingerbread/dirt/footstep-dirt.prefab|
+|assets/bundled/prefabs/fx/impacts/footstep/gingerbread/forest/footstep-forest.prefab|
+|assets/bundled/prefabs/fx/impacts/footstep/gingerbread/generic/footstep-concrete.prefab|
+|assets/bundled/prefabs/fx/impacts/footstep/gingerbread/grass/footstep-grass.prefab|
+|assets/bundled/prefabs/fx/impacts/footstep/gingerbread/gravel/footstep-gravel.prefab|
+|assets/bundled/prefabs/fx/impacts/footstep/gingerbread/metal/footstep-metal.prefab|
+|assets/bundled/prefabs/fx/impacts/footstep/gingerbread/metalore/footstep-rock.prefab|
+|assets/bundled/prefabs/fx/impacts/footstep/gingerbread/rock/footstep-rock.prefab|
+|assets/bundled/prefabs/fx/impacts/footstep/gingerbread/sand/footstep-sand.prefab|
+|assets/bundled/prefabs/fx/impacts/footstep/gingerbread/snow/human_footstep_snow.prefab|
+|assets/bundled/prefabs/fx/impacts/footstep/gingerbread/stones/footstep-stones.prefab|
+|assets/bundled/prefabs/fx/impacts/footstep/gingerbread/water/boot_footstep_water.prefab|
+|assets/bundled/prefabs/fx/impacts/footstep/gingerbread/wood/footstep-wood.prefab|
 |assets/bundled/prefabs/fx/impacts/footstep/hide/cloth/footstep-cloth.prefab|
 |assets/bundled/prefabs/fx/impacts/footstep/hide/concrete/footstep-concrete.prefab|
 |assets/bundled/prefabs/fx/impacts/footstep/hide/dirt/footstep-dirt.prefab|
@@ -465,6 +483,7 @@
 |assets/bundled/prefabs/fx/impacts/slash/dirt/dirt1.prefab|
 |assets/bundled/prefabs/fx/impacts/slash/flesh/fleshbloodimpact.prefab|
 |assets/bundled/prefabs/fx/impacts/slash/generic/generic1.prefab|
+|assets/bundled/prefabs/fx/impacts/slash/gingerbread/impact_slash_gingerbread.prefab|
 |assets/bundled/prefabs/fx/impacts/slash/glass/glass1.prefab|
 |assets/bundled/prefabs/fx/impacts/slash/grass/grass1.prefab|
 |assets/bundled/prefabs/fx/impacts/slash/grass/grass2.prefab|
@@ -484,6 +503,7 @@
 |assets/bundled/prefabs/fx/impacts/stab/dirt/dirt1.prefab|
 |assets/bundled/prefabs/fx/impacts/stab/flesh/fleshbloodimpact.prefab|
 |assets/bundled/prefabs/fx/impacts/stab/generic/generic1.prefab|
+|assets/bundled/prefabs/fx/impacts/stab/gingerbread/impact_stab_gingerbread.prefab|
 |assets/bundled/prefabs/fx/impacts/stab/glass/glass1.prefab|
 |assets/bundled/prefabs/fx/impacts/stab/grass/grass1.prefab|
 |assets/bundled/prefabs/fx/impacts/stab/gravel/stab_rock_01.prefab|
@@ -827,6 +847,7 @@
 |assets/prefabs/deployable/campfire/effects/campfire-deploy.prefab|
 |assets/prefabs/deployable/ceiling light/effects/ceiling-light-deploy.prefab|
 |assets/prefabs/deployable/chair/effects/chair-deploy.prefab|
+|assets/prefabs/deployable/chair/ice_throne/effects/icethrone-deploy.prefab|
 |assets/prefabs/deployable/chinooklockedcrate/effects/landing.prefab|
 |assets/prefabs/deployable/dropbox/effects/dropbox-deploy.prefab|
 |assets/prefabs/deployable/dropbox/effects/submit_items.prefab|
@@ -916,6 +937,7 @@
 |assets/prefabs/effects/local camera particles/camfx_rain.prefab|
 |assets/prefabs/effects/local camera particles/camfx_sand.prefab|
 |assets/prefabs/effects/local camera particles/camfx_snow.prefab|
+|assets/prefabs/effects/weather/cinematic_snowstorm.prefab|
 |assets/prefabs/effects/weather/pfx_duststorm.prefab|
 |assets/prefabs/effects/weather/pfx_sandstorm.prefab|
 |assets/prefabs/effects/weather/sandstorm.prefab|
@@ -1037,6 +1059,7 @@
 |assets/prefabs/misc/xmas/candy cane club/effects/hit.prefab|
 |assets/prefabs/misc/xmas/candy cane club/effects/tap.prefab|
 |assets/prefabs/misc/xmas/candy cane club/effects/throw.prefab|
+|assets/prefabs/misc/xmas/ice throne/effects/pfx_icethrone.prefab|
 |assets/prefabs/misc/xmas/presents/effects/unwrap.prefab|
 |assets/prefabs/misc/xmas/presents/effects/wrap.prefab|
 |assets/prefabs/misc/xmas/sled/effects/sled-deploy.prefab|
