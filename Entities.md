@@ -408,6 +408,9 @@
 |Tree_Marking_NoSpherecast|1966986960|TreeMarker<br>|Assets/Content/Nature/TreesPrefabs/Trees/Effects/Tree_Marking_NoSpherecast.prefab|
 |barricade_cover_wood_static|2194500231||Assets/Content/Props/Barricades_static/barricade_cover_wood_static.prefab|
 |FogMachine|1390895812|FogMachine<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>BoxCollider<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|Assets/Content/Props/Fog Machine/FogMachine.prefab|
+|gingerbread_barricades_house|2986444390|MeshCollider<br>Barricade<br>BaseCombatEntity<br>|Assets/Content/Props/gingerbread_barricades/gingerbread_barricades_house.prefab|
+|gingerbread_barricades_snowman|2922559161|MeshCollider<br>Barricade<br>BaseCombatEntity<br>|Assets/Content/Props/gingerbread_barricades/gingerbread_barricades_snowman.prefab|
+|gingerbread_barricades_tree|2560613303|MeshCollider<br>Barricade<br>BaseCombatEntity<br>|Assets/Content/Props/gingerbread_barricades/gingerbread_barricades_tree.prefab|
 |Excavator Lighting Static|1362540524|LightListener<br>|Assets/Content/Props/light_fixtures/v2/Radtown Work Prefabs/Excavator Lighting Static.prefab|
 |Excavator_Lights|863874129|LightListener<br>|Assets/Content/Props/light_fixtures/v2/Radtown Work Prefabs/Excavator_Lights.prefab|
 |Roadsign1|1470494616|CapsuleCollider<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>Spawnable<br>TakeCollisionDamage<br>|Assets/Content/Props/roadsigns/Roadsign1.prefab|
@@ -424,6 +427,7 @@
 |StrobeLight|699083235|StrobeLight<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|Assets/Content/Props/Strobe Light/StrobeLight.prefab|
 |TrainBarricade|1221760186|TrainBarricade<br>Spawnable<br>|Assets/Content/Props/train_tunnels/TrainBarricade.prefab|
 |TrainBarricadeHeavy|1363243026|TrainBarricade<br>Spawnable<br>|Assets/Content/Props/train_tunnels/TrainBarricadeHeavy.prefab|
+|wooden_crate_gingerbread|2954096225|MeshCollider<br>Barricade<br>BaseCombatEntity<br>|Assets/Content/Props/wooden_crates/wooden_crate_gingerbread.prefab|
 |door.hinged.arctic.garage|276455361|Door<br>BaseCombatEntity<br>DecayEntity<br>StabilityEntity<br>Model<br>|Assets/Content/Structures/Arctic_base_modules/door.hinged.arctic.garage.prefab|
 |carshredder.entity|1114045676|LargeShredder<br>Model<br>|Assets/Content/Structures/CarShredder/carshredder.entity.prefab|
 |Diesel_Collectable|1388355532|CollectibleEntity<br>Spawnable<br>|Assets/Content/Structures/Excavator/Prefabs/Diesel_Collectable.prefab|
@@ -665,6 +669,7 @@
 |cctv_deployed|2633567939|CCTV_RC<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|Assets/Prefabs/Deployable/CCTVCamera/cctv_deployed.prefab|
 |ceilinglight.deployed|3953213470|CeilingLight<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|Assets/Prefabs/Deployable/Ceiling Light/ceilinglight.deployed.prefab|
 |chair.deployed|1992774774|BaseChair<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>MeshCollider<br>|Assets/Prefabs/Deployable/Chair/chair.deployed.prefab|
+|chair.icethrone|3579302978|BaseChair<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>MeshCollider<br>|Assets/Prefabs/Deployable/Chair/ice_throne/chair.icethrone.prefab|
 |CodelockedHackableCrate|209286362|HackableLockedCrate<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>Rigidbody<br>|Assets/Prefabs/Deployable/ChinookLockedCrate/CodelockedHackableCrate.prefab|
 |CodelockedHackableCrate_Oilrig|2043434947|HackableLockedCrate<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>Rigidbody<br>|Assets/Prefabs/Deployable/ChinookLockedCrate/CodelockedHackableCrate_Oilrig.prefab|
 |composter|1921897480|Composter<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>MeshCollider<br>DestroyOnGroundMissing<br>|Assets/Prefabs/Deployable/Composter/composter.prefab|
@@ -1120,6 +1125,10 @@
 |stocking_small_deployed|3141927338|Stocking<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|Assets/Prefabs/Misc/XMas/stockings/stocking_small_deployed.prefab|
 |windowgarland.deployed|1321691542|SimpleBuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|Assets/Prefabs/Misc/XMas/WindowGarland/windowgarland.deployed.prefab|
 |christmas_door_wreath_deployed|2207899193|BaseCombatEntity<br>|Assets/Prefabs/Misc/XMas/Wreath/christmas_door_wreath_deployed.prefab|
+|XMasDwelling_A|2989328402|NPCDwelling<br>|Assets/Prefabs/Misc/XMas/XMasDwellings/XMasDwelling_A.prefab|
+|XMasDwelling_B|4279789862|NPCDwelling<br>|Assets/Prefabs/Misc/XMas/XMasDwellings/XMasDwelling_B.prefab|
+|XMasDwelling_C|3226822244|NPCDwelling<br>|Assets/Prefabs/Misc/XMas/XMasDwellings/XMasDwelling_C.prefab|
+|XMasDwelling_D|3872949008|NPCDwelling<br>|Assets/Prefabs/Misc/XMas/XMasDwellings/XMasDwelling_D.prefab|
 |XMasRefill|2750850993|XMasRefill<br>|Assets/Prefabs/Misc/XMas/XMasRefill.prefab|
 |xmas_tree.deployed|1181698029|ChristmasTree<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|Assets/Prefabs/Misc/XMas/XmasTree/xmas_tree.deployed.prefab|
 |xmas_tree_a.deployed|3520045458|MeshCollider<br>DecorDeployable<br>BaseCombatEntity<br>|Assets/Prefabs/Misc/XMas/XmasTree/xmas_tree_a.deployed.prefab|
@@ -1134,6 +1143,10 @@
 |HalloweenPortalEntry|3939551954|HalloweenDungeon<br>BaseCombatEntity<br>BoxCollider<br>Spawnable<br>|Assets/Prefabs/Missions/Portal/HalloweenPortalEntry.prefab|
 |HalloweenPortalExit|1686410832|BasePortal<br>BoxCollider<br>|Assets/Prefabs/Missions/Portal/HalloweenPortalExit.prefab|
 |MineDungeon|3461158248|ProceduralDynamicDungeon<br>MonumentNavMesh<br>|Assets/Prefabs/Missions/Portal/MineDungeon.prefab|
+|XmasTunnelLootBox|3343729976|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>Model<br>|Assets/Prefabs/Missions/Portal/ProceduralDungeon/XmasTunnels/Loot/XmasTunnelLootBox.prefab|
+|XmasGingerbreadDungeon|2614965312|ProceduralDynamicDungeon<br>MonumentNavMesh<br>|Assets/Prefabs/Missions/Portal/XmasGingerbreadDungeon.prefab|
+|XMasPortalEntry|2270960267|XmasDungeon<br>BaseCombatEntity<br>BasePortal<br>BoxCollider<br>Spawnable<br>|Assets/Prefabs/Missions/Portal/XMasPortalEntry.prefab|
+|XmasPortalExit|2696291976|BasePortal<br>BoxCollider<br>|Assets/Prefabs/Missions/Portal/XmasPortalExit.prefab|
 |autoturret_deployed|3312510084|AutoTurret<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>Model<br>DestroyOnGroundMissing<br>GroundWatch<br>CapsuleCollider<br>|Assets/Prefabs/NPC/AutoTurret/autoturret_deployed.prefab|
 |AirWolfSpawner|3960558419|VehicleSpawner<br>BoxCollider<br>|Assets/Prefabs/NPC/Bandit/AirWolfSpawner.prefab|
 |BoatSpawner|2609911909|VehicleSpawner<br>BoxCollider<br>|Assets/Prefabs/NPC/Bandit/BoatSpawner.prefab|
@@ -1159,6 +1172,10 @@
 |ServerGibs_CH47|3745320211|HelicopterDebris<br>BaseCombatEntity<br>ResourceDispenser<br>|Assets/Prefabs/NPC/CH47/ServerGibs_CH47.prefab|
 |flameturret.deployed|4075317686|FlameTurret<br>BaseCombatEntity<br>DecayEntity<br>Model<br>DestroyOnGroundMissing<br>GroundWatch<br>CapsuleCollider<br>|Assets/Prefabs/NPC/Flame Turret/flameturret.deployed.prefab|
 |flameturret_fireball|2781905939|FireBall<br>Rigidbody<br>BoxCollider<br>|Assets/Prefabs/NPC/Flame Turret/flameturret_fireball.prefab|
+|gingerbread_corpse_female|3250554959|NPCPlayerCorpse<br>BaseCombatEntity<br>LootableCorpse<br>BaseCorpse<br>HumanBodyResourceDispenser<br>Buoyancy<br>|Assets/Prefabs/NPC/Gingerbread/gingerbread_corpse_female.prefab|
+|gingerbread_corpse_male|3865171876|NPCPlayerCorpse<br>BaseCombatEntity<br>LootableCorpse<br>BaseCorpse<br>HumanBodyResourceDispenser<br>Buoyancy<br>|Assets/Prefabs/NPC/Gingerbread/gingerbread_corpse_male.prefab|
+|Gingerbread_Dungeon|2992757580|GingerbreadNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>Spawnable<br>NavMeshAgent<br>Spawnable<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Prefabs/NPC/Gingerbread/Gingerbread_Dungeon.prefab|
+|Gingerbread_MeleeDungeon|1172642608|GingerbreadNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>Spawnable<br>NavMeshAgent<br>Spawnable<br>ScientistBrain<br>NPCPlayerNavigator<br>|Assets/Prefabs/NPC/Gingerbread/Gingerbread_MeleeDungeon.prefab|
 |bradley_crate|1737870479|LockedByEntCrate<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>BoxCollider<br>|Assets/Prefabs/NPC/M2Bradley/bradley_crate.prefab|
 |BradleyAPC|1456850188|BradleyAPC<br>Rigidbody<br>Model<br>TreadEffects<br>|Assets/Prefabs/NPC/M2Bradley/BradleyAPC.prefab|
 |MainCannonShell|3032863244|TimedExplosive<br>ServerProjectile<br>CapsuleCollider<br>|Assets/Prefabs/NPC/M2Bradley/MainCannonShell.prefab|
