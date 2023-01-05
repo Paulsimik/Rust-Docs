@@ -27,6 +27,9 @@
 |assets/scenes/prefabs/arctic research bases/arctic_research_base_a/splattexture1.png|
 |assets/scenes/prefabs/arctic research bases/arctic_research_base_a/topologytexture.png|
 |assets/scenes/prefabs/arctic research bases/arctic_research_base_a/watertexture.png|
+|assets/scenes/prefabs/arctic research bases/arctic_research_base_a_root_lods/arctic_research_base_a_root_hlod_albedo.png|
+|assets/scenes/prefabs/arctic research bases/arctic_research_base_a_root_lods/arctic_research_base_a_root_hlod_normals.png|
+|assets/scenes/prefabs/arctic research bases/arctic_research_base_a_root_lods/arctic_research_base_a_root_hlod_specular.png|
 |assets/scenes/prefabs/bandid_town/bandit_town/alphatexture.png|
 |assets/scenes/prefabs/bandid_town/bandit_town/bandit_town_biometexture.png|
 |assets/scenes/prefabs/bandid_town/bandit_town/bandit_town_splat_texture_0.png|
