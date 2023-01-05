@@ -401,6 +401,7 @@
 |![](https://rustlabs.com/img/items180/hat.dragonmask.png)|Dragon Mask|hat.dragonmask|-22883916|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/newyeargong.png)|New Year Gong|newyeargong|-961457160|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/hat.oxmask.png)|Ox Mask|hat.oxmask|1315082560|ItemModWearable<br>ItemBlueprint<br>|
+|![](https://rustlabs.com/img/items180/hat.rabbitmask.png)|Rabbit Mask|hat.rabbitmask|-986782031|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/hat.ratmask.png)|Rat Mask|hat.ratmask|271048478|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/skylantern.png)|Sky Lantern|skylantern|1819863051|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/skylantern.skylantern.green.png)|Sky Lantern - Green|skylantern.skylantern.green|-1770889433|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
