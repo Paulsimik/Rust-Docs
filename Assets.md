@@ -5182,6 +5182,7 @@
 |assets/prefabs/misc/chinesenewyear/newyeargong/sound/gong.asset|
 |assets/prefabs/misc/chinesenewyear/oxmask/oxmask.sitem.asset|
 |assets/prefabs/misc/chinesenewyear/oxmask/sbmat_bullmasktassels.asset|
+|assets/prefabs/misc/chinesenewyear/rabbitmask/rabbitmask.sitem.asset|
 |assets/prefabs/misc/chinesenewyear/ratmask/ratmask.sitem.asset|
 |assets/prefabs/misc/chinesenewyear/sky_lantern/skylantern.sitem.asset|
 |assets/prefabs/misc/chinesenewyear/sky_lantern/skylantern.skinnable.asset|
