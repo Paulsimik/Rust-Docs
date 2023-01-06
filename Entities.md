@@ -328,6 +328,7 @@
 |bbq.static|128449714|BaseOven<br>BaseCombatEntity<br>DecayEntity<br>EntityFlag_Toggle<br>Model<br>MeshCollider<br>|Assets/bundled/Prefabs/static/bbq.static.prefab|
 |bbq.static_hidden|787806833|BaseOven<br>BaseCombatEntity<br>DecayEntity<br>EntityFlag_Toggle<br>Model<br>MeshCollider<br>|Assets/bundled/Prefabs/static/bbq.static_hidden.prefab|
 |campfire_static|1339281147|BaseOven<br>BaseCombatEntity<br>DecayEntity<br>EntityFlag_Toggle<br>MeshCollider<br>|Assets/bundled/Prefabs/static/campfire_static.prefab|
+|chair.invisible.static|624857933|BaseChair<br>BaseCombatEntity<br>MeshCollider<br>ColliderInfo<br>|Assets/bundled/Prefabs/static/chair.invisible.static.prefab|
 |chair.static|629849447|BaseChair<br>BaseCombatEntity<br>MeshCollider<br>|Assets/bundled/Prefabs/static/chair.static.prefab|
 |chair_a.static|1671004260|BaseChair<br>BaseCombatEntity<br>|Assets/bundled/Prefabs/static/chair_a.static.prefab|
 |chair_b.static|2560344996|BaseChair<br>BaseCombatEntity<br>|Assets/bundled/Prefabs/static/chair_b.static.prefab|
