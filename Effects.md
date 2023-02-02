@@ -881,6 +881,11 @@
 |assets/prefabs/deployable/planters/effects/planter-deploy.prefab|
 |assets/prefabs/deployable/playerioents/detectors/hbhfsensor/effects/detect_down.prefab|
 |assets/prefabs/deployable/playerioents/detectors/hbhfsensor/effects/detect_up.prefab|
+|assets/prefabs/deployable/playerioents/electricfurnace/effects/electric-furnace-deploy.prefab|
+|assets/prefabs/deployable/playerioents/industrialadaptors/effects/event lights.prefab|
+|assets/prefabs/deployable/playerioents/industrialconveyor/effects/event lights.prefab|
+|assets/prefabs/deployable/playerioents/industrialconveyor/effects/industrial-conveyor-deploy.prefab|
+|assets/prefabs/deployable/playerioents/industrialcrafter/effects/industrial-crafter-deploy.prefab|
 |assets/prefabs/deployable/quarry/effects/mining-quarry-deploy.prefab|
 |assets/prefabs/deployable/reactive target/effects/bullseye.prefab|
 |assets/prefabs/deployable/reactive target/effects/reactive-target-deploy.prefab|
@@ -1160,6 +1165,7 @@
 |assets/prefabs/tools/medical syringe/effects/pop_cap.prefab|
 |assets/prefabs/tools/pager/effects/beep.prefab|
 |assets/prefabs/tools/pager/effects/vibrate.prefab|
+|assets/prefabs/tools/pipe/effects/plugeffect.prefab|
 |assets/prefabs/tools/smoke grenade/effects/ignite.prefab|
 |assets/prefabs/tools/smoke grenade/effects/smokegrenade.prefab|
 |assets/prefabs/tools/smoke grenade/effects/smokegrenade_small.prefab|
@@ -1342,6 +1348,9 @@
 |assets/prefabs/weapons/glockskin/effects/move_clip.prefab|
 |assets/prefabs/weapons/glockskin/effects/reload_finish.prefab|
 |assets/prefabs/weapons/glockskin/effects/reload_start.prefab|
+|assets/prefabs/weapons/glockskin/effects/slide_close.prefab|
+|assets/prefabs/weapons/glockskin/effects/slide_open.prefab|
+|assets/prefabs/weapons/glockskin/effects/slide_shut.prefab|
 |assets/prefabs/weapons/glockskin/effects/w_drop_mag.prefab|
 |assets/prefabs/weapons/glockskin/effects/w_eject_pistol_shell.prefab|
 |assets/prefabs/weapons/grenade launcher/effects/attack.prefab|
