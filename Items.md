@@ -255,6 +255,7 @@
 |![](https://rustlabs.com/img/items180/electric.laserdetector.png)|Laser Detector|electric.laserdetector|-798293154|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/electric.pressurepad.png)|Pressure Pad|electric.pressurepad|-2049214035|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/electric.doorcontroller.png)|Door Controller|electric.doorcontroller|-502177121|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/electric.furnace.png)|Electric Furnace|electric.furnace|-1196547867|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>ItemModChildIO<br>|
 |![](https://rustlabs.com/img/items180/electric.heater.png)|Electric Heater|electric.heater|-784870360|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/fluid.combiner.png)|Fluid Combiner|fluid.combiner|-265292885|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/fluid.splitter.png)|Fluid Splitter|fluid.splitter|-1166712463|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
@@ -273,6 +274,11 @@
 |![](https://rustlabs.com/img/items180/electric.generator.small.png)|Test Generator|electric.generator.small|-295829489|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/electric.solarpanel.large.png)|Large Solar Panel|electric.solarpanel.large|2090395347|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/electric.igniter.png)|Igniter|electric.igniter|-44876289|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/storageadaptor.png)|Storage Adaptor|storageadaptor|-1049172752|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/industrial.combiner.png)|Industrial Combiner|industrial.combiner|1538126328|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/industrial.conveyor.png)|Industrial Conveyor|industrial.conveyor|610102428|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/industrial.crafter.png)|Industrial Crafter|industrial.crafter|1430085198|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/industrial.splitter.png)|Industrial Splitter|industrial.splitter|742745918|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/electric.flasherlight.png)|Flasher Light|electric.flasherlight|-939424778|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/electric.simplelight.png)|Simple Light|electric.simplelight|-282113991|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/electric.sirenlight.png)|Siren Light|electric.sirenlight|762289806|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
@@ -663,6 +669,7 @@
 |![](https://rustlabs.com/img/items180/map.png)|Paper Map|map|696029452|ItemBlueprint<br>ItemModEntity<br>ItemModContainerRestriction<br>|
 |![](https://rustlabs.com/img/items180/syringe.medical.png)|Medical Syringe|syringe.medical|1079279582|ItemModEntity<br>ItemBlueprint<br>ItemModConsumable<br>|
 |![](https://rustlabs.com/img/items180/rf_pager.png)|RF Pager|rf_pager|-566907190|ItemModRFListener<br>ItemMod<br>ItemBlueprint<br>|
+|![](https://rustlabs.com/img/items180/pipetool.png)|Pipe Tool|pipetool|-144513264|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/building.planner.png)|Building Plan|building.planner|1525520776|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/grenade.smoke.png)|Smoke Grenade|grenade.smoke|1263920163|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/spraycan.png)|Spray Can|spraycan|-596876839|ItemModEntity<br>ItemBlueprint<br>|
