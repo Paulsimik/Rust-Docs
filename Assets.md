@@ -1001,6 +1001,7 @@
 |assets/content/properties/lootspawn/generated/items/electrical/electric.doorcontroller.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/electric.flasherlight.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/electric.fuelgenerator.small.asset|
+|assets/content/properties/lootspawn/generated/items/electrical/electric.furnace.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/electric.generator.small.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/electric.hbhfsensor.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/electric.heater.asset|
@@ -1028,6 +1029,10 @@
 |assets/content/properties/lootspawn/generated/items/electrical/fluid.switch.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/generator.wind.scrap.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/hosetool.asset|
+|assets/content/properties/lootspawn/generated/items/electrical/industrial.combiner.asset|
+|assets/content/properties/lootspawn/generated/items/electrical/industrial.conveyor.asset|
+|assets/content/properties/lootspawn/generated/items/electrical/industrial.crafter.asset|
+|assets/content/properties/lootspawn/generated/items/electrical/industrial.splitter.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/industrial.wall.light.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/industrial.wall.light.green.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/industrial.wall.light.red.asset|
@@ -1038,6 +1043,7 @@
 |assets/content/properties/lootspawn/generated/items/electrical/smart.alarm.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/smart.switch.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/storage.monitor.asset|
+|assets/content/properties/lootspawn/generated/items/electrical/storageadaptor.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/target.reactive.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/waterpump.asset|
 |assets/content/properties/lootspawn/generated/items/food/apple.asset|
@@ -1500,6 +1506,7 @@
 |assets/content/properties/playerinventory/gingerbreadmanmelee.asset|
 |assets/content/properties/playerinventory/halloween2020.asset|
 |assets/content/properties/playerinventory/hunter.asset|
+|assets/content/properties/playerinventory/industrial.asset|
 |assets/content/properties/playerinventory/instruments.asset|
 |assets/content/properties/playerinventory/lumberjack.asset|
 |assets/content/properties/playerinventory/melee weapons.asset|
@@ -1822,6 +1829,11 @@
 |assets/content/properties/steamcategories/limited-chinese-newyear-2022-300.steam.asset|
 |assets/content/properties/steamcategories/limited-chinese-newyear-2022-400.steam.asset|
 |assets/content/properties/steamcategories/limited-chinese-newyear-2022-650.steam.asset|
+|assets/content/properties/steamcategories/limited-chinese-newyear-2023-1000.steam.asset|
+|assets/content/properties/steamcategories/limited-chinese-newyear-2023-250.steam.asset|
+|assets/content/properties/steamcategories/limited-chinese-newyear-2023-300.steam.asset|
+|assets/content/properties/steamcategories/limited-chinese-newyear-2023-500.steam.asset|
+|assets/content/properties/steamcategories/limited-chinese-newyear-2023-650.steam.asset|
 |assets/content/properties/steamcategories/limited-christmas2015.steam.asset|
 |assets/content/properties/steamcategories/limited-christmas2017.steam.asset|
 |assets/content/properties/steamcategories/limited-christmas2017-cheap.steam.asset|
@@ -2422,12 +2434,12 @@
 |assets/content/sound/instruments/acousticguitar/acoustic-guitar-g3.asset|
 |assets/content/sound/instruments/acousticguitar/acoustic-guitar-g4.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-a#1.asset|
+|assets/content/sound/instruments/bassguitar/bass-guitar-a#2.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-a1.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-a2.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-b1.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-b2.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-c#2.asset|
-|assets/content/sound/instruments/bassguitar/bass-guitar-c#3.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-c2.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-c3.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-d#2.asset|
@@ -4898,6 +4910,12 @@
 |assets/prefabs/deployable/playerioents/detectors/hbhfsensor/sound/idle.asset|
 |assets/prefabs/deployable/playerioents/detectors/pressurepad/sound/pressure-pad-activate.asset|
 |assets/prefabs/deployable/playerioents/detectors/pressurepad/sound/pressure-pad-deactivate.asset|
+|assets/prefabs/deployable/playerioents/electricfurnace/sound/electric-furnace-active-loop.asset|
+|assets/prefabs/deployable/playerioents/electricfurnace/sound/electric-furnace-close.asset|
+|assets/prefabs/deployable/playerioents/electricfurnace/sound/electric-furnace-deploy.asset|
+|assets/prefabs/deployable/playerioents/electricfurnace/sound/electric-furnace-open.asset|
+|assets/prefabs/deployable/playerioents/electricfurnace/sound/electric-furnace-turn-off.asset|
+|assets/prefabs/deployable/playerioents/electricfurnace/sound/electric-furnace-turn-on.asset|
 |assets/prefabs/deployable/playerioents/electricheater/sound/electric-heater-loop.ambience-def.asset|
 |assets/prefabs/deployable/playerioents/electricheater/sound/electric-heater-loop.ambience-list.asset|
 |assets/prefabs/deployable/playerioents/electricheater/sound/electric-heater-loop.asset|
@@ -4917,6 +4935,21 @@
 |assets/prefabs/deployable/playerioents/generators/sound/small-generator-start.asset|
 |assets/prefabs/deployable/playerioents/generators/sound/small-generator-stop.asset|
 |assets/prefabs/deployable/playerioents/igniter/sound/igniter-sparks-loop.asset|
+|assets/prefabs/deployable/playerioents/industrialconveyor/sound/industrial-conveyor-active-loop.asset|
+|assets/prefabs/deployable/playerioents/industrialconveyor/sound/industrial-conveyor-close.asset|
+|assets/prefabs/deployable/playerioents/industrialconveyor/sound/industrial-conveyor-deploy.asset|
+|assets/prefabs/deployable/playerioents/industrialconveyor/sound/industrial-conveyor-open.asset|
+|assets/prefabs/deployable/playerioents/industrialconveyor/sound/industrial-conveyor-start.asset|
+|assets/prefabs/deployable/playerioents/industrialconveyor/sound/industrial-conveyor-stop.asset|
+|assets/prefabs/deployable/playerioents/industrialconveyor/sound/industrial-conveyor-transfer-item.asset|
+|assets/prefabs/deployable/playerioents/industrialconveyor/sound/industrial-conveyor-transfer-item-start.asset|
+|assets/prefabs/deployable/playerioents/industrialcrafter/sound/industrial-crafter-active-loop.asset|
+|assets/prefabs/deployable/playerioents/industrialcrafter/sound/industrial-crafter-close.asset|
+|assets/prefabs/deployable/playerioents/industrialcrafter/sound/industrial-crafter-deploy.asset|
+|assets/prefabs/deployable/playerioents/industrialcrafter/sound/industrial-crafter-finish.asset|
+|assets/prefabs/deployable/playerioents/industrialcrafter/sound/industrial-crafter-open.asset|
+|assets/prefabs/deployable/playerioents/industrialcrafter/sound/industrial-crafter-start.asset|
+|assets/prefabs/deployable/playerioents/industrialcrafter/sound/industrial-crafter-stop.asset|
 |assets/prefabs/deployable/playerioents/poweredwaterpurifier/sound/powered-water-purifier-loop.ambience-def.asset|
 |assets/prefabs/deployable/playerioents/poweredwaterpurifier/sound/powered-water-purifier-loop.ambience-list.asset|
 |assets/prefabs/deployable/playerioents/poweredwaterpurifier/sound/powered-water-purifier-loop.asset|
@@ -5787,6 +5820,11 @@
 |assets/prefabs/tools/medical syringe/sound/syringe-pop-cap.asset|
 |assets/prefabs/tools/pager/sound/beep.asset|
 |assets/prefabs/tools/pager/sound/vibrate.asset|
+|assets/prefabs/tools/pipe/sound/pipe-wrench-clear-start.asset|
+|assets/prefabs/tools/pipe/sound/pipe-wrench-deploy.asset|
+|assets/prefabs/tools/pipe/sound/pipe-wrench-disconnect.asset|
+|assets/prefabs/tools/pipe/sound/pipe-wrench-impact.asset|
+|assets/prefabs/tools/pipe/sound/pipe-wrench-swing.asset|
 |assets/prefabs/tools/planner/sound/planner-deploy.asset|
 |assets/prefabs/tools/planner/sound/planner-deploy-3p.asset|
 |assets/prefabs/tools/smoke grenade/sound/ignite.asset|
