@@ -575,7 +575,7 @@
 |TrainWagonC.entity|3004380666|TrainCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|Assets/Content/Vehicles/Trains/Wagons/TrainWagonC.entity.prefab|
 |TrainWagonUnloadable.entity|3925609063|TrainCarUnloadable<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|Assets/Content/Vehicles/Trains/Wagons/TrainWagonUnloadable.entity.prefab|
 |TrainWagonUnloadableFuel.entity|1383224408|TrainCarUnloadable<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>TrainCarFuelHatches<br>|Assets/Content/Vehicles/Trains/Wagons/TrainWagonUnloadableFuel.entity.prefab|
-|TrainWagonUnloadableLoot.entity|2485848884|TrainCarUnloadable<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|Assets/Content/Vehicles/Trains/Wagons/TrainWagonUnloadableLoot.entity.prefab|
+|TrainWagonUnloadableLoot.entity|2485848884|TrainCarUnloadableLoot<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>TrainCar<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|Assets/Content/Vehicles/Trains/Wagons/TrainWagonUnloadableLoot.entity.prefab|
 |workcart_fuel_storage|340386975|StorageContainer<br>BaseCombatEntity<br>|Assets/Content/Vehicles/Trains/WorkCart/SubEnts/workcart_fuel_storage.prefab|
 |workcart.entity|2059952138|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>|Assets/Content/Vehicles/Trains/WorkCart/workcart.entity.prefab|
 |workcart_aboveground.entity|1173017984|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|Assets/Content/Vehicles/Trains/WorkCart/workcart_aboveground.entity.prefab|
@@ -711,7 +711,7 @@
 |FrankensteinTable.deployed|1178330157|FrankensteinTable<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|Assets/Prefabs/Deployable/FrankensteinTable/FrankensteinTable.deployed.prefab|
 |fridge.deployed|1844023509|BoxStorage<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>MeshCollider<br>|Assets/Prefabs/Deployable/Fridge/fridge.deployed.prefab|
 |furnace|2931042549|BaseOven<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>MeshCollider<br>DestroyOnGroundMissing<br>EntityFlag_Toggle<br>|Assets/Prefabs/Deployable/Furnace/furnace.prefab|
-|furnace.large|1374462671|BaseOven<br>BaseCombatEntity<br>DecayEntity<br>EntityFlag_Toggle<br>MeshCollider<br>|Assets/Prefabs/Deployable/Furnace.Large/furnace.large.prefab|
+|furnace.large|1374462671|BaseOven<br>BaseCombatEntity<br>DecayEntity<br>EntityFlag_Toggle<br>MeshCollider<br>Model<br>|Assets/Prefabs/Deployable/Furnace.Large/furnace.large.prefab|
 |HitchTrough.deployed|3238272924|HitchTrough<br>BaseCombatEntity<br>DecayEntity<br>Model<br>DestroyOnGroundMissing<br>GroundWatch<br>|Assets/Prefabs/Deployable/Hitch & Trough/HitchTrough.deployed.prefab|
 |HotAirBalloon|3111236903|HotAirBalloon<br>Rigidbody<br>Spawnable<br>|Assets/Prefabs/Deployable/Hot Air Balloon/HotAirBalloon.prefab|
 |hab_storage|675927205|StorageContainer<br>BaseCombatEntity<br>BoxCollider<br>|Assets/Prefabs/Deployable/Hot Air Balloon/SubEnts/hab_storage.prefab|
@@ -746,6 +746,8 @@
 |LaserDetector|2260707523|LaserDetector<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|Assets/Prefabs/Deployable/PlayerIOEnts/Detectors/LaserDetector/LaserDetector.prefab|
 |pressurepad.deployed|687239341|PressurePad<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|Assets/Prefabs/Deployable/PlayerIOEnts/Detectors/PressurePad/pressurepad.deployed.prefab|
 |doorcontroller.deployed|2343730564|CustomDoorManipulator<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|Assets/Prefabs/Deployable/PlayerIOEnts/DoorManipulators/doorcontroller.deployed.prefab|
+|electricfurnace.deployed|3808299817|ElectricOven<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>EntityFlag_Toggle<br>BoxCollider<br>|Assets/Prefabs/Deployable/PlayerIOEnts/ElectricFurnace/electricfurnace.deployed.prefab|
+|electricfurnace.io|2678691787|ElectricFurnaceIO<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|Assets/Prefabs/Deployable/PlayerIOEnts/ElectricFurnace/electricfurnace.io.prefab|
 |electrical.heater|3077222881|ElectricalHeater<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>Model<br>EntityFlag_Toggle<br>GrowableHeatSource<br>|Assets/Prefabs/Deployable/PlayerIOEnts/ElectricHeater/electrical.heater.prefab|
 |fluid.combiner.deployed|4043799246|ElectricalCombiner<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|Assets/Prefabs/Deployable/PlayerIOEnts/FluidCombiner/fluid.combiner.deployed.prefab|
 |FluidSplitter|2150367216|Splitter<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|Assets/Prefabs/Deployable/PlayerIOEnts/FluidSplitter/FluidSplitter.prefab|
@@ -764,6 +766,11 @@
 |generator.small|1216081662|ElectricGenerator<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>MeshCollider<br>|Assets/Prefabs/Deployable/PlayerIOEnts/Generators/generator.small.prefab|
 |SolarPanel.Large.deployed|2231260353|SolarPanel<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>MeshCollider<br>|Assets/Prefabs/Deployable/PlayerIOEnts/Generators/Solar_Panels_Roof/SolarPanel.Large.deployed.prefab|
 |igniter.deployed|3946116692|Igniter<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|Assets/Prefabs/Deployable/PlayerIOEnts/Igniter/igniter.deployed.prefab|
+|StorageAdaptor.deployed|1077498142|IndustrialStorageAdaptor<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>BoxCollider<br>|Assets/Prefabs/Deployable/PlayerIOEnts/IndustrialAdaptors/StorageAdaptor.deployed.prefab|
+|industrialcombiner.deployed|2557715962|ElectricalCombiner<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|Assets/Prefabs/Deployable/PlayerIOEnts/IndustrialCombiner/industrialcombiner.deployed.prefab|
+|industrialconveyor.deployed|3459531520|IndustrialConveyor<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>|Assets/Prefabs/Deployable/PlayerIOEnts/IndustrialConveyor/industrialconveyor.deployed.prefab|
+|industrialcrafter.deployed|273687723|IndustrialCrafter<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>|Assets/Prefabs/Deployable/PlayerIOEnts/IndustrialCrafter/industrialcrafter.deployed.prefab|
+|industrialsplitter.deployed|4142483135|Splitter<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|Assets/Prefabs/Deployable/PlayerIOEnts/IndustrialSplitter/industrialsplitter.deployed.prefab|
 |electric.flasherlight.deployed|3742301494|FlasherLight<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|Assets/Prefabs/Deployable/PlayerIOEnts/Lights/FlasherLight/electric.flasherlight.deployed.prefab|
 |SimpleLight|1797934483|SimpleLight<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|Assets/Prefabs/Deployable/PlayerIOEnts/Lights/SimpleLight.prefab|
 |electric.sirenlight.deployed|2436926577|SirenLight<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|Assets/Prefabs/Deployable/PlayerIOEnts/Lights/SirenLight/electric.sirenlight.deployed.prefab|
@@ -1243,6 +1250,7 @@
 |map|491065559|MapEntity<br>|Assets/Prefabs/Tools/Map/map.prefab|
 |syringe_medical.entity|283937635|MedicalTool<br>HeldEntity<br>|Assets/Prefabs/Tools/Medical Syringe/syringe_medical.entity.prefab|
 |pager.entity|2918467232|PagerEntity<br>|Assets/Prefabs/Tools/Pager/pager.entity.prefab|
+|pipetool.entity|3896504765|WireTool<br>|Assets/Prefabs/Tools/Pipe/pipetool.entity.prefab|
 |planner|1435750071|Planner<br>|Assets/Prefabs/Tools/Planner/planner.prefab|
 |grenade.smoke.deployed|1464001967|SmokeGrenade<br>Rigidbody<br>CapsuleCollider<br>|Assets/Prefabs/Tools/Smoke Grenade/grenade.smoke.deployed.prefab|
 |smoke_grenade.weapon|3642747736|GrenadeWeapon<br>HeldEntity<br>AttackEntity<br>|Assets/Prefabs/Tools/Smoke Grenade/smoke_grenade.weapon.prefab|
