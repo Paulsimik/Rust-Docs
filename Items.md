@@ -290,6 +290,7 @@
 |![](https://rustlabs.com/img/items180/electric.timer.png)|Timer|electric.timer|665332906|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/electric.cabletunnel.png)|Cable Tunnel|electric.cabletunnel|1835946060|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/waterpump.png)|Water Pump|waterpump|-1284169891|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
+|![](https://rustlabs.com/img/items180/ptz.cctv.camera.png)|PTZ CCTV Camera|ptz.cctv.camera|140006625|ItemBlueprint<br>ItemModEntity<br>ItemModDeployable<br>|
 |![](https://rustlabs.com/img/items180/mining.quarry.png)|Mining Quarry|mining.quarry|1052926200|ItemModDeployable<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/target.reactive.png)|Reactive Target|target.reactive|-1736356576|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/box.repair.bench.png)|Repair Bench|box.repair.bench|803222026|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
@@ -649,7 +650,7 @@
 |![](https://rustlabs.com/img/items180/woodtea.pure.png)|Pure Wood Tea|woodtea.pure|-557539629|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>|
 |![](https://rustlabs.com/img/items180/antiradpills.png)|Anti-Radiation Pills|antiradpills|-1432674913|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>|
 |![](https://rustlabs.com/img/items180/tool.binoculars.png)|Binoculars|tool.binoculars|-1262185308|ItemModEntity<br>ItemBlueprint<br>|
-|![](https://rustlabs.com/img/items180/explosive.timed.png)|Timed Explosive Charge|explosive.timed|1248356124|ItemModEntity<br>ItemBlueprint<br>|
+|![](https://rustlabs.com/img/items180/explosive.timed.png)|Timed Explosive Charge|explosive.timed|1248356124|ItemModEntity<br>ItemBlueprint<br>ItemModSetFrequency<br>|
 |![](https://rustlabs.com/img/items180/tool.camera.png)|Camera|tool.camera|-1316706473|ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/rf.detonator.png)|RF Transmitter|rf.detonator|596469572|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/fishingrod.handmade.png)|Handmade Fishing Rod|fishingrod.handmade|1569882109|ItemModEntity<br>ItemBlueprint<br>ItemModBaitContainer<br>ItemMod<br>|
