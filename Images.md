@@ -694,6 +694,15 @@
 |assets/scenes/release/savasisland/splattexture1.png|
 |assets/scenes/release/savasisland/topologytexture.png|
 |assets/scenes/release/savasisland/watertexture.png|
+|assets/scenes/release/tutorial island/alphatexture.png|
+|assets/scenes/release/tutorial island/biometexture.png|
+|assets/scenes/release/tutorial island/distancetexture.png|
+|assets/scenes/release/tutorial island/heighttexture.png|
+|assets/scenes/release/tutorial island/normaltexture.png|
+|assets/scenes/release/tutorial island/splattexture0.png|
+|assets/scenes/release/tutorial island/splattexture1.png|
+|assets/scenes/release/tutorial island/topologytexture.png|
+|assets/scenes/release/tutorial island/watertexture.png|
 |assets/scenes/test/billbtestmap/billbtestmap terrain/alphatexture.png|
 |assets/scenes/test/billbtestmap/billbtestmap terrain/biometexture.png|
 |assets/scenes/test/billbtestmap/billbtestmap terrain/distancetexture.png|
