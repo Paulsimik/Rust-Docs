@@ -684,7 +684,7 @@
 |door_barricade_dbl_a_large|3737132756|MeshCollider<br>Barricade<br>BaseCombatEntity<br>|Assets/Prefabs/Deployable/Door Barricades/door_barricade_dbl_a_large.prefab|
 |door_barricade_dbl_b|623754980|MeshCollider<br>Barricade<br>BaseCombatEntity<br>|Assets/Prefabs/Deployable/Door Barricades/door_barricade_dbl_b.prefab|
 |door_barricade_dbl_b_large|3440671703|MeshCollider<br>Barricade<br>BaseCombatEntity<br>|Assets/Prefabs/Deployable/Door Barricades/door_barricade_dbl_b_large.prefab|
-|drone.deployed|1191314495|Drone<br>BaseCombatEntity<br>Rigidbody<br>|Assets/Prefabs/Deployable/Drone/drone.deployed.prefab|
+|drone.deployed|1191314495|Drone<br>BaseCombatEntity<br>Rigidbody<br>PhysicsEffects<br>|Assets/Prefabs/Deployable/Drone/drone.deployed.prefab|
 |dropbox.deployed|661881069|DropBox<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>Model<br>|Assets/Prefabs/Deployable/Dropbox/dropbox.deployed.prefab|
 |elevator|3978222077|Elevator<br>BaseCombatEntity<br>DecayEntity<br>EntityFlag_Toggle<br>GroundWatch<br>|Assets/Prefabs/Deployable/Elevator/elevator.prefab|
 |elevator_lift|147094869|ElevatorLift<br>|Assets/Prefabs/Deployable/Elevator/elevator_lift.prefab|
@@ -783,6 +783,7 @@
 |Timer|3673859458|CustomTimerSwitch<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>|Assets/Prefabs/Deployable/PlayerIOEnts/Timers/Timer.prefab|
 |CableTunnel|3855268767|BoxCollider<br>CableTunnel<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>|Assets/Prefabs/Deployable/PlayerIOEnts/Tunnel/CableTunnel.prefab|
 |water.pump.deployed|3841120196|WaterPump<br>BaseCombatEntity<br>ContainerIOEntity<br>IOEntity<br>DecayEntity<br>MeshCollider<br>|Assets/Prefabs/Deployable/PlayerIOEnts/WaterPump/water.pump.deployed.prefab|
+|ptz_cctv_deployed|2576173574|CCTV_RC<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|Assets/Prefabs/Deployable/PTZ Security Camera/ptz_cctv_deployed.prefab|
 |EngineSwitch|167149050|EngineSwitch<br>MeshCollider<br>|Assets/Prefabs/Deployable/Quarry/EngineSwitch.prefab|
 |FuelStorage|362963830|BoxCollider<br>ResourceExtractorFuelStorage<br>BaseCombatEntity<br>DecayEntity<br>|Assets/Prefabs/Deployable/Quarry/FuelStorage.prefab|
 |HopperOutput|875142383|ResourceExtractorFuelStorage<br>BaseCombatEntity<br>DecayEntity<br>CapsuleCollider<br>|Assets/Prefabs/Deployable/Quarry/HopperOutput.prefab|
@@ -1221,7 +1222,7 @@
 |diesel_barrel_world|4140706055|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>|Assets/Prefabs/Resource/Diesel Barrel/diesel_barrel_world.prefab|
 |horsedung.entity|2046937803|BaseMelee<br>HeldEntity<br>|Assets/Prefabs/Resource/HorseDung/horsedung.entity.prefab|
 |binocular.entity|436023350|Binocular<br>HeldEntity<br>|Assets/Prefabs/Tools/Binoculars/binocular.entity.prefab|
-|explosive.timed.deployed|3898309212|BoxCollider<br>TimedExplosive<br>Rigidbody<br>|Assets/Prefabs/Tools/C4/explosive.timed.deployed.prefab|
+|explosive.timed.deployed|3898309212|BoxCollider<br>RFTimedExplosive<br>Rigidbody<br>|Assets/Prefabs/Tools/C4/explosive.timed.deployed.prefab|
 |explosive.timed.entity|1915331115|ThrownWeapon<br>HeldEntity<br>|Assets/Prefabs/Tools/C4/explosive.timed.entity.prefab|
 |tool_camera|1410597758|CameraTool<br>|Assets/Prefabs/Tools/Camera/tool_camera.prefab|
 |generic_deploy|2686008770|Deployer<br>|Assets/Prefabs/Tools/Deploy (OBSOLETE)/generic_deploy.prefab|
