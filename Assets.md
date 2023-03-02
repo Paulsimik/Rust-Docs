@@ -1038,6 +1038,7 @@
 |assets/content/properties/lootspawn/generated/items/electrical/industrial.wall.light.red.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/modularcarlift.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/powered.water.purifier.asset|
+|assets/content/properties/lootspawn/generated/items/electrical/ptz.cctv.camera.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/rf_pager.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/searchlight.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/smart.alarm.asset|
@@ -1176,6 +1177,7 @@
 |assets/content/properties/lootspawn/generated/items/items/chair.asset|
 |assets/content/properties/lootspawn/generated/items/items/chair.icethrone.asset|
 |assets/content/properties/lootspawn/generated/items/items/chineselantern.asset|
+|assets/content/properties/lootspawn/generated/items/items/drone.asset|
 |assets/content/properties/lootspawn/generated/items/items/dropbox.asset|
 |assets/content/properties/lootspawn/generated/items/items/fireplace.stone.asset|
 |assets/content/properties/lootspawn/generated/items/items/frankensteintable.asset|
@@ -2440,7 +2442,6 @@
 |assets/content/sound/instruments/bassguitar/bass-guitar-b1.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-b2.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-c#2.asset|
-|assets/content/sound/instruments/bassguitar/bass-guitar-c#3.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-c2.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-c3.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-d#2.asset|
@@ -4793,10 +4794,16 @@
 |assets/prefabs/deployable/computerstation/computer-station-on-loop.asset|
 |assets/prefabs/deployable/computerstation/computer-station-turn-off.asset|
 |assets/prefabs/deployable/computerstation/computer-station-turn-on.asset|
+|assets/prefabs/deployable/computerstation/sound/computer-station-deploy.asset|
+|assets/prefabs/deployable/drone/sound/drone-deploy.asset|
+|assets/prefabs/deployable/drone/sound/drone-destroy.asset|
+|assets/prefabs/deployable/drone/sound/drone-ground-land.asset|
+|assets/prefabs/deployable/drone/sound/drone-ground-takeoff.asset|
 |assets/prefabs/deployable/drone/sound/drone-movement-loop.asset|
 |assets/prefabs/deployable/drone/sound/drone-movement-start.asset|
 |assets/prefabs/deployable/drone/sound/drone-movement-stop.asset|
 |assets/prefabs/deployable/drone/sound/drone-movement-stop-delivery.asset|
+|assets/prefabs/deployable/drone/sound/drone-phys-impact.asset|
 |assets/prefabs/deployable/dropbox/sound/dropbox-close.asset|
 |assets/prefabs/deployable/dropbox/sound/dropbox-deploy.asset|
 |assets/prefabs/deployable/dropbox/sound/dropbox-open.asset|
@@ -4969,6 +4976,10 @@
 |assets/prefabs/deployable/playerioents/waterpump/sound/water-pump-start.asset|
 |assets/prefabs/deployable/playerioents/waterpump/sound/water-pump-stop.asset|
 |assets/prefabs/deployable/primitive lootbox/sound/primitive-lootbox-destroy.asset|
+|assets/prefabs/deployable/ptz security camera/sound/ptz-camera-deploy.asset|
+|assets/prefabs/deployable/ptz security camera/sound/ptz-camera-movement-loop.asset|
+|assets/prefabs/deployable/ptz security camera/sound/ptz-camera-zoom-in.asset|
+|assets/prefabs/deployable/ptz security camera/sound/ptz-camera-zoom-out.asset|
 |assets/prefabs/deployable/quarry/sound/mining-quarry-deploy.asset|
 |assets/prefabs/deployable/reactive target/effects/bullseye.asset|
 |assets/prefabs/deployable/reactive target/reactivetarget_deployed.skinnable.asset|
@@ -5753,11 +5764,13 @@
 |assets/prefabs/tools/binoculars/sound/binoculars-change-fov.asset|
 |assets/prefabs/tools/binoculars/sound/binoculars-deploy.asset|
 |assets/prefabs/tools/binoculars/sound/binoculars-deploy-3p.asset|
+|assets/prefabs/tools/c4/sound/c4-beep-confirmed.asset|
 |assets/prefabs/tools/c4/sound/c4-beep-loop.asset|
 |assets/prefabs/tools/c4/sound/c4-deploy.asset|
 |assets/prefabs/tools/c4/sound/c4-deploy-3p.asset|
 |assets/prefabs/tools/c4/sound/c4-explosion.asset|
 |assets/prefabs/tools/c4/sound/c4-stick.asset|
+|assets/prefabs/tools/detonator/sound/detonator-deploy.asset|
 |assets/prefabs/tools/detonator/sound/detonator-deploy-3p.asset|
 |assets/prefabs/tools/detonator/sound/detonator-interference-loop.asset|
 |assets/prefabs/tools/detonator/sound/detonator-interference-start.asset|
