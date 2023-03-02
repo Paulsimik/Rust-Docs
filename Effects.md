@@ -849,6 +849,11 @@
 |assets/prefabs/deployable/chair/effects/chair-deploy.prefab|
 |assets/prefabs/deployable/chair/ice_throne/effects/icethrone-deploy.prefab|
 |assets/prefabs/deployable/chinooklockedcrate/effects/landing.prefab|
+|assets/prefabs/deployable/computerstation/effects/computer-station-deploy.prefab|
+|assets/prefabs/deployable/drone/effects/drone-deploy.prefab|
+|assets/prefabs/deployable/drone/effects/drone-destroy.prefab|
+|assets/prefabs/deployable/drone/effects/drone-impact.prefab|
+|assets/prefabs/deployable/drone/effects/pfx battery fire.prefab|
 |assets/prefabs/deployable/dropbox/effects/dropbox-deploy.prefab|
 |assets/prefabs/deployable/dropbox/effects/submit_items.prefab|
 |assets/prefabs/deployable/elevator/effects/door-elevator-cage-close-end.prefab|
@@ -886,6 +891,7 @@
 |assets/prefabs/deployable/playerioents/industrialconveyor/effects/event lights.prefab|
 |assets/prefabs/deployable/playerioents/industrialconveyor/effects/industrial-conveyor-deploy.prefab|
 |assets/prefabs/deployable/playerioents/industrialcrafter/effects/industrial-crafter-deploy.prefab|
+|assets/prefabs/deployable/ptz security camera/effects/ptz-camera-deploy.prefab|
 |assets/prefabs/deployable/quarry/effects/mining-quarry-deploy.prefab|
 |assets/prefabs/deployable/reactive target/effects/bullseye.prefab|
 |assets/prefabs/deployable/reactive target/effects/reactive-target-deploy.prefab|
