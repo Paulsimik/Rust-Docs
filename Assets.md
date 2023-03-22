@@ -2442,6 +2442,7 @@
 |assets/content/sound/instruments/bassguitar/bass-guitar-b1.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-b2.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-c#2.asset|
+|assets/content/sound/instruments/bassguitar/bass-guitar-c#3.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-c2.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-c3.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-d#2.asset|
