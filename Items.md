@@ -433,6 +433,7 @@
 |![](https://rustlabs.com/img/items180/rustige_egg_c.png)|Rustigé Egg - Purple|rustige_egg_c|-173268131|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/rustige_egg_d.png)|Rustigé Egg - Ivory|rustige_egg_d|-173268126|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/rustige_egg_e.png)|Rustigé Egg - Green|rustige_egg_e|-173268125|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
+|![](https://rustlabs.com/img/items180/rustige_egg_f.png)|Rustigé Egg - White|rustige_egg_f|-173268128|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/attire.nesthat.png)|Nest Hat|attire.nesthat|1081315464|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/easter.bronzeegg.png)|Bronze Egg|easter.bronzeegg|844440409|ItemModUpgrade<br>ItemModCrackOpen<br>ItemMod<br>|
 |![](https://rustlabs.com/img/items180/easter.goldegg.png)|Gold Egg|easter.goldegg|-1002156085|ItemModCrackOpen<br>ItemMod<br>|
@@ -792,7 +793,9 @@
 |![](https://rustlabs.com/img/items180/spear.wooden.png)|Wooden Spear|spear.wooden|1540934679|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |![](https://rustlabs.com/img/items180/horse.armor.roadsign.png)|Roadsign Horse Armor|horse.armor.roadsign|60528587|ItemBlueprint<br>ItemModAnimalEquipment<br>|
 |![](https://rustlabs.com/img/items180/horse.armor.wood.png)|Wooden Horse Armor|horse.armor.wood|1659447559|ItemBlueprint<br>ItemModAnimalEquipment<br>|
+|![](https://rustlabs.com/img/items180/horse.saddle.double.png)|Double Horse Saddle|horse.saddle.double|-1323101799|ItemBlueprint<br>ItemModAnimalEquipment<br>|
 |![](https://rustlabs.com/img/items180/horse.saddle.png)|Horse Saddle|horse.saddle|-1997543660|ItemBlueprint<br>|
+|![](https://rustlabs.com/img/items180/horse.saddle.single.png)|Single Horse Saddle|horse.saddle.single|1559915778|ItemBlueprint<br>ItemModAnimalEquipment<br>|
 |![](https://rustlabs.com/img/items180/horse.saddlebag.png)|Saddle bag|horse.saddlebag|1400460850|ItemBlueprint<br>ItemModAnimalEquipment<br>|
 |![](https://rustlabs.com/img/items180/horse.shoes.advanced.png)|High Quality Horse Shoes|horse.shoes.advanced|1989785143|ItemBlueprint<br>ItemModAnimalEquipment<br>|
 |![](https://rustlabs.com/img/items180/horse.shoes.basic.png)|Basic Horse Shoes|horse.shoes.basic|-1211268013|ItemBlueprint<br>ItemModAnimalEquipment<br>|
