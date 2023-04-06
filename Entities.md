@@ -816,7 +816,7 @@
 |SignContent|2104891901|SignContent<br>|assets/prefabs/deployable/signs/signcontent.prefab|
 |guntrap.deployed|1348746224|GunTrap<br>BaseCombatEntity<br>DecayEntity<br>Model<br>DestroyOnGroundMissing<br>GroundWatch<br>BoxCollider<br>BoxCollider<br>BoxCollider<br>BoxCollider<br>|assets/prefabs/deployable/single shot trap/guntrap.deployed.prefab|
 |sleepingbag_leather_deployed|159326486|BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>SleepingBag<br>BaseCombatEntity<br>Model<br>|assets/prefabs/deployable/sleeping bag/sleepingbag_leather_deployed.prefab|
-|small_stash_deployed|2568831788|BoxCollider<br>StashContainer<br>BaseCombatEntity<br>DecayEntity<br>Model<br>Model<br>|assets/prefabs/deployable/small stash/small_stash_deployed.prefab|
+|small_stash_deployed|2568831788|StashContainer<br>BaseCombatEntity<br>DecayEntity<br>Model<br>Model<br>|assets/prefabs/deployable/small stash/small_stash_deployed.prefab|
 |SofaSeat|2119696825|BaseChair<br>BaseCombatEntity<br>|assets/prefabs/deployable/sofa/seats/sofaseat.prefab|
 |sofa.deployed|51176708|BaseVehicle<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>MeshCollider<br>|assets/prefabs/deployable/sofa/sofa.deployed.prefab|
 |sofa.pattern.deployed|836629684|BaseVehicle<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>MeshCollider<br>|assets/prefabs/deployable/sofa/sofa.pattern.deployed.prefab|
@@ -965,6 +965,7 @@
 |RustigeEgg_C.deployed|2259790452|RustigeEgg<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>Model<br>|assets/prefabs/misc/easter/faberge_egg_c/rustigeegg_c.deployed.prefab|
 |RustigeEgg_D.deployed|3394396962|RustigeEgg<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>Model<br>|assets/prefabs/misc/easter/faberge_egg_d/rustigeegg_d.deployed.prefab|
 |RustigeEgg_E.deployed|1833328825|RustigeEgg<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>Model<br>|assets/prefabs/misc/easter/faberge_egg_e/rustigeegg_e.deployed.prefab|
+|RustigeEgg_f.deployed|31755465|RustigeEgg<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>Model<br>|assets/prefabs/misc/easter/faberge_egg_f/rustigeegg_f.deployed.prefab|
 |CollectableEgg|2492538492|CollectableEasterEgg<br>|assets/prefabs/misc/easter/painted eggs/collectableegg.prefab|
 |CandyProjectile|1465468950|SeasonalTimedExplosive<br>ServerProjectile<br>|assets/prefabs/misc/halloween/candies/candyprojectile.prefab|
 |CollectableCandy|2495043668|CollectableEasterEgg<br>|assets/prefabs/misc/halloween/candies/collectablecandy.prefab|
@@ -1283,6 +1284,7 @@
 |Passenger|2304142695|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/passenger.prefab|
 |PassengerChair|1954020959|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/passengerchair.prefab|
 |PilotSeat|952100854|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/pilotseat.prefab|
+|SaddleRear|1283312890|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>BoxCollider<br>|assets/prefabs/vehicle/seats/saddlerear.prefab|
 |SaddleTest|750623658|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>BoxCollider<br>|assets/prefabs/vehicle/seats/saddletest.prefab|
 |SledSeatFront|1212881407|SledSeat<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicleMountPoint<br>MeshCollider<br>|assets/prefabs/vehicle/seats/sledseatfront.prefab|
 |SledSeatRear|518673090|SledSeat<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicleMountPoint<br>MeshCollider<br>|assets/prefabs/vehicle/seats/sledseatrear.prefab|
