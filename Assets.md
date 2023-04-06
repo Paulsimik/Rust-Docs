@@ -312,6 +312,7 @@
 |assets/content/properties/damage/damage.rifle.asset|
 |assets/content/properties/damage/damage.slug.asset|
 |assets/content/properties/damage/damage.throwable.asset|
+|assets/content/properties/entitylist/door_deploy_whitelist.asset|
 |assets/content/properties/foliage_procmap_v3/all/underwater-coral_red_big.asset|
 |assets/content/properties/foliage_procmap_v3/all/underwater-coral_red_small.asset|
 |assets/content/properties/foliage_procmap_v3/all/underwater-coral_white_big.asset|
@@ -856,6 +857,8 @@
 |assets/content/properties/lootspawn/generated/items/attire/heavy.plate.pants.asset|
 |assets/content/properties/lootspawn/generated/items/attire/hoodie.asset|
 |assets/content/properties/lootspawn/generated/items/attire/horse.armor.roadsign.asset|
+|assets/content/properties/lootspawn/generated/items/attire/horse.saddle.double.asset|
+|assets/content/properties/lootspawn/generated/items/attire/horse.saddle.single.asset|
 |assets/content/properties/lootspawn/generated/items/attire/horse.shoes.advanced.asset|
 |assets/content/properties/lootspawn/generated/items/attire/jacket.asset|
 |assets/content/properties/lootspawn/generated/items/attire/jacket.snow.asset|
@@ -4559,6 +4562,7 @@
 |assets/plugins/rust.ui/controls/rustbutton.toggle.asset|
 |assets/plugins/rust.ui/controls/rustbutton.toggle.demo.asset|
 |assets/plugins/rust.ui/controls/rustbutton.toolbar.normal.asset|
+|assets/plugins/rust.ui/controls/rustbutton.transparent.asset|
 |assets/plugins/rust.ui/controls/rustimagebutton.toggle.danger.asset|
 |assets/plugins/rust.ui/controls/rustimagebutton.toggle.success.asset|
 |assets/plugins/rust.ui/controls/rustinput.normal.asset|
@@ -5260,6 +5264,7 @@
 |assets/prefabs/misc/easter/faberge_egg_c/rustige_egg_c.sitem.asset|
 |assets/prefabs/misc/easter/faberge_egg_d/rustige_egg_d.sitem.asset|
 |assets/prefabs/misc/easter/faberge_egg_e/rustige_egg_e.sitem.asset|
+|assets/prefabs/misc/easter/faberge_egg_f/rustige_egg_f.sitem.asset|
 |assets/prefabs/misc/easter/loottables/bronzeegg-contents.asset|
 |assets/prefabs/misc/easter/loottables/bunnyears.asset|
 |assets/prefabs/misc/easter/loottables/bunnyonesie.asset|
@@ -5275,6 +5280,7 @@
 |assets/prefabs/misc/easter/sound/music-box-dust-loop.asset|
 |assets/prefabs/misc/easter/sound/music-box-oil-rig-loop.asset|
 |assets/prefabs/misc/easter/sound/music-box-trains-loop.asset|
+|assets/prefabs/misc/easter/sound/music-box-underwater-loop.asset|
 |assets/prefabs/misc/easter/sound/silveregg_open.asset|
 |assets/prefabs/misc/halloween/candies/sound/candy_impact.asset|
 |assets/prefabs/misc/halloween/candles/candlecomboset.sitem.asset|
