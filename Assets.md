@@ -1866,6 +1866,8 @@
 |assets/content/properties/steamcategories/limited-easter-2022.100.steam.asset|
 |assets/content/properties/steamcategories/limited-easter-2022.350.steam.asset|
 |assets/content/properties/steamcategories/limited-easter-2022.600.steam.asset|
+|assets/content/properties/steamcategories/limited-easter-2023.1000.steam.asset|
+|assets/content/properties/steamcategories/limited-easter-2023.650.steam.asset|
 |assets/content/properties/steamcategories/limited-halloween2015.steam.asset|
 |assets/content/properties/steamcategories/limited-halloween2017.steam.asset|
 |assets/content/properties/steamcategories/limited-halloween2018.steam.asset|
