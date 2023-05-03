@@ -142,6 +142,7 @@
 |![](https://rustlabs.com/img/items180/hazmatsuit.nomadsuit.png)|Nomad Suit|hazmatsuit.nomadsuit|491263800|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
 |![](https://rustlabs.com/img/items180/hazmatsuit_scientist.png)|Scientist Suit|hazmatsuit_scientist|-253079493|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
 |![](https://rustlabs.com/img/items180/hazmatsuit_scientist_arctic.png)|Arctic Scientist Suit|hazmatsuit_scientist_arctic|1107575710|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
+|![](https://rustlabs.com/img/items180/hazmatsuit_scientist_nvgm.png)|NVGM Scientist Suit|hazmatsuit_scientist_nvgm|86840834|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
 |![](https://rustlabs.com/img/items180/hazmatsuit_scientist_peacekeeper.png)|Scientist Suit|hazmatsuit_scientist_peacekeeper|-1958316066|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
 |![](https://rustlabs.com/img/items180/hazmatsuit.spacesuit.png)|Space Suit|hazmatsuit.spacesuit|-560304835|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
 |![](https://rustlabs.com/img/items180/scientistsuit_heavy.png)|Heavy Scientist Suit|scientistsuit_heavy|-1772746857|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
@@ -474,6 +475,15 @@
 |![](https://rustlabs.com/img/items180/skull.trophy.jar2.png)|Skull Trophy|skull.trophy.jar2|-924959988|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/skull.trophy.table.png)|Skull Trophy|skull.trophy.table|-156748077|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/skull.trophy.png)|Skull Trophy|skull.trophy|-769647921|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/blueidtag.png)|Blue ID Tag|blueidtag|1364514421||
+|![](https://rustlabs.com/img/items180/grayidtag.png)|Gray ID Tag|grayidtag|-455286320||
+|![](https://rustlabs.com/img/items180/greenidtag.png)|Green ID Tag|greenidtag|1762167092||
+|![](https://rustlabs.com/img/items180/orangeidtag.png)|Orange ID Tag|orangeidtag|-282193997||
+|![](https://rustlabs.com/img/items180/pinkidtag.png)|Pink ID Tag|pinkidtag|180752235||
+|![](https://rustlabs.com/img/items180/purpleidtag.png)|Purple ID Tag|purpleidtag|-1386082991||
+|![](https://rustlabs.com/img/items180/redidtag.png)|Red ID Tag|redidtag|70102328||
+|![](https://rustlabs.com/img/items180/whiteidtag.png)|White ID Tag|whiteidtag|22947882||
+|![](https://rustlabs.com/img/items180/yellowidtag.png)|Yellow ID Tag|yellowidtag|81423963||
 |![](https://rustlabs.com/img/items180/movembermoustachecard.png)|Card Movember Moustache|movembermoustachecard|3380160|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/movembermoustache.png)|Movember Moustache|movembermoustache|-2047081330|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/note.png)|Note|note|1414245162|ItemBlueprint<br>|
@@ -646,6 +656,7 @@
 |![](https://rustlabs.com/img/items180/scraptea.advanced.png)|Advanced Scrap Tea|scraptea.advanced|524678627|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>|
 |![](https://rustlabs.com/img/items180/scraptea.png)|Basic Scrap Tea|scraptea|263834859|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>|
 |![](https://rustlabs.com/img/items180/scraptea.pure.png)|Pure Scrap Tea|scraptea.pure|2024467711|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>|
+|![](https://rustlabs.com/img/items180/supertea.png)|Super Tea|supertea|-1003665711|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>|
 |![](https://rustlabs.com/img/items180/woodtea.advanced.png)|Advanced Wood Tea|woodtea.advanced|-541206665|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>|
 |![](https://rustlabs.com/img/items180/woodtea.png)|Basic Wood Tea|woodtea|-649128577|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>|
 |![](https://rustlabs.com/img/items180/woodtea.pure.png)|Pure Wood Tea|woodtea.pure|-557539629|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>|
