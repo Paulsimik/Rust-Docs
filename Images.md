@@ -365,6 +365,19 @@
 |assets/scenes/prefabs/mountain/mountain_5/splattexture0.png|
 |assets/scenes/prefabs/mountain/mountain_5/splattexture1.png|
 |assets/scenes/prefabs/mountain/mountain_5/topologytexture.png|
+|assets/scenes/prefabs/nuclear missile silo/door.hinged.nms_hatch.icon.png|
+|assets/scenes/prefabs/nuclear missile silo/nuclear_missile_silo/alphatexture.png|
+|assets/scenes/prefabs/nuclear missile silo/nuclear_missile_silo/biometexture.png|
+|assets/scenes/prefabs/nuclear missile silo/nuclear_missile_silo/blendtexture.png|
+|assets/scenes/prefabs/nuclear missile silo/nuclear_missile_silo/heighttexture.png|
+|assets/scenes/prefabs/nuclear missile silo/nuclear_missile_silo/normaltexture.png|
+|assets/scenes/prefabs/nuclear missile silo/nuclear_missile_silo/splattexture0.png|
+|assets/scenes/prefabs/nuclear missile silo/nuclear_missile_silo/splattexture1.png|
+|assets/scenes/prefabs/nuclear missile silo/nuclear_missile_silo/topologytexture.png|
+|assets/scenes/prefabs/nuclear missile silo/nuclear_missile_silo/watertexture.png|
+|assets/scenes/prefabs/nuclear missile silo/nuclear_missile_silo_root_lods/nuclear_missile_silo_root_hlod_albedo.png|
+|assets/scenes/prefabs/nuclear missile silo/nuclear_missile_silo_root_lods/nuclear_missile_silo_root_hlod_normals.png|
+|assets/scenes/prefabs/nuclear missile silo/nuclear_missile_silo_root_lods/nuclear_missile_silo_root_hlod_specular.png|
 |assets/scenes/prefabs/oilrig/oilrig_root_lods/oilrig_root_hlod_albedo.png|
 |assets/scenes/prefabs/oilrig/oilrig_root_lods/oilrig_root_hlod_normals.png|
 |assets/scenes/prefabs/oilrig/oilrig_root_lods/oilrig_root_hlod_specular.png|
