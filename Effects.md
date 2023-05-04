@@ -588,6 +588,7 @@
 |assets/bundled/prefabs/fx/weapons/survey_charge/survey_charge_stick.prefab|
 |assets/bundled/prefabs/fx/well/pump_down.prefab|
 |assets/bundled/prefabs/fx/well/pump_up.prefab|
+|assets/content/effects/brzone/brzone.prefab|
 |assets/content/effects/candle.prefab|
 |assets/content/effects/cars/pfx_car_collision.prefab|
 |assets/content/effects/cars/pfx_car_damage_light.prefab|
@@ -708,6 +709,14 @@
 |assets/content/nature/treesprefabs/trees/effects/tree_marking_spawn.prefab|
 |assets/content/props/fog machine/effects/cascade_smoke.prefab|
 |assets/content/props/fog machine/effects/emission.prefab|
+|assets/content/sound/monuments/nuclearmissilesilo/effects/nuclear-missile-silo-elevator-door-close-end.prefab|
+|assets/content/sound/monuments/nuclearmissilesilo/effects/nuclear-missile-silo-elevator-door-close-start.prefab|
+|assets/content/sound/monuments/nuclearmissilesilo/effects/nuclear-missile-silo-elevator-door-open-end.prefab|
+|assets/content/sound/monuments/nuclearmissilesilo/effects/nuclear-missile-silo-elevator-door-open-start.prefab|
+|assets/content/sound/monuments/nuclearmissilesilo/effects/nuclear-missile-silo-hatch-close-end.prefab|
+|assets/content/sound/monuments/nuclearmissilesilo/effects/nuclear-missile-silo-hatch-close-start.prefab|
+|assets/content/sound/monuments/nuclearmissilesilo/effects/nuclear-missile-silo-hatch-open-end.prefab|
+|assets/content/sound/monuments/nuclearmissilesilo/effects/nuclear-missile-silo-hatch-open-start.prefab|
 |assets/content/structures/excavator/prefabs/effects/enginerumble.prefab|
 |assets/content/structures/excavator/prefabs/effects/rockvibration.prefab|
 |assets/content/structures/office_interiors/effects/vent-door-close.prefab|
