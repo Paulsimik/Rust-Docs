@@ -28,6 +28,7 @@
 |assets/content/image effects/postfx_volumes/main_biome_arid.asset|
 |assets/content/image effects/postfx_volumes/main_biome_temperate.asset|
 |assets/content/image effects/postfx_volumes/main_biome_tundra.asset|
+|assets/content/image effects/postfx_volumes/main_underground_monument_softened.asset|
 |assets/content/image effects/postfx_volumes/main_underground_neutral.asset|
 |assets/content/image effects/postfx_volumes/main_underwater_lab.asset|
 |assets/content/image effects/postfx_volumes/nvg.asset|
@@ -297,7 +298,11 @@
 |assets/content/properties/armor/movement/heavyarmormovement_chest.asset|
 |assets/content/properties/armor/movement/heavyarmormovement_head.asset|
 |assets/content/properties/armor/movement/heavyarmormovement_legs.asset|
+|assets/content/properties/buildinggrade/adobe.asset|
+|assets/content/properties/buildinggrade/brick.asset|
+|assets/content/properties/buildinggrade/brutalist.asset|
 |assets/content/properties/buildinggrade/metal.asset|
+|assets/content/properties/buildinggrade/shipping_container.asset|
 |assets/content/properties/buildinggrade/stone.asset|
 |assets/content/properties/buildinggrade/toptier.asset|
 |assets/content/properties/buildinggrade/twigs.asset|
@@ -983,6 +988,7 @@
 |assets/content/properties/lootspawn/generated/items/construction/wall.frame.shopfront.asset|
 |assets/content/properties/lootspawn/generated/items/construction/wall.frame.shopfront.metal.asset|
 |assets/content/properties/lootspawn/generated/items/construction/wall.graveyard.fence.asset|
+|assets/content/properties/lootspawn/generated/items/construction/wall.window.bars.brickskin.asset|
 |assets/content/properties/lootspawn/generated/items/construction/wall.window.bars.metal.asset|
 |assets/content/properties/lootspawn/generated/items/construction/wall.window.bars.toptier.asset|
 |assets/content/properties/lootspawn/generated/items/construction/wall.window.bars.wood.asset|
@@ -1914,6 +1920,7 @@
 |assets/content/properties/steamcategories/resource.twitchdrop.asset|
 |assets/content/properties/steamcategories/retired.steam.asset|
 |assets/content/properties/steamcategories/retired-nocrate.steam.asset|
+|assets/content/properties/steamcategories/retired-nocrate-notrade.steam.asset|
 |assets/content/properties/steamcategories/twitchdrops.steam.asset|
 |assets/content/properties/steamcategories/weapon-normal.steam.asset|
 |assets/content/properties/steamcategories/weapon-rare.steam.asset|
@@ -2763,6 +2770,39 @@
 |assets/content/sound/instruments/xylobones/xylobones-g5.asset|
 |assets/content/sound/instruments/xylobones/xylobones-g6.asset|
 |assets/content/sound/instruments/xylobones/xylobones-mount.asset|
+|assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-ambience-base.ambience-def.asset|
+|assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-ambience-base.ambience-list.asset|
+|assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-ambience-base-loop.asset|
+|assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-ambience-burning-boxes.ambience-def.asset|
+|assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-ambience-burning-boxes.ambience-list.asset|
+|assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-ambience-burning-boxes.asset|
+|assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-ambience-drip-single.asset|
+|assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-ambience-electric-zap.asset|
+|assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-ambience-sparks.ambience-def.asset|
+|assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-ambience-sparks.ambience-list.asset|
+|assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-ambience-sparks.asset|
+|assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-ambience-steam-loop.ambience-def.asset|
+|assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-ambience-steam-loop.ambience-list.asset|
+|assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-ambience-steam-loop.asset|
+|assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-ambience-water-leak-loop.ambience-def.asset|
+|assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-ambience-water-leak-loop.ambience-list.asset|
+|assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-ambience-water-leak-loop.asset|
+|assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-elevator-door-close-end.asset|
+|assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-elevator-door-close-start.asset|
+|assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-elevator-door-open-end.asset|
+|assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-elevator-door-open-start.asset|
+|assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-elevator-movement-loop.asset|
+|assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-elevator-movement-start.asset|
+|assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-elevator-movement-stop.asset|
+|assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-exterior-building-small.reverb-settings.asset|
+|assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-exterior-hangar.reverb-settings.asset|
+|assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-hatch-close-end.asset|
+|assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-hatch-close-start.asset|
+|assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-hatch-open-end.asset|
+|assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-hatch-open-start.asset|
+|assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-large.reverb-settings.asset|
+|assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-small.reverb-settings.asset|
+|assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-stings.ambience-list.asset|
 |assets/content/sound/music/themes/classic/music-classic.asset|
 |assets/content/sound/music/themes/classic/music-classic-ambience-001.asset|
 |assets/content/sound/music/themes/classic/music-classic-ambience-002.asset|
@@ -5212,6 +5252,7 @@
 |assets/prefabs/locks/keypad/sound/lock-code-unlock.asset|
 |assets/prefabs/locks/keypad/sound/lock-code-updated.asset|
 |assets/prefabs/misc/blueprintbase/sound/blueprint_read.asset|
+|assets/prefabs/misc/buildingskins/adobe/adobe.sitem.asset|
 |assets/prefabs/misc/burlap sack/sounds/burlap-sack-impact-hard.asset|
 |assets/prefabs/misc/burlap sack/sounds/burlap-sack-impact-med.asset|
 |assets/prefabs/misc/burlap sack/sounds/burlap-sack-impact-soft.asset|
@@ -5734,8 +5775,11 @@
 |assets/prefabs/plants/plantseed.sound.asset|
 |assets/prefabs/plants/potato/potato.plantproperty.asset|
 |assets/prefabs/plants/pumpkin/pumpkin.plantproperty.asset|
+|assets/prefabs/player/gestures/cinematic/gesture.cinematic.holdlr.asset|
+|assets/prefabs/player/gestures/cinematic/gesture.cinematic.holdmp5.asset|
 |assets/prefabs/player/gestures/gesture.cabbagepatch.asset|
 |assets/prefabs/player/gestures/gesture.clap.asset|
+|assets/prefabs/player/gestures/gesture.flashblinded.asset|
 |assets/prefabs/player/gestures/gesture.friendly.asset|
 |assets/prefabs/player/gestures/gesture.hurry.asset|
 |assets/prefabs/player/gestures/gesture.ok.asset|
@@ -6642,6 +6686,9 @@
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/scientist.excavator.aidesign.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/scientist.junkpile.aidesign.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/scientist.militarytunnels.aidesign.asset|
+|assets/rust.ai/agents/npcplayer/humannpc/scientist/scientist.nvg.roam.aidesign.asset|
+|assets/rust.ai/agents/npcplayer/humannpc/scientist/scientist.nvgm.asset|
+|assets/rust.ai/agents/npcplayer/humannpc/scientist/scientist.nvgm2.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/scientist.patrol.aidesign.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/scientist.peacekeeper.aidesign.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/scientist.roam.aidesign.asset|
@@ -6745,6 +6792,8 @@
 |assets/scenes/prefabs/trainyard/sound/coaling-tower-suction-ore-start.asset|
 |assets/scenes/test/billbtestmap/billbtestmap terrain.asset|
 |assets/scenes/test/coastal_cliffs/coastal_cliffs_test.asset|
+|assets/scripts/entity/misc/f15/sound/f15e-flight-loop.asset|
+|assets/scripts/entity/misc/f15/sound/f15e-fly-by.asset|
 |assets/scripts/game/techtree/techtree.asset|
 |assets/scripts/game/techtree/techtreet0.asset|
 |assets/scripts/game/techtree/techtreet1.asset|
