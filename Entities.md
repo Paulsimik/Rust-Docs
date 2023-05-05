@@ -698,7 +698,7 @@
 |drone.deployed|1191314495|Drone<br>BaseCombatEntity<br>Rigidbody<br>PhysicsEffects<br>|assets/prefabs/deployable/drone/drone.deployed.prefab|
 |dropbox.deployed|661881069|DropBox<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>Model<br>|assets/prefabs/deployable/dropbox/dropbox.deployed.prefab|
 |elevator|3978222077|Elevator<br>BaseCombatEntity<br>DecayEntity<br>EntityFlag_Toggle<br>GroundWatch<br>|assets/prefabs/deployable/elevator/elevator.prefab|
-|elevator_lift|147094869|ElevatorLift<br>|assets/prefabs/deployable/elevator/elevator_lift.prefab|
+|elevator_lift|147094869|ElevatorLiftPlayer<br>BaseCombatEntity<br>|assets/prefabs/deployable/elevator/elevator_lift.prefab|
 |elevatorioentity|855553829|ElevatorIOEntity<br>BaseCombatEntity<br>DecayEntity<br>EntityFlag_ToggleNotify<br>|assets/prefabs/deployable/elevator/elevatorioentity.prefab|
 |elevator.static.office.top|2008256530|ElevatorStatic<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>|assets/prefabs/deployable/elevator/static/elevator.static.office.top.prefab|
 |elevator.static|140200872|ElevatorStatic<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>|assets/prefabs/deployable/elevator/static/elevator.static.prefab|
