@@ -656,7 +656,7 @@
 |![](https://rustlabs.com/img/items180/scraptea.advanced.png)|Advanced Scrap Tea|scraptea.advanced|524678627|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>|
 |![](https://rustlabs.com/img/items180/scraptea.png)|Basic Scrap Tea|scraptea|263834859|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>|
 |![](https://rustlabs.com/img/items180/scraptea.pure.png)|Pure Scrap Tea|scraptea.pure|2024467711|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>|
-|![](https://rustlabs.com/img/items180/supertea.png)|Super Tea|supertea|-1003665711|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>|
+|![](https://rustlabs.com/img/items180/supertea.png)|Super Serum|supertea|-1003665711|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>|
 |![](https://rustlabs.com/img/items180/woodtea.advanced.png)|Advanced Wood Tea|woodtea.advanced|-541206665|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>|
 |![](https://rustlabs.com/img/items180/woodtea.png)|Basic Wood Tea|woodtea|-649128577|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>|
 |![](https://rustlabs.com/img/items180/woodtea.pure.png)|Pure Wood Tea|woodtea.pure|-557539629|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>|
