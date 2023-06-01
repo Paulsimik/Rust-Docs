@@ -14,6 +14,7 @@
 |assets/bundled/prefabs/radtown/sound/tech-parts-open.asset|
 |assets/bundled/prefabs/radtown/sound/vehicle-parts-close.asset|
 |assets/bundled/prefabs/radtown/sound/vehicle-parts-open.asset|
+|assets/content/building/parts/shipping_container/shippingcontainercolourlookup.asset|
 |assets/content/image effects/postfx_volumes/building_exposure.asset|
 |assets/content/image effects/postfx_volumes/candyworld.asset|
 |assets/content/image effects/postfx_volumes/cctv.asset|
@@ -317,6 +318,7 @@
 |assets/content/properties/damage/damage.rifle.asset|
 |assets/content/properties/damage/damage.slug.asset|
 |assets/content/properties/damage/damage.throwable.asset|
+|assets/content/properties/entitylist/debris_whitelist.asset|
 |assets/content/properties/entitylist/door_deploy_whitelist.asset|
 |assets/content/properties/foliage_procmap_v3/all/underwater-coral_red_big.asset|
 |assets/content/properties/foliage_procmap_v3/all/underwater-coral_red_small.asset|
@@ -2175,6 +2177,10 @@
 |assets/content/sound/ambience/wind/ambience-sting-wind-gust-snowy.ambience-def.asset|
 |assets/content/sound/ambience/wind/ambience-sting-wind-gust-snowy.asset|
 |assets/content/sound/audioclips/break/rock-break.asset|
+|assets/content/sound/construction/construction-upgrade-armored.asset|
+|assets/content/sound/construction/construction-upgrade-metal.asset|
+|assets/content/sound/construction/construction-upgrade-stone.asset|
+|assets/content/sound/construction/construction-upgrade-wood.asset|
 |assets/content/sound/deployable/small-device-deploy.asset|
 |assets/content/sound/footsteps/barefoot/footstep-barefoot-cloth-jump-land.asset|
 |assets/content/sound/footsteps/barefoot/footstep-barefoot-cloth-jump-start.asset|
@@ -3885,6 +3891,12 @@
 |assets/content/sound/ui/ui-pickup-wood-med.asset|
 |assets/content/sound/ui/ui-pills-drop.asset|
 |assets/content/sound/ui/ui-pills-pickup.asset|
+|assets/content/sound/ui/ui-ping-go-to.asset|
+|assets/content/sound/ui/ui-ping-hostile.asset|
+|assets/content/sound/ui/ui-ping-loot.asset|
+|assets/content/sound/ui/ui-ping-ore.asset|
+|assets/content/sound/ui/ui-ping-valuable.asset|
+|assets/content/sound/ui/ui-ping-weapon.asset|
 |assets/content/sound/ui/ui-plastic-large-drop.asset|
 |assets/content/sound/ui/ui-plastic-large-pickup.asset|
 |assets/content/sound/ui/ui-plastic-medium-drop.asset|
@@ -4590,6 +4602,7 @@
 |assets/plugins/rust.ui/controls/rustbutton.header.asset|
 |assets/plugins/rust.ui/controls/rustbutton.listitem.asset|
 |assets/plugins/rust.ui/controls/rustbutton.lootall.asset|
+|assets/plugins/rust.ui/controls/rustbutton.mapmarkerlistdelete.asset|
 |assets/plugins/rust.ui/controls/rustbutton.menu.asset|
 |assets/plugins/rust.ui/controls/rustbutton.menu-notice-banreport.asset|
 |assets/plugins/rust.ui/controls/rustbutton.menu-right.asset|
@@ -4598,6 +4611,7 @@
 |assets/plugins/rust.ui/controls/rustbutton.normal.asset|
 |assets/plugins/rust.ui/controls/rustbutton.serverbrowser.asset|
 |assets/plugins/rust.ui/controls/rustbutton.servertag.asset|
+|assets/plugins/rust.ui/controls/rustbutton.sleepingbagdelete.asset|
 |assets/plugins/rust.ui/controls/rustbutton.success.asset|
 |assets/plugins/rust.ui/controls/rustbutton.success.toggle.asset|
 |assets/plugins/rust.ui/controls/rustbutton.tab.red.asset|
@@ -5253,6 +5267,7 @@
 |assets/prefabs/locks/keypad/sound/lock-code-updated.asset|
 |assets/prefabs/misc/blueprintbase/sound/blueprint_read.asset|
 |assets/prefabs/misc/buildingskins/adobe/adobe.sitem.asset|
+|assets/prefabs/misc/buildingskins/shippingcontainer/shippingcontainer.sitem.asset|
 |assets/prefabs/misc/burlap sack/sounds/burlap-sack-impact-hard.asset|
 |assets/prefabs/misc/burlap sack/sounds/burlap-sack-impact-med.asset|
 |assets/prefabs/misc/burlap sack/sounds/burlap-sack-impact-soft.asset|
@@ -5775,8 +5790,14 @@
 |assets/prefabs/plants/plantseed.sound.asset|
 |assets/prefabs/plants/potato/potato.plantproperty.asset|
 |assets/prefabs/plants/pumpkin/pumpkin.plantproperty.asset|
-|assets/prefabs/player/gestures/cinematic/gesture.cinematic.holdlr.asset|
-|assets/prefabs/player/gestures/cinematic/gesture.cinematic.holdmp5.asset|
+|assets/prefabs/player/gestures/cinematic/gesture.cinematic.exclaim_01.asset|
+|assets/prefabs/player/gestures/cinematic/gesture.cinematic.hattip.asset|
+|assets/prefabs/player/gestures/cinematic/gesture.cinematic.holdrelaxed.asset|
+|assets/prefabs/player/gestures/cinematic/gesture.cinematic.talk_01.asset|
+|assets/prefabs/player/gestures/cinematic/gesture.cinematic.talk_02.asset|
+|assets/prefabs/player/gestures/cinematic/gesture.cinematic.talk_03.asset|
+|assets/prefabs/player/gestures/cinematic/gesture.cinematic.talk_04.asset|
+|assets/prefabs/player/gestures/cinematic/gesture.cinematic.talk_05.asset|
 |assets/prefabs/player/gestures/gesture.cabbagepatch.asset|
 |assets/prefabs/player/gestures/gesture.clap.asset|
 |assets/prefabs/player/gestures/gesture.flashblinded.asset|
@@ -6679,6 +6700,7 @@
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/scientist 1.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/scientist.arctic1.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/scientist.arctic2.asset|
+|assets/rust.ai/agents/npcplayer/humannpc/scientist/scientist.arena.roam.aidesign.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/scientist.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/scientist.cargoship.aidesign.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/scientist.cargoship.turret.aidesign.asset|
