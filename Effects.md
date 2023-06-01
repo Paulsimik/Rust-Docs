@@ -8,6 +8,10 @@
 |assets/bundled/prefabs/fx/beartrap/arm.prefab|
 |assets/bundled/prefabs/fx/beartrap/fire.prefab|
 |assets/bundled/prefabs/fx/bucket_drop_debris.prefab|
+|assets/bundled/prefabs/fx/build/construction_upgrade_metal.prefab|
+|assets/bundled/prefabs/fx/build/construction_upgrade_stone.prefab|
+|assets/bundled/prefabs/fx/build/construction_upgrade_toptier.prefab|
+|assets/bundled/prefabs/fx/build/construction_upgrade_wood.prefab|
 |assets/bundled/prefabs/fx/build/frame_place.prefab|
 |assets/bundled/prefabs/fx/build/promote_metal.prefab|
 |assets/bundled/prefabs/fx/build/promote_stone.prefab|
