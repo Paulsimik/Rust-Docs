@@ -664,7 +664,7 @@
 |![](https://rustlabs.com/img/items180/tool.binoculars.png)|Binoculars|tool.binoculars|-1262185308|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/explosive.timed.png)|Timed Explosive Charge|explosive.timed|1248356124|ItemModEntity<br>ItemBlueprint<br>ItemModSetFrequency<br>|
 |![](https://rustlabs.com/img/items180/tool.camera.png)|Camera|tool.camera|-1316706473|ItemModEntity<br>|
-|![](https://rustlabs.com/img/items180/rf.detonator.png)|RF Transmitter|rf.detonator|596469572|ItemModEntity<br>ItemBlueprint<br>|
+|![](https://rustlabs.com/img/items180/rf.detonator.png)|RF Transmitter|rf.detonator|596469572|ItemModEntity<br>ItemBlueprint<br>ItemModSetFrequency<br>|
 |![](https://rustlabs.com/img/items180/fishingrod.handmade.png)|Handmade Fishing Rod|fishingrod.handmade|1569882109|ItemModEntity<br>ItemBlueprint<br>ItemModBaitContainer<br>ItemMod<br>|
 |![](https://rustlabs.com/img/items180/flare.png)|Flare|flare|304481038|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/flashlight.held.png)|Flashlight|flashlight.held|-196667575|ItemModEntity<br>ItemBlueprint<br>|
@@ -681,7 +681,7 @@
 |![](https://rustlabs.com/img/items180/lumberjack.pickaxe.png)|Prototype Pickaxe|lumberjack.pickaxe|236677901|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |![](https://rustlabs.com/img/items180/map.png)|Paper Map|map|696029452|ItemBlueprint<br>ItemModEntity<br>ItemModContainerRestriction<br>|
 |![](https://rustlabs.com/img/items180/syringe.medical.png)|Medical Syringe|syringe.medical|1079279582|ItemModEntity<br>ItemBlueprint<br>ItemModConsumable<br>|
-|![](https://rustlabs.com/img/items180/rf_pager.png)|RF Pager|rf_pager|-566907190|ItemModRFListener<br>ItemMod<br>ItemBlueprint<br>|
+|![](https://rustlabs.com/img/items180/rf_pager.png)|RF Pager|rf_pager|-566907190|ItemBlueprint<br>ItemModPager<br>ItemMod<br>|
 |![](https://rustlabs.com/img/items180/pipetool.png)|Pipe Tool|pipetool|-144513264|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/building.planner.png)|Building Plan|building.planner|1525520776|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/grenade.smoke.png)|Smoke Grenade|grenade.smoke|1263920163|ItemModEntity<br>ItemBlueprint<br>|
