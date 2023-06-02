@@ -1909,6 +1909,8 @@
 |assets/content/properties/steamcategories/limited-spacesuit.steam.asset|
 |assets/content/properties/steamcategories/nocrate.steam.asset|
 |assets/content/properties/steamcategories/permstore-1299.asset|
+|assets/content/properties/steamcategories/permstore-1399.asset|
+|assets/content/properties/steamcategories/permstore-1499.asset|
 |assets/content/properties/steamcategories/permstore-199.asset|
 |assets/content/properties/steamcategories/permstore-299.asset|
 |assets/content/properties/steamcategories/permstore-399.asset|
