@@ -624,7 +624,7 @@
 |wall.frame.netting|3836415141|SimpleBuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building/wall.frame.netting/wall.frame.netting.prefab|
 |wall.frame.shopfront.metal|1180657261|ShopFront<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/building/wall.frame.shopfront/wall.frame.shopfront.metal.prefab|
 |wall.frame.shopfront|3735657341|Door<br>BaseCombatEntity<br>DecayEntity<br>StabilityEntity<br>Model<br>|assets/prefabs/building/wall.frame.shopfront/wall.frame.shopfront.prefab|
-|wall.window.bars.brickskin|1171566496|empty|assets/prefabs/building/wall.window.bars/wall.window.bars.brickskin.prefab|
+|wall.window.bars.brickskin|1171566496|---|assets/prefabs/building/wall.window.bars/wall.window.bars.brickskin.prefab|
 |wall.window.bars.metal|852672524|SimpleBuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building/wall.window.bars/wall.window.bars.metal.prefab|
 |wall.window.bars.toptier|3645204165|SimpleBuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building/wall.window.bars/wall.window.bars.toptier.prefab|
 |wall.window.bars.wood|301156169|SimpleBuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building/wall.window.bars/wall.window.bars.wood.prefab|
