@@ -6,6 +6,7 @@
 |![](https://rustlabs.com/img/items180/kayak.png)|Kayak|kayak|190184021|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/rhib.png)|RHIB|rhib|1394042569|ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/rowboat.png)|Rowboat|rowboat|1878053256|ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/tugboat.png)|Tugboat|tugboat|-561148628|ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/minihelicopter.repair.png)|MC repair|minihelicopter.repair|1426574435|ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/aiming.module.mlrs.png)|MLRS Aiming Module|aiming.module.mlrs|343045591|ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/mlrs.png)|MLRS|mlrs|-1449152644|ItemBlueprint<br>|
@@ -137,6 +138,7 @@
 |![](https://rustlabs.com/img/items180/attire.hide.skirt.png)|Hide Skirt|attire.hide.skirt|-1773144852|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/attire.banditguard.png)|Bandit Guard Gear|attire.banditguard|-1622110948|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
 |![](https://rustlabs.com/img/items180/hazmatsuit.arcticsuit.png)|Arctic Suit|hazmatsuit.arcticsuit|-470439097|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
+|![](https://rustlabs.com/img/items180/hazmatsuit.diver.png)|Abyss Divers Suit|hazmatsuit.diver|-797592358|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
 |![](https://rustlabs.com/img/items180/hazmatsuit.png)|Hazmat Suit|hazmatsuit|1266491000|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
 |![](https://rustlabs.com/img/items180/hazmatsuit.lumberjack.png)|Lumberjack Suit|hazmatsuit.lumberjack|861513346|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
 |![](https://rustlabs.com/img/items180/hazmatsuit.nomadsuit.png)|Nomad Suit|hazmatsuit.nomadsuit|491263800|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
@@ -736,6 +738,7 @@
 |![](https://rustlabs.com/img/items180/weapon.mod.silencer.png)|Silencer|weapon.mod.silencer|-1850571427|ItemBlueprint<br>ItemModEntity<br>ItemModSound<br>|
 |![](https://rustlabs.com/img/items180/weapon.mod.small.scope.png)|8x Zoom Scope|weapon.mod.small.scope|567235583|ItemBlueprint<br>ItemModEntity<br>ItemModSound<br>|
 |![](https://rustlabs.com/img/items180/rifle.ak.png)|Assault Rifle|rifle.ak|1545779598|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
+|![](https://rustlabs.com/img/items180/rifle.ak.diver.png)|Abyss Assault Rifle|rifle.ak.diver|-139037392|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |![](https://rustlabs.com/img/items180/rifle.ak.ice.png)|Assault Rifle - ICE|rifle.ak.ice|-1335497659|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |![](https://rustlabs.com/img/items180/bandage.png)|Bandage|bandage|-2072273936|ItemModEntity<br>ItemBlueprint<br>ItemModConsumable<br>|
 |![](https://rustlabs.com/img/items180/grenade.beancan.png)|Beancan Grenade|grenade.beancan|1840822026|ItemModEntity<br>ItemBlueprint<br>|
@@ -748,6 +751,9 @@
 |![](https://rustlabs.com/img/items180/salvaged.cleaver.png)|Salvaged Cleaver|salvaged.cleaver|-1978999529|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |![](https://rustlabs.com/img/items180/bow.compound.png)|Compound Bow|bow.compound|884424049|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/crossbow.png)|Crossbow|crossbow|1965232394|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
+|![](https://rustlabs.com/img/items180/diverhatchet.png)|Abyss Metal Hatchet|diverhatchet|1046904719|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
+|![](https://rustlabs.com/img/items180/diverpickaxe.png)|Abyss Metal Pickaxe|diverpickaxe|1561022037|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
+|![](https://rustlabs.com/img/items180/divertorch.png)|Abyss Torch|divertorch|1846605708|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/shotgun.double.png)|Double Barrel Shotgun|shotgun.double|-765183617|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |![](https://rustlabs.com/img/items180/pistol.eoka.png)|Eoka Pistol|pistol.eoka|-75944661|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/grenade.f1.png)|F1 Grenade|grenade.f1|143803535|ItemModEntity<br>ItemBlueprint<br>|
