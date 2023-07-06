@@ -38,6 +38,7 @@
 |assets/content/image effects/postfx_volumes/sharpen_vignette.asset|
 |assets/content/image effects/postfx_volumes/submarine_dof.asset|
 |assets/content/image effects/postfx_volumes/water.asset|
+|assets/content/image effects/postfx_volumes/water_blur_wiggle.asset|
 |assets/content/image effects/postfx_volumes/water_goggles.asset|
 |assets/content/nature/ores/sound/ore-break-001.asset|
 |assets/content/nature/reeds/models/billboards/reeds_dead_lod3.asset|
@@ -108,6 +109,8 @@
 |assets/content/nature/treessource/bush_willow/billboards/bush_willow_snow_b_lod3.asset|
 |assets/content/nature/treessource/bush_willow/billboards/bush_willow_snow_c_lod3.asset|
 |assets/content/nature/treessource/bush_willow/billboards/bush_willow_snow_d_lod3.asset|
+|assets/content/nature/treessource/bush_willow/billboards/bush_willow_snow_small_a_lod2.asset|
+|assets/content/nature/treessource/bush_willow/billboards/bush_willow_snow_small_b_lod2.asset|
 |assets/content/nature/treessource/douglas_fir/models/billboards/douglas_fir_a_lod3.asset|
 |assets/content/nature/treessource/douglas_fir/models/billboards/douglas_fir_a_snow_lod3.asset|
 |assets/content/nature/treessource/douglas_fir/models/billboards/douglas_fir_b_lod3.asset|
@@ -177,6 +180,10 @@
 |assets/content/nature/treessource/swamp_trees/models/billboards/swamp_tree_d_lod3.asset|
 |assets/content/nature/treessource/swamp_trees/models/billboards/swamp_tree_e_lod3.asset|
 |assets/content/nature/treessource/swamp_trees/models/billboards/swamp_tree_f_lod3.asset|
+|assets/content/nature/water/content/beaufort_0.asset|
+|assets/content/nature/water/content/beaufort_10.asset|
+|assets/content/nature/water/content/beaufort_5.asset|
+|assets/content/nature/water/content/ocean_settings.asset|
 |assets/content/player/clothing/hair/armpit/player.hair.female.armpit01.asset|
 |assets/content/player/clothing/hair/armpit/player.hair.male.armpit01.asset|
 |assets/content/player/clothing/hair/eyebrow/player.hair.female.eyebrow01.asset|
@@ -855,6 +862,7 @@
 |assets/content/properties/lootspawn/generated/items/attire/hat.wolf.asset|
 |assets/content/properties/lootspawn/generated/items/attire/hazmatsuit.arcticsuit.asset|
 |assets/content/properties/lootspawn/generated/items/attire/hazmatsuit.asset|
+|assets/content/properties/lootspawn/generated/items/attire/hazmatsuit.diver.asset|
 |assets/content/properties/lootspawn/generated/items/attire/hazmatsuit.lumberjack.asset|
 |assets/content/properties/lootspawn/generated/items/attire/hazmatsuit.nomadsuit.asset|
 |assets/content/properties/lootspawn/generated/items/attire/hazmatsuit.spacesuit.asset|
@@ -1318,6 +1326,8 @@
 |assets/content/properties/lootspawn/generated/items/tool/axe.salvaged.asset|
 |assets/content/properties/lootspawn/generated/items/tool/bucket.water.asset|
 |assets/content/properties/lootspawn/generated/items/tool/chainsaw.asset|
+|assets/content/properties/lootspawn/generated/items/tool/diverhatchet.asset|
+|assets/content/properties/lootspawn/generated/items/tool/diverpickaxe.asset|
 |assets/content/properties/lootspawn/generated/items/tool/explosive.satchel.asset|
 |assets/content/properties/lootspawn/generated/items/tool/explosive.timed.asset|
 |assets/content/properties/lootspawn/generated/items/tool/flare.asset|
@@ -1380,6 +1390,7 @@
 |assets/content/properties/lootspawn/generated/items/weapon/pistol.semiauto.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/pistol.water.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/rifle.ak.asset|
+|assets/content/properties/lootspawn/generated/items/weapon/rifle.ak.diver.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/rifle.ak.ice.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/rifle.bolt.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/rifle.l96.asset|
@@ -1655,6 +1666,7 @@
 |assets/content/properties/protection/target_protection.asset|
 |assets/content/properties/protection/trainprotection.asset|
 |assets/content/properties/protection/tree protection.asset|
+|assets/content/properties/protection/tugboatprotection.asset|
 |assets/content/properties/protection/turret_protection.asset|
 |assets/content/properties/protection/waterinflatable.asset|
 |assets/content/properties/protection/worldmetal.asset|
@@ -1967,7 +1979,7 @@
 |assets/content/props/strobe light/sound/slow.asset|
 |assets/content/props/strobe light/strobelight.sitem.asset|
 |assets/content/props/train_tunnels/barricade-damage.asset|
-|assets/content/shaders/core/subsurfaceprofiles/ssp_skindefault.asset|
+|assets/content/shaders/subsurfaceprofiles/ssp_skindefault.asset|
 |assets/content/sound/ambience/ambience-none.ambience-def.asset|
 |assets/content/sound/ambience/animals/sting-coyote/sting-coyote.ambience-def.asset|
 |assets/content/sound/ambience/animals/sting-coyote/sting-coyote.asset|
@@ -2113,6 +2125,11 @@
 |assets/content/sound/ambience/life.ambience-list.asset|
 |assets/content/sound/ambience/life-halloween.ambience-list.asset|
 |assets/content/sound/ambience/metal-groan-sting.ambience-def.asset|
+|assets/content/sound/ambience/ocean/ambience-ocean-waves-light.ambience-def.asset|
+|assets/content/sound/ambience/ocean/ambience-ocean-waves-light.asset|
+|assets/content/sound/ambience/ocean/ambience-ocean-waves-medium.ambience-def.asset|
+|assets/content/sound/ambience/ocean/ambience-ocean-waves-medium.asset|
+|assets/content/sound/ambience/ocean/ocean.ambience-list.asset|
 |assets/content/sound/ambience/rain.ambience-list.asset|
 |assets/content/sound/ambience/rain/ambience-rain-light.ambience-def.asset|
 |assets/content/sound/ambience/rain/ambience-rain-light.asset|
@@ -4050,6 +4067,29 @@
 |assets/content/vehicles/boats/sound/small-boat-water-low.asset|
 |assets/content/vehicles/boats/sound/small-boat-water-med.asset|
 |assets/content/vehicles/boats/sound/waves_lapping_bow.asset|
+|assets/content/vehicles/boats/tugboat/sound/tugboat.engine-loop-def.asset|
+|assets/content/vehicles/boats/tugboat/sound/tugboat-ambient-active-loop.asset|
+|assets/content/vehicles/boats/tugboat/sound/tugboat-chain-rattle.asset|
+|assets/content/vehicles/boats/tugboat/sound/tugboat-dismount.asset|
+|assets/content/vehicles/boats/tugboat/sound/tugboat-engine-loop.asset|
+|assets/content/vehicles/boats/tugboat/sound/tugboat-engine-loop-2340rpm.asset|
+|assets/content/vehicles/boats/tugboat/sound/tugboat-engine-loop-2520rpm.asset|
+|assets/content/vehicles/boats/tugboat/sound/tugboat-engine-loop-2700rpm.asset|
+|assets/content/vehicles/boats/tugboat/sound/tugboat-engine-loop-3240rpm.asset|
+|assets/content/vehicles/boats/tugboat/sound/tugboat-engine-loop-idle-1380rpm.asset|
+|assets/content/vehicles/boats/tugboat/sound/tugboat-engine-start.asset|
+|assets/content/vehicles/boats/tugboat/sound/tugboat-engine-start-bridge.asset|
+|assets/content/vehicles/boats/tugboat/sound/tugboat-engine-stop.asset|
+|assets/content/vehicles/boats/tugboat/sound/tugboat-engine-stop-bridge.asset|
+|assets/content/vehicles/boats/tugboat/sound/tugboat-hull-groan.asset|
+|assets/content/vehicles/boats/tugboat/sound/tugboat-impact.asset|
+|assets/content/vehicles/boats/tugboat/sound/tugboat-mount.asset|
+|assets/content/vehicles/boats/tugboat/sound/tugboat-water-idle-loop.asset|
+|assets/content/vehicles/boats/tugboat/sound/tugboat-water-idle-loop-interior.asset|
+|assets/content/vehicles/boats/tugboat/sound/tugboat-water-interior-loop.asset|
+|assets/content/vehicles/boats/tugboat/sound/tugboat-water-movement-side-fast-loop.asset|
+|assets/content/vehicles/boats/tugboat/sound/tugboat-water-movement-side-slow-loop.asset|
+|assets/content/vehicles/boats/tugboat/sound/tugboat-water-movement-stern-loop.asset|
 |assets/content/vehicles/crane_magnet/sound/magnet-crane.engine-loop-def.asset|
 |assets/content/vehicles/crane_magnet/sound/magnet-crane-arm-movement-change-direction.asset|
 |assets/content/vehicles/crane_magnet/sound/magnet-crane-arm-movement-loop.asset|
@@ -4788,6 +4828,7 @@
 |assets/prefabs/clothes/skin/underwear/twitch/twitch.asset|
 |assets/prefabs/clothes/skirt.hide/skirt.hide.skinnable.asset|
 |assets/prefabs/clothes/suit.hazmat/arctic/hazmat.arctic.skin.asset|
+|assets/prefabs/clothes/suit.hazmat/diver/hazmatsuit.diver.skin.asset|
 |assets/prefabs/clothes/suit.hazmat/hazmat.skinnable.asset|
 |assets/prefabs/clothes/suit.hazmat/lumberjack/hazmat.lumberjack.skin.asset|
 |assets/prefabs/clothes/suit.hazmat/nomad/hazmat.nomad.skin.asset|
@@ -5986,6 +6027,7 @@
 |assets/prefabs/weapon mods/silencers/effects/silencer_attach.sound.asset|
 |assets/prefabs/weapon mods/silencers/sound/silenced_shot.asset|
 |assets/prefabs/weapons/ak47u/ak47u.skinnable.asset|
+|assets/prefabs/weapons/ak47u/diver/ak47u_diver.skin.asset|
 |assets/prefabs/weapons/ak47u/iceskin/ak47ice.skin.asset|
 |assets/prefabs/weapons/ak47u/sound/ak47-gunshot-body.asset|
 |assets/prefabs/weapons/ak47u/sound/ak47-gunshot-body-suppressed.asset|
@@ -6086,6 +6128,26 @@
 |assets/prefabs/weapons/crossbow/sound/crossbow-deploy.asset|
 |assets/prefabs/weapons/crossbow/sound/crossbow-deploy-3p.asset|
 |assets/prefabs/weapons/crossbow/sound/crossbow-reload.asset|
+|assets/prefabs/weapons/diverhatchet/diver_hatchet.skin.asset|
+|assets/prefabs/weapons/diverpickaxe/clothmat_diverak_vm.asset|
+|assets/prefabs/weapons/diverpickaxe/clothmat_diverpickaxe.asset|
+|assets/prefabs/weapons/diverpickaxe/clothmat_diverpickaxe_vm.asset|
+|assets/prefabs/weapons/diverpickaxe/diver_pickaxe.skin.asset|
+|assets/prefabs/weapons/diverpickaxe/sound/diver-pickaxe-attack.asset|
+|assets/prefabs/weapons/diverpickaxe/sound/diver-pickaxe-deploy.asset|
+|assets/prefabs/weapons/diverpickaxe/sound/diver-pickaxe-lower.asset|
+|assets/prefabs/weapons/diverpickaxe/sound/diver-pickaxe-raise.asset|
+|assets/prefabs/weapons/diverpickaxe/sound/diver-pickaxe-strike.asset|
+|assets/prefabs/weapons/diverpickaxe/sound/diver-pickaxe-strike-muted.asset|
+|assets/prefabs/weapons/diverpickaxe/sound/diver-pickaxe-strike-soft.asset|
+|assets/prefabs/weapons/diverpickaxe/sound/diver-pickaxe-throw.asset|
+|assets/prefabs/weapons/divertorch/sound/diver-torch-attack.asset|
+|assets/prefabs/weapons/divertorch/sound/diver-torch-deploy.asset|
+|assets/prefabs/weapons/divertorch/sound/diver-torch-electric-buzz.asset|
+|assets/prefabs/weapons/divertorch/sound/diver-torch-strike.asset|
+|assets/prefabs/weapons/divertorch/sound/diver-torch-switch-off.asset|
+|assets/prefabs/weapons/divertorch/sound/diver-torch-switch-on.asset|
+|assets/prefabs/weapons/divertorch/torch.diver.skin.asset|
 |assets/prefabs/weapons/doubleshotgun/double_shotgun.skinnable.asset|
 |assets/prefabs/weapons/doubleshotgun/sound/doubleshotgun-attack.asset|
 |assets/prefabs/weapons/doubleshotgun/sound/doubleshotgun-bolt_back.asset|
@@ -6597,6 +6659,7 @@
 |assets/resources/worldspline prefab shared data.asset|
 |assets/rust.ai/agents/animal/animal.aidesign.asset|
 |assets/rust.ai/agents/animal/animal.bear.aidesign.asset|
+|assets/rust.ai/agents/animal/animal.controltest.aidesign.asset|
 |assets/rust.ai/agents/animal/animal.polarbear.aidesign.asset|
 |assets/rust.ai/agents/animal/animal.wolf.aidesign.asset|
 |assets/rust.ai/agents/bear/bear.footstep.asset|
