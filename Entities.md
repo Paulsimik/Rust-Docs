@@ -434,6 +434,7 @@
 |Roadsign8|1751361167|LootContainer<br>BaseCombatEntity<br>DecayEntity<br>CapsuleCollider<br>Spawnable<br>TakeCollisionDamage<br>|assets/content/props/roadsigns/roadsign8.prefab|
 |Roadsign9|2277225257|CapsuleCollider<br>BoxCollider<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>Spawnable<br>TakeCollisionDamage<br>|assets/content/props/roadsigns/roadsign9.prefab|
 |sentry.bandit.static|1386184467|NPCAutoTurret<br>BaseCombatEntity<br>ContainerIOEntity<br>IOEntity<br>DecayEntity<br>Model<br>CapsuleCollider<br>|assets/content/props/sentry_scientists/sentry.bandit.static.prefab|
+|sentry.scientist.barge.static|1202757502|NPCAutoTurret<br>BaseCombatEntity<br>ContainerIOEntity<br>IOEntity<br>DecayEntity<br>Model<br>CapsuleCollider<br>|assets/content/props/sentry_scientists/sentry.scientist.barge.static.prefab|
 |sentry.scientist.static|324270742|NPCAutoTurret<br>BaseCombatEntity<br>ContainerIOEntity<br>IOEntity<br>DecayEntity<br>Model<br>CapsuleCollider<br>|assets/content/props/sentry_scientists/sentry.scientist.static.prefab|
 |StrobeLight|699083235|StrobeLight<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/content/props/strobe light/strobelight.prefab|
 |TrainBarricade|1221760186|TrainBarricade<br>Spawnable<br>|assets/content/props/train_tunnels/trainbarricade.prefab|
@@ -471,6 +472,10 @@
 |Rowboat|1283317166|MotorRowboat<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Buoyancy<br>Spawnable<br>PhysicsEffects<br>Model<br>|assets/content/vehicles/boats/rowboat/rowboat.prefab|
 |fuel_storage|198420611|BoxCollider<br>StorageContainer<br>BaseCombatEntity<br>|assets/content/vehicles/boats/rowboat/subents/fuel_storage.prefab|
 |rowboat_storage|3308040458|StorageContainer<br>BaseCombatEntity<br>Model<br>BoxCollider<br>|assets/content/vehicles/boats/rowboat/subents/rowboat_storage.prefab|
+|door.hinged.tugboat.door|3119092600|Door<br>BaseCombatEntity<br>DecayEntity<br>StabilityEntity<br>Model<br>|assets/content/vehicles/boats/tugboat/subents/door.hinged.tugboat.door.prefab|
+|tugboat fuel_storage|791581329|StorageContainer<br>BaseCombatEntity<br>|assets/content/vehicles/boats/tugboat/subents/tugboat fuel_storage.prefab|
+|tugboat_privilege|448038268|VehiclePrivilege<br>|assets/content/vehicles/boats/tugboat/subents/tugboat_privilege.prefab|
+|Tugboat|268742921|Tugboat<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>BaseBoat<br>Rigidbody<br>Buoyancy<br>Spawnable<br>PhysicsEffects<br>Model<br>|assets/content/vehicles/boats/tugboat/tugboat.prefab|
 |JunkTest|1028065701|BaseCombatEntity<br>Rigidbody<br>BoxCollider<br>MagnetLiftable<br>|assets/content/vehicles/crane_magnet/junktest.prefab|
 |magnetcrane.entity|273775677|MagnetCrane<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Model<br>Rigidbody<br>|assets/content/vehicles/crane_magnet/magnetcrane.entity.prefab|
 |Shreddable_PickupTruck|962565779|BaseCombatEntity<br>Rigidbody<br>MagnetLiftable<br>|assets/content/vehicles/crane_magnet/shreddable_pickuptruck.prefab|
@@ -570,9 +575,9 @@
 |SlotMachine.caboose_static|3666013697|SlotMachine<br>BaseCombatEntity<br>Model<br>|assets/content/vehicles/trains/caboose/slotmachine.caboose_static.prefab|
 |TrainCaboose.entity|1965024162|TrainCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>Model<br>|assets/content/vehicles/trains/caboose/traincaboose.entity.prefab|
 |TrainCaboose.static|2633527920|BaseEntity<br>Model<br>|assets/content/vehicles/trains/caboose/traincaboose.static.prefab|
-|locomotive.entity|2404699083|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|assets/content/vehicles/trains/locomotive/locomotive.entity.prefab|
+|locomotive.entity|2404699083|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>Model<br>|assets/content/vehicles/trains/locomotive/locomotive.entity.prefab|
 |locomotive_fuel_storage|1731121048|StorageContainer<br>BaseCombatEntity<br>|assets/content/vehicles/trains/locomotive/subents/locomotive_fuel_storage.prefab|
-|_BaseTrainWagon.entity|526417839|TrainCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>|assets/content/vehicles/trains/wagons/_basetrainwagon.entity.prefab|
+|_BaseTrainWagon.entity|526417839|TrainCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>Model<br>|assets/content/vehicles/trains/wagons/_basetrainwagon.entity.prefab|
 |wagon_crate_normal|2225695845|LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/content/vehicles/trains/wagons/subents/wagon_crate_normal.prefab|
 |wagon_crate_normal_2|1187125596|LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/content/vehicles/trains/wagons/subents/wagon_crate_normal_2.prefab|
 |wagon_crate_normal_2_food|3590824134|LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/content/vehicles/trains/wagons/subents/wagon_crate_normal_2_food.prefab|
@@ -580,16 +585,16 @@
 |wagon_storage|3798073427|StorageContainer<br>BaseCombatEntity<br>|assets/content/vehicles/trains/wagons/subents/wagon_storage.prefab|
 |wagon_storage_fuel|2600682814|StorageContainer<br>BaseCombatEntity<br>|assets/content/vehicles/trains/wagons/subents/wagon_storage_fuel.prefab|
 |wagon_storage_lootwagon|4110027805|StorageContainer<br>BaseCombatEntity<br>|assets/content/vehicles/trains/wagons/subents/wagon_storage_lootwagon.prefab|
-|TrainWagonA.entity|2448805006|TrainCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|assets/content/vehicles/trains/wagons/trainwagona.entity.prefab|
-|TrainWagonB.entity|329987112|TrainCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|assets/content/vehicles/trains/wagons/trainwagonb.entity.prefab|
-|TrainWagonC.entity|3004380666|TrainCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|assets/content/vehicles/trains/wagons/trainwagonc.entity.prefab|
+|TrainWagonA.entity|2448805006|TrainCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>Model<br>PrefabParameters<br>|assets/content/vehicles/trains/wagons/trainwagona.entity.prefab|
+|TrainWagonB.entity|329987112|TrainCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>Model<br>PrefabParameters<br>|assets/content/vehicles/trains/wagons/trainwagonb.entity.prefab|
+|TrainWagonC.entity|3004380666|TrainCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>Model<br>PrefabParameters<br>|assets/content/vehicles/trains/wagons/trainwagonc.entity.prefab|
 |TrainWagonUnloadable.entity|3925609063|TrainCarUnloadable<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|assets/content/vehicles/trains/wagons/trainwagonunloadable.entity.prefab|
 |TrainWagonUnloadableFuel.entity|1383224408|TrainCarUnloadable<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>TrainCarFuelHatches<br>|assets/content/vehicles/trains/wagons/trainwagonunloadablefuel.entity.prefab|
 |TrainWagonUnloadableLoot.entity|2485848884|TrainCarUnloadableLoot<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>TrainCar<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|assets/content/vehicles/trains/wagons/trainwagonunloadableloot.entity.prefab|
 |workcart_fuel_storage|340386975|StorageContainer<br>BaseCombatEntity<br>|assets/content/vehicles/trains/workcart/subents/workcart_fuel_storage.prefab|
-|workcart.entity|2059952138|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>|assets/content/vehicles/trains/workcart/workcart.entity.prefab|
-|workcart_aboveground.entity|1173017984|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|assets/content/vehicles/trains/workcart/workcart_aboveground.entity.prefab|
-|workcart_aboveground2.entity|2466349118|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>PrefabParameters<br>|assets/content/vehicles/trains/workcart/workcart_aboveground2.entity.prefab|
+|workcart.entity|2059952138|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>Model<br>|assets/content/vehicles/trains/workcart/workcart.entity.prefab|
+|workcart_aboveground.entity|1173017984|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>Model<br>PrefabParameters<br>|assets/content/vehicles/trains/workcart/workcart_aboveground.entity.prefab|
+|workcart_aboveground2.entity|2466349118|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>Model<br>PrefabParameters<br>|assets/content/vehicles/trains/workcart/workcart_aboveground2.entity.prefab|
 |40mm_grenade_he|1859672190|TimedExplosive<br>ServerProjectile<br>CapsuleCollider<br>|assets/prefabs/ammo/40mmgrenade/40mm_grenade_he.prefab|
 |40mm_grenade_smoke|1502533292|SmokeGrenade<br>ServerProjectile<br>CapsuleCollider<br>|assets/prefabs/ammo/40mmgrenade/40mm_grenade_smoke.prefab|
 |arrow|26759631|WorldItem<br>BoxCollider<br>Rigidbody<br>ColliderInfo<br>|assets/prefabs/ammo/arrow/arrow.prefab|
@@ -1223,6 +1228,10 @@
 |Scarecrow_Dungeon|3019050354|ScarecrowNPC<br>BaseCombatEntity<br>BasePlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>Spawnable<br>NPCPlayerNavigator<br>NavMeshAgent<br>ScarecrowBrain<br>Spawnable<br>|assets/prefabs/npc/scarecrow/scarecrow_dungeon.prefab|
 |Scarecrow_DungeonNoRoam|70161046|ScarecrowNPC<br>BaseCombatEntity<br>BasePlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>Spawnable<br>NPCPlayerNavigator<br>NavMeshAgent<br>ScarecrowBrain<br>Spawnable<br>|assets/prefabs/npc/scarecrow/scarecrow_dungeonnoroam.prefab|
 |scientist_corpse|1236143239|NPCPlayerCorpse<br>BaseCombatEntity<br>LootableCorpse<br>BaseCorpse<br>HumanBodyResourceDispenser<br>Buoyancy<br>|assets/prefabs/npc/scientist/scientist_corpse.prefab|
+|PhysicsEntityCube|681646903|BaseEntity<br>Rigidbody<br>|assets/prefabs/physicstesting/physicsentitycube.prefab|
+|PhysicsEntityCube_MaxFriction|4224922530|BaseEntity<br>Rigidbody<br>|assets/prefabs/physicstesting/physicsentitycube_maxfriction.prefab|
+|PhysicsEntityCube_MaxFriction_Heavy|2366673790|BaseEntity<br>Rigidbody<br>|assets/prefabs/physicstesting/physicsentitycube_maxfriction_heavy.prefab|
+|PhysicsEntityCube_MaxFriction_Light|474343723|BaseEntity<br>Rigidbody<br>|assets/prefabs/physicstesting/physicsentitycube_maxfriction_light.prefab|
 |black_berry.entity|654911969|GrowableEntity<br>BoxCollider<br>|assets/prefabs/plants/berrry/black/black_berry.entity.prefab|
 |blue_berry.entity|402225589|GrowableEntity<br>BoxCollider<br>|assets/prefabs/plants/berrry/blue/blue_berry.entity.prefab|
 |green_berry.entity|1267013032|GrowableEntity<br>BoxCollider<br>|assets/prefabs/plants/berrry/green/green_berry.entity.prefab|
@@ -1299,6 +1308,7 @@
 |Passenger|2304142695|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/passenger.prefab|
 |PassengerChair|1954020959|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/passengerchair.prefab|
 |PilotSeat|952100854|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/pilotseat.prefab|
+|RHIBDriver|2257815105|RHIBDriver<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicleMountPoint<br>MeshCollider<br>|assets/prefabs/vehicle/seats/rhibdriver.prefab|
 |SaddleRear|1283312890|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>BoxCollider<br>|assets/prefabs/vehicle/seats/saddlerear.prefab|
 |SaddleTest|750623658|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>BoxCollider<br>|assets/prefabs/vehicle/seats/saddletest.prefab|
 |SledSeatFront|1212881407|SledSeat<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicleMountPoint<br>MeshCollider<br>|assets/prefabs/vehicle/seats/sledseatfront.prefab|
@@ -1308,13 +1318,14 @@
 |SnowmobileDriverSeat|836439399|MouseSteerableSeat<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicleMountPoint<br>MeshCollider<br>|assets/prefabs/vehicle/seats/snowmobiledriverseat.prefab|
 |SnowmobilePassengerSeat Tomaha|1103815396|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/snowmobilepassengerseat tomaha.prefab|
 |SnowmobilePassengerSeat|2602628913|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/snowmobilepassengerseat.prefab|
-|StandingDriver|1392704482|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/standingdriver.prefab|
+|StandingDriver|1392704482|SledSeat<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicleMountPoint<br>MeshCollider<br>|assets/prefabs/vehicle/seats/standingdriver.prefab|
 |SubmarineDuoDriverSeat|309883022|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/submarineduodriverseat.prefab|
 |SubmarineDuoPassengerSeat|2802580699|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/submarineduopassengerseat.prefab|
 |SubmarineSoloDriverStanding|1922108893|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/submarinesolodriverstanding.prefab|
 |TestSeat|3179168237|BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/testseat.prefab|
 |TransportHeliCoPilot|1771416011|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/transporthelicopilot.prefab|
 |TransportHeliPilot|3180731352|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/transporthelipilot.prefab|
+|TugboatDriver|1955582400|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/tugboatdriver.prefab|
 |WorkCartDriver|311277167|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>|assets/prefabs/vehicle/seats/workcartdriver.prefab|
 |sphere|3211242734|SphereEntity<br>|assets/prefabs/visualization/sphere.prefab|
 |BoomBox.deployed|244503553|DeployableBoomBox<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>BoomBox<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/voiceaudio/boombox/boombox.deployed.prefab|
@@ -1358,6 +1369,7 @@
 |smallscope.entity|2957289628|ProjectileWeaponMod<br>|assets/prefabs/weapon mods/smallscope/smallscope.entity.prefab|
 |smallscope.vm.attachment|3672170763|ProjectileWeaponMod<br>Model<br>IronSightOverride<br>ViewmodelScope<br>HideIfScoped<br>|assets/prefabs/weapon mods/smallscope/smallscope.vm.attachment.prefab|
 |ak47u.entity|1978739833|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/ak47u/ak47u.entity.prefab|
+|ak47u_diver.entity|4096772971|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/ak47u/diver/ak47u_diver.entity.prefab|
 |ak47u_ice.entity|1942738569|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/ak47u/iceskin/ak47u_ice.entity.prefab|
 |bandage.entity|1383987667|MedicalTool<br>HeldEntity<br>|assets/prefabs/weapons/bandage/bandage.entity.prefab|
 |grenade.beancan.deployed|2144399804|DudTimedExplosive<br>Rigidbody<br>CapsuleCollider<br>|assets/prefabs/weapons/beancan grenade/grenade.beancan.deployed.prefab|
@@ -1371,6 +1383,9 @@
 |salvaged_cleaver.entity|3340056040|BaseMelee<br>HeldEntity<br>|assets/prefabs/weapons/cleaver big/salvaged_cleaver.entity.prefab|
 |compound_bow.entity|1537401592|CompoundBowWeapon<br>BaseProjectile<br>HeldEntity<br>AttackEntity<br>|assets/prefabs/weapons/compound bow/compound_bow.entity.prefab|
 |crossbow.entity|2727391082|CrossbowWeapon<br>HeldEntity<br>AttackEntity<br>Model<br>|assets/prefabs/weapons/crossbow/crossbow.entity.prefab|
+|diver_hatchet.entity|1396987940|BaseMelee<br>HeldEntity<br>|assets/prefabs/weapons/diverhatchet/diver_hatchet.entity.prefab|
+|diver_pickaxe.entity|190635670|BaseMelee<br>HeldEntity<br>|assets/prefabs/weapons/diverpickaxe/diver_pickaxe.entity.prefab|
+|diver_torch.entity|1029607191|TorchWeapon<br>HeldEntity<br>AttackEntity<br>|assets/prefabs/weapons/divertorch/diver_torch.entity.prefab|
 |double_shotgun.entity|3474489095|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/doubleshotgun/double_shotgun.entity.prefab|
 |pistol_eoka.entity|2176761593|FlintStrikeWeapon<br>HeldEntity<br>AttackEntity<br>Model<br>|assets/prefabs/weapons/eoka pistol/pistol_eoka.entity.prefab|
 |grenade.f1.deployed|1128089209|TimedExplosive<br>Rigidbody<br>CapsuleCollider<br>|assets/prefabs/weapons/f1 grenade/grenade.f1.deployed.prefab|
