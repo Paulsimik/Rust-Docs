@@ -254,6 +254,7 @@
 |assets/bundled/prefabs/fx/impacts/footstep/burlap/water/boot_footstep_water.prefab|
 |assets/bundled/prefabs/fx/impacts/footstep/burlap/wood/footstep-wood.prefab|
 |assets/bundled/prefabs/fx/impacts/footstep/crouch/water/boot_footstep_water.prefab|
+|assets/bundled/prefabs/fx/impacts/footstep/footstepwatersplashvfx_nester.prefab|
 |assets/bundled/prefabs/fx/impacts/footstep/gingerbread/cloth/footstep-cloth.prefab|
 |assets/bundled/prefabs/fx/impacts/footstep/gingerbread/concrete/footstep-concrete.prefab|
 |assets/bundled/prefabs/fx/impacts/footstep/gingerbread/dirt/footstep-dirt.prefab|
@@ -640,6 +641,7 @@
 |assets/content/effects/fumes/pfx_chimney_dark.prefab|
 |assets/content/effects/fumes/pfx_steam_blast.prefab|
 |assets/content/effects/fumes/pfx_vent_fumes.prefab|
+|assets/content/effects/liquid/assets_bundled_prefabs_world_underwater.prefab.prefab|
 |assets/content/effects/liquid/pfx_sprinkler.prefab|
 |assets/content/effects/materials/fog/fog_wall.prefab|
 |assets/content/effects/materials/fog/height_fog.prefab|
@@ -732,6 +734,7 @@
 |assets/content/vehicles/boats/kayak/effects/kayak-paddle.prefab|
 |assets/content/vehicles/boats/kayak/effects/kayak-push-land.prefab|
 |assets/content/vehicles/boats/kayak/effects/kayak-push-water.prefab|
+|assets/content/vehicles/boats/tugboat/effects/tugboat_damage_fx.prefab|
 |assets/content/vehicles/crane_magnet/effects/exhaust.prefab|
 |assets/content/vehicles/crane_magnet/effects/lightgroup arm.prefab|
 |assets/content/vehicles/crane_magnet/effects/lightgroup body.prefab|
@@ -848,6 +851,7 @@
 |assets/prefabs/clothes/diving.tank/effects/scuba_exhale.prefab|
 |assets/prefabs/clothes/diving.tank/effects/scuba_inhale.prefab|
 |assets/prefabs/clothes/diving.tank/effects/tank_refill.prefab|
+|assets/prefabs/clothes/suit.hazmat/diver/effects/breathingbubbles_headbone.prefab|
 |assets/prefabs/deployable/barricades/effects/barricade-concrete-deploy.prefab|
 |assets/prefabs/deployable/barricades/effects/barricade-metal-deploy.prefab|
 |assets/prefabs/deployable/barricades/effects/barricade-sandbags-deploy.prefab|
@@ -1210,6 +1214,7 @@
 |assets/prefabs/weapons/ak47u/effects/bolt_back.prefab|
 |assets/prefabs/weapons/ak47u/effects/bolt_forward.prefab|
 |assets/prefabs/weapons/ak47u/effects/deploy.prefab|
+|assets/prefabs/weapons/ak47u/effects/dripfx.prefab|
 |assets/prefabs/weapons/ak47u/effects/dryfire.prefab|
 |assets/prefabs/weapons/ak47u/effects/eject_rifle_shell.prefab|
 |assets/prefabs/weapons/ak47u/effects/grab_magazine.prefab|
@@ -1219,6 +1224,7 @@
 |assets/prefabs/weapons/ak47u/effects/phys-impact-soft.prefab|
 |assets/prefabs/weapons/ak47u/effects/reload_boltaction.prefab|
 |assets/prefabs/weapons/ak47u/effects/reload_start.prefab|
+|assets/prefabs/weapons/ak47u/effects/w_drop_diver_magazine.prefab|
 |assets/prefabs/weapons/ak47u/effects/w_drop_magazine.prefab|
 |assets/prefabs/weapons/ak47u/effects/w_eject_rifle_shell.prefab|
 |assets/prefabs/weapons/arms/effects/drop_item.prefab|
@@ -1305,6 +1311,27 @@
 |assets/prefabs/weapons/crossbow/effects/deploy.prefab|
 |assets/prefabs/weapons/crossbow/effects/dryfire.prefab|
 |assets/prefabs/weapons/crossbow/effects/reload.prefab|
+|assets/prefabs/weapons/diverhatchet/effects/attack_shake.prefab|
+|assets/prefabs/weapons/diverhatchet/effects/deploy.prefab|
+|assets/prefabs/weapons/diverhatchet/effects/fx_drip_hatchet.prefab|
+|assets/prefabs/weapons/diverhatchet/effects/strike.prefab|
+|assets/prefabs/weapons/diverhatchet/effects/strike_screenshake.prefab|
+|assets/prefabs/weapons/diverhatchet/effects/strike-muted.prefab|
+|assets/prefabs/weapons/diverhatchet/effects/strike-soft.prefab|
+|assets/prefabs/weapons/diverhatchet/effects/swing.prefab|
+|assets/prefabs/weapons/diverhatchet/effects/throw.prefab|
+|assets/prefabs/weapons/diverpickaxe/effects/attack.prefab|
+|assets/prefabs/weapons/diverpickaxe/effects/deploy.prefab|
+|assets/prefabs/weapons/diverpickaxe/effects/strike.prefab|
+|assets/prefabs/weapons/diverpickaxe/effects/strike-muted.prefab|
+|assets/prefabs/weapons/diverpickaxe/effects/strike-soft.prefab|
+|assets/prefabs/weapons/diverpickaxe/effects/throw.prefab|
+|assets/prefabs/weapons/divertorch/effects/attack.prefab|
+|assets/prefabs/weapons/divertorch/effects/attack_lit.prefab|
+|assets/prefabs/weapons/divertorch/effects/deploy.prefab|
+|assets/prefabs/weapons/divertorch/effects/extinguish.prefab|
+|assets/prefabs/weapons/divertorch/effects/ignite.prefab|
+|assets/prefabs/weapons/divertorch/effects/strike.prefab|
 |assets/prefabs/weapons/doubleshotgun/effects/attack.prefab|
 |assets/prefabs/weapons/doubleshotgun/effects/attack_shake.prefab|
 |assets/prefabs/weapons/doubleshotgun/effects/attack_shake_ads.prefab|
