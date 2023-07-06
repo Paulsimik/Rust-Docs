@@ -174,6 +174,17 @@
 |assets/scenes/prefabs/excavator/excavator/terrain_clean_terrain_height.png|
 |assets/scenes/prefabs/excavator/excavator/topologytexture.png|
 |assets/scenes/prefabs/excavator/excavator/watertexture.png|
+|assets/scenes/prefabs/ferry terminal/ferry_terminal/alphatexture.png|
+|assets/scenes/prefabs/ferry terminal/ferry_terminal/biometexture.png|
+|assets/scenes/prefabs/ferry terminal/ferry_terminal/blendtexture.png|
+|assets/scenes/prefabs/ferry terminal/ferry_terminal/heighttexture.png|
+|assets/scenes/prefabs/ferry terminal/ferry_terminal/normaltexture.png|
+|assets/scenes/prefabs/ferry terminal/ferry_terminal/splattexture0.png|
+|assets/scenes/prefabs/ferry terminal/ferry_terminal/splattexture1.png|
+|assets/scenes/prefabs/ferry terminal/ferry_terminal/topologytexture.png|
+|assets/scenes/prefabs/ferry terminal/ferry_terminal_root_lods/ferry_terminal_root_hlod_albedo.png|
+|assets/scenes/prefabs/ferry terminal/ferry_terminal_root_lods/ferry_terminal_root_hlod_normals.png|
+|assets/scenes/prefabs/ferry terminal/ferry_terminal_root_lods/ferry_terminal_root_hlod_specular.png|
 |assets/scenes/prefabs/fishing_village/fishing_village_a/heighttexture.png|
 |assets/scenes/prefabs/fishing_village/fishing_village_a/normaltexture.png|
 |assets/scenes/prefabs/fishing_village/fishing_village_a/splattexture0.png|
