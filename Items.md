@@ -1,5 +1,5 @@
 |Image|Name|Shortname|ID|Components|
-|:--:|:---:|:---:|:---:|:---:|
+|:-:|:---:|:---:|:---:|:---:|
 |![](https://rustlabs.com/img/items180/hat.wolf.png)|Wolf Headdress|hat.wolf|-1478212975|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/fogmachine.png)|Fogger-3000|fogmachine|-1973785141|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>ItemModContainer<br>|
 |![](https://rustlabs.com/img/items180/strobelight.png)|Strobe Light|strobelight|2104517339|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
