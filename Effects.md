@@ -622,8 +622,12 @@
 |assets/content/effects/explosions/explosion/prefebs/explosion_7.prefab|
 |assets/content/effects/explosions/explosion/prefebs/explosion_8.prefab|
 |assets/content/effects/explosions/tests/fire/pfx_campfire.prefab|
-|assets/content/effects/explosions/underwater/explosion_underwater.prefab|
-|assets/content/effects/explosions/underwater/explosion_underwater_surface.prefab|
+|assets/content/effects/explosions/underwater/explosion_underwater_large.prefab|
+|assets/content/effects/explosions/underwater/explosion_underwater_medium.prefab|
+|assets/content/effects/explosions/underwater/explosion_underwater_small.prefab|
+|assets/content/effects/explosions/underwater/explosion_underwater_surface_large.prefab|
+|assets/content/effects/explosions/underwater/explosion_underwater_surface_medium.prefab|
+|assets/content/effects/explosions/underwater/explosion_underwater_surface_small.prefab|
 |assets/content/effects/fireworks/pfx fireworks boomer blue v2.prefab|
 |assets/content/effects/fireworks/pfx fireworks boomer golden xl v2.prefab|
 |assets/content/effects/fireworks/pfx fireworks boomer green v2.prefab|
@@ -713,6 +717,7 @@
 |assets/content/nature/treesprefabs/trees/effects/tree_marking.prefab|
 |assets/content/nature/treesprefabs/trees/effects/tree_marking_nospherecast.prefab|
 |assets/content/nature/treesprefabs/trees/effects/tree_marking_spawn.prefab|
+|assets/content/nexus/ferry/effects/nexus-ferry-departure-horn.prefab|
 |assets/content/props/fog machine/effects/cascade_smoke.prefab|
 |assets/content/props/fog machine/effects/emission.prefab|
 |assets/content/sound/monuments/nuclearmissilesilo/effects/nuclear-missile-silo-elevator-door-close-end.prefab|
