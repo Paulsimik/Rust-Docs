@@ -184,6 +184,14 @@
 |assets/content/nature/water/content/beaufort_10.asset|
 |assets/content/nature/water/content/beaufort_5.asset|
 |assets/content/nature/water/content/ocean_settings.asset|
+|assets/content/nexus/ferry/sound/nexus-ferry-departure-horn.asset|
+|assets/content/nexus/ferry/sound/nexus-ferry-dock-arrive.asset|
+|assets/content/nexus/ferry/sound/nexus-ferry-dock-depart.asset|
+|assets/content/nexus/ferry/sound/nexus-ferry-engine-loop.asset|
+|assets/content/nexus/ferry/sound/nexus-ferry-engine-start.asset|
+|assets/content/nexus/ferry/sound/nexus-ferry-engine-stop.asset|
+|assets/content/nexus/ferry/sound/nexus-ferry-idle-ambience.asset|
+|assets/content/nexus/ferry/sound/nexus-ferry-water-movement-loop.asset|
 |assets/content/player/clothing/hair/armpit/player.hair.female.armpit01.asset|
 |assets/content/player/clothing/hair/armpit/player.hair.male.armpit01.asset|
 |assets/content/player/clothing/hair/eyebrow/player.hair.female.eyebrow01.asset|
@@ -3428,6 +3436,7 @@
 |assets/content/sound/soundclasses/object-interaction.sound-class.asset|
 |assets/content/sound/soundclasses/physics.sound-class.asset|
 |assets/content/sound/soundclasses/physics-small.sound-class.asset|
+|assets/content/sound/soundclasses/pings.sound-class.asset|
 |assets/content/sound/soundclasses/ui.sound-class.asset|
 |assets/content/sound/soundclasses/ui-geiger.sound-class.asset|
 |assets/content/sound/soundclasses/ui-item-drop.sound-class.asset|
@@ -4010,6 +4019,34 @@
 |assets/content/ui/gameui/achievements/item-complete.asset|
 |assets/content/ui/gameui/achievements/list-complete.asset|
 |assets/content/ui/gameui/achievements/popup.asset|
+|assets/content/ui/gameui/clan/rustbutton.clan.action.asset|
+|assets/content/ui/gameui/clan/rustbutton.clan.checkbox.asset|
+|assets/content/ui/gameui/clan/rustbutton.clan.tab.asset|
+|assets/content/ui/gameui/emoji/angry.emoji.asset|
+|assets/content/ui/gameui/emoji/coffeecan.emoji.asset|
+|assets/content/ui/gameui/emoji/cool.emoji.asset|
+|assets/content/ui/gameui/emoji/dance.emoji.asset|
+|assets/content/ui/gameui/emoji/exclamation.emoji.asset|
+|assets/content/ui/gameui/emoji/eyebrow.emoji.asset|
+|assets/content/ui/gameui/emoji/eyes.emoji.asset|
+|assets/content/ui/gameui/emoji/funny.emoji.asset|
+|assets/content/ui/gameui/emoji/happy.emoji.asset|
+|assets/content/ui/gameui/emoji/heart.emoji.asset|
+|assets/content/ui/gameui/emoji/heartrock.emoji.asset|
+|assets/content/ui/gameui/emoji/laugh.emoji.asset|
+|assets/content/ui/gameui/emoji/light.emoji.asset|
+|assets/content/ui/gameui/emoji/love.emoji.asset|
+|assets/content/ui/gameui/emoji/mask.emoji.asset|
+|assets/content/ui/gameui/emoji/nervous.emoji.asset|
+|assets/content/ui/gameui/emoji/neutral.emoji.asset|
+|assets/content/ui/gameui/emoji/rustemojilibrary.asset|
+|assets/content/ui/gameui/emoji/scientist.emoji.asset|
+|assets/content/ui/gameui/emoji/skull.emoji.asset|
+|assets/content/ui/gameui/emoji/smilecry.emoji.asset|
+|assets/content/ui/gameui/emoji/trumpet.emoji.asset|
+|assets/content/ui/gameui/emoji/wave.emoji.asset|
+|assets/content/ui/gameui/emoji/worried.emoji.asset|
+|assets/content/ui/gameui/emoji/yellowpin.emoji.asset|
 |assets/content/ui/gameui/notices/item-unlock-notice.asset|
 |assets/content/ui/gameui/notices/level-up-notice.asset|
 |assets/content/ui/gameui/notices/notice-close.asset|
@@ -4090,6 +4127,7 @@
 |assets/content/vehicles/boats/tugboat/sound/tugboat-water-movement-side-fast-loop.asset|
 |assets/content/vehicles/boats/tugboat/sound/tugboat-water-movement-side-slow-loop.asset|
 |assets/content/vehicles/boats/tugboat/sound/tugboat-water-movement-stern-loop.asset|
+|assets/content/vehicles/boats/tugboat/tugboat.population.asset|
 |assets/content/vehicles/crane_magnet/sound/magnet-crane.engine-loop-def.asset|
 |assets/content/vehicles/crane_magnet/sound/magnet-crane-arm-movement-change-direction.asset|
 |assets/content/vehicles/crane_magnet/sound/magnet-crane-arm-movement-loop.asset|
@@ -4632,6 +4670,7 @@
 |assets/plugins/rust.ui/controls/rustbutton.alt.asset|
 |assets/plugins/rust.ui/controls/rustbutton.altwithdisable.asset|
 |assets/plugins/rust.ui/controls/rustbutton.buttongroup.normal.asset|
+|assets/plugins/rust.ui/controls/rustbutton.chatbarbuttons.asset|
 |assets/plugins/rust.ui/controls/rustbutton.danger.asset|
 |assets/plugins/rust.ui/controls/rustbutton.demodanger.asset|
 |assets/plugins/rust.ui/controls/rustbutton.demofolder.asset|
@@ -5310,6 +5349,7 @@
 |assets/prefabs/locks/keypad/sound/lock-code-updated.asset|
 |assets/prefabs/misc/blueprintbase/sound/blueprint_read.asset|
 |assets/prefabs/misc/buildingskins/adobe/adobe.sitem.asset|
+|assets/prefabs/misc/buildingskins/brick/brick.sitem.asset|
 |assets/prefabs/misc/buildingskins/shippingcontainer/shippingcontainer.sitem.asset|
 |assets/prefabs/misc/burlap sack/sounds/burlap-sack-impact-hard.asset|
 |assets/prefabs/misc/burlap sack/sounds/burlap-sack-impact-med.asset|
