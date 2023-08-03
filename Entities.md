@@ -394,6 +394,7 @@
 |workbench2.static|1457273871|MeshCollider<br>Workbench<br>BaseCombatEntity<br>DecayEntity<br>|assets/bundled/prefabs/static/workbench2.static.prefab|
 |xylophone.deployed.static|3224878175|StaticInstrument<br>BaseCombatEntity<br>Model<br>InstrumentKeyController<br>InstrumentIKController<br>|assets/bundled/prefabs/static/xylophone.deployed.static.prefab|
 |net_env|3134327264|EnvSync<br>|assets/bundled/prefabs/system/net_env.prefab|
+|clan_manager|1817273498|ClanManager<br>|assets/bundled/prefabs/system/server/clan_manager.prefab|
 |community|2528878115|CommunityEntity<br>|assets/bundled/prefabs/system/server/community.prefab|
 |relationship_manager|827927784|RelationshipManager<br>|assets/bundled/prefabs/system/server/relationship_manager.prefab|
 |ResourceDepositManager|4020369301|ResourceDepositManager<br>|assets/bundled/prefabs/system/server/resourcedepositmanager.prefab|
@@ -417,6 +418,10 @@
 |wall.window.glass.reinforced_static|3432446071||assets/content/building/parts/static/wall.window.glass.reinforced_static.prefab|
 |Tree_Marking|954334883|TreeMarker<br>|assets/content/nature/treesprefabs/trees/effects/tree_marking.prefab|
 |Tree_Marking_NoSpherecast|1966986960|TreeMarker<br>|assets/content/nature/treesprefabs/trees/effects/tree_marking_nospherecast.prefab|
+|nexus.dock.terminal|1924784290|NexusDockTerminal<br>|assets/content/nexus/dock/nexus.dock.terminal.prefab|
+|nexusferry.entity|2508295857|NexusFerry<br>|assets/content/nexus/ferry/nexusferry.entity.prefab|
+|IslandMarker|907838970|MapMarker<br>|assets/content/nexus/island/islandmarker.prefab|
+|nexusisland|2795004596|NexusIsland<br>|assets/content/nexus/island/nexusisland.prefab|
 |barricade_cover_wood_static|2194500231||assets/content/props/barricades_static/barricade_cover_wood_static.prefab|
 |FogMachine|1390895812|FogMachine<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>BoxCollider<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/content/props/fog machine/fogmachine.prefab|
 |gingerbread_barricades_house|2986444390|MeshCollider<br>Barricade<br>BaseCombatEntity<br>|assets/content/props/gingerbread_barricades/gingerbread_barricades_house.prefab|
@@ -434,6 +439,7 @@
 |Roadsign8|1751361167|LootContainer<br>BaseCombatEntity<br>DecayEntity<br>CapsuleCollider<br>Spawnable<br>TakeCollisionDamage<br>|assets/content/props/roadsigns/roadsign8.prefab|
 |Roadsign9|2277225257|CapsuleCollider<br>BoxCollider<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>Spawnable<br>TakeCollisionDamage<br>|assets/content/props/roadsigns/roadsign9.prefab|
 |sentry.bandit.static|1386184467|NPCAutoTurret<br>BaseCombatEntity<br>ContainerIOEntity<br>IOEntity<br>DecayEntity<br>Model<br>CapsuleCollider<br>|assets/content/props/sentry_scientists/sentry.bandit.static.prefab|
+|sentry.scientist.barge|1666912025|NPCAutoTurret<br>BaseCombatEntity<br>ContainerIOEntity<br>IOEntity<br>DecayEntity<br>Model<br>CapsuleCollider<br>|assets/content/props/sentry_scientists/sentry.scientist.barge.prefab|
 |sentry.scientist.barge.static|1202757502|NPCAutoTurret<br>BaseCombatEntity<br>ContainerIOEntity<br>IOEntity<br>DecayEntity<br>Model<br>CapsuleCollider<br>|assets/content/props/sentry_scientists/sentry.scientist.barge.static.prefab|
 |sentry.scientist.static|324270742|NPCAutoTurret<br>BaseCombatEntity<br>ContainerIOEntity<br>IOEntity<br>DecayEntity<br>Model<br>CapsuleCollider<br>|assets/content/props/sentry_scientists/sentry.scientist.static.prefab|
 |StrobeLight|699083235|StrobeLight<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/content/props/strobe light/strobelight.prefab|
@@ -629,7 +635,6 @@
 |wall.frame.netting|3836415141|SimpleBuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building/wall.frame.netting/wall.frame.netting.prefab|
 |wall.frame.shopfront.metal|1180657261|ShopFront<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/building/wall.frame.shopfront/wall.frame.shopfront.metal.prefab|
 |wall.frame.shopfront|3735657341|Door<br>BaseCombatEntity<br>DecayEntity<br>StabilityEntity<br>Model<br>|assets/prefabs/building/wall.frame.shopfront/wall.frame.shopfront.prefab|
-|wall.window.bars.brickskin|1171566496|---|assets/prefabs/building/wall.window.bars/wall.window.bars.brickskin.prefab|
 |wall.window.bars.metal|852672524|SimpleBuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building/wall.window.bars/wall.window.bars.metal.prefab|
 |wall.window.bars.toptier|3645204165|SimpleBuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building/wall.window.bars/wall.window.bars.toptier.prefab|
 |wall.window.bars.wood|301156169|SimpleBuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building/wall.window.bars/wall.window.bars.wood.prefab|
@@ -690,6 +695,9 @@
 |chair.icethrone|3579302978|BaseChair<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>MeshCollider<br>|assets/prefabs/deployable/chair/ice_throne/chair.icethrone.prefab|
 |CodelockedHackableCrate|209286362|HackableLockedCrate<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>Rigidbody<br>|assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate.prefab|
 |CodelockedHackableCrate_Oilrig|2043434947|HackableLockedCrate<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>Rigidbody<br>|assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate_oilrig.prefab|
+|clan.table|319712039|ClanTable<br>|assets/prefabs/deployable/clan table/clan.table.prefab|
+|clantable.deployed|1545936318|ClanTable<br>Model<br>DestroyOnGroundMissing<br>GroundWatch<br>|assets/prefabs/deployable/clan table/clantable.deployed.prefab|
+|clantable.static|1091538011|ClanTable<br>Model<br>|assets/prefabs/deployable/clan table/clantable.static.prefab|
 |composter|1921897480|Composter<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>MeshCollider<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/composter/composter.prefab|
 |computerstation.deployed|2493676858|ComputerStation<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>MeshCollider<br>BoxCollider<br>|assets/prefabs/deployable/computerstation/computerstation.deployed.prefab|
 |computerstation.static|3814928951|ComputerStation<br>BaseCombatEntity<br>Model<br>MeshCollider<br>BoxCollider<br>|assets/prefabs/deployable/computerstation/computerstation.static.prefab|
