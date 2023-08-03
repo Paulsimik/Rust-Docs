@@ -204,6 +204,7 @@
 |![](https://rustlabs.com/img/items180/ceilinglight.png)|Ceiling Light|ceilinglight|1142993169|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/chair.png)|Chair|chair|1534542921|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/chair.icethrone.png)|Ice Throne|chair.icethrone|-1944704288|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/clantable.png)|Clan Table|clantable|486661382|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/composter.png)|Composter|composter|-1488398114|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/computerstation.png)|Computer Station|computerstation|-1588628467|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/drone.png)|Drone|drone|1588492232|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
