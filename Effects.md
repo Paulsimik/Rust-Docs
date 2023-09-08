@@ -38,6 +38,7 @@
 |assets/bundled/prefabs/fx/decals/blunt/dirt/decal_blunt_dirt_01.prefab|
 |assets/bundled/prefabs/fx/decals/blunt/forest/decal_blunt_forest_01.prefab|
 |assets/bundled/prefabs/fx/decals/blunt/glass/decal_blunt_glass.prefab|
+|assets/bundled/prefabs/fx/decals/blunt/glass_small/decal_blunt_glass_small.prefab|
 |assets/bundled/prefabs/fx/decals/blunt/grass/decal_blunt_grass_01.prefab|
 |assets/bundled/prefabs/fx/decals/blunt/metalore/decal_blunt_metalore_01.prefab|
 |assets/bundled/prefabs/fx/decals/blunt/path/decal_blunt_path_01.prefab|
@@ -58,6 +59,9 @@
 |assets/bundled/prefabs/fx/decals/bullet/glass/decal_bullet_glass.prefab|
 |assets/bundled/prefabs/fx/decals/bullet/glass/decal_bullet_glass2.prefab|
 |assets/bundled/prefabs/fx/decals/bullet/glass/decal_bullet_glass3.prefab|
+|assets/bundled/prefabs/fx/decals/bullet/glass_small/decal_bullet_glass_small.prefab|
+|assets/bundled/prefabs/fx/decals/bullet/glass_small/decal_bullet_glass2_small.prefab|
+|assets/bundled/prefabs/fx/decals/bullet/glass_small/decal_bullet_glass3_small.prefab|
 |assets/bundled/prefabs/fx/decals/bullet/grass/decal_bullet_grass_01.prefab|
 |assets/bundled/prefabs/fx/decals/bullet/metal/decal_bullet_metal_01.prefab|
 |assets/bundled/prefabs/fx/decals/bullet/metal/decal_bullet_metal_02.prefab|
@@ -100,6 +104,7 @@
 |assets/bundled/prefabs/fx/decals/slash/dirt/decal_slash_dirt_01.prefab|
 |assets/bundled/prefabs/fx/decals/slash/forest/decal_slash_forest_01.prefab|
 |assets/bundled/prefabs/fx/decals/slash/glass/decal_slash_glass.prefab|
+|assets/bundled/prefabs/fx/decals/slash/glass_small/decal_slash_glass_small.prefab|
 |assets/bundled/prefabs/fx/decals/slash/grass/decal_slash_grass_01.prefab|
 |assets/bundled/prefabs/fx/decals/slash/metalore/decal_slash_metalore_01.prefab|
 |assets/bundled/prefabs/fx/decals/slash/path/decal_slash_path_01.prefab|
@@ -116,6 +121,7 @@
 |assets/bundled/prefabs/fx/decals/stab/flesh/decal_stab_flesh_01.prefab|
 |assets/bundled/prefabs/fx/decals/stab/forest/decal_stab_forest_01.prefab|
 |assets/bundled/prefabs/fx/decals/stab/glass/decal_stab_glass.prefab|
+|assets/bundled/prefabs/fx/decals/stab/glass_small/decal_stab_glass_small.prefab|
 |assets/bundled/prefabs/fx/decals/stab/grass/decal_stab_grass_01.prefab|
 |assets/bundled/prefabs/fx/decals/stab/metalore/decal_stab_metalore_01.prefab|
 |assets/bundled/prefabs/fx/decals/stab/path/decal_stab_path_01.prefab|
@@ -173,6 +179,7 @@
 |assets/bundled/prefabs/fx/impacts/blunt/generic/generic1.prefab|
 |assets/bundled/prefabs/fx/impacts/blunt/gingerbread/impact_blunt_gingerbread.prefab|
 |assets/bundled/prefabs/fx/impacts/blunt/glass/glass1.prefab|
+|assets/bundled/prefabs/fx/impacts/blunt/glass_small/glass1_small.prefab|
 |assets/bundled/prefabs/fx/impacts/blunt/grass/grass1.prefab|
 |assets/bundled/prefabs/fx/impacts/blunt/gravel/slash_rock_01.prefab|
 |assets/bundled/prefabs/fx/impacts/blunt/metal/metal1.prefab|
@@ -195,6 +202,7 @@
 |assets/bundled/prefabs/fx/impacts/bullet/generic/generic4.prefab|
 |assets/bundled/prefabs/fx/impacts/bullet/gingerbread/impact_bullet_gingerbread.prefab|
 |assets/bundled/prefabs/fx/impacts/bullet/glass/glass1.prefab|
+|assets/bundled/prefabs/fx/impacts/bullet/glass_small/glass1_small.prefab|
 |assets/bundled/prefabs/fx/impacts/bullet/grass/grass1.prefab|
 |assets/bundled/prefabs/fx/impacts/bullet/gravel/bullet_impact_rock.prefab|
 |assets/bundled/prefabs/fx/impacts/bullet/metal/metal1.prefab|
@@ -490,6 +498,7 @@
 |assets/bundled/prefabs/fx/impacts/slash/generic/generic1.prefab|
 |assets/bundled/prefabs/fx/impacts/slash/gingerbread/impact_slash_gingerbread.prefab|
 |assets/bundled/prefabs/fx/impacts/slash/glass/glass1.prefab|
+|assets/bundled/prefabs/fx/impacts/slash/glass_small/glass1_small.prefab|
 |assets/bundled/prefabs/fx/impacts/slash/grass/grass1.prefab|
 |assets/bundled/prefabs/fx/impacts/slash/grass/grass2.prefab|
 |assets/bundled/prefabs/fx/impacts/slash/gravel/slash_rock_01.prefab|
@@ -510,6 +519,7 @@
 |assets/bundled/prefabs/fx/impacts/stab/generic/generic1.prefab|
 |assets/bundled/prefabs/fx/impacts/stab/gingerbread/impact_stab_gingerbread.prefab|
 |assets/bundled/prefabs/fx/impacts/stab/glass/glass1.prefab|
+|assets/bundled/prefabs/fx/impacts/stab/glass_small/glass1_small.prefab|
 |assets/bundled/prefabs/fx/impacts/stab/grass/grass1.prefab|
 |assets/bundled/prefabs/fx/impacts/stab/gravel/stab_rock_01.prefab|
 |assets/bundled/prefabs/fx/impacts/stab/metal/metal1.prefab|
@@ -537,6 +547,7 @@
 |assets/bundled/prefabs/fx/oiljack/pump_down.prefab|
 |assets/bundled/prefabs/fx/oiljack/pump_up.prefab|
 |assets/bundled/prefabs/fx/ore_break.prefab|
+|assets/bundled/prefabs/fx/parachute_land.prefab|
 |assets/bundled/prefabs/fx/player/beartrap_blood.prefab|
 |assets/bundled/prefabs/fx/player/beartrap_clothing_rustle.prefab|
 |assets/bundled/prefabs/fx/player/beartrap_scream.prefab|
@@ -732,6 +743,11 @@
 |assets/content/structures/excavator/prefabs/effects/rockvibration.prefab|
 |assets/content/structures/office_interiors/effects/vent-door-close.prefab|
 |assets/content/structures/office_interiors/effects/vent-door-open.prefab|
+|assets/content/vehicles/attackhelicopter/effects/attack-helicopter-explosion.prefab|
+|assets/content/vehicles/attackhelicopter/effects/lighting fx attack helicopter.prefab|
+|assets/content/vehicles/attackhelicopter/effects/pfx_flares_attackhelicopter.prefab|
+|assets/content/vehicles/attackhelicopter/effects/pfx_rocketpod.prefab|
+|assets/content/vehicles/attackhelicopter/effects/pfx_rocketpod_rocket.prefab|
 |assets/content/vehicles/boats/effects/small-boat-push-land.prefab|
 |assets/content/vehicles/boats/effects/small-boat-push-water.prefab|
 |assets/content/vehicles/boats/effects/splash.prefab|
@@ -783,6 +799,7 @@
 |assets/content/weapons/_gestures/effects/eat_1hand_celery.prefab|
 |assets/content/weapons/_gestures/effects/eat_2hand_chewymeat.prefab|
 |assets/prefabs/ammo/40mmgrenade/effects/40mm_he_explosion.prefab|
+|assets/prefabs/ammo/rocket/effects/pfx_rockettrail.prefab|
 |assets/prefabs/building/door.double.hinged/effects/door-double-metal-close-end.prefab|
 |assets/prefabs/building/door.double.hinged/effects/door-double-metal-close-start.prefab|
 |assets/prefabs/building/door.double.hinged/effects/door-double-metal-open-start.prefab|
@@ -1140,6 +1157,7 @@
 |assets/prefabs/npc/patrol helicopter/effects/gun_fire.prefab|
 |assets/prefabs/npc/patrol helicopter/effects/gun_fire_small.prefab|
 |assets/prefabs/npc/patrol helicopter/effects/heli_explosion.prefab|
+|assets/prefabs/npc/patrol helicopter/effects/pfx_flares_patrolhelicopter.prefab|
 |assets/prefabs/npc/patrol helicopter/effects/rocket_airburst_explosion.prefab|
 |assets/prefabs/npc/patrol helicopter/effects/rocket_airburst_groundeffect.prefab|
 |assets/prefabs/npc/patrol helicopter/effects/rocket_explosion.prefab|
@@ -1477,6 +1495,10 @@
 |assets/prefabs/weapons/hmlmg/effects/w_drop_magazine.prefab|
 |assets/prefabs/weapons/hmlmg/effects/w_eject_pistol_shell.prefab|
 |assets/prefabs/weapons/hmlmg/effects/w_eject_rifle_shell.prefab|
+|assets/prefabs/weapons/homingmissilelauncher/effects/attack.prefab|
+|assets/prefabs/weapons/homingmissilelauncher/effects/pfx_manpad_explosion.prefab|
+|assets/prefabs/weapons/homingmissilelauncher/effects/pfx_manpad_launcher_attack.prefab|
+|assets/prefabs/weapons/homingmissilelauncher/effects/pfx_manpad_rocket.prefab|
 |assets/prefabs/weapons/knife/effects/attack-1.prefab|
 |assets/prefabs/weapons/knife/effects/attack-2.prefab|
 |assets/prefabs/weapons/knife/effects/deploy.prefab|
@@ -1679,8 +1701,8 @@
 |assets/prefabs/weapons/rocketlauncher/effects/pfx_close_hatch_smoke.prefab|
 |assets/prefabs/weapons/rocketlauncher/effects/pfx_fire_rocket_smokeout.prefab|
 |assets/prefabs/weapons/rocketlauncher/effects/pfx_open_hatch_smokeout.prefab|
-|assets/prefabs/weapons/rocketlauncher/effects/pfx_rocket_insert_smoke.prefab|
-|assets/prefabs/weapons/rocketlauncher/effects/pfx_rocket_insert_sparks.prefab|
+|assets/prefabs/weapons/rocketlauncher/effects/pfx_rocket_insert_pressure.prefab|
+|assets/prefabs/weapons/rocketlauncher/effects/pfx_rocket_insert_smoke_deprecated.prefab|
 |assets/prefabs/weapons/rocketlauncher/effects/reload_begin.prefab|
 |assets/prefabs/weapons/rocketlauncher/effects/reload_close_hatch.prefab|
 |assets/prefabs/weapons/rocketlauncher/effects/reload_end.prefab|
@@ -1885,3 +1907,4 @@
 |assets/rust.ai/agents/fish/shark/effects/bloodcloud.prefab|
 |assets/rust.ai/agents/fish/shark/effects/sharkmovement.prefab|
 |assets/rust.ai/nextai/effects/dusttrail.prefab|
+|assets/scripts/entity/misc/f15/effects/pfx_flares_f15.prefab|
