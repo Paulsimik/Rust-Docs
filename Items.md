@@ -3,6 +3,7 @@
 |![](https://rustlabs.com/img/items180/hat.wolf.png)|Wolf Headdress|hat.wolf|-1478212975|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/fogmachine.png)|Fogger-3000|fogmachine|-1973785141|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>ItemModContainer<br>|
 |![](https://rustlabs.com/img/items180/strobelight.png)|Strobe Light|strobelight|2104517339|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/attackhelicopter.png)|Attack Helicopter|attackhelicopter|1113514903|ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/kayak.png)|Kayak|kayak|190184021|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/rhib.png)|RHIB|rhib|1394042569|ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/rowboat.png)|Rowboat|rowboat|1878053256|ItemBlueprint<br>ItemModEntity<br>|
@@ -38,6 +39,7 @@
 |![](https://rustlabs.com/img/items180/ammo.rocket.basic.png)|Rocket|ammo.rocket.basic|-742865266|ItemModProjectile<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/ammo.rocket.fire.png)|Incendiary Rocket|ammo.rocket.fire|1638322904|ItemModProjectile<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/ammo.rocket.hv.png)|High Velocity Rocket|ammo.rocket.hv|-1841918730|ItemModProjectile<br>ItemBlueprint<br>|
+|![](https://rustlabs.com/img/items180/ammo.rocket.seeker.png)|Homing Missile|ammo.rocket.seeker|1296788329|ItemModProjectile<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/ammo.rocket.smoke.png)|Smoke Rocket WIP!!!!|ammo.rocket.smoke|-17123659|ItemModProjectile<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/ammo.shotgun.png)|12 Gauge Buckshot|ammo.shotgun|-1685290200|ItemModProjectile<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/ammo.shotgun.fire.png)|12 Gauge Incendiary Shell|ammo.shotgun.fire|-1036635990|ItemModProjectileSpawn<br>ItemBlueprint<br>|
@@ -209,7 +211,7 @@
 |![](https://rustlabs.com/img/items180/computerstation.png)|Computer Station|computerstation|-1588628467|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/drone.png)|Drone|drone|1588492232|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/dropbox.png)|Drop Box|dropbox|-1519126340|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
-|![](https://rustlabs.com/img/items180/elevator.png)|Elevator|elevator|1177596584|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/elevator.png)|Elevator|elevator|1177596584|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>ItemModChildIO<br>|
 |![](https://rustlabs.com/img/items180/fireplace.stone.png)|Stone Fireplace|fireplace.stone|-1535621066|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/firework.boomer.blue.png)|Blue Boomer|firework.boomer.blue|1744298439|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/firework.boomer.champagne.png)|Champagne Boomer|firework.boomer.champagne|1324203999|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
@@ -230,7 +232,10 @@
 |![](https://rustlabs.com/img/items180/fridge.png)|Fridge|fridge|1413014235|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/furnace.large.png)|Large Furnace|furnace.large|-1992717673|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/furnace.png)|Furnace|furnace|-1999722522|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/weaponrack.light.png)|Weapon Rack Light|weaponrack.light|-1163943815|ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/weaponrack.doublelight.png)|Weapon Rack Double Light|weaponrack.doublelight|1277159544|ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/hitchtroughcombo.png)|Hitch & Trough|hitchtroughcombo|1160881421|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/hab.armor.png)|Hot Air Balloon Armor|hab.armor|-1989600732|ItemBlueprint<br>ItemModHABEquipment<br>|
 |![](https://rustlabs.com/img/items180/habrepair.png)|Hab Repair|habrepair|-1759188988|ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/jackolantern.angry.png)|Jack O Lantern Angry|jackolantern.angry|1242482355|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/jackolantern.happy.png)|Jack O Lantern Happy|jackolantern.happy|-1824943010|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
@@ -338,6 +343,10 @@
 |![](https://rustlabs.com/img/items180/water.catcher.large.png)|Large Water Catcher|water.catcher.large|-1100168350|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/water.catcher.small.png)|Small Water Catcher|water.catcher.small|-132247350|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/water.purifier.png)|Water Purifier|water.purifier|2114754781|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/gunrack.horizontal.png)|Horizontal Weapon Rack|gunrack.horizontal|-246672609|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>ItemModChildIO<br>|
+|![](https://rustlabs.com/img/items180/gunrack_stand.png)|Weapon Rack Stand|gunrack_stand|1132603396|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/gunrack_tall.horizontal.png)|Tall Weapon Rack|gunrack_tall.horizontal|240752557|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>ItemModChildIO<br>|
+|![](https://rustlabs.com/img/items180/gunrack_wide.horizontal.png)|Wide Weapon Rack|gunrack_wide.horizontal|-96256997|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>ItemModChildIO<br>|
 |![](https://rustlabs.com/img/items180/generator.wind.scrap.png)|Wind Turbine|generator.wind.scrap|-1819763926|ItemModEntity<br>ItemModDeployable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/box.wooden.png)|Wood Storage Box|box.wooden|-180129657|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/apple.png)|Apple|apple|1548091822|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>ItemModCompostable<br>|
@@ -490,6 +499,8 @@
 |![](https://rustlabs.com/img/items180/movembermoustachecard.png)|Card Movember Moustache|movembermoustachecard|3380160|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/movembermoustache.png)|Movember Moustache|movembermoustache|-2047081330|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/note.png)|Note|note|1414245162|ItemBlueprint<br>|
+|![](https://rustlabs.com/img/items180/parachute.deployed.png)|Parachute (Deployed)|parachute.deployed|1784005657|ItemModWearable<br>|
+|![](https://rustlabs.com/img/items180/parachute.png)|Parachute|parachute|602628465|ItemModWearable<br>ItemBlueprint<br>ItemModParachute<br>ItemMod<br>|
 |![](https://rustlabs.com/img/items180/factorydoor.png)|Factory Door|factorydoor|2054391128|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/industrial.wall.light.green.png)|Green Industrial Wall Light|industrial.wall.light.green|1268178466|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/industrial.wall.light.png)|Industrial Wall Light|industrial.wall.light|1623701499|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
@@ -738,8 +749,8 @@
 |![](https://rustlabs.com/img/items180/weapon.mod.simplesight.png)|Simple Handmade Sight|weapon.mod.simplesight|-855748505|ItemBlueprint<br>ItemModEntity<br>ItemModSound<br>|
 |![](https://rustlabs.com/img/items180/weapon.mod.silencer.png)|Silencer|weapon.mod.silencer|-1850571427|ItemBlueprint<br>ItemModEntity<br>ItemModSound<br>|
 |![](https://rustlabs.com/img/items180/weapon.mod.small.scope.png)|8x Zoom Scope|weapon.mod.small.scope|567235583|ItemBlueprint<br>ItemModEntity<br>ItemModSound<br>|
-|![](https://rustlabs.com/img/items180/rifle.ak.png)|Assault Rifle|rifle.ak|1545779598|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
-|![](https://rustlabs.com/img/items180/rifle.ak.diver.png)|Abyss Assault Rifle|rifle.ak.diver|-139037392|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
+|![](https://rustlabs.com/img/items180/rifle.ak.png)|Assault Rifle|rifle.ak|1545779598|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>ItemModRackMountable<br>|
+|![](https://rustlabs.com/img/items180/rifle.ak.diver.png)|Abyss Assault Rifle|rifle.ak.diver|-139037392|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>ItemModRackMountable<br>|
 |![](https://rustlabs.com/img/items180/rifle.ak.ice.png)|Assault Rifle - ICE|rifle.ak.ice|-1335497659|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |![](https://rustlabs.com/img/items180/bandage.png)|Bandage|bandage|-2072273936|ItemModEntity<br>ItemBlueprint<br>ItemModConsumable<br>|
 |![](https://rustlabs.com/img/items180/grenade.beancan.png)|Beancan Grenade|grenade.beancan|1840822026|ItemModEntity<br>ItemBlueprint<br>|
@@ -771,11 +782,12 @@
 |![](https://rustlabs.com/img/items180/hammer.png)|Hammer|hammer|200773292|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |![](https://rustlabs.com/img/items180/hatchet.png)|Hatchet|hatchet|-1252059217|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |![](https://rustlabs.com/img/items180/hmlmg.png)|HMLMG|hmlmg|-1214542497|ItemModEntity<br>ItemModContainer<br>ItemBlueprint<br>|
+|![](https://rustlabs.com/img/items180/homingmissile.launcher.png)|Homing Missile Launcher|homingmissile.launcher|-218009552|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/knife.combat.png)|Combat Knife|knife.combat|2040726127|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |![](https://rustlabs.com/img/items180/rifle.l96.png)|L96 Rifle|rifle.l96|-778367295|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |![](https://rustlabs.com/img/items180/rifle.lr300.png)|LR-300 Assault Rifle|rifle.lr300|-1812555177|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |![](https://rustlabs.com/img/items180/lmg.m249.png)|M249|lmg.m249|-2069578888|ItemModEntity<br>ItemModContainer<br>ItemBlueprint<br>|
-|![](https://rustlabs.com/img/items180/rifle.m39.png)|M39 Rifle|rifle.m39|28201841|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
+|![](https://rustlabs.com/img/items180/rifle.m39.png)|M39 Rifle|rifle.m39|28201841|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>ItemModRackMountable<br>|
 |![](https://rustlabs.com/img/items180/pistol.m92.png)|M92 Pistol|pistol.m92|-852563019|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |![](https://rustlabs.com/img/items180/mace.png)|Mace|mace|-1966748496|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |![](https://rustlabs.com/img/items180/machete.png)|Machete|machete|-1137865085|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
