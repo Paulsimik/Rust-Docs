@@ -18,6 +18,8 @@
 |assets/content/image effects/postfx_volumes/building_exposure.asset|
 |assets/content/image effects/postfx_volumes/candyworld.asset|
 |assets/content/image effects/postfx_volumes/cctv.asset|
+|assets/content/image effects/postfx_volumes/cctv_attackhelicopter.asset|
+|assets/content/image effects/postfx_volumes/cctv_manpad.asset|
 |assets/content/image effects/postfx_volumes/cctv_mlrs.asset|
 |assets/content/image effects/postfx_volumes/cold.asset|
 |assets/content/image effects/postfx_volumes/flashbang.asset|
@@ -819,6 +821,7 @@
 |assets/content/properties/lootspawn/generated/items/ammunition/ammo.rocket.hv.asset|
 |assets/content/properties/lootspawn/generated/items/ammunition/ammo.rocket.mlrs.asset|
 |assets/content/properties/lootspawn/generated/items/ammunition/ammo.rocket.sam.asset|
+|assets/content/properties/lootspawn/generated/items/ammunition/ammo.rocket.seeker.asset|
 |assets/content/properties/lootspawn/generated/items/ammunition/ammo.shotgun.asset|
 |assets/content/properties/lootspawn/generated/items/ammunition/ammo.shotgun.fire.asset|
 |assets/content/properties/lootspawn/generated/items/ammunition/ammo.shotgun.slug.asset|
@@ -859,6 +862,7 @@
 |assets/content/properties/lootspawn/generated/items/attire/femalepubichair.style01.asset|
 |assets/content/properties/lootspawn/generated/items/attire/ghostsheet.asset|
 |assets/content/properties/lootspawn/generated/items/attire/gingerbreadsuit.asset|
+|assets/content/properties/lootspawn/generated/items/attire/hab.armor.asset|
 |assets/content/properties/lootspawn/generated/items/attire/halloween.mummysuit.asset|
 |assets/content/properties/lootspawn/generated/items/attire/halloween.surgeonsuit.asset|
 |assets/content/properties/lootspawn/generated/items/attire/hat.beenie.asset|
@@ -901,6 +905,8 @@
 |assets/content/properties/lootspawn/generated/items/attire/nightvisiongoggles.asset|
 |assets/content/properties/lootspawn/generated/items/attire/pants.asset|
 |assets/content/properties/lootspawn/generated/items/attire/pants.shorts.asset|
+|assets/content/properties/lootspawn/generated/items/attire/parachute.asset|
+|assets/content/properties/lootspawn/generated/items/attire/parachute.deployed.asset|
 |assets/content/properties/lootspawn/generated/items/attire/riot.helmet.asset|
 |assets/content/properties/lootspawn/generated/items/attire/roadsign.gloves.asset|
 |assets/content/properties/lootspawn/generated/items/attire/roadsign.jacket.asset|
@@ -1211,6 +1217,10 @@
 |assets/content/properties/lootspawn/generated/items/items/fridge.asset|
 |assets/content/properties/lootspawn/generated/items/items/furnace.large.asset|
 |assets/content/properties/lootspawn/generated/items/items/generator.wind.scrap.asset|
+|assets/content/properties/lootspawn/generated/items/items/gunrack.horizontal.asset|
+|assets/content/properties/lootspawn/generated/items/items/gunrack_stand.asset|
+|assets/content/properties/lootspawn/generated/items/items/gunrack_tall.horizontal.asset|
+|assets/content/properties/lootspawn/generated/items/items/gunrack_wide.horizontal.asset|
 |assets/content/properties/lootspawn/generated/items/items/guntrap.asset|
 |assets/content/properties/lootspawn/generated/items/items/jackolantern.angry.asset|
 |assets/content/properties/lootspawn/generated/items/items/jackolantern.happy.asset|
@@ -1380,6 +1390,7 @@
 |assets/content/properties/lootspawn/generated/items/weapon/grenade.molotov.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/gun.water.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/hmlmg.asset|
+|assets/content/properties/lootspawn/generated/items/weapon/homingmissile.launcher.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/knife.bone.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/knife.combat.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/lmg.m249.asset|
@@ -1544,6 +1555,7 @@
 |assets/content/properties/playerinventory/melee weapons.asset|
 |assets/content/properties/playerinventory/miner.asset|
 |assets/content/properties/playerinventory/murderer.asset|
+|assets/content/properties/playerinventory/parachute.asset|
 |assets/content/properties/playerinventory/plumber.asset|
 |assets/content/properties/playerinventory/projectile weapons.asset|
 |assets/content/properties/playerinventory/pyro.asset|
@@ -1661,7 +1673,9 @@
 |assets/content/properties/protection/npcs/wolf_protection.asset|
 |assets/content/properties/protection/ore_protection.asset|
 |assets/content/properties/protection/paddlingpool.asset|
+|assets/content/properties/protection/parachute.asset|
 |assets/content/properties/protection/player_helicopter_protection.asset|
+|assets/content/properties/protection/player_large_helicopter_protection.asset|
 |assets/content/properties/protection/rhibprotection.asset|
 |assets/content/properties/protection/rowboatprotection.asset|
 |assets/content/properties/protection/samsitedeployed.asset|
@@ -1714,6 +1728,7 @@
 |assets/content/properties/recoil/eokarecoil.asset|
 |assets/content/properties/recoil/eokastrikerecoil.asset|
 |assets/content/properties/recoil/hmlmgrecoil.asset|
+|assets/content/properties/recoil/hominglauncherrecoil.asset|
 |assets/content/properties/recoil/l96.recoil.asset|
 |assets/content/properties/recoil/lr300.recoil.asset|
 |assets/content/properties/recoil/m249recoil.asset|
@@ -2481,6 +2496,7 @@
 |assets/content/sound/instruments/acousticguitar/acoustic-guitar-g3.asset|
 |assets/content/sound/instruments/acousticguitar/acoustic-guitar-g4.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-a#1.asset|
+|assets/content/sound/instruments/bassguitar/bass-guitar-a#2.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-a1.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-a2.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-b1.asset|
@@ -4015,6 +4031,8 @@
 |assets/content/ui/fonts/pressstart2p-regular sdf.asset|
 |assets/content/ui/fonts/robotocondensed-bold sdf.asset|
 |assets/content/ui/fonts/robotocondensed-regular sdf.asset|
+|assets/content/ui/fonts/robotomono-regular sdf noztest.asset|
+|assets/content/ui/fonts/robotomono-regular sdf.asset|
 |assets/content/ui/gameui/achievements/item-complete.asset|
 |assets/content/ui/gameui/achievements/list-complete.asset|
 |assets/content/ui/gameui/achievements/popup.asset|
@@ -4050,6 +4068,33 @@
 |assets/content/ui/gameui/notices/level-up-notice.asset|
 |assets/content/ui/gameui/notices/notice-close.asset|
 |assets/content/ui/gameui/notices/xp-gain-notice.asset|
+|assets/content/vehicles/attackhelicopter/sound/attack-helicopter-alarm-lock.asset|
+|assets/content/vehicles/attackhelicopter/sound/attack-helicopter-alarm-radar-warning.asset|
+|assets/content/vehicles/attackhelicopter/sound/attack-helicopter-change-seat.asset|
+|assets/content/vehicles/attackhelicopter/sound/attack-helicopter-damaged-cabin-spark-burst.asset|
+|assets/content/vehicles/attackhelicopter/sound/attack-helicopter-damaged-fire-spark-burst.asset|
+|assets/content/vehicles/attackhelicopter/sound/attack-helicopter-damaged-heavy-loop.asset|
+|assets/content/vehicles/attackhelicopter/sound/attack-helicopter-damaged-light-loop.asset|
+|assets/content/vehicles/attackhelicopter/sound/attack-helicopter-dismount.asset|
+|assets/content/vehicles/attackhelicopter/sound/attack-helicopter-explosion.asset|
+|assets/content/vehicles/attackhelicopter/sound/attack-helicopter-explosion-debris-01.asset|
+|assets/content/vehicles/attackhelicopter/sound/attack-helicopter-flare-deploy.asset|
+|assets/content/vehicles/attackhelicopter/sound/attack-helicopter-flare-dryfire.asset|
+|assets/content/vehicles/attackhelicopter/sound/attack-helicopter-flight-engine-loop.asset|
+|assets/content/vehicles/attackhelicopter/sound/attack-helicopter-flight-engine-start.asset|
+|assets/content/vehicles/attackhelicopter/sound/attack-helicopter-flight-rotor-loop.asset|
+|assets/content/vehicles/attackhelicopter/sound/attack-helicopter-flight-stick-movement.asset|
+|assets/content/vehicles/attackhelicopter/sound/attack-helicopter-flight-tail-rotor-loop.asset|
+|assets/content/vehicles/attackhelicopter/sound/attack-helicopter-mount.asset|
+|assets/content/vehicles/attackhelicopter/sound/attack-helicopter-movement-rattle-loop.asset|
+|assets/content/vehicles/attackhelicopter/sound/attack-helicopter-phys-impact.asset|
+|assets/content/vehicles/attackhelicopter/sound/attack-helicopter-phys-impact-soft.asset|
+|assets/content/vehicles/attackhelicopter/sound/attack-helicopter-rocket-dryfire.asset|
+|assets/content/vehicles/attackhelicopter/sound/attack-helicopter-rocket-launch.asset|
+|assets/content/vehicles/attackhelicopter/sound/attack-helicopter-rocket-storage-close.asset|
+|assets/content/vehicles/attackhelicopter/sound/attack-helicopter-rocket-storage-open.asset|
+|assets/content/vehicles/attackhelicopter/sound/attack-helicopter-turret-close.asset|
+|assets/content/vehicles/attackhelicopter/sound/attack-helicopter-turret-open.asset|
 |assets/content/vehicles/boats/cargoship/sound/bow_ambience.asset|
 |assets/content/vehicles/boats/cargoship/sound/cargo-ship-ambient-stings.ambience-list.asset|
 |assets/content/vehicles/boats/cargoship/sound/cargo-ship-deck-ambience.ambience-def.asset|
@@ -5272,8 +5317,9 @@
 |assets/prefabs/deployable/waterpurifier/sound/water-purifier-deploy.asset|
 |assets/prefabs/deployable/waterpurifier/waterpurifier.deployed.skinnable.asset|
 |assets/prefabs/deployable/waterpurifier/water-purifier-bubbles-loop.asset|
-|assets/prefabs/deployable/windmill/windmillsmall/sound/windmill_mechanics_loop.asset|
-|assets/prefabs/deployable/windmill/windmillsmall/sound/woosh.asset|
+|assets/prefabs/deployable/weaponracks/weapon_racks.item.asset|
+|assets/prefabs/deployable/windmill/sound/windmill_mechanics_loop.asset|
+|assets/prefabs/deployable/windmill/sound/woosh.asset|
 |assets/prefabs/deployable/woodenbox/sound/small-wooden-box-close.asset|
 |assets/prefabs/deployable/woodenbox/sound/small-wooden-box-deploy.asset|
 |assets/prefabs/deployable/woodenbox/sound/small-wooden-box-open.asset|
@@ -5475,6 +5521,12 @@
 |assets/prefabs/misc/orebonus/sound/bonus_fail.asset|
 |assets/prefabs/misc/orebonus/sound/bonus_finish.asset|
 |assets/prefabs/misc/orebonus/sound/bonus_hit.asset|
+|assets/prefabs/misc/parachute/sound/parachute-deploy.asset|
+|assets/prefabs/misc/parachute/sound/parachute-flight-loop.asset|
+|assets/prefabs/misc/parachute/sound/parachute-land.asset|
+|assets/prefabs/misc/parachute/sound/parachute-release.asset|
+|assets/prefabs/misc/parachute/sound/parachute-repack.asset|
+|assets/prefabs/misc/parachute/sound/parachute-steer.asset|
 |assets/prefabs/misc/permstore/factorydoor/door.hinged.metal.industrial.d.skin.asset|
 |assets/prefabs/misc/permstore/industriallight/industrial.lights.sitem.asset|
 |assets/prefabs/misc/summer_dlc/abovegroundpool/sound/above-ground-pool-deploy.asset|
@@ -5886,6 +5938,7 @@
 |assets/prefabs/player/gestures/gesture.friendly.asset|
 |assets/prefabs/player/gestures/gesture.hurry.asset|
 |assets/prefabs/player/gestures/gesture.ok.asset|
+|assets/prefabs/player/gestures/gesture.parachuteland.asset|
 |assets/prefabs/player/gestures/gesture.point.asset|
 |assets/prefabs/player/gestures/gesture.raiseroof.asset|
 |assets/prefabs/player/gestures/gesture.shrug.asset|
@@ -6298,6 +6351,17 @@
 |assets/prefabs/weapons/hmlmg/sound/hmlmg-reload-open-top-01.asset|
 |assets/prefabs/weapons/hmlmg/sound/hmlmg-reload-remove-mag-01.asset|
 |assets/prefabs/weapons/hmlmg/sound/hmlmg-reload-start-01.asset|
+|assets/prefabs/weapons/homingmissilelauncher/sound/homing-missile-launcher-attack.asset|
+|assets/prefabs/weapons/homingmissilelauncher/sound/homing-missile-launcher-attack-mech.asset|
+|assets/prefabs/weapons/homingmissilelauncher/sound/homing-missile-launcher-deploy-camera.asset|
+|assets/prefabs/weapons/homingmissilelauncher/sound/homing-missile-launcher-deploy-finish.asset|
+|assets/prefabs/weapons/homingmissilelauncher/sound/homing-missile-launcher-deploy-start.asset|
+|assets/prefabs/weapons/homingmissilelauncher/sound/homing-missile-launcher-explosion.asset|
+|assets/prefabs/weapons/homingmissilelauncher/sound/homing-missile-launcher-flight-loop.asset|
+|assets/prefabs/weapons/homingmissilelauncher/sound/homing-missile-launcher-flight-start.asset|
+|assets/prefabs/weapons/homingmissilelauncher/sound/homing-missile-launcher-reload-finish.asset|
+|assets/prefabs/weapons/homingmissilelauncher/sound/homing-missile-launcher-reload-insert-rocket.asset|
+|assets/prefabs/weapons/homingmissilelauncher/sound/homing-missile-launcher-reload-start.asset|
 |assets/prefabs/weapons/knife/knife.combat.skinnable.asset|
 |assets/prefabs/weapons/knife/sound/combat.knife.deploy.asset|
 |assets/prefabs/weapons/l96/l96.skinnable.asset|
@@ -6560,6 +6624,10 @@
 |assets/prefabs/weapons/sawnoff_shotgun/sound/sawnoff-shotgun-pumpaction.asset|
 |assets/prefabs/weapons/sawnoff_shotgun/sound/sawnoff-shotgun-pump-forward.asset|
 |assets/prefabs/weapons/sawnoff_shotgun/sound/sawnoff-shotgun-reload-start.asset|
+|assets/prefabs/weapons/seekerlauncher/sound/launcher_fire.asset|
+|assets/prefabs/weapons/seekerlauncher/sound/lock_idle.asset|
+|assets/prefabs/weapons/seekerlauncher/sound/lock_solid.asset|
+|assets/prefabs/weapons/seekerlauncher/sound/seeker_thurster_engage.asset|
 |assets/prefabs/weapons/semi auto pistol/pistol_semiauto.skinnable.asset|
 |assets/prefabs/weapons/semi auto pistol/sound/attack.asset|
 |assets/prefabs/weapons/semi auto pistol/sound/eject_clip.asset|
