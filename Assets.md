@@ -2496,7 +2496,6 @@
 |assets/content/sound/instruments/acousticguitar/acoustic-guitar-g3.asset|
 |assets/content/sound/instruments/acousticguitar/acoustic-guitar-g4.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-a#1.asset|
-|assets/content/sound/instruments/bassguitar/bass-guitar-a#2.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-a1.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-a2.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-b1.asset|
