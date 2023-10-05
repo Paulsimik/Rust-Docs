@@ -400,7 +400,7 @@
 |![](https://rustlabs.com/img/items180/mushroom.png)|Mushroom|mushroom|-1962971928|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>ItemModCompostable<br>|
 |![](https://rustlabs.com/img/items180/jar.pickle.png)|Pickles|jar.pickle|286193827|ItemModConsumeChance<br>ItemMod<br>ItemModConsumable<br>ItemModConsumable<br>ItemModMenuOption<br>ItemModCompostable<br>|
 |![](https://rustlabs.com/img/items180/smallwaterbottle.png)|Small Water Bottle|smallwaterbottle|-1039528932|ItemModContainer<br>ItemModEntity<br>ItemModFishable<br>|
-|![](https://rustlabs.com/img/items180/waterjug.png)|Water Jug|waterjug|-119235651|ItemModContainer<br>ItemModConsumeContents<br>ItemModMenuOption<br>ItemModEntity<br>ItemBlueprint<br>ItemModFishable<br>|
+|![](https://rustlabs.com/img/items180/waterjug.png)|Water Jug - Charitable Rust 2023|waterjug|-119235651|ItemModContainer<br>ItemModConsumeContents<br>ItemModMenuOption<br>ItemModEntity<br>ItemBlueprint<br>ItemModFishable<br>|
 |![](https://rustlabs.com/img/items180/fun.bass.png)|Shovel Bass|fun.bass|-2107018088|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/fun.cowbell.png)|Cowbell|fun.cowbell|-1049881973|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/drumkit.png)|Junkyard Drum Kit|drumkit|-1330640246|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
