@@ -22,6 +22,7 @@
 |assets/content/image effects/postfx_volumes/cctv_manpad.asset|
 |assets/content/image effects/postfx_volumes/cctv_mlrs.asset|
 |assets/content/image effects/postfx_volumes/cold.asset|
+|assets/content/image effects/postfx_volumes/dof_exposer.asset|
 |assets/content/image effects/postfx_volumes/flashbang.asset|
 |assets/content/image effects/postfx_volumes/hot.asset|
 |assets/content/image effects/postfx_volumes/hurt.asset|
@@ -319,6 +320,8 @@
 |assets/content/properties/buildinggrade/adobe.asset|
 |assets/content/properties/buildinggrade/brick.asset|
 |assets/content/properties/buildinggrade/brutalist.asset|
+|assets/content/properties/buildinggrade/frontier.asset|
+|assets/content/properties/buildinggrade/gingerbread.asset|
 |assets/content/properties/buildinggrade/metal.asset|
 |assets/content/properties/buildinggrade/shipping_container.asset|
 |assets/content/properties/buildinggrade/stone.asset|
@@ -4094,6 +4097,9 @@
 |assets/content/vehicles/attackhelicopter/sound/attack-helicopter-rocket-storage-open.asset|
 |assets/content/vehicles/attackhelicopter/sound/attack-helicopter-turret-close.asset|
 |assets/content/vehicles/attackhelicopter/sound/attack-helicopter-turret-open.asset|
+|assets/content/vehicles/attackhelicopter/sound/attack-helicopter-turret-reload-finish.asset|
+|assets/content/vehicles/attackhelicopter/sound/attack-helicopter-turret-reload-loop.asset|
+|assets/content/vehicles/attackhelicopter/sound/attack-helicopter-turret-reload-start.asset|
 |assets/content/vehicles/boats/cargoship/sound/bow_ambience.asset|
 |assets/content/vehicles/boats/cargoship/sound/cargo-ship-ambient-stings.ambience-list.asset|
 |assets/content/vehicles/boats/cargoship/sound/cargo-ship-deck-ambience.ambience-def.asset|
@@ -4192,7 +4198,12 @@
 |assets/content/vehicles/minicopter/sound/engine-loop.asset|
 |assets/content/vehicles/minicopter/sound/engine-start.asset|
 |assets/content/vehicles/minicopter/sound/engine-stop.asset|
+|assets/content/vehicles/minicopter/sound/minicopter-active-rattle-loop.asset|
 |assets/content/vehicles/minicopter/sound/minicopter-damaged.asset|
+|assets/content/vehicles/minicopter/sound/minicopter-explosion.asset|
+|assets/content/vehicles/minicopter/sound/minicopter-explosion-debris.asset|
+|assets/content/vehicles/minicopter/sound/minicopter-phys-impact.asset|
+|assets/content/vehicles/minicopter/sound/minicopter-phys-impact-small.asset|
 |assets/content/vehicles/minicopter/sound/rotors-loop.asset|
 |assets/content/vehicles/minicopter/sound/rotors-start.asset|
 |assets/content/vehicles/minicopter/sound/rotors-stop.asset|
@@ -4391,6 +4402,7 @@
 |assets/content/vehicles/modularcar/sound/modular-car-water-splash.asset|
 |assets/content/vehicles/modularcar/sound/skidloop4.asset|
 |assets/content/vehicles/scrap heli carrier/scraptransporthelicopter.population.asset|
+|assets/content/vehicles/scrap heli carrier/sound/scrap-transport-heli-active-rattles.asset|
 |assets/content/vehicles/scrap heli carrier/sound/scrap-transport-heli-damaged.asset|
 |assets/content/vehicles/scrap heli carrier/sound/scrap-transport-heli-damaged-fire.asset|
 |assets/content/vehicles/scrap heli carrier/sound/scrap-transport-heli-damaged-fire-tail.asset|
@@ -4399,6 +4411,8 @@
 |assets/content/vehicles/scrap heli carrier/sound/scrap-transport-heli-engine-loop.asset|
 |assets/content/vehicles/scrap heli carrier/sound/scrap-transport-heli-engine-start.asset|
 |assets/content/vehicles/scrap heli carrier/sound/scrap-transport-heli-engine-stop.asset|
+|assets/content/vehicles/scrap heli carrier/sound/scrap-transport-heli-explosion.asset|
+|assets/content/vehicles/scrap heli carrier/sound/scrap-transport-heli-explosion-debris.asset|
 |assets/content/vehicles/scrap heli carrier/sound/scrap-transport-heli-mount.asset|
 |assets/content/vehicles/scrap heli carrier/sound/scrap-transport-heli-phys-impact.asset|
 |assets/content/vehicles/scrap heli carrier/sound/scrap-transport-heli-phys-impact-small.asset|
@@ -5311,6 +5325,7 @@
 |assets/prefabs/deployable/water catcher/sound/water-catcher-large-deploy.asset|
 |assets/prefabs/deployable/water catcher/sound/water-catcher-large-open.asset|
 |assets/prefabs/deployable/water catcher/sound/water-catcher-open.asset|
+|assets/prefabs/deployable/water catcher/water catcher collection rates.asset|
 |assets/prefabs/deployable/water well/sound/pump_down.asset|
 |assets/prefabs/deployable/water well/sound/pump_up.asset|
 |assets/prefabs/deployable/waterpurifier/sound/water-purifier-deploy.asset|
@@ -5394,6 +5409,7 @@
 |assets/prefabs/misc/blueprintbase/sound/blueprint_read.asset|
 |assets/prefabs/misc/buildingskins/adobe/adobe.sitem.asset|
 |assets/prefabs/misc/buildingskins/brick/brick.sitem.asset|
+|assets/prefabs/misc/buildingskins/brutalist/brutalist.sitem.asset|
 |assets/prefabs/misc/buildingskins/shippingcontainer/shippingcontainer.sitem.asset|
 |assets/prefabs/misc/burlap sack/sounds/burlap-sack-impact-hard.asset|
 |assets/prefabs/misc/burlap sack/sounds/burlap-sack-impact-med.asset|
@@ -5818,6 +5834,7 @@
 |assets/prefabs/npc/autoturret/sound/autoturret-ambience.ambience-list.asset|
 |assets/prefabs/npc/autoturret/sound/autoturret-close.asset|
 |assets/prefabs/npc/autoturret/sound/autoturret-deploy.asset|
+|assets/prefabs/npc/autoturret/sound/autoturret-interference-spark-loop.asset|
 |assets/prefabs/npc/autoturret/sound/autoturret-open.asset|
 |assets/prefabs/npc/autoturret/sound/focus-camera.asset|
 |assets/prefabs/npc/autoturret/sound/movement-change-click.asset|
