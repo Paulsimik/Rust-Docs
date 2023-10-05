@@ -761,6 +761,8 @@
 |assets/content/vehicles/crane_magnet/effects/lightgroup body.prefab|
 |assets/content/vehicles/crane_magnet/effects/magnetdust.prefab|
 |assets/content/vehicles/crane_magnet/effects/refract.prefab|
+|assets/content/vehicles/minicopter/effects/mincopter_explosion.prefab|
+|assets/content/vehicles/minicopter/effects/minicopter-wheel-impact.prefab|
 |assets/content/vehicles/mlrs/effects/cabinlighting.prefab|
 |assets/content/vehicles/mlrs/effects/pfx_airburst.prefab|
 |assets/content/vehicles/mlrs/effects/pfx_mlrs_backfire.prefab|
@@ -771,6 +773,7 @@
 |assets/content/vehicles/mlrs/effects/rearcamera.prefab|
 |assets/content/vehicles/modularcar/effects/wheel-impact.prefab|
 |assets/content/vehicles/scrap heli carrier/effects/debris_effect.prefab|
+|assets/content/vehicles/scrap heli carrier/effects/scrap-transport-heli-explosion.prefab|
 |assets/content/vehicles/scrap heli carrier/effects/wheel-impact.prefab|
 |assets/content/vehicles/snowmobiles/effects/pfx_wheel_spin_dirt_tread v2.prefab|
 |assets/content/vehicles/snowmobiles/effects/pfx_wheel_trail_dirt_r v2.prefab|
