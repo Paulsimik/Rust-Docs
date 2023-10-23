@@ -1429,6 +1429,7 @@
 |sickle.entity|124547093|BaseMelee<br>HeldEntity<br>|assets/prefabs/weapons/halloween/sickle/sickle.entity.prefab|
 |skulltorch.entity|3258690150|TorchWeapon<br>HeldEntity<br>AttackEntity<br>MaterialParameterToggle<br>|assets/prefabs/weapons/halloween/skull torch/skulltorch.entity.prefab|
 |skull.entity|1140399555|BaseMelee<br>HeldEntity<br>|assets/prefabs/weapons/halloween/skull_halloween/skull.entity.prefab|
+|vampirestake.entity|2186616991|BaseMelee<br>HeldEntity<br>|assets/prefabs/weapons/halloween/vampirestake/vampirestake.entity.prefab|
 |hammer.entity|388861612|Hammer<br>HeldEntity<br>AttackEntity<br>|assets/prefabs/weapons/hammer/hammer.entity.prefab|
 |hatchet.entity|365233245|BaseMelee<br>HeldEntity<br>|assets/prefabs/weapons/hatchet/hatchet.entity.prefab|
 |hmlmg.entity|3459133190|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/hmlmg/hmlmg.entity.prefab|
