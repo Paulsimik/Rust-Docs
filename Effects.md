@@ -876,6 +876,8 @@
 |assets/prefabs/clothes/diving.tank/effects/scuba_exhale.prefab|
 |assets/prefabs/clothes/diving.tank/effects/scuba_inhale.prefab|
 |assets/prefabs/clothes/diving.tank/effects/tank_refill.prefab|
+|assets/prefabs/clothes/halloween.scarecrow/effects/pfx_scarecrow_critdeath_spine3.prefab|
+|assets/prefabs/clothes/halloween.scarecrow/effects/soul_release_effect.prefab|
 |assets/prefabs/clothes/suit.hazmat/diver/effects/breathingbubbles_headbone.prefab|
 |assets/prefabs/deployable/barricades/effects/barricade-concrete-deploy.prefab|
 |assets/prefabs/deployable/barricades/effects/barricade-metal-deploy.prefab|
@@ -1476,6 +1478,14 @@
 |assets/prefabs/weapons/halloween/skull torch/effects/strike_lit.prefab|
 |assets/prefabs/weapons/halloween/skull torch/effects/strike_screenshake.prefab|
 |assets/prefabs/weapons/halloween/skull torch/effects/torch_loop.prefab|
+|assets/prefabs/weapons/halloween/vampirestake/effects/attack-1.prefab|
+|assets/prefabs/weapons/halloween/vampirestake/effects/attack-2.prefab|
+|assets/prefabs/weapons/halloween/vampirestake/effects/deploy.prefab|
+|assets/prefabs/weapons/halloween/vampirestake/effects/hit.prefab|
+|assets/prefabs/weapons/halloween/vampirestake/effects/strike.prefab|
+|assets/prefabs/weapons/halloween/vampirestake/effects/strike_screenshake.prefab|
+|assets/prefabs/weapons/halloween/vampirestake/effects/strike-soft.prefab|
+|assets/prefabs/weapons/halloween/vampirestake/effects/throw.prefab|
 |assets/prefabs/weapons/hammer/effects/attack.prefab|
 |assets/prefabs/weapons/hammer/effects/deploy.prefab|
 |assets/prefabs/weapons/hammer/effects/holster.prefab|
