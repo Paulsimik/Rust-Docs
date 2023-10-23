@@ -89,6 +89,8 @@
 |![](https://rustlabs.com/img/items180/burlap.gloves.png)|Leather Gloves|burlap.gloves|1366282552|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/roadsign.gloves.png)|Roadsign Gloves|roadsign.gloves|-699558439|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/tactical.gloves.png)|Tactical Gloves|tactical.gloves|-1108136649|ItemModWearable<br>ItemBlueprint<br>|
+|![](https://rustlabs.com/img/items180/draculacape.png)|Dracula Cape|draculacape|-258574361|ItemModWearable<br>ItemBlueprint<br>|
+|![](https://rustlabs.com/img/items180/draculamask.png)|Dracula Mask|draculamask|1865253052|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/ghostsheet.png)|Ghost Costume|ghostsheet|-1043618880|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/halloween.mummysuit.png)|Mummy Suit|halloween.mummysuit|277730763|ItemModWearable<br>|
 |![](https://rustlabs.com/img/items180/scarecrow.suit.png)|Scarecrow Suit|scarecrow.suit|273951840|ItemModWearable<br>|
@@ -779,6 +781,7 @@
 |![](https://rustlabs.com/img/items180/sickle.png)|Sickle|sickle|-1368584029|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |![](https://rustlabs.com/img/items180/torch.torch.skull.png)|Cultist Deer Torch|torch.torch.skull|-1175656359|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/skull.png)|Skull|skull|1312843609|ItemModEntity<br>ItemModProjectile<br>ItemBlueprint<br>|
+|![](https://rustlabs.com/img/items180/vampire.stake.png)|Vampire Stake|vampire.stake|-885833256|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |![](https://rustlabs.com/img/items180/hammer.png)|Hammer|hammer|200773292|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |![](https://rustlabs.com/img/items180/hatchet.png)|Hatchet|hatchet|-1252059217|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |![](https://rustlabs.com/img/items180/hmlmg.png)|HMLMG|hmlmg|-1214542497|ItemModEntity<br>ItemModContainer<br>ItemBlueprint<br>|
