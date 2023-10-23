@@ -857,6 +857,8 @@
 |assets/content/properties/lootspawn/generated/items/attire/diving.mask.asset|
 |assets/content/properties/lootspawn/generated/items/attire/diving.tank.asset|
 |assets/content/properties/lootspawn/generated/items/attire/diving.wetsuit.asset|
+|assets/content/properties/lootspawn/generated/items/attire/draculacape.asset|
+|assets/content/properties/lootspawn/generated/items/attire/draculamask.asset|
 |assets/content/properties/lootspawn/generated/items/attire/facialhair.style01.asset|
 |assets/content/properties/lootspawn/generated/items/attire/female_hairstyle_01.asset|
 |assets/content/properties/lootspawn/generated/items/attire/female_hairstyle_02.asset|
@@ -1458,6 +1460,7 @@
 |assets/content/properties/lootspawn/halloween/coffin.asset|
 |assets/content/properties/lootspawn/halloween/corn.asset|
 |assets/content/properties/lootspawn/halloween/cratecostume.asset|
+|assets/content/properties/lootspawn/halloween/draculacape.asset|
 |assets/content/properties/lootspawn/halloween/fence.asset|
 |assets/content/properties/lootspawn/halloween/frankensteinparts.asset|
 |assets/content/properties/lootspawn/halloween/frankensteinparts/frankenstein.01.head.asset|
@@ -1484,6 +1487,7 @@
 |assets/content/properties/lootspawn/halloween/pumpkin_basket.asset|
 |assets/content/properties/lootspawn/halloween/scarecrowhat.asset|
 |assets/content/properties/lootspawn/halloween/spiderwebs.asset|
+|assets/content/properties/lootspawn/halloween/vampirestake.asset|
 |assets/content/properties/lootspawn/lootspawn.barrel.asset|
 |assets/content/properties/lootspawn/lootspawn.barrelbetter.asset|
 |assets/content/properties/lootspawn/lootspawn.barrelcommon.asset|
@@ -1543,6 +1547,7 @@
 |assets/content/properties/playerinventory/defaultinventory.asset|
 |assets/content/properties/playerinventory/divemaster.asset|
 |assets/content/properties/playerinventory/diving.asset|
+|assets/content/properties/playerinventory/draculaoutfit.asset|
 |assets/content/properties/playerinventory/editorinventory.asset|
 |assets/content/properties/playerinventory/electrician.asset|
 |assets/content/properties/playerinventory/fisherman.asset|
@@ -1604,6 +1609,7 @@
 |assets/content/properties/protection/clothing/burlap_shoes.asset|
 |assets/content/properties/protection/clothing/burlap_trousers.asset|
 |assets/content/properties/protection/clothing/coffeecan_helmet.asset|
+|assets/content/properties/protection/clothing/draculacape.asset|
 |assets/content/properties/protection/clothing/dragonmask.asset|
 |assets/content/properties/protection/clothing/easter_onesie.asset|
 |assets/content/properties/protection/clothing/frogboots.asset|
@@ -1937,6 +1943,11 @@
 |assets/content/properties/steamcategories/limited-halloween2022-499.steam.asset|
 |assets/content/properties/steamcategories/limited-halloween2022-599.steam.asset|
 |assets/content/properties/steamcategories/limited-halloween2022-799.steam.asset|
+|assets/content/properties/steamcategories/limited-halloween2023-299.steam.asset|
+|assets/content/properties/steamcategories/limited-halloween2023-399.steam.asset|
+|assets/content/properties/steamcategories/limited-halloween2023-499.steam.asset|
+|assets/content/properties/steamcategories/limited-halloween2023-599.steam.asset|
+|assets/content/properties/steamcategories/limited-halloween2023-799.steam.asset|
 |assets/content/properties/steamcategories/limited-july4-2021-1000.steam.asset|
 |assets/content/properties/steamcategories/limited-july4-2021-500.steam.asset|
 |assets/content/properties/steamcategories/limited-movember2020.steam.asset|
@@ -4825,9 +4836,15 @@
 |assets/prefabs/clothes/frogboots/frogboots.sitem.asset|
 |assets/prefabs/clothes/gloves.leather/gloves.leather.skinnable.asset|
 |assets/prefabs/clothes/gloves.roadsign/gloves.roadsign.skinnable.asset|
+|assets/prefabs/clothes/halloween.draculacape/cloth.draculacape.asset|
+|assets/prefabs/clothes/halloween.draculacape/player_skeleton.draculacape.asset|
+|assets/prefabs/clothes/halloween.draculacape/player_skeleton.draculacape_highbonecount.asset|
+|assets/prefabs/clothes/halloween.draculamask/draculamask.sitem.asset|
+|assets/prefabs/clothes/halloween.draculamask/materials/ssp_draculamask.asset|
 |assets/prefabs/clothes/halloween.ghostsheet/cloth.ghostsheet.asset|
 |assets/prefabs/clothes/halloween.ghostsheet/player_skeleton.ghostsheet.asset|
 |assets/prefabs/clothes/halloween.ghostsheet/sbmat_ghostsheet.asset|
+|assets/prefabs/clothes/halloween.scarecrow/sound/soul_release.asset|
 |assets/prefabs/clothes/haloween.hockeymask/metal.facemask.hockey.skin.asset|
 |assets/prefabs/clothes/halterneck.hide/halterneck.hide.skinnable.asset|
 |assets/prefabs/clothes/hat.beenie/black/hat.beenie.black.itemskin.asset|
@@ -6136,6 +6153,7 @@
 |assets/prefabs/weapon mods/silencers/sound/silenced_shot.asset|
 |assets/prefabs/weapons/ak47u/ak47u.skinnable.asset|
 |assets/prefabs/weapons/ak47u/diver/ak47u_diver.skin.asset|
+|assets/prefabs/weapons/ak47u/diver/clothmat_diverak_vm.asset|
 |assets/prefabs/weapons/ak47u/iceskin/ak47ice.skin.asset|
 |assets/prefabs/weapons/ak47u/sound/ak47-gunshot-body.asset|
 |assets/prefabs/weapons/ak47u/sound/ak47-gunshot-body-suppressed.asset|
@@ -6237,7 +6255,6 @@
 |assets/prefabs/weapons/crossbow/sound/crossbow-deploy-3p.asset|
 |assets/prefabs/weapons/crossbow/sound/crossbow-reload.asset|
 |assets/prefabs/weapons/diverhatchet/diver_hatchet.skin.asset|
-|assets/prefabs/weapons/diverpickaxe/clothmat_diverak_vm.asset|
 |assets/prefabs/weapons/diverpickaxe/clothmat_diverpickaxe.asset|
 |assets/prefabs/weapons/diverpickaxe/clothmat_diverpickaxe_vm.asset|
 |assets/prefabs/weapons/diverpickaxe/diver_pickaxe.skin.asset|
@@ -6335,6 +6352,10 @@
 |assets/prefabs/weapons/halloween/skull torch/sound/skull-torch-strike-lit.asset|
 |assets/prefabs/weapons/halloween/skull torch/torch.skull.skin.asset|
 |assets/prefabs/weapons/halloween/skull_halloween/skull.skin.asset|
+|assets/prefabs/weapons/halloween/vampirestake/sound/vampire-stake-attack.asset|
+|assets/prefabs/weapons/halloween/vampirestake/sound/vampire-stake-deploy.asset|
+|assets/prefabs/weapons/halloween/vampirestake/sound/vampire-stake-strike-hard.asset|
+|assets/prefabs/weapons/halloween/vampirestake/sound/vampire-stake-strike-soft.asset|
 |assets/prefabs/weapons/hammer/hammer.skinnable.asset|
 |assets/prefabs/weapons/hammer/sound/hammer-attack.asset|
 |assets/prefabs/weapons/hammer/sound/hammer-attack-3p.asset|
