@@ -346,6 +346,9 @@
 |![](https://rustlabs.com/img/items180/water.catcher.small.png)|Small Water Catcher|water.catcher.small|-132247350|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/water.purifier.png)|Water Purifier|water.purifier|2114754781|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/gunrack.horizontal.png)|Horizontal Weapon Rack|gunrack.horizontal|-246672609|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>ItemModChildIO<br>|
+|![](https://rustlabs.com/img/items180/gunrack.single.1.horizontal.png)|Frontier Bolts Single Item Rack|gunrack.single.1.horizontal|1973949960|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/gunrack.single.2.horizontal.png)|Frontier Horseshoe Single Item Rack|gunrack.single.2.horizontal|-849373693|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/gunrack.single.3.horizontal.png)|Frontier Horns Single Item Rack|gunrack.single.3.horizontal|-52398594|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/gunrack_stand.png)|Weapon Rack Stand|gunrack_stand|1132603396|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/gunrack_tall.horizontal.png)|Tall Weapon Rack|gunrack_tall.horizontal|240752557|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>ItemModChildIO<br>|
 |![](https://rustlabs.com/img/items180/gunrack_wide.horizontal.png)|Wide Weapon Rack|gunrack_wide.horizontal|-96256997|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>ItemModChildIO<br>|
@@ -402,7 +405,7 @@
 |![](https://rustlabs.com/img/items180/mushroom.png)|Mushroom|mushroom|-1962971928|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>ItemModCompostable<br>|
 |![](https://rustlabs.com/img/items180/jar.pickle.png)|Pickles|jar.pickle|286193827|ItemModConsumeChance<br>ItemMod<br>ItemModConsumable<br>ItemModConsumable<br>ItemModMenuOption<br>ItemModCompostable<br>|
 |![](https://rustlabs.com/img/items180/smallwaterbottle.png)|Small Water Bottle|smallwaterbottle|-1039528932|ItemModContainer<br>ItemModEntity<br>ItemModFishable<br>|
-|![](https://rustlabs.com/img/items180/waterjug.png)|Water Jug - Charitable Rust 2023|waterjug|-119235651|ItemModContainer<br>ItemModConsumeContents<br>ItemModMenuOption<br>ItemModEntity<br>ItemBlueprint<br>ItemModFishable<br>|
+|![](https://rustlabs.com/img/items180/waterjug.png)|Water Jug|waterjug|-119235651|ItemModContainer<br>ItemModConsumeContents<br>ItemModMenuOption<br>ItemModEntity<br>ItemBlueprint<br>ItemModFishable<br>|
 |![](https://rustlabs.com/img/items180/fun.bass.png)|Shovel Bass|fun.bass|-2107018088|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/fun.cowbell.png)|Cowbell|fun.cowbell|-1049881973|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/drumkit.png)|Junkyard Drum Kit|drumkit|-1330640246|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
@@ -433,6 +436,26 @@
 |![](https://rustlabs.com/img/items180/lunar.firecrackers.png)|Firecracker String|lunar.firecrackers|-1961560162|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/hat.tigermask.png)|Tiger Mask|hat.tigermask|709206314|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/arcade.machine.chippy.png)|Chippy Arcade Game|arcade.machine.chippy|359723196|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/door.double.hinged.bardoors.png)|Wooden Frontier Bar Doors|door.double.hinged.bardoors|-1151332840|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/bathtub.planter.png)|Bath Tub Planter|bathtub.planter|-1274093662|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/head.bag.png)|Head Bag|head.bag|209218760|ItemModHead<br>ItemMod<br>|
+|![](https://rustlabs.com/img/items180/fishtrophy.png)|Fish Trophy|fishtrophy|-1913996738|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/huntingtrophylarge.png)|Large Hunting Trophy|huntingtrophylarge|960673498|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/huntingtrophysmall.png)|Small Hunting Trophy|huntingtrophysmall|-869598982|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/minecart.planter.png)|Minecart Planter|minecart.planter|1361520181|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/rail.road.planter.png)|Rail Road Planter|rail.road.planter|615112838|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/rockingchair.png)|Rocking Chair|rockingchair|-1863063690|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/rockingchair.rockingchair2.png)|Teal|rockingchair.rockingchair2|1758333838|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/rockingchair.rockingchair3.png)|Green|rockingchair.rockingchair3|192249897|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/knife.skinning.png)|Skinning Knife|knife.skinning|-2073432256|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
+|![](https://rustlabs.com/img/items180/storage_barrel_a.png)|Unused Storage Barrel Vertical|storage_barrel_a|-258457936|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/storage_barrel_b.png)|Storage Barrel Vertical|storage_barrel_b|1307626005|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/storage_barrel_c.png)|Storage Barrel Horizontal|storage_barrel_c|-1421257350|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/torchholder.png)|Torch Holder|torchholder|446206234|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/wantedposter.wantedposter2.png)|Wanted Poster 2|wantedposter.wantedposter2|301063058|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/wantedposter.wantedposter3.png)|Wanted Poster 3|wantedposter.wantedposter3|-1265020883|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/wantedposter.wantedposter4.png)|Wanted Poster 4|wantedposter.wantedposter4|1463862472|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/wantedposter.png)|Wanted Poster|wantedposter|-1344017968|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/bluedogtags.png)|Blue Dog Tags|bluedogtags|1036321299||
 |![](https://rustlabs.com/img/items180/dogtagneutral.png)|Dog Tag|dogtagneutral|1223900335||
 |![](https://rustlabs.com/img/items180/reddogtags.png)|Red Dog Tags|reddogtags|-602717596||
@@ -498,6 +521,43 @@
 |![](https://rustlabs.com/img/items180/redidtag.png)|Red ID Tag|redidtag|70102328||
 |![](https://rustlabs.com/img/items180/whiteidtag.png)|White ID Tag|whiteidtag|22947882||
 |![](https://rustlabs.com/img/items180/yellowidtag.png)|Yellow ID Tag|yellowidtag|81423963||
+|![](https://rustlabs.com/img/items180/frontiermirror.large.png)|Frontier Mirror Large|frontiermirror.large|242933621|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/frontiermirror.medium.png)|Frontier Mirror Medium|frontiermirror.medium|2055695285|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/frontiermirror.small.png)|Frontier Mirror Small|frontiermirror.small|340210699|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/frontiermirror.standing.png)|Frontier Mirror Standing|frontiermirror.standing|1787198294|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/goldframe.large.png)|Gold Frame large|goldframe.large|-996235148|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/goldframe.medium.png)|Gold Frame Medium|goldframe.medium|-1901993050|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/goldframe.small.png)|Gold Frame Small|goldframe.small|-1836526520|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/goldframe.standing.png)|Gold Frame Standing|goldframe.standing|-1528767189|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/goldmirror.large.png)|Gold Mirror large|goldmirror.large|1365234594|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/goldmirror.medium.png)|Gold Mirror Medium|goldmirror.medium|-1804515496|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/goldmirror.small.png)|Gold Mirror Small|goldmirror.small|-1444650226|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/goldmirror.standing.png)|Gold Mirror Standing|goldmirror.standing|2120241887|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/lightup.large.png)|Light-Up Frame Large|lightup.large|242421166|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/lightupframe.medium.png)|Light-Up Frame Medium|lightupframe.medium|-1294739579|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/lightupframe.small.png)|Light-Up Frame Small|lightupframe.small|1691223771|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/lightupframe.standing.png)|Light-Up Frame Standing|lightupframe.standing|1950013766|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/lightupmirror.large.png)|Light-Up Mirror Large|lightupmirror.large|450531685|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/lightupmirror.medium.png)|Light-Up Mirror Medium|lightupmirror.medium|1028889957|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/lightupmirror.small.png)|Light-Up Mirror Small|lightupmirror.small|-389796733|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/lightupmirror.standing.png)|Light-Up Mirror Standing|lightupmirror.standing|1916016738|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/scrapframe.large.png)|Scrap Frame large|scrapframe.large|-1094453063|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/scrapframe.medium.png)|Scrap Frame Medium|scrapframe.medium|-1060567807|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/scrapframe.small.png)|Scrap Frame Small|scrapframe.small|-498301781|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/scrapframe.standing.png)|Scrap Frame Standing|scrapframe.standing|-1774190142|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/scrapmirror.large.png)|Scrap Mirror Large|scrapmirror.large|-82758111|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/scrapmirror.medium.png)|Scrap Mirror Medium|scrapmirror.medium|839738457|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/scrapmirror.small.png)|Scrap Mirror Small|scrapmirror.small|-1050697733|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/scrapmirror.standing.png)|Scrap Mirror Standing|scrapmirror.standing|-1380144986|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/twowaymirror.window.png)|Two-Way Mirror|twowaymirror.window|-1683726934|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/woodframe.large.png)|Wood Frame Large|woodframe.large|-635951327|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/woodframe.medium.png)|Wood Frame Medium|woodframe.medium|-1541706279|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/woodframe.small.png)|Wood Frame Small|woodframe.small|-1476278729|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/woodframe.standing.png)|Wood Frame Standing|woodframe.standing|1769475390|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/woodmirror.large.png)|Wood Mirror Large|woodmirror.large|1312679249|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/woodmirror.medium.png)|Wood Mirror Medium|woodmirror.medium|756125481|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/woodmirror.small.png)|Wood Mirror Small|woodmirror.small|-1497205569|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
+|![](https://rustlabs.com/img/items180/woodmirror.standing.png)|Wood Mirror Standing|woodmirror.standing|723407026|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
 |![](https://rustlabs.com/img/items180/movembermoustachecard.png)|Card Movember Moustache|movembermoustachecard|3380160|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/movembermoustache.png)|Movember Moustache|movembermoustache|-2047081330|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/note.png)|Note|note|1414245162|ItemBlueprint<br>|
