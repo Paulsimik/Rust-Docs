@@ -567,6 +567,15 @@
 |assets/scenes/prefabs/swamps/swamp_c_root_lods/swamp_c_root_hlod_albedo.png|
 |assets/scenes/prefabs/swamps/swamp_c_root_lods/swamp_c_root_hlod_normals.png|
 |assets/scenes/prefabs/swamps/swamp_c_root_lods/swamp_c_root_hlod_specular.png|
+|assets/scenes/prefabs/train tunnel entrance/train_tunnel_entrance_a/alphatexture.png|
+|assets/scenes/prefabs/train tunnel entrance/train_tunnel_entrance_a/biometexture.png|
+|assets/scenes/prefabs/train tunnel entrance/train_tunnel_entrance_a/blendtexture.png|
+|assets/scenes/prefabs/train tunnel entrance/train_tunnel_entrance_a/heighttexture.png|
+|assets/scenes/prefabs/train tunnel entrance/train_tunnel_entrance_a/normaltexture.png|
+|assets/scenes/prefabs/train tunnel entrance/train_tunnel_entrance_a/splattexture0.png|
+|assets/scenes/prefabs/train tunnel entrance/train_tunnel_entrance_a/splattexture1.png|
+|assets/scenes/prefabs/train tunnel entrance/train_tunnel_entrance_a/topologytexture.png|
+|assets/scenes/prefabs/train tunnel entrance/train_tunnel_entrance_a/watertexture.png|
 |assets/scenes/prefabs/trainyard/trainyard/alphatexture.png|
 |assets/scenes/prefabs/trainyard/trainyard/biometexture.png|
 |assets/scenes/prefabs/trainyard/trainyard/blendtexture.png|
@@ -784,6 +793,14 @@
 |assets/scenes/test/testlevelterrain/splattexture1.png|
 |assets/scenes/test/testlevelterrain/topologytexture.png|
 |assets/scenes/test/testlevelterrain/watertexture.png|
+|assets/scenes/test/train_tunnels_test/train_tunnels_test/alphatexture.png|
+|assets/scenes/test/train_tunnels_test/train_tunnels_test/biometexture.png|
+|assets/scenes/test/train_tunnels_test/train_tunnels_test/heighttexture.png|
+|assets/scenes/test/train_tunnels_test/train_tunnels_test/normaltexture.png|
+|assets/scenes/test/train_tunnels_test/train_tunnels_test/splattexture0.png|
+|assets/scenes/test/train_tunnels_test/train_tunnels_test/splattexture1.png|
+|assets/scenes/test/train_tunnels_test/train_tunnels_test/topologytexture.png|
+|assets/scenes/test/train_tunnels_test/train_tunnels_test/watertexture.png|
 |assets/scenes/test/waterlevelterrain/alphatexture.png|
 |assets/scenes/test/waterlevelterrain/biometexture.png|
 |assets/scenes/test/waterlevelterrain/heighttexture.png|
