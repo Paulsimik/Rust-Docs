@@ -1037,6 +1037,30 @@
 |assets/prefabs/misc/casino/slotmachine/effects/payout_jackpot.prefab|
 |assets/prefabs/misc/chinesenewyear/dragondoorknocker/effects/door_knock_fx.prefab|
 |assets/prefabs/misc/chinesenewyear/throwablefirecrackers/effects/throw.prefab|
+|assets/prefabs/misc/decor_dlc/bardoors/effects/bar-doors-close.prefab|
+|assets/prefabs/misc/decor_dlc/bardoors/effects/bar-doors-deploy.prefab|
+|assets/prefabs/misc/decor_dlc/bardoors/effects/bar-doors-open.prefab|
+|assets/prefabs/misc/decor_dlc/bath tub planter/effects/bath-tub-planter-deploy.prefab|
+|assets/prefabs/misc/decor_dlc/huntingtrophy_fish/effects/hunting-trophy-fish-song.prefab|
+|assets/prefabs/misc/decor_dlc/huntingtrophy_large/effects/hunting-trophy-large-deploy.prefab|
+|assets/prefabs/misc/decor_dlc/huntingtrophy_small/effects/hunting-trophy-small-deploy.prefab|
+|assets/prefabs/misc/decor_dlc/minecart planter/effects/minecart-planter-deploy.prefab|
+|assets/prefabs/misc/decor_dlc/rail road planter/effects/rail-road-planter-deploy.prefab|
+|assets/prefabs/misc/decor_dlc/rockingchair/effects/rocking-chair-deploy.prefab|
+|assets/prefabs/misc/decor_dlc/single weapon rack/effects/single-weapon-rack-metal-deploy.prefab|
+|assets/prefabs/misc/decor_dlc/single weapon rack/effects/single-weapon-rack-wood-deploy.prefab|
+|assets/prefabs/misc/decor_dlc/skinning knife/effects/attack-1.prefab|
+|assets/prefabs/misc/decor_dlc/skinning knife/effects/attack-2.prefab|
+|assets/prefabs/misc/decor_dlc/skinning knife/effects/deploy.prefab|
+|assets/prefabs/misc/decor_dlc/skinning knife/effects/hit.prefab|
+|assets/prefabs/misc/decor_dlc/skinning knife/effects/holster.prefab|
+|assets/prefabs/misc/decor_dlc/skinning knife/effects/strike.prefab|
+|assets/prefabs/misc/decor_dlc/skinning knife/effects/strike_screenshake.prefab|
+|assets/prefabs/misc/decor_dlc/skinning knife/effects/strike-soft.prefab|
+|assets/prefabs/misc/decor_dlc/skinning knife/effects/throw.prefab|
+|assets/prefabs/misc/decor_dlc/storagebarrel/effects/storage-barrel-deploy.prefab|
+|assets/prefabs/misc/decor_dlc/torchholder/effects/torchholder enabled pfx.prefab|
+|assets/prefabs/misc/decor_dlc/wantedposter/effects/wanted-poster-deploy.prefab|
 |assets/prefabs/misc/easter/easter basket/effects/add_egg.prefab|
 |assets/prefabs/misc/easter/easter basket/effects/aim.prefab|
 |assets/prefabs/misc/easter/easter basket/effects/aim_cancel.prefab|
