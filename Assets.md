@@ -40,6 +40,8 @@
 |assets/content/image effects/postfx_volumes/screen_blur.asset|
 |assets/content/image effects/postfx_volumes/sharpen_vignette.asset|
 |assets/content/image effects/postfx_volumes/submarine_dof.asset|
+|assets/content/image effects/postfx_volumes/wantedposter_polaroid.asset|
+|assets/content/image effects/postfx_volumes/wantedposter_sepia.asset|
 |assets/content/image effects/postfx_volumes/water.asset|
 |assets/content/image effects/postfx_volumes/water_blur_wiggle.asset|
 |assets/content/image effects/postfx_volumes/water_goggles.asset|
@@ -987,6 +989,7 @@
 |assets/content/properties/lootspawn/generated/items/construction/building.planner.asset|
 |assets/content/properties/lootspawn/generated/items/construction/cupboard.tool.asset|
 |assets/content/properties/lootspawn/generated/items/construction/door.closer.asset|
+|assets/content/properties/lootspawn/generated/items/construction/door.double.hinged.bardoors.asset|
 |assets/content/properties/lootspawn/generated/items/construction/door.double.hinged.metal.asset|
 |assets/content/properties/lootspawn/generated/items/construction/door.double.hinged.toptier.asset|
 |assets/content/properties/lootspawn/generated/items/construction/door.double.hinged.wood.asset|
@@ -1220,8 +1223,20 @@
 |assets/content/properties/lootspawn/generated/items/items/fireplace.stone.asset|
 |assets/content/properties/lootspawn/generated/items/items/frankensteintable.asset|
 |assets/content/properties/lootspawn/generated/items/items/fridge.asset|
+|assets/content/properties/lootspawn/generated/items/items/frontiermirror.large.asset|
+|assets/content/properties/lootspawn/generated/items/items/frontiermirror.medium.asset|
+|assets/content/properties/lootspawn/generated/items/items/frontiermirror.small.asset|
+|assets/content/properties/lootspawn/generated/items/items/frontiermirror.standing.asset|
 |assets/content/properties/lootspawn/generated/items/items/furnace.large.asset|
 |assets/content/properties/lootspawn/generated/items/items/generator.wind.scrap.asset|
+|assets/content/properties/lootspawn/generated/items/items/goldframe.large.asset|
+|assets/content/properties/lootspawn/generated/items/items/goldframe.medium.asset|
+|assets/content/properties/lootspawn/generated/items/items/goldframe.small.asset|
+|assets/content/properties/lootspawn/generated/items/items/goldframe.standing.asset|
+|assets/content/properties/lootspawn/generated/items/items/goldmirror.large.asset|
+|assets/content/properties/lootspawn/generated/items/items/goldmirror.medium.asset|
+|assets/content/properties/lootspawn/generated/items/items/goldmirror.small.asset|
+|assets/content/properties/lootspawn/generated/items/items/goldmirror.standing.asset|
 |assets/content/properties/lootspawn/generated/items/items/gunrack.horizontal.asset|
 |assets/content/properties/lootspawn/generated/items/items/gunrack_stand.asset|
 |assets/content/properties/lootspawn/generated/items/items/gunrack_tall.horizontal.asset|
@@ -1231,6 +1246,14 @@
 |assets/content/properties/lootspawn/generated/items/items/jackolantern.happy.asset|
 |assets/content/properties/lootspawn/generated/items/items/kayak.asset|
 |assets/content/properties/lootspawn/generated/items/items/lantern.asset|
+|assets/content/properties/lootspawn/generated/items/items/lightup.large.asset|
+|assets/content/properties/lootspawn/generated/items/items/lightupframe.medium.asset|
+|assets/content/properties/lootspawn/generated/items/items/lightupframe.small.asset|
+|assets/content/properties/lootspawn/generated/items/items/lightupframe.standing.asset|
+|assets/content/properties/lootspawn/generated/items/items/lightupmirror.large.asset|
+|assets/content/properties/lootspawn/generated/items/items/lightupmirror.medium.asset|
+|assets/content/properties/lootspawn/generated/items/items/lightupmirror.small.asset|
+|assets/content/properties/lootspawn/generated/items/items/lightupmirror.standing.asset|
 |assets/content/properties/lootspawn/generated/items/items/locker.asset|
 |assets/content/properties/lootspawn/generated/items/items/mailbox.asset|
 |assets/content/properties/lootspawn/generated/items/items/map.asset|
@@ -1244,6 +1267,14 @@
 |assets/content/properties/lootspawn/generated/items/items/research.table.asset|
 |assets/content/properties/lootspawn/generated/items/items/rug.asset|
 |assets/content/properties/lootspawn/generated/items/items/rug.bear.asset|
+|assets/content/properties/lootspawn/generated/items/items/scrapframe.large.asset|
+|assets/content/properties/lootspawn/generated/items/items/scrapframe.medium.asset|
+|assets/content/properties/lootspawn/generated/items/items/scrapframe.small.asset|
+|assets/content/properties/lootspawn/generated/items/items/scrapframe.standing.asset|
+|assets/content/properties/lootspawn/generated/items/items/scrapmirror.large.asset|
+|assets/content/properties/lootspawn/generated/items/items/scrapmirror.medium.asset|
+|assets/content/properties/lootspawn/generated/items/items/scrapmirror.small.asset|
+|assets/content/properties/lootspawn/generated/items/items/scrapmirror.standing.asset|
 |assets/content/properties/lootspawn/generated/items/items/searchlight.asset|
 |assets/content/properties/lootspawn/generated/items/items/shelves.asset|
 |assets/content/properties/lootspawn/generated/items/items/sign.hanging.asset|
@@ -1269,9 +1300,18 @@
 |assets/content/properties/lootspawn/generated/items/items/table.asset|
 |assets/content/properties/lootspawn/generated/items/items/target.reactive.asset|
 |assets/content/properties/lootspawn/generated/items/items/tunalight.asset|
+|assets/content/properties/lootspawn/generated/items/items/twowaymirror.window.asset|
 |assets/content/properties/lootspawn/generated/items/items/vending.machine.asset|
 |assets/content/properties/lootspawn/generated/items/items/water.barrel.asset|
 |assets/content/properties/lootspawn/generated/items/items/water.purifier.asset|
+|assets/content/properties/lootspawn/generated/items/items/woodframe.large.asset|
+|assets/content/properties/lootspawn/generated/items/items/woodframe.medium.asset|
+|assets/content/properties/lootspawn/generated/items/items/woodframe.small.asset|
+|assets/content/properties/lootspawn/generated/items/items/woodframe.standing.asset|
+|assets/content/properties/lootspawn/generated/items/items/woodmirror.large.asset|
+|assets/content/properties/lootspawn/generated/items/items/woodmirror.medium.asset|
+|assets/content/properties/lootspawn/generated/items/items/woodmirror.small.asset|
+|assets/content/properties/lootspawn/generated/items/items/woodmirror.standing.asset|
 |assets/content/properties/lootspawn/generated/items/items/workbench1.asset|
 |assets/content/properties/lootspawn/generated/items/items/workbench2.asset|
 |assets/content/properties/lootspawn/generated/items/items/workbench3.asset|
@@ -1541,6 +1581,7 @@
 |assets/content/properties/playerinventory/bandit_shopkeeper_adv.asset|
 |assets/content/properties/playerinventory/bandit_shopkeeper_basic.asset|
 |assets/content/properties/playerinventory/bandit_shopkeeper_stables.asset|
+|assets/content/properties/playerinventory/basedecordlc_frontier.asset|
 |assets/content/properties/playerinventory/bill b.asset|
 |assets/content/properties/playerinventory/builderinventory.asset|
 |assets/content/properties/playerinventory/combat.asset|
@@ -1947,6 +1988,7 @@
 |assets/content/properties/steamcategories/limited-halloween2023-399.steam.asset|
 |assets/content/properties/steamcategories/limited-halloween2023-499.steam.asset|
 |assets/content/properties/steamcategories/limited-halloween2023-599.steam.asset|
+|assets/content/properties/steamcategories/limited-halloween2023-699.steam.asset|
 |assets/content/properties/steamcategories/limited-halloween2023-799.steam.asset|
 |assets/content/properties/steamcategories/limited-july4-2021-1000.steam.asset|
 |assets/content/properties/steamcategories/limited-july4-2021-500.steam.asset|
@@ -5462,6 +5504,37 @@
 |assets/prefabs/misc/chinesenewyear/tigermask/tigermask.sitem.asset|
 |assets/prefabs/misc/chippy arcade/chippyarcade.sitem.asset|
 |assets/prefabs/misc/chippy arcade/chippygame/sound/chiptune.asset|
+|assets/prefabs/misc/decor_dlc/bardoors/sound/bar-doors-close.asset|
+|assets/prefabs/misc/decor_dlc/bardoors/sound/bar-doors-deploy.asset|
+|assets/prefabs/misc/decor_dlc/bardoors/sound/bar-doors-kick.asset|
+|assets/prefabs/misc/decor_dlc/bardoors/sound/bar-doors-open.asset|
+|assets/prefabs/misc/decor_dlc/bardoors/sound/bar-doors-push.asset|
+|assets/prefabs/misc/decor_dlc/basedecordlc_frontier.asset|
+|assets/prefabs/misc/decor_dlc/bath tub planter/sound/bath-tub-planter-deploy.asset|
+|assets/prefabs/misc/decor_dlc/huntingtrophy_fish/sound/hunting-trophy-fish-song.asset|
+|assets/prefabs/misc/decor_dlc/huntingtrophy_large/sound/hunting-trophy-large-deploy.asset|
+|assets/prefabs/misc/decor_dlc/huntingtrophy_small/sound/hunting-trophy-small-deploy.asset|
+|assets/prefabs/misc/decor_dlc/minecart planter/sound/minecart-planter-deploy.asset|
+|assets/prefabs/misc/decor_dlc/rail road planter/sound/rail-road-planter-deploy.asset|
+|assets/prefabs/misc/decor_dlc/rockingchair/rockingchair.skinnable.asset|
+|assets/prefabs/misc/decor_dlc/rockingchair/skins/rockingchair.rockingchair2.skin.asset|
+|assets/prefabs/misc/decor_dlc/rockingchair/skins/rockingchair.rockingchair3.skin.asset|
+|assets/prefabs/misc/decor_dlc/rockingchair/sound/rocking-chair-creak-backward.asset|
+|assets/prefabs/misc/decor_dlc/rockingchair/sound/rocking-chair-creak-forward.asset|
+|assets/prefabs/misc/decor_dlc/rockingchair/sound/rocking-chair-deploy.asset|
+|assets/prefabs/misc/decor_dlc/rockingchair/sound/rocking-chair-dismount.asset|
+|assets/prefabs/misc/decor_dlc/rockingchair/sound/rocking-chair-mount.asset|
+|assets/prefabs/misc/decor_dlc/single weapon rack/sound/single-weapon-rack-metal-deploy.asset|
+|assets/prefabs/misc/decor_dlc/single weapon rack/sound/single-weapon-rack-wood-deploy.asset|
+|assets/prefabs/misc/decor_dlc/skinning knife/clothmat_skinningknife.asset|
+|assets/prefabs/misc/decor_dlc/storagebarrel/sound/storage-barrel-close.asset|
+|assets/prefabs/misc/decor_dlc/storagebarrel/sound/storage-barrel-deploy.asset|
+|assets/prefabs/misc/decor_dlc/storagebarrel/sound/storage-barrel-open.asset|
+|assets/prefabs/misc/decor_dlc/wantedposter/skins/wantedposter.wantedposter2.skin.asset|
+|assets/prefabs/misc/decor_dlc/wantedposter/skins/wantedposter.wantedposter3.skin.asset|
+|assets/prefabs/misc/decor_dlc/wantedposter/skins/wantedposter.wantedposter4.skin.asset|
+|assets/prefabs/misc/decor_dlc/wantedposter/sound/wanted-poster-deploy.asset|
+|assets/prefabs/misc/decor_dlc/wantedposter/wantedposter.skinnable.asset|
 |assets/prefabs/misc/easter/bunny_hat/bunnyhat.sitem.asset|
 |assets/prefabs/misc/easter/bunny_hat/sbmat_bunnyhat_ears.asset|
 |assets/prefabs/misc/easter/door_wreath/easterwreath.sitem.asset|
@@ -5970,9 +6043,11 @@
 |assets/prefabs/player/gestures/gesture.flashblinded.asset|
 |assets/prefabs/player/gestures/gesture.friendly.asset|
 |assets/prefabs/player/gestures/gesture.hurry.asset|
+|assets/prefabs/player/gestures/gesture.kick.asset|
 |assets/prefabs/player/gestures/gesture.ok.asset|
 |assets/prefabs/player/gestures/gesture.parachuteland.asset|
 |assets/prefabs/player/gestures/gesture.point.asset|
+|assets/prefabs/player/gestures/gesture.push.asset|
 |assets/prefabs/player/gestures/gesture.raiseroof.asset|
 |assets/prefabs/player/gestures/gesture.shrug.asset|
 |assets/prefabs/player/gestures/gesture.thumbsdown.asset|
