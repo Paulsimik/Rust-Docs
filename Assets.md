@@ -860,7 +860,6 @@
 |assets/content/properties/lootspawn/generated/items/attire/diving.tank.asset|
 |assets/content/properties/lootspawn/generated/items/attire/diving.wetsuit.asset|
 |assets/content/properties/lootspawn/generated/items/attire/draculacape.asset|
-|assets/content/properties/lootspawn/generated/items/attire/draculamask.asset|
 |assets/content/properties/lootspawn/generated/items/attire/facialhair.style01.asset|
 |assets/content/properties/lootspawn/generated/items/attire/female_hairstyle_01.asset|
 |assets/content/properties/lootspawn/generated/items/attire/female_hairstyle_02.asset|
@@ -2552,6 +2551,7 @@
 |assets/content/sound/instruments/acousticguitar/acoustic-guitar-g3.asset|
 |assets/content/sound/instruments/acousticguitar/acoustic-guitar-g4.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-a#1.asset|
+|assets/content/sound/instruments/bassguitar/bass-guitar-a#2.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-a1.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-a2.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-b1.asset|
