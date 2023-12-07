@@ -841,6 +841,7 @@
 |assets/prefabs/building/floor.ladder.hatch/effects/door-ladder-hatch-deploy.prefab|
 |assets/prefabs/building/floor.ladder.hatch/effects/door-ladder-hatch-open-start.prefab|
 |assets/prefabs/building/ladder.wall.wood/effects/wood-ladder-deploy.prefab|
+|assets/prefabs/building/legacy.shelter.wood/effects/legacy-shelter-deploy.prefab|
 |assets/prefabs/building/wall.external.high.stone/effects/wall-external-stone-deploy.prefab|
 |assets/prefabs/building/wall.external.high.wood/effects/wall-external-wood-deploy.prefab|
 |assets/prefabs/building/wall.frame.cell/effects/cell-wall-door-deploy.prefab|
@@ -910,10 +911,11 @@
 |assets/prefabs/deployable/frankensteintable/effects/frankenstein-table-deploy.prefab|
 |assets/prefabs/deployable/frankensteintable/effects/mixingtable.enabled.vfx.prefab|
 |assets/prefabs/deployable/fridge/effects/fridge-deploy.prefab|
-|assets/prefabs/deployable/furnace.large/effects/furnace-large-deploy.prefab|
+|assets/prefabs/deployable/furnace.large/effects/enabled.prefab|
 |assets/prefabs/deployable/furnace/effects/furnace-deploy.prefab|
 |assets/prefabs/deployable/lantern/effects/lantern-deploy.prefab|
 |assets/prefabs/deployable/large wood storage/effects/large-wood-box-deploy.prefab|
+|assets/prefabs/deployable/legacyfurnace/effects/small_furnace_particles.prefab|
 |assets/prefabs/deployable/liquidbarrel/effects/liquid-barrel-deploy.prefab|
 |assets/prefabs/deployable/liquidbarrel/effects/splashloop.prefab|
 |assets/prefabs/deployable/liquidbarrel/effects/taploop.prefab|
@@ -1037,6 +1039,8 @@
 |assets/prefabs/misc/casino/slotmachine/effects/payout_jackpot.prefab|
 |assets/prefabs/misc/chinesenewyear/dragondoorknocker/effects/door_knock_fx.prefab|
 |assets/prefabs/misc/chinesenewyear/throwablefirecrackers/effects/throw.prefab|
+|assets/prefabs/misc/confetticannon/effects/confetticannon blast.prefab|
+|assets/prefabs/misc/confetticannon/effects/confetti-cannon-deploy.prefab|
 |assets/prefabs/misc/decor_dlc/bardoors/effects/bar-doors-close.prefab|
 |assets/prefabs/misc/decor_dlc/bardoors/effects/bar-doors-deploy.prefab|
 |assets/prefabs/misc/decor_dlc/bardoors/effects/bar-doors-open.prefab|
@@ -1101,6 +1105,10 @@
 |assets/prefabs/misc/orebonus/effects/bonus_hit.prefab|
 |assets/prefabs/misc/orebonus/effects/hotspot_death.prefab|
 |assets/prefabs/misc/orebonus/effects/ore_finish.prefab|
+|assets/prefabs/misc/pinata/effects/pinata-deploy.prefab|
+|assets/prefabs/misc/pinata/effects/pinata-destroy.prefab|
+|assets/prefabs/misc/pinata/effects/pinata-impact.prefab|
+|assets/prefabs/misc/pinata/effects/pinata-stage-destroy.prefab|
 |assets/prefabs/misc/summer_dlc/abovegroundpool/effects/above-ground-pool-deploy.prefab|
 |assets/prefabs/misc/summer_dlc/beach_chair/effects/beach-chair-deploy.prefab|
 |assets/prefabs/misc/summer_dlc/beach_chair/effects/beach-parasol-deploy.prefab|
@@ -1616,6 +1624,10 @@
 |assets/prefabs/weapons/m39 emr/effects/reload_start.prefab|
 |assets/prefabs/weapons/m39 emr/effects/w_drop_magazine.prefab|
 |assets/prefabs/weapons/m39 emr/effects/w_eject_rifle_shell.prefab|
+|assets/prefabs/weapons/m4 shotgun/effects/attack.prefab|
+|assets/prefabs/weapons/m4 shotgun/effects/dryfire.prefab|
+|assets/prefabs/weapons/m4 shotgun/effects/eject_shell.prefab|
+|assets/prefabs/weapons/m4 shotgun/effects/w_eject_shotgun_shell.prefab|
 |assets/prefabs/weapons/m92/effects/attack.prefab|
 |assets/prefabs/weapons/m92/effects/attack_muzzlebrake.prefab|
 |assets/prefabs/weapons/m92/effects/attack_shake.prefab|
