@@ -309,6 +309,7 @@
 |assets/content/player/poses/testpose.asset|
 |assets/content/player/poses/twerk.asset|
 |assets/content/player/poses/wave.asset|
+|assets/content/player/server side ragdoll bone pos data.asset|
 |assets/content/properties/armor/armor.all.asset|
 |assets/content/properties/armor/armor.body.asset|
 |assets/content/properties/armor/armor.bodylegs.asset|
@@ -647,6 +648,7 @@
 |assets/content/properties/lootspawn/collections/lr300 with ammo.asset|
 |assets/content/properties/lootspawn/collections/m249 with ammo.asset|
 |assets/content/properties/lootspawn/collections/m39 with ammo.asset|
+|assets/content/properties/lootspawn/collections/m4 with ammo.asset|
 |assets/content/properties/lootspawn/collections/m92 with ammo.asset|
 |assets/content/properties/lootspawn/collections/mgl/mgl.asset|
 |assets/content/properties/lootspawn/collections/mgl/mgl_ammo.asset|
@@ -885,6 +887,7 @@
 |assets/content/properties/lootspawn/generated/items/attire/hazmatsuit.nomadsuit.asset|
 |assets/content/properties/lootspawn/generated/items/attire/hazmatsuit.spacesuit.asset|
 |assets/content/properties/lootspawn/generated/items/attire/hazmatsuit_scientist.asset|
+|assets/content/properties/lootspawn/generated/items/attire/hazmatsuittwitch.asset|
 |assets/content/properties/lootspawn/generated/items/attire/heavy.plate.helmet.asset|
 |assets/content/properties/lootspawn/generated/items/attire/heavy.plate.jacket.asset|
 |assets/content/properties/lootspawn/generated/items/attire/heavy.plate.pants.asset|
@@ -1002,6 +1005,7 @@
 |assets/content/properties/lootspawn/generated/items/construction/gates.external.high.stone.asset|
 |assets/content/properties/lootspawn/generated/items/construction/gates.external.high.wood.asset|
 |assets/content/properties/lootspawn/generated/items/construction/ladder.wooden.wall.asset|
+|assets/content/properties/lootspawn/generated/items/construction/legacy.shelter.wood.asset|
 |assets/content/properties/lootspawn/generated/items/construction/lock.code.asset|
 |assets/content/properties/lootspawn/generated/items/construction/lock.key.asset|
 |assets/content/properties/lootspawn/generated/items/construction/mining.quarry.asset|
@@ -1086,6 +1090,7 @@
 |assets/content/properties/lootspawn/generated/items/electrical/storage.monitor.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/storageadaptor.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/target.reactive.asset|
+|assets/content/properties/lootspawn/generated/items/electrical/twitchrivals2023desk.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/waterpump.asset|
 |assets/content/properties/lootspawn/generated/items/food/apple.asset|
 |assets/content/properties/lootspawn/generated/items/food/bearmeat.asset|
@@ -1299,6 +1304,7 @@
 |assets/content/properties/lootspawn/generated/items/items/table.asset|
 |assets/content/properties/lootspawn/generated/items/items/target.reactive.asset|
 |assets/content/properties/lootspawn/generated/items/items/tunalight.asset|
+|assets/content/properties/lootspawn/generated/items/items/twitchrivals2023desk.asset|
 |assets/content/properties/lootspawn/generated/items/items/twowaymirror.window.asset|
 |assets/content/properties/lootspawn/generated/items/items/vending.machine.asset|
 |assets/content/properties/lootspawn/generated/items/items/water.barrel.asset|
@@ -1464,6 +1470,7 @@
 |assets/content/properties/lootspawn/generated/items/weapon/salvaged.cleaver.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/salvaged.sword.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/shotgun.double.asset|
+|assets/content/properties/lootspawn/generated/items/weapon/shotgun.m4.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/shotgun.pump.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/shotgun.spas12.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/shotgun.waterpipe.asset|
@@ -1698,8 +1705,10 @@
 |assets/content/properties/protection/corpse_protection.asset|
 |assets/content/properties/protection/debrisbuildingblocker.asset|
 |assets/content/properties/protection/deployablegeneric.asset|
+|assets/content/properties/protection/deployablegenericdense.asset|
 |assets/content/properties/protection/deployablelighting.asset|
 |assets/content/properties/protection/deployablemetal.asset|
+|assets/content/properties/protection/deployablepinata.asset|
 |assets/content/properties/protection/deployablewindmill.asset|
 |assets/content/properties/protection/deployablewood.asset|
 |assets/content/properties/protection/doors/metaldoor.asset|
@@ -1782,6 +1791,7 @@
 |assets/content/properties/recoil/lr300.recoil.asset|
 |assets/content/properties/recoil/m249recoil.asset|
 |assets/content/properties/recoil/m39recoil.asset|
+|assets/content/properties/recoil/m4recoil.asset|
 |assets/content/properties/recoil/m92recoil.asset|
 |assets/content/properties/recoil/mp5recoil.asset|
 |assets/content/properties/recoil/new/ak47.recoil.nopattern.asset|
@@ -1826,7 +1836,6 @@
 |assets/content/properties/spawnpopulation/logs_wet.asset|
 |assets/content/properties/spawnpopulation/loot.asset|
 |assets/content/properties/spawnpopulation/ores.asset|
-|assets/content/properties/spawnpopulation/ores.barren.asset|
 |assets/content/properties/spawnpopulation/ores_sand.asset|
 |assets/content/properties/spawnpopulation/ores_snow.asset|
 |assets/content/properties/spawnpopulation/plant-berry-black.asset|
@@ -3499,6 +3508,7 @@
 |assets/content/sound/soundclasses/npc-idle.sound-class.asset|
 |assets/content/sound/soundclasses/npc-important.sound-class.asset|
 |assets/content/sound/soundclasses/object-deploy.sound-class.asset|
+|assets/content/sound/soundclasses/object-deploy-no-occlusion.sound-class.asset|
 |assets/content/sound/soundclasses/object-idle.sound-class.asset|
 |assets/content/sound/soundclasses/object-idle-accent.sound-class.asset|
 |assets/content/sound/soundclasses/object-idle-minor.sound-class.asset|
@@ -4168,6 +4178,7 @@
 |assets/content/vehicles/boats/cargoship/sound/deck_ambience.asset|
 |assets/content/vehicles/boats/cargoship/sound/horn.asset|
 |assets/content/vehicles/boats/cargoship/sound/radiation_alarm.asset|
+|assets/content/vehicles/boats/cargoship/sound/radiation_alarm_far.asset|
 |assets/content/vehicles/boats/cargoship/sound/rear_ambience.asset|
 |assets/content/vehicles/boats/kayak/sound/kayak-dismount.asset|
 |assets/content/vehicles/boats/kayak/sound/kayak-impact.asset|
@@ -4844,6 +4855,7 @@
 |assets/prefabs/building/floor.grill/sound/floor-grill-deploy.asset|
 |assets/prefabs/building/floor.ladder.hatch/sound/ladder-hatch-deploy.asset|
 |assets/prefabs/building/ladder.wall.wood/sound/wood-ladder-deploy.asset|
+|assets/prefabs/building/legacy.shelter.wood/sound/legacy-shelter-deploy.asset|
 |assets/prefabs/building/powerline.zipline/sound/zipline-dismount.asset|
 |assets/prefabs/building/powerline.zipline/sound/zipline-friction-loop.asset|
 |assets/prefabs/building/powerline.zipline/sound/zipline-mount.asset|
@@ -5050,6 +5062,7 @@
 |assets/prefabs/deployable/chinooklockedcrate/hack_progress_beep.asset|
 |assets/prefabs/deployable/chinooklockedcrate/laptoploop.asset|
 |assets/prefabs/deployable/chinooklockedcrate/unlocked.asset|
+|assets/prefabs/deployable/computerstation/computerstation.skinnable.asset|
 |assets/prefabs/deployable/computerstation/computer-station-on-loop.asset|
 |assets/prefabs/deployable/computerstation/computer-station-turn-off.asset|
 |assets/prefabs/deployable/computerstation/computer-station-turn-on.asset|
@@ -5134,6 +5147,7 @@
 |assets/prefabs/deployable/large wood storage/sound/large-wood-box-close.asset|
 |assets/prefabs/deployable/large wood storage/sound/large-wood-box-deploy.asset|
 |assets/prefabs/deployable/large wood storage/sound/large-wood-box-open.asset|
+|assets/prefabs/deployable/legacyfurnace/legacyfurnace.skin.asset|
 |assets/prefabs/deployable/liquidbarrel/sound/liquid-barrel-close.asset|
 |assets/prefabs/deployable/liquidbarrel/sound/liquid-barrel-deploy.asset|
 |assets/prefabs/deployable/liquidbarrel/sound/liquid-barrel-open.asset|
@@ -5469,6 +5483,7 @@
 |assets/prefabs/misc/buildingskins/adobe/adobe.sitem.asset|
 |assets/prefabs/misc/buildingskins/brick/brick.sitem.asset|
 |assets/prefabs/misc/buildingskins/brutalist/brutalist.sitem.asset|
+|assets/prefabs/misc/buildingskins/frontier/frontier.sitem.asset|
 |assets/prefabs/misc/buildingskins/shippingcontainer/shippingcontainer.sitem.asset|
 |assets/prefabs/misc/burlap sack/sounds/burlap-sack-impact-hard.asset|
 |assets/prefabs/misc/burlap sack/sounds/burlap-sack-impact-med.asset|
@@ -5504,6 +5519,9 @@
 |assets/prefabs/misc/chinesenewyear/tigermask/tigermask.sitem.asset|
 |assets/prefabs/misc/chippy arcade/chippyarcade.sitem.asset|
 |assets/prefabs/misc/chippy arcade/chippygame/sound/chiptune.asset|
+|assets/prefabs/misc/confetticannon/sound/confetti-cannon-deploy.asset|
+|assets/prefabs/misc/confetticannon/sound/confetti-cannon-fire.asset|
+|assets/prefabs/misc/confetticannon/sound/confetti-cannon-ignite-fuse.asset|
 |assets/prefabs/misc/decor_dlc/bardoors/sound/bar-doors-close.asset|
 |assets/prefabs/misc/decor_dlc/bardoors/sound/bar-doors-deploy.asset|
 |assets/prefabs/misc/decor_dlc/bardoors/sound/bar-doors-kick.asset|
@@ -5634,6 +5652,9 @@
 |assets/prefabs/misc/parachute/sound/parachute-steer.asset|
 |assets/prefabs/misc/permstore/factorydoor/door.hinged.metal.industrial.d.skin.asset|
 |assets/prefabs/misc/permstore/industriallight/industrial.lights.sitem.asset|
+|assets/prefabs/misc/pinata/sound/pinata-deploy.asset|
+|assets/prefabs/misc/pinata/sound/pinata-destroy.asset|
+|assets/prefabs/misc/pinata/sound/pinata-impact.asset|
 |assets/prefabs/misc/summer_dlc/abovegroundpool/sound/above-ground-pool-deploy.asset|
 |assets/prefabs/misc/summer_dlc/beach_chair/beachchair.skinnable.asset|
 |assets/prefabs/misc/summer_dlc/beach_chair/beachparasol.skinnable.asset|
@@ -5752,12 +5773,14 @@
 |assets/prefabs/misc/summer_dlc/waterpistol/sound/water-pistol-shoot.asset|
 |assets/prefabs/misc/summer_dlc/waterpistol/sound/water-pistol-trigger-back.asset|
 |assets/prefabs/misc/trophy/twitchtrophy.sitem.asset|
+|assets/prefabs/misc/trophy_2023/twitchtrophy_2023.sitem.asset|
 |assets/prefabs/misc/twitch/blocky_sunglasses/twitchsunglasses.sitem.asset|
 |assets/prefabs/misc/twitch/headsetcap/skins/hat.cap_headset.twitch.itemskin.asset|
 |assets/prefabs/misc/twitch/headsetcap/twitchheadset.sitem.asset|
 |assets/prefabs/misc/twitch/headsetcap/twitchheadset.skinnable.asset|
 |assets/prefabs/misc/twitch/hobobarrel/hobobarrel.sitem.asset|
 |assets/prefabs/misc/twitch/industrialdoora/door.hinged.metal.industrial.a.skin.asset|
+|assets/prefabs/misc/twitch/twitch_rivals_2023_desk/twitchrivals.sitem.asset|
 |assets/prefabs/misc/twitch/underwear/twitchunderwear.sitem.asset|
 |assets/prefabs/misc/xmas/advent_calendar/sound/advent-calendar-deploy.asset|
 |assets/prefabs/misc/xmas/advent_calendar/sound/advent-calendar-open.asset|
@@ -6309,6 +6332,7 @@
 |assets/prefabs/weapons/chainsaw/sound/chainsaw-rev-down.asset|
 |assets/prefabs/weapons/chainsaw/sound/chainsaw-rev-up.asset|
 |assets/prefabs/weapons/chainsaw/sound/chainsaw-unscrew-gascap.asset|
+|assets/prefabs/weapons/chocolate_cake/material/ssp_birthdaycake_10.asset|
 |assets/prefabs/weapons/cleaver big/sound/2handed-cleaver-attack.asset|
 |assets/prefabs/weapons/cleaver big/sound/2handed-cleaver-attack-3p.asset|
 |assets/prefabs/weapons/cleaver big/sound/2handed-cleaver-deploy.asset|
@@ -6493,6 +6517,7 @@
 |assets/prefabs/weapons/l96/sound/l96-reload-finish.asset|
 |assets/prefabs/weapons/l96/sound/l96-reload-start.asset|
 |assets/prefabs/weapons/l96/sound/l96-remove-mag.asset|
+|assets/prefabs/weapons/legacy bow/legacybow.skin.asset|
 |assets/prefabs/weapons/lr300/lr300.skinnable.asset|
 |assets/prefabs/weapons/lr300/sound/lr300-attack.asset|
 |assets/prefabs/weapons/lr300/sound/lr300-attack-silenced.asset|
@@ -6545,6 +6570,17 @@
 |assets/prefabs/weapons/m39 emr/sound/m39-insert-mag.asset|
 |assets/prefabs/weapons/m39 emr/sound/m39-reload-start.asset|
 |assets/prefabs/weapons/m39 emr/sound/m39-remove-mag.asset|
+|assets/prefabs/weapons/m4 shotgun/sound/m4-shotgun-admire-finish.asset|
+|assets/prefabs/weapons/m4 shotgun/sound/m4-shotgun-admire-rotate.asset|
+|assets/prefabs/weapons/m4 shotgun/sound/m4-shotgun-admire-start.asset|
+|assets/prefabs/weapons/m4 shotgun/sound/m4-shotgun-deploy.asset|
+|assets/prefabs/weapons/m4 shotgun/sound/m4-shotgun-gunshot-body.asset|
+|assets/prefabs/weapons/m4 shotgun/sound/m4-shotgun-gunshot-lfe.asset|
+|assets/prefabs/weapons/m4 shotgun/sound/m4-shotgun-gunshot-mech.asset|
+|assets/prefabs/weapons/m4 shotgun/sound/m4-shotgun-gunshot-tail-outdoor.asset|
+|assets/prefabs/weapons/m4 shotgun/sound/m4-shotgun-reload-finish.asset|
+|assets/prefabs/weapons/m4 shotgun/sound/m4-shotgun-reload-insert-shell.asset|
+|assets/prefabs/weapons/m4 shotgun/sound/m4-shotgun-reload-start.asset|
 |assets/prefabs/weapons/m92/sounds/m92-attack.asset|
 |assets/prefabs/weapons/m92/sounds/m92-attack-silenced.asset|
 |assets/prefabs/weapons/m92/sounds/m92-clip-in.asset|
