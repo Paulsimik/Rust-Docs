@@ -59,6 +59,7 @@
 |![](https://rustlabs.com/img/items180/gates.external.high.stone.png)|High External Stone Gate|gates.external.high.stone|-691113464|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/gates.external.high.wood.png)|High External Wooden Gate|gates.external.high.wood|-335089230|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/ladder.wooden.wall.png)|Wooden Ladder|ladder.wooden.wall|-316250604|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/legacy.shelter.wood.png)|Legacy Wood Shelter|legacy.shelter.wood|607400343|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/wall.external.high.stone.png)|High External Stone Wall|wall.external.high.stone|-967648160|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/wall.external.high.png)|High External Wooden Wall|wall.external.high|99588025|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/wall.frame.cell.gate.png)|Prison Cell Gate|wall.frame.cell.gate|-956706906|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
@@ -151,6 +152,7 @@
 |![](https://rustlabs.com/img/items180/hazmatsuit_scientist_nvgm.png)|NVGM Scientist Suit|hazmatsuit_scientist_nvgm|86840834|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
 |![](https://rustlabs.com/img/items180/hazmatsuit_scientist_peacekeeper.png)|Scientist Suit|hazmatsuit_scientist_peacekeeper|-1958316066|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
 |![](https://rustlabs.com/img/items180/hazmatsuit.spacesuit.png)|Space Suit|hazmatsuit.spacesuit|-560304835|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
+|![](https://rustlabs.com/img/items180/hazmatsuittwitch.png)|Twitch Rivals Hazmat Suit|hazmatsuittwitch|468313189|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
 |![](https://rustlabs.com/img/items180/scientistsuit_heavy.png)|Heavy Scientist Suit|scientistsuit_heavy|-1772746857|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
 |![](https://rustlabs.com/img/items180/jumpsuit.suit.blue.png)|Blue Jumpsuit|jumpsuit.suit.blue|1601468620|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/jumpsuit.suit.png)|Jumpsuit|jumpsuit.suit|-97459906|ItemModWearable<br>ItemBlueprint<br>|
@@ -244,6 +246,7 @@
 |![](https://rustlabs.com/img/items180/trap.landmine.png)|Homemade Landmine|trap.landmine|-1663759755|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/lantern.png)|Lantern|lantern|1658229558|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>ItemModContainer<br>|
 |![](https://rustlabs.com/img/items180/box.wooden.large.png)|Large Wood Box|box.wooden.large|833533164|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/legacyfurnace.png)|Legacy Furnace|legacyfurnace|-1310391395|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/water.barrel.png)|Water Barrel|water.barrel|-1863559151|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/locker.png)|Locker|locker|-110921842|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/mailbox.png)|Mail Box|mailbox|-586784898|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
@@ -436,6 +439,7 @@
 |![](https://rustlabs.com/img/items180/lunar.firecrackers.png)|Firecracker String|lunar.firecrackers|-1961560162|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/hat.tigermask.png)|Tiger Mask|hat.tigermask|709206314|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/arcade.machine.chippy.png)|Chippy Arcade Game|arcade.machine.chippy|359723196|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/confetticannon.png)|Confetti Cannon|confetticannon|1603174987|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/door.double.hinged.bardoors.png)|Wooden Frontier Bar Doors|door.double.hinged.bardoors|-1151332840|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/bathtub.planter.png)|Bath Tub Planter|bathtub.planter|-1274093662|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/head.bag.png)|Head Bag|head.bag|209218760|ItemModHead<br>ItemMod<br>|
@@ -515,6 +519,8 @@
 |![](https://rustlabs.com/img/items180/blueidtag.png)|Blue ID Tag|blueidtag|1364514421||
 |![](https://rustlabs.com/img/items180/grayidtag.png)|Gray ID Tag|grayidtag|-455286320||
 |![](https://rustlabs.com/img/items180/greenidtag.png)|Green ID Tag|greenidtag|1762167092||
+|![](https://rustlabs.com/img/items180/lavenderidtag.png)|Lavender ID Tag|lavenderidtag|1223729384||
+|![](https://rustlabs.com/img/items180/mintidtag.png)|Mint ID Tag|mintidtag|1572152877||
 |![](https://rustlabs.com/img/items180/orangeidtag.png)|Orange ID Tag|orangeidtag|-282193997||
 |![](https://rustlabs.com/img/items180/pinkidtag.png)|Pink ID Tag|pinkidtag|180752235||
 |![](https://rustlabs.com/img/items180/purpleidtag.png)|Purple ID Tag|purpleidtag|-1386082991||
@@ -567,6 +573,7 @@
 |![](https://rustlabs.com/img/items180/industrial.wall.light.green.png)|Green Industrial Wall Light|industrial.wall.light.green|1268178466|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/industrial.wall.light.png)|Industrial Wall Light|industrial.wall.light|1623701499|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/industrial.wall.light.red.png)|Red Industrial Wall Light|industrial.wall.light.red|-1160621614|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
+|![](https://rustlabs.com/img/items180/pinata.png)|Pinata|pinata|-1442496789|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/skull.human.png)|Human Skull|skull.human|996293980|ItemModSwap<br>ItemModMenuOption<br>ItemModFishable<br>|
 |![](https://rustlabs.com/img/items180/abovegroundpool.png)|Above Ground Pool|abovegroundpool|1840570710|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/beachchair.png)|Beach Chair|beachchair|-321431890|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
@@ -593,10 +600,12 @@
 |![](https://rustlabs.com/img/items180/gun.water.png)|Water Gun|gun.water|722955039|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |![](https://rustlabs.com/img/items180/pistol.water.png)|Water Pistol|pistol.water|-1815301988|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |![](https://rustlabs.com/img/items180/trophy.png)|Twitch Rivals Trophy|trophy|975983052|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
+|![](https://rustlabs.com/img/items180/trophy2023.png)|Twitch Rivals Trophy 2023|trophy2023|-901370585|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/twitchsunglasses.png)|Purple Sunglasses|twitchsunglasses|20489901|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/twitch.headset.png)|Headset|twitch.headset|-1569700847|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/hobobarrel.png)|Hobo Barrel|hobobarrel|-1442559428|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/door.hinged.industrial.a.png)|Industrial Door|door.hinged.industrial.a|818733919|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/twitchrivals2023desk.png)|Twitch Rivals Desk|twitchrivals2023desk|-243540612|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/xmas.advent.png)|Advent Calendar|xmas.advent|-2027793839|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/candycaneclub.png)|Candy Cane Club|candycaneclub|1789825282|ItemModEntity<br>ItemModProjectile<br>ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>|
 |![](https://rustlabs.com/img/items180/xmas.lightstring.png)|Christmas Lights|xmas.lightstring|1058261682|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>PropRenderer<br>|
@@ -848,9 +857,11 @@
 |![](https://rustlabs.com/img/items180/homingmissile.launcher.png)|Homing Missile Launcher|homingmissile.launcher|-218009552|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/knife.combat.png)|Combat Knife|knife.combat|2040726127|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |![](https://rustlabs.com/img/items180/rifle.l96.png)|L96 Rifle|rifle.l96|-778367295|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
+|![](https://rustlabs.com/img/items180/legacy bow.png)|Legacy bow|legacy bow|-73195037|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/rifle.lr300.png)|LR-300 Assault Rifle|rifle.lr300|-1812555177|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |![](https://rustlabs.com/img/items180/lmg.m249.png)|M249|lmg.m249|-2069578888|ItemModEntity<br>ItemModContainer<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/rifle.m39.png)|M39 Rifle|rifle.m39|28201841|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>ItemModRackMountable<br>|
+|![](https://rustlabs.com/img/items180/shotgun.m4.png)|M4 Shotgun|shotgun.m4|678698219|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |![](https://rustlabs.com/img/items180/pistol.m92.png)|M92 Pistol|pistol.m92|-852563019|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |![](https://rustlabs.com/img/items180/mace.png)|Mace|mace|-1966748496|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |![](https://rustlabs.com/img/items180/machete.png)|Machete|machete|-1137865085|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
