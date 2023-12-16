@@ -1918,6 +1918,7 @@
 |assets/content/properties/steamcategories/earlyaccessgift.asset|
 |assets/content/properties/steamcategories/item-free-dropped.steam.asset|
 |assets/content/properties/steamcategories/item-normal.steam.asset|
+|assets/content/properties/steamcategories/limited-350.asset|
 |assets/content/properties/steamcategories/limited-chinese-newyear-2019.steam.asset|
 |assets/content/properties/steamcategories/limited-chinese-newyear-2019-cheap.steam.asset|
 |assets/content/properties/steamcategories/limited-chinese-newyear-2019-medium.steam.asset|
