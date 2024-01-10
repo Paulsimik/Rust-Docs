@@ -1951,6 +1951,8 @@
 |assets/content/properties/steamcategories/limited-christmas2019-expensive.steam.asset|
 |assets/content/properties/steamcategories/limited-christmas2019-legacy.steam.asset|
 |assets/content/properties/steamcategories/limited-christmas2020-1500.steam.asset|
+|assets/content/properties/steamcategories/limited-christmas2020-250.steam.asset|
+|assets/content/properties/steamcategories/limited-christmas2020-300.steam.asset|
 |assets/content/properties/steamcategories/limited-christmas2020-350.steam.asset|
 |assets/content/properties/steamcategories/limited-christmas2020-400.steam.asset|
 |assets/content/properties/steamcategories/limited-christmas2020-500.steam.asset|
@@ -5412,6 +5414,8 @@
 |assets/prefabs/deployable/woodenbox/sound/small-wooden-box-deploy.asset|
 |assets/prefabs/deployable/woodenbox/sound/small-wooden-box-open.asset|
 |assets/prefabs/deployable/woodenbox/woodbox_deployed.skinnable.asset|
+|assets/prefabs/deployable/youtooz_figurines/youtooz_hazmat.skin.asset|
+|assets/prefabs/deployable/youtooz_figurines/youtooz_heavy.skin.asset|
 |assets/prefabs/food/berries/sound/ui-berries-drop.asset|
 |assets/prefabs/food/berries/sound/ui-berries-pick-up.asset|
 |assets/prefabs/food/bota bag/sound/bota-bag-cork-squeak.asset|
