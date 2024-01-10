@@ -904,6 +904,8 @@
 |electric.windmill.small|1192074893|ElectricWindmill<br>BaseCombatEntity<br>DecayEntity<br>MeshCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>Model<br>|assets/prefabs/deployable/windmill/electric.windmill.small.prefab|
 |generator.wind.scrap|3038465934|SimpleBuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/prefabs/deployable/windmill/generator.wind.scrap.prefab|
 |woodbox_deployed|1560881570|BoxStorage<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/woodenbox/woodbox_deployed.prefab|
+|Hazmat_Youtooz.deployed|1290959361|GroundWatch<br>DestroyOnGroundMissing<br>DeployedFigurine<br>EntityFlag_Toggle<br>BoxCollider<br>BoxCollider<br>|assets/prefabs/deployable/youtooz_figurines/hazmat_youtooz.deployed.prefab|
+|HeavyScientist_Youtooz.deployed|801665394|GroundWatch<br>DestroyOnGroundMissing<br>DeployedFigurine<br>BoxCollider<br>BoxCollider<br>EntityFlag_Toggle<br>|assets/prefabs/deployable/youtooz_figurines/heavyscientist_youtooz.deployed.prefab|
 |bota_bag.entity|1851422019|BaseLiquidVessel<br>HeldEntity<br>|assets/prefabs/food/bota bag/bota_bag.entity.prefab|
 |smallwaterbottle.entity|139849256|BaseLiquidVessel<br>HeldEntity<br>|assets/prefabs/food/small water bottle/smallwaterbottle.entity.prefab|
 |waterjug.entity|366999130|BaseLiquidVessel<br>HeldEntity<br>|assets/prefabs/food/water jug/waterjug.entity.prefab|
@@ -1345,7 +1347,7 @@
 |pumpkin.entity|1524652375|GrowableEntity<br>BoxCollider<br>|assets/prefabs/plants/pumpkin/pumpkin.entity.prefab|
 |player|4108440852|BasePlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>PlayerModifiers<br>|assets/prefabs/player/player.prefab|
 |player_corpse|2604534927|PlayerCorpse<br>BaseCombatEntity<br>BaseCorpse<br>HumanBodyResourceDispenser<br>Buoyancy<br>HeadDispenser<br>|assets/prefabs/player/player_corpse.prefab|
-|player_corpse_new|391715894|PlayerCorpse<br>BaseCombatEntity<br>BaseCorpse<br>HumanBodyResourceDispenser<br>Buoyancy<br>SkinnedMultiMesh<br>Skeleton<br>PlayerModel<br>Model<br>Ragdoll<br>Rigidbody<br>DrawSkeleton<br>BoxCollider<br>|assets/prefabs/player/player_corpse_new.prefab|
+|player_corpse_new|391715894|PlayerCorpse<br>BaseCombatEntity<br>BaseCorpse<br>HumanBodyResourceDispenser<br>SkinnedMultiMesh<br>Skeleton<br>PlayerModel<br>Model<br>Ragdoll<br>Rigidbody<br>DrawSkeleton<br>BoxCollider<br>Buoyancy<br>HeadDispenser<br>|assets/prefabs/player/player_corpse_new.prefab|
 |diesel_barrel_world|4140706055|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/resource/diesel barrel/diesel_barrel_world.prefab|
 |horsedung.entity|2046937803|BaseMelee<br>HeldEntity<br>|assets/prefabs/resource/horsedung/horsedung.entity.prefab|
 |binocular.entity|436023350|Binocular<br>HeldEntity<br>|assets/prefabs/tools/binoculars/binocular.entity.prefab|
