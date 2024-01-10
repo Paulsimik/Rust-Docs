@@ -357,6 +357,8 @@
 |![](https://rustlabs.com/img/items180/gunrack_wide.horizontal.png)|Wide Weapon Rack|gunrack_wide.horizontal|-96256997|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>ItemModChildIO<br>|
 |![](https://rustlabs.com/img/items180/generator.wind.scrap.png)|Wind Turbine|generator.wind.scrap|-1819763926|ItemModEntity<br>ItemModDeployable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/box.wooden.png)|Wood Storage Box|box.wooden|-180129657|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/hazmatyoutooz.png)|Hazmat Youtooz|hazmatyoutooz|-1696379844|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
+|![](https://rustlabs.com/img/items180/heavyscientistyoutooz.png)|Heavy Scientist Youtooz|heavyscientistyoutooz|-722629980|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/apple.png)|Apple|apple|1548091822|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>ItemModCompostable<br>|
 |![](https://rustlabs.com/img/items180/apple.spoiled.png)|Rotten Apple|apple.spoiled|352130972|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>ItemModCompostable<br>|
 |![](https://rustlabs.com/img/items180/black.raspberries.png)|Black Raspberries|black.raspberries|1931713481|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>ItemModCompostable<br>|
