@@ -898,6 +898,7 @@
 |assets/content/properties/lootspawn/generated/items/attire/horse.shoes.advanced.asset|
 |assets/content/properties/lootspawn/generated/items/attire/jacket.asset|
 |assets/content/properties/lootspawn/generated/items/attire/jacket.snow.asset|
+|assets/content/properties/lootspawn/generated/items/attire/largebackpack.asset|
 |assets/content/properties/lootspawn/generated/items/attire/leather.gloves.asset|
 |assets/content/properties/lootspawn/generated/items/attire/lumberjack hoodie.asset|
 |assets/content/properties/lootspawn/generated/items/attire/male_hairstyle_01.asset|
@@ -924,6 +925,7 @@
 |assets/content/properties/lootspawn/generated/items/attire/shirt.collared.asset|
 |assets/content/properties/lootspawn/generated/items/attire/shirt.tanktop.asset|
 |assets/content/properties/lootspawn/generated/items/attire/shoes.boots.asset|
+|assets/content/properties/lootspawn/generated/items/attire/smallbackpack.asset|
 |assets/content/properties/lootspawn/generated/items/attire/sunglasses.asset|
 |assets/content/properties/lootspawn/generated/items/attire/tactical.gloves.asset|
 |assets/content/properties/lootspawn/generated/items/attire/tshirt.asset|
@@ -1222,6 +1224,7 @@
 |assets/content/properties/lootspawn/generated/items/items/chair.asset|
 |assets/content/properties/lootspawn/generated/items/items/chair.icethrone.asset|
 |assets/content/properties/lootspawn/generated/items/items/chineselantern.asset|
+|assets/content/properties/lootspawn/generated/items/items/chineselanternwhite.asset|
 |assets/content/properties/lootspawn/generated/items/items/drone.asset|
 |assets/content/properties/lootspawn/generated/items/items/dropbox.asset|
 |assets/content/properties/lootspawn/generated/items/items/fireplace.stone.asset|
@@ -1408,6 +1411,7 @@
 |assets/content/properties/lootspawn/generated/items/tool/keycard_green.asset|
 |assets/content/properties/lootspawn/generated/items/tool/lumberjack.hatchet.asset|
 |assets/content/properties/lootspawn/generated/items/tool/lumberjack.pickaxe.asset|
+|assets/content/properties/lootspawn/generated/items/tool/metal.detector.asset|
 |assets/content/properties/lootspawn/generated/items/tool/pickaxe.asset|
 |assets/content/properties/lootspawn/generated/items/tool/rf.detonator.asset|
 |assets/content/properties/lootspawn/generated/items/tool/sickle.asset|
@@ -1534,6 +1538,7 @@
 |assets/content/properties/lootspawn/halloween/scarecrowhat.asset|
 |assets/content/properties/lootspawn/halloween/spiderwebs.asset|
 |assets/content/properties/lootspawn/halloween/vampirestake.asset|
+|assets/content/properties/lootspawn/largebackpack.asset|
 |assets/content/properties/lootspawn/lootspawn.barrel.asset|
 |assets/content/properties/lootspawn/lootspawn.barrelbetter.asset|
 |assets/content/properties/lootspawn/lootspawn.barrelcommon.asset|
@@ -5637,7 +5642,15 @@
 |assets/prefabs/misc/halloween/trophy skulls/skulltrophy.sitem.asset|
 |assets/prefabs/misc/halloween/trophy skulls/skulltrophy.skinnable.asset|
 |assets/prefabs/misc/item drop/sounds/backpack-close.asset|
+|assets/prefabs/misc/item drop/sounds/backpack-drop-physics.asset|
+|assets/prefabs/misc/item drop/sounds/backpack-drop-ui.asset|
 |assets/prefabs/misc/item drop/sounds/backpack-open.asset|
+|assets/prefabs/misc/item drop/sounds/backpack-pickup.asset|
+|assets/prefabs/misc/item drop/sounds/backpack-small-close.asset|
+|assets/prefabs/misc/item drop/sounds/backpack-small-drop-physics.asset|
+|assets/prefabs/misc/item drop/sounds/backpack-small-drop-ui.asset|
+|assets/prefabs/misc/item drop/sounds/backpack-small-open.asset|
+|assets/prefabs/misc/item drop/sounds/backpack-small-pickup.asset|
 |assets/prefabs/misc/item drop/sounds/hard-case-close.asset|
 |assets/prefabs/misc/item drop/sounds/hard-case-open.asset|
 |assets/prefabs/misc/marketplace/cobaltdeliverydroneconfig.asset|
@@ -6177,6 +6190,24 @@
 |assets/prefabs/tools/medical syringe/sound/syringe-inject-self-foley.asset|
 |assets/prefabs/tools/medical syringe/sound/syringe-pop-button-cap.asset|
 |assets/prefabs/tools/medical syringe/sound/syringe-pop-cap.asset|
+|assets/prefabs/tools/metaldetector/diggablelootspawn.arctic.asset|
+|assets/prefabs/tools/metaldetector/diggablelootspawn.arctictundra.asset|
+|assets/prefabs/tools/metaldetector/diggablelootspawn.arid.asset|
+|assets/prefabs/tools/metaldetector/diggablelootspawn.beach.asset|
+|assets/prefabs/tools/metaldetector/diggablelootspawn.field.asset|
+|assets/prefabs/tools/metaldetector/diggablelootspawn.forest.asset|
+|assets/prefabs/tools/metaldetector/diggablelootspawn.global.asset|
+|assets/prefabs/tools/metaldetector/diggablelootspawn.lakeriver.asset|
+|assets/prefabs/tools/metaldetector/diggablelootspawn.roadside.asset|
+|assets/prefabs/tools/metaldetector/diggablelootspawn.temperate.asset|
+|assets/prefabs/tools/metaldetector/diggablelootspawn.tundra.asset|
+|assets/prefabs/tools/metaldetector/metaldetectorsource.population.asset|
+|assets/prefabs/tools/metaldetector/sound/metal-detector-beep.asset|
+|assets/prefabs/tools/metaldetector/sound/metal-detector-deploy.asset|
+|assets/prefabs/tools/metaldetector/sound/metal-detector-lower.asset|
+|assets/prefabs/tools/metaldetector/sound/metal-detector-place-flag.asset|
+|assets/prefabs/tools/metaldetector/sound/metal-detector-raise.asset|
+|assets/prefabs/tools/metaldetector/sound/metal-detector-swing.asset|
 |assets/prefabs/tools/pager/sound/beep.asset|
 |assets/prefabs/tools/pager/sound/vibrate.asset|
 |assets/prefabs/tools/pipe/sound/pipe-wrench-clear-start.asset|
@@ -6186,6 +6217,8 @@
 |assets/prefabs/tools/pipe/sound/pipe-wrench-swing.asset|
 |assets/prefabs/tools/planner/sound/planner-deploy.asset|
 |assets/prefabs/tools/planner/sound/planner-deploy-3p.asset|
+|assets/prefabs/tools/shovel/sounds/shovel-attack.asset|
+|assets/prefabs/tools/shovel/sounds/shovel-deploy.asset|
 |assets/prefabs/tools/smoke grenade/sound/ignite.asset|
 |assets/prefabs/tools/smoke grenade/sound/smoke_loop.asset|
 |assets/prefabs/tools/spraycan/freehandspray/freehandspray.item.asset|
@@ -6344,6 +6377,9 @@
 |assets/prefabs/weapons/cleaver big/sound/2handed-cleaver-deploy-3p.asset|
 |assets/prefabs/weapons/cleaver big/sound/2handed-cleaver-strike.asset|
 |assets/prefabs/weapons/cleaver big/sound/2handed-cleaver-strike-soft.asset|
+|assets/prefabs/weapons/cnyspear/clothmat_cnyspear.asset|
+|assets/prefabs/weapons/cnyspear/clothmat_cnyspear_projectile.asset|
+|assets/prefabs/weapons/cnyspear/cny_spear.itemskin.asset|
 |assets/prefabs/weapons/compound bow/sound/compound-bow-attack.asset|
 |assets/prefabs/weapons/compound bow/sound/compound-bow-charge-up.asset|
 |assets/prefabs/weapons/compound bow/sound/compound-bow-charge-up-complete.asset|
@@ -6579,8 +6615,10 @@
 |assets/prefabs/weapons/m4 shotgun/sound/m4-shotgun-admire-rotate.asset|
 |assets/prefabs/weapons/m4 shotgun/sound/m4-shotgun-admire-start.asset|
 |assets/prefabs/weapons/m4 shotgun/sound/m4-shotgun-deploy.asset|
+|assets/prefabs/weapons/m4 shotgun/sound/m4-shotgun-dryfire.asset|
 |assets/prefabs/weapons/m4 shotgun/sound/m4-shotgun-gunshot-body.asset|
 |assets/prefabs/weapons/m4 shotgun/sound/m4-shotgun-gunshot-lfe.asset|
+|assets/prefabs/weapons/m4 shotgun/sound/m4-shotgun-gunshot-lfe-suppressed.asset|
 |assets/prefabs/weapons/m4 shotgun/sound/m4-shotgun-gunshot-mech.asset|
 |assets/prefabs/weapons/m4 shotgun/sound/m4-shotgun-gunshot-tail-outdoor.asset|
 |assets/prefabs/weapons/m4 shotgun/sound/m4-shotgun-reload-finish.asset|
@@ -6723,16 +6761,21 @@
 |assets/prefabs/weapons/revolver/sound/revolver-shut-cylinder.asset|
 |assets/prefabs/weapons/rock/rock.skinnable.asset|
 |assets/prefabs/weapons/rock/sound/rock-deploy-3p.asset|
+|assets/prefabs/weapons/rocketlauncher/cny_dragonlauncher/rocket_launcher_dragon.skin.asset|
+|assets/prefabs/weapons/rocketlauncher/cny_dragonlauncher/sounds/dragon-rocket-launcher-attack.asset|
 |assets/prefabs/weapons/rocketlauncher/rocket_launcher.skinnable.asset|
 |assets/prefabs/weapons/rocketlauncher/sound/rocket_explosion.asset|
 |assets/prefabs/weapons/rocketlauncher/sound/rocketlauncher_attack.asset|
-|assets/prefabs/weapons/rocketlauncher/sound/rocketlauncher_deploy.asset|
 |assets/prefabs/weapons/rocketlauncher/sound/rocketlauncher_deploy-3p.asset|
-|assets/prefabs/weapons/rocketlauncher/sound/rocketlauncher_reload_begin.asset|
-|assets/prefabs/weapons/rocketlauncher/sound/rocketlauncher_reload_close_hatch.asset|
-|assets/prefabs/weapons/rocketlauncher/sound/rocketlauncher_reload_end.asset|
-|assets/prefabs/weapons/rocketlauncher/sound/rocketlauncher_reload_insert_rocket.asset|
-|assets/prefabs/weapons/rocketlauncher/sound/rocketlauncher_reload_open_hatch.asset|
+|assets/prefabs/weapons/rocketlauncher/sound/rocket-launcher-cny-admire-01.asset|
+|assets/prefabs/weapons/rocketlauncher/sound/rocket-launcher-cny-admire-02.asset|
+|assets/prefabs/weapons/rocketlauncher/sound/rocket-launcher-cny-admire-03.asset|
+|assets/prefabs/weapons/rocketlauncher/sound/rocket-launcher-deploy.asset|
+|assets/prefabs/weapons/rocketlauncher/sound/rocket-launcher-reload-close-hatch.asset|
+|assets/prefabs/weapons/rocketlauncher/sound/rocket-launcher-reload-finish.asset|
+|assets/prefabs/weapons/rocketlauncher/sound/rocket-launcher-reload-insert-rocket.asset|
+|assets/prefabs/weapons/rocketlauncher/sound/rocket-launcher-reload-open-hatch.asset|
+|assets/prefabs/weapons/rocketlauncher/sound/rocket-launcher-reload-start.asset|
 |assets/prefabs/weapons/salvaged_axe/sound/salvaged-axe-attack.asset|
 |assets/prefabs/weapons/salvaged_axe/sound/salvaged-axe-attack-3p.asset|
 |assets/prefabs/weapons/salvaged_axe/sound/salvaged-axe-deploy.asset|
@@ -6915,6 +6958,7 @@
 |assets/prefabs/weapons/waterbucket/sound/waterbucket-throw-3p.asset|
 |assets/prefabs/weapons/waterbucket/sound/waterspill.asset|
 |assets/prefabs/weapons/waterbucket/sound/well-waterproduction.asset|
+|assets/prefabs/weapons/wooden spear/spear_wooden.skinnable.asset|
 |assets/resources/train wagon loot data.asset|
 |assets/resources/worldspline prefab shared data.asset|
 |assets/rust.ai/agents/animal/animal.aidesign.asset|
