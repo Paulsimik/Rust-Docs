@@ -427,6 +427,7 @@
 |![](https://rustlabs.com/img/items180/lock.code.png)|Code Lock|lock.code|1159991980|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/blueprintbase.png)|Blueprint|blueprintbase|-996920608|ItemModMenuOption<br>ItemModStudyBlueprint<br>|
 |![](https://rustlabs.com/img/items180/chineselantern.png)|Chinese Lantern|chineselantern|-1916473915|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
+|![](https://rustlabs.com/img/items180/chineselanternwhite.png)|Chinese Lantern White|chineselanternwhite|-770304148|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |![](https://rustlabs.com/img/items180/dragondoorknocker.png)|Dragon Door Knocker|dragondoorknocker|-854270928|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/hat.dragonmask.png)|Dragon Mask|hat.dragonmask|-22883916|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/newyeargong.png)|New Year Gong|newyeargong|-961457160|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
@@ -529,6 +530,7 @@
 |![](https://rustlabs.com/img/items180/redidtag.png)|Red ID Tag|redidtag|70102328||
 |![](https://rustlabs.com/img/items180/whiteidtag.png)|White ID Tag|whiteidtag|22947882||
 |![](https://rustlabs.com/img/items180/yellowidtag.png)|Yellow ID Tag|yellowidtag|81423963||
+|![](https://rustlabs.com/img/items180/largebackpack.png)|Large Backpack|largebackpack|-907422733|ItemModWearable<br>ItemModContainer<br>ItemModBackpack<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/frontiermirror.large.png)|Frontier Mirror Large|frontiermirror.large|242933621|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
 |![](https://rustlabs.com/img/items180/frontiermirror.medium.png)|Frontier Mirror Medium|frontiermirror.medium|2055695285|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
 |![](https://rustlabs.com/img/items180/frontiermirror.small.png)|Frontier Mirror Small|frontiermirror.small|340210699|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
@@ -577,6 +579,7 @@
 |![](https://rustlabs.com/img/items180/industrial.wall.light.red.png)|Red Industrial Wall Light|industrial.wall.light.red|-1160621614|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/pinata.png)|Pinata|pinata|-1442496789|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/skull.human.png)|Human Skull|skull.human|996293980|ItemModSwap<br>ItemModMenuOption<br>ItemModFishable<br>|
+|![](https://rustlabs.com/img/items180/smallbackpack.png)|Small Backpack|smallbackpack|2068884361|ItemModWearable<br>ItemBlueprint<br>ItemModContainer<br>ItemModBackpack<br>|
 |![](https://rustlabs.com/img/items180/abovegroundpool.png)|Above Ground Pool|abovegroundpool|1840570710|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/beachchair.png)|Beach Chair|beachchair|-321431890|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/beachparasol.png)|Beach Parasol|beachparasol|-1621539785|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
@@ -768,9 +771,11 @@
 |![](https://rustlabs.com/img/items180/lumberjack.pickaxe.png)|Prototype Pickaxe|lumberjack.pickaxe|236677901|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |![](https://rustlabs.com/img/items180/map.png)|Paper Map|map|696029452|ItemBlueprint<br>ItemModEntity<br>ItemModContainerRestriction<br>|
 |![](https://rustlabs.com/img/items180/syringe.medical.png)|Medical Syringe|syringe.medical|1079279582|ItemModEntity<br>ItemBlueprint<br>ItemModConsumable<br>|
+|![](https://rustlabs.com/img/items180/metal.detector.png)|Metal Detector|metal.detector|1168856825|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/rf_pager.png)|RF Pager|rf_pager|-566907190|ItemBlueprint<br>ItemModPager<br>ItemMod<br>|
 |![](https://rustlabs.com/img/items180/pipetool.png)|Pipe Tool|pipetool|-144513264|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/building.planner.png)|Building Plan|building.planner|1525520776|ItemModEntity<br>ItemBlueprint<br>|
+|![](https://rustlabs.com/img/items180/shovel.png)|Shovel|shovel|-1536855921|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |![](https://rustlabs.com/img/items180/grenade.smoke.png)|Smoke Grenade|grenade.smoke|1263920163|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/spraycan.png)|Spray Can|spraycan|-596876839|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/spraycandecal.png)|Spray Can Decal|spraycandecal|-1366326648||
@@ -834,6 +839,7 @@
 |![](https://rustlabs.com/img/items180/cakefiveyear.png)|Birthday Cake|cakefiveyear|1973165031|ItemModEntity<br>ItemModProjectile<br>ItemModConsumable<br>ItemModConsume<br>ItemModMenuOption<br>|
 |![](https://rustlabs.com/img/items180/chainsaw.png)|Chainsaw|chainsaw|1104520648|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/salvaged.cleaver.png)|Salvaged Cleaver|salvaged.cleaver|-1978999529|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
+|![](https://rustlabs.com/img/items180/spear.cny.png)|Chinese new year spear|spear.cny|695450239|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |![](https://rustlabs.com/img/items180/bow.compound.png)|Compound Bow|bow.compound|884424049|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/crossbow.png)|Crossbow|crossbow|1965232394|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |![](https://rustlabs.com/img/items180/diverhatchet.png)|Abyss Metal Hatchet|diverhatchet|1046904719|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
@@ -876,6 +882,7 @@
 |![](https://rustlabs.com/img/items180/pistol.python.png)|Python Revolver|pistol.python|1373971859|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |![](https://rustlabs.com/img/items180/pistol.revolver.png)|Revolver|pistol.revolver|649912614|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |![](https://rustlabs.com/img/items180/rock.png)|Rock|rock|963906841|ItemModEntity<br>ItemModProjectile<br>ItemBlueprint<br>|
+|![](https://rustlabs.com/img/items180/rocket.launcher.dragon.png)|Dragon Rocket Launcher|rocket.launcher.dragon|-1315992997|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/rocket.launcher.png)|Rocket Launcher|rocket.launcher|442886268|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/axe.salvaged.png)|Salvaged Axe|axe.salvaged|-262590403|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |![](https://rustlabs.com/img/items180/hammer.salvaged.png)|Salvaged Hammer|hammer.salvaged|-1506397857|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
