@@ -612,7 +612,7 @@
 |workcart.entity|2059952138|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>Model<br>|assets/content/vehicles/trains/workcart/workcart.entity.prefab|
 |workcart_aboveground.entity|1173017984|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>Model<br>PrefabParameters<br>|assets/content/vehicles/trains/workcart/workcart_aboveground.entity.prefab|
 |workcart_aboveground2.entity|2466349118|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>Model<br>PrefabParameters<br>|assets/content/vehicles/trains/workcart/workcart_aboveground2.entity.prefab|
-|40mm_grenade_he|1859672190|TimedExplosive<br>ServerProjectile<br>CapsuleCollider<br>|assets/prefabs/ammo/40mmgrenade/40mm_grenade_he.prefab|
+|40mm_grenade_he|1859672190|TimedExplosive<br>ServerProjectile<br>|assets/prefabs/ammo/40mmgrenade/40mm_grenade_he.prefab|
 |40mm_grenade_smoke|1502533292|SmokeGrenade<br>ServerProjectile<br>CapsuleCollider<br>|assets/prefabs/ammo/40mmgrenade/40mm_grenade_smoke.prefab|
 |arrow|26759631|WorldItem<br>BoxCollider<br>Rigidbody<br>ColliderInfo<br>|assets/prefabs/ammo/arrow/arrow.prefab|
 |rocket_basic|3046924118|TimedExplosive<br>ServerProjectile<br>|assets/prefabs/ammo/rocket/rocket_basic.prefab|
@@ -636,6 +636,7 @@
 |ladder.wooden.wall|2150203378|GroundWatch<br>DestroyOnGroundMissing<br>BaseLadder<br>BoxCollider<br>|assets/prefabs/building/ladder.wall.wood/ladder.wooden.wall.prefab|
 |legacy.shelter.wood.deployed|2243018404|LegacyShelter<br>BaseCombatEntity<br>NavMeshObstacle<br>|assets/prefabs/building/legacy.shelter.wood/legacy.shelter.wood.deployed.prefab|
 |legacy.shelter.wood.door|1286050339|LegacyShelterDoor<br>BaseCombatEntity<br>AnimatedBuildingBlock<br>DecayEntity<br>StabilityEntity<br>Model<br>|assets/prefabs/building/legacy.shelter.wood/legacy.shelter.wood.door.prefab|
+|legacy.shelter.wood.mapmarker|4072903214|StaticMapMarker<br>|assets/prefabs/building/legacy.shelter.wood/legacy.shelter.wood.mapmarker.prefab|
 |legacy.shelter.wood.small_privilege|2152120376|EntityPrivilege<br>|assets/prefabs/building/legacy.shelter.wood/legacy.shelter.wood.small_privilege.prefab|
 |ZiplineArrivalPoint|498646963|ZiplineArrivalPoint<br>|assets/prefabs/building/powerline.zipline/ziplinearrivalpoint.prefab|
 |ZiplineLaunchPoint|912900196|ZiplineLaunchPoint<br>|assets/prefabs/building/powerline.zipline/ziplinelaunchpoint.prefab|
@@ -972,6 +973,7 @@
 |chinese_door_decoration|2084471865|SimpleBuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/misc/chinesenewyear/chinese_door_decoration/chinese_door_decoration.prefab|
 |chinese_door_frame_decoration|2040594012|SimpleBuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/misc/chinesenewyear/chinese_door_frame_decoration/chinese_door_frame_decoration.prefab|
 |ChineseLantern.deployed|3887352222|BoxCollider<br>ChineseLantern<br>BaseCombatEntity<br>BaseOven<br>StorageContainer<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/misc/chinesenewyear/chineselantern/chineselantern.deployed.prefab|
+|ChineseLantern_white.deployed|2201663291|BoxCollider<br>ChineseLantern<br>BaseCombatEntity<br>BaseOven<br>StorageContainer<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/misc/chinesenewyear/chineselantern/chineselantern_white.deployed.prefab|
 |DragonDoorKnocker.Deployed|4125587834|DoorKnocker<br>|assets/prefabs/misc/chinesenewyear/dragondoorknocker/dragondoorknocker.deployed.prefab|
 |newyeargong.deployed|2687699909|NewYearGong<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>MeshCollider<br>|assets/prefabs/misc/chinesenewyear/newyeargong/newyeargong.deployed.prefab|
 |SkyLantern.deployed|2869067981|SkyLantern<br>BaseCombatEntity<br>DecayEntity<br>CapsuleCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/misc/chinesenewyear/sky_lantern/skylantern.deployed.prefab|
@@ -1312,7 +1314,7 @@
 |Gingerbread_MeleeDungeon|1172642608|GingerbreadNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>Spawnable<br>NavMeshAgent<br>Spawnable<br>ScientistBrain<br>NPCPlayerNavigator<br>|assets/prefabs/npc/gingerbread/gingerbread_meleedungeon.prefab|
 |bradley_crate|1737870479|LockedByEntCrate<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>BoxCollider<br>|assets/prefabs/npc/m2bradley/bradley_crate.prefab|
 |BradleyAPC|1456850188|BradleyAPC<br>Rigidbody<br>Model<br>TreadEffects<br>|assets/prefabs/npc/m2bradley/bradleyapc.prefab|
-|MainCannonShell|3032863244|TimedExplosive<br>ServerProjectile<br>CapsuleCollider<br>|assets/prefabs/npc/m2bradley/maincannonshell.prefab|
+|MainCannonShell|3032863244|TimedExplosive<br>ServerProjectile<br>|assets/prefabs/npc/m2bradley/maincannonshell.prefab|
 |oilFireball2|3761185980|FireBall<br>Rigidbody<br>BoxCollider<br>|assets/prefabs/npc/m2bradley/oilfireball2.prefab|
 |ServerGibs_Bradley|4214400966|HelicopterDebris<br>BaseCombatEntity<br>ResourceDispenser<br>|assets/prefabs/npc/m2bradley/servergibs_bradley.prefab|
 |murderer_corpse|2400390439|NPCPlayerCorpse<br>BaseCombatEntity<br>LootableCorpse<br>BaseCorpse<br>HumanBodyResourceDispenser<br>Buoyancy<br>|assets/prefabs/npc/murderer/murderer_corpse.prefab|
@@ -1324,7 +1326,7 @@
 |rocket_heli_napalm|200672762|FlameExplosive<br>ServerProjectile<br>|assets/prefabs/npc/patrol helicopter/rocket_heli_napalm.prefab|
 |ServerGibs_PatrolHelicopter|1829321077|HelicopterDebris<br>BaseCombatEntity<br>ResourceDispenser<br>|assets/prefabs/npc/patrol helicopter/servergibs_patrolhelicopter.prefab|
 |rocket_sam|2160908677|TimedExplosive<br>ServerProjectile<br>|assets/prefabs/npc/sam_site_turret/rocket_sam.prefab|
-|sam_ammo|3414321847|TimedExplosive<br>ServerProjectile<br>CapsuleCollider<br>|assets/prefabs/npc/sam_site_turret/sam_ammo.prefab|
+|sam_ammo|3414321847|TimedExplosive<br>ServerProjectile<br>|assets/prefabs/npc/sam_site_turret/sam_ammo.prefab|
 |SAM_site_turret_deployed|2059775839|SamSite<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/npc/sam_site_turret/sam_site_turret_deployed.prefab|
 |SAM_Static|2934818568|SamSite<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/npc/sam_site_turret/sam_static.prefab|
 |Scarecrow|3473349223|ScarecrowNPC<br>BaseCombatEntity<br>BasePlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>Spawnable<br>NPCPlayerNavigator<br>NavMeshAgent<br>ScarecrowBrain<br>Spawnable<br>|assets/prefabs/npc/scarecrow/scarecrow.prefab|
@@ -1378,10 +1380,16 @@
 |ExplosionMarker|4060989661|MapMarkerExplosion<br>|assets/prefabs/tools/map/explosionmarker.prefab|
 |GenericRadiusMarker|2849728229|MapMarkerGenericRadius<br>|assets/prefabs/tools/map/genericradiusmarker.prefab|
 |map|491065559|MapEntity<br>|assets/prefabs/tools/map/map.prefab|
+|UI.Map.LegacyShelter|70605177|RectTransform<br>UnityEngine.Object<br>UnityEngine.Component<br>|assets/prefabs/tools/map/ui/ui.map.legacyshelter.prefab|
 |syringe_medical.entity|283937635|MedicalTool<br>HeldEntity<br>|assets/prefabs/tools/medical syringe/syringe_medical.entity.prefab|
+|metal_detector.entity|892200099|BaseMetalDetector<br>Model<br>|assets/prefabs/tools/metaldetector/metal_detector.entity.prefab|
+|metal_detector_flag.entity|1406086660|MetalDetectorFlag<br>BaseCombatEntity<br>Model<br>|assets/prefabs/tools/metaldetector/metal_detector_flag.entity.prefab|
+|metal_detector_flag_ghost|521911201||assets/prefabs/tools/metaldetector/metal_detector_flag_ghost.prefab|
+|metal_detector_source.entity|1244235496|MetalDetectorSource<br>Spawnable<br>|assets/prefabs/tools/metaldetector/metal_detector_source.entity.prefab|
 |pager.entity|2918467232|PagerEntity<br>|assets/prefabs/tools/pager/pager.entity.prefab|
 |pipetool.entity|3896504765|WireTool<br>|assets/prefabs/tools/pipe/pipetool.entity.prefab|
 |planner|1435750071|Planner<br>|assets/prefabs/tools/planner/planner.prefab|
+|shovel.entity|3196650451|Shovel<br>HeldEntity<br>AttackEntity<br>|assets/prefabs/tools/shovel/shovel.entity.prefab|
 |grenade.smoke.deployed|1464001967|SmokeGrenade<br>Rigidbody<br>CapsuleCollider<br>|assets/prefabs/tools/smoke grenade/grenade.smoke.deployed.prefab|
 |smoke_grenade.weapon|3642747736|GrenadeWeapon<br>HeldEntity<br>AttackEntity<br>|assets/prefabs/tools/smoke grenade/smoke_grenade.weapon.prefab|
 |SprayLineDecal|2542129442|SprayCanSpray_Freehand<br>BaseCombatEntity<br>DecayEntity<br>DeferredDecal<br>GroundWatch<br>BoxCollider<br>DestroyOnGroundMissing<br>|assets/prefabs/tools/spraycan/freehandspray/spraylinedecal.prefab|
@@ -1489,6 +1497,7 @@
 |cake.entity|1980046596|BaseMelee<br>HeldEntity<br>|assets/prefabs/weapons/cake/cake.entity.prefab|
 |chainsaw.entity|1802634117|Chainsaw<br>HeldEntity<br>AttackEntity<br>Model<br>|assets/prefabs/weapons/chainsaw/chainsaw.entity.prefab|
 |salvaged_cleaver.entity|3340056040|BaseMelee<br>HeldEntity<br>|assets/prefabs/weapons/cleaver big/salvaged_cleaver.entity.prefab|
+|CNY_spear.entity|3814317397|BaseMelee<br>HeldEntity<br>|assets/prefabs/weapons/cnyspear/cny_spear.entity.prefab|
 |compound_bow.entity|1537401592|CompoundBowWeapon<br>BaseProjectile<br>HeldEntity<br>AttackEntity<br>|assets/prefabs/weapons/compound bow/compound_bow.entity.prefab|
 |crossbow.entity|2727391082|CrossbowWeapon<br>HeldEntity<br>AttackEntity<br>Model<br>|assets/prefabs/weapons/crossbow/crossbow.entity.prefab|
 |diver_hatchet.entity|1396987940|BaseMelee<br>HeldEntity<br>|assets/prefabs/weapons/diverhatchet/diver_hatchet.entity.prefab|
@@ -1538,6 +1547,7 @@
 |python.entity|3305012504|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/python/python.entity.prefab|
 |pistol_revolver.entity|2477536592|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/revolver/pistol_revolver.entity.prefab|
 |rock.entity|3940068399|BaseMelee<br>HeldEntity<br>|assets/prefabs/weapons/rock/rock.entity.prefab|
+|rocket_launcher_Dragon.entity|3036013699|BaseLauncher<br>HeldEntity<br>AttackEntity<br>Model<br>|assets/prefabs/weapons/rocketlauncher/cny_dragonlauncher/rocket_launcher_dragon.entity.prefab|
 |rocket_launcher.entity|601440135|BaseLauncher<br>HeldEntity<br>AttackEntity<br>Model<br>|assets/prefabs/weapons/rocketlauncher/rocket_launcher.entity.prefab|
 |axe_salvaged.entity|3826414185|BaseMelee<br>HeldEntity<br>|assets/prefabs/weapons/salvaged_axe/axe_salvaged.entity.prefab|
 |hammer_salvaged.entity|1744180387|BaseMelee<br>HeldEntity<br>|assets/prefabs/weapons/salvaged_hammer/hammer_salvaged.entity.prefab|
