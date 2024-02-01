@@ -177,6 +177,8 @@
 |assets/bundled/prefabs/fx/impacts/blunt/dirt/dirt1.prefab|
 |assets/bundled/prefabs/fx/impacts/blunt/flesh/fleshbloodimpact.prefab|
 |assets/bundled/prefabs/fx/impacts/blunt/generic/generic1.prefab|
+|assets/bundled/prefabs/fx/impacts/blunt/generic/genericdig.prefab|
+|assets/bundled/prefabs/fx/impacts/blunt/generic/genericplacement.prefab|
 |assets/bundled/prefabs/fx/impacts/blunt/gingerbread/impact_blunt_gingerbread.prefab|
 |assets/bundled/prefabs/fx/impacts/blunt/glass/glass1.prefab|
 |assets/bundled/prefabs/fx/impacts/blunt/glass_small/glass1_small.prefab|
@@ -1246,9 +1248,13 @@
 |assets/prefabs/tools/medical syringe/effects/inject_self.prefab|
 |assets/prefabs/tools/medical syringe/effects/pop_button_cap.prefab|
 |assets/prefabs/tools/medical syringe/effects/pop_cap.prefab|
+|assets/prefabs/tools/metaldetector/effects/metaldetectorplaceflag.prefab|
 |assets/prefabs/tools/pager/effects/beep.prefab|
 |assets/prefabs/tools/pager/effects/vibrate.prefab|
 |assets/prefabs/tools/pipe/effects/plugeffect.prefab|
+|assets/prefabs/tools/shovel/effects/attack-1.prefab|
+|assets/prefabs/tools/shovel/effects/attack-2.prefab|
+|assets/prefabs/tools/shovel/effects/deploy.prefab|
 |assets/prefabs/tools/smoke grenade/effects/ignite.prefab|
 |assets/prefabs/tools/smoke grenade/effects/smokegrenade.prefab|
 |assets/prefabs/tools/smoke grenade/effects/smokegrenade_small.prefab|
@@ -1625,6 +1631,8 @@
 |assets/prefabs/weapons/m39 emr/effects/w_drop_magazine.prefab|
 |assets/prefabs/weapons/m39 emr/effects/w_eject_rifle_shell.prefab|
 |assets/prefabs/weapons/m4 shotgun/effects/attack.prefab|
+|assets/prefabs/weapons/m4 shotgun/effects/attack_muzzlebrake.prefab|
+|assets/prefabs/weapons/m4 shotgun/effects/attack_silenced.prefab|
 |assets/prefabs/weapons/m4 shotgun/effects/dryfire.prefab|
 |assets/prefabs/weapons/m4 shotgun/effects/eject_shell.prefab|
 |assets/prefabs/weapons/m4 shotgun/effects/w_eject_shotgun_shell.prefab|
@@ -1741,7 +1749,28 @@
 |assets/prefabs/weapons/rock/effects/strike.prefab|
 |assets/prefabs/weapons/rock/effects/strike_screenshake.prefab|
 |assets/prefabs/weapons/rock/effects/throw.prefab|
+|assets/prefabs/weapons/rocketlauncher/cny_dragonlauncher/effects/attack.prefab|
+|assets/prefabs/weapons/rocketlauncher/cny_dragonlauncher/effects/attack_cny.prefab|
+|assets/prefabs/weapons/rocketlauncher/cny_dragonlauncher/effects/deploy.prefab|
+|assets/prefabs/weapons/rocketlauncher/cny_dragonlauncher/effects/dryfire.prefab|
+|assets/prefabs/weapons/rocketlauncher/cny_dragonlauncher/effects/fire.prefab|
+|assets/prefabs/weapons/rocketlauncher/cny_dragonlauncher/effects/grab_handle.prefab|
+|assets/prefabs/weapons/rocketlauncher/cny_dragonlauncher/effects/holster.prefab|
+|assets/prefabs/weapons/rocketlauncher/cny_dragonlauncher/effects/pfx_close_hatch_smoke.prefab|
+|assets/prefabs/weapons/rocketlauncher/cny_dragonlauncher/effects/pfx_fire_rocket_smokeout.prefab|
+|assets/prefabs/weapons/rocketlauncher/cny_dragonlauncher/effects/pfx_open_hatch_smokeout.prefab|
+|assets/prefabs/weapons/rocketlauncher/cny_dragonlauncher/effects/pfx_rocket_insert_pressure.prefab|
+|assets/prefabs/weapons/rocketlauncher/cny_dragonlauncher/effects/pfx_rocket_insert_smoke_deprecated.prefab|
+|assets/prefabs/weapons/rocketlauncher/cny_dragonlauncher/effects/reload_begin.prefab|
+|assets/prefabs/weapons/rocketlauncher/cny_dragonlauncher/effects/reload_close_hatch.prefab|
+|assets/prefabs/weapons/rocketlauncher/cny_dragonlauncher/effects/reload_end.prefab|
+|assets/prefabs/weapons/rocketlauncher/cny_dragonlauncher/effects/reload_insert_rocket.prefab|
+|assets/prefabs/weapons/rocketlauncher/cny_dragonlauncher/effects/reload_open_hatch.prefab|
+|assets/prefabs/weapons/rocketlauncher/cny_dragonlauncher/effects/rocket_explosion.prefab|
+|assets/prefabs/weapons/rocketlauncher/cny_dragonlauncher/effects/rocket_explosion_incendiary.prefab|
+|assets/prefabs/weapons/rocketlauncher/cny_dragonlauncher/effects/rocket_launch_fx.prefab|
 |assets/prefabs/weapons/rocketlauncher/effects/attack.prefab|
+|assets/prefabs/weapons/rocketlauncher/effects/attack_cny.prefab|
 |assets/prefabs/weapons/rocketlauncher/effects/deploy.prefab|
 |assets/prefabs/weapons/rocketlauncher/effects/dryfire.prefab|
 |assets/prefabs/weapons/rocketlauncher/effects/fire.prefab|
