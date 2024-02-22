@@ -1471,7 +1471,6 @@
 |assets/content/properties/lootspawn/generated/items/weapon/rifle.m39.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/rifle.semiauto.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/rocket.launcher.asset|
-|assets/content/properties/lootspawn/generated/items/weapon/rocket.launcher.dragon.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/salvaged.cleaver.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/salvaged.sword.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/shotgun.double.asset|
@@ -2569,6 +2568,7 @@
 |assets/content/sound/instruments/acousticguitar/acoustic-guitar-g3.asset|
 |assets/content/sound/instruments/acousticguitar/acoustic-guitar-g4.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-a#1.asset|
+|assets/content/sound/instruments/bassguitar/bass-guitar-a#2.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-a1.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-a2.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-b1.asset|
