@@ -1380,7 +1380,7 @@
 |ExplosionMarker|4060989661|MapMarkerExplosion<br>|assets/prefabs/tools/map/explosionmarker.prefab|
 |GenericRadiusMarker|2849728229|MapMarkerGenericRadius<br>|assets/prefabs/tools/map/genericradiusmarker.prefab|
 |map|491065559|MapEntity<br>|assets/prefabs/tools/map/map.prefab|
-|UI.Map.LegacyShelter|70605177|RectTransform<br>UnityEngine.Object<br>UnityEngine.Component<br>|assets/prefabs/tools/map/ui/ui.map.legacyshelter.prefab|
+|UI.Map.LegacyShelter|70605177|RectTransform<br>UnityEngine.Component<br>UnityEngine.Object<br>|assets/prefabs/tools/map/ui/ui.map.legacyshelter.prefab|
 |syringe_medical.entity|283937635|MedicalTool<br>HeldEntity<br>|assets/prefabs/tools/medical syringe/syringe_medical.entity.prefab|
 |metal_detector.entity|892200099|BaseMetalDetector<br>Model<br>|assets/prefabs/tools/metaldetector/metal_detector.entity.prefab|
 |metal_detector_flag.entity|1406086660|MetalDetectorFlag<br>BaseCombatEntity<br>Model<br>|assets/prefabs/tools/metaldetector/metal_detector_flag.entity.prefab|
