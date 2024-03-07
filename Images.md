@@ -7,6 +7,7 @@
 |assets/prefabs/missions/textures/mission_icon.png|
 |assets/prefabs/missions/textures/mission_icon_complete.png|
 |assets/prefabs/missions/textures/mission_provider.png|
+|assets/prefabs/missions/tutorialisland/tutorial_map_icon.png|
 |assets/scenes/prefabs/airfield/airfield_1/alphatexture.png|
 |assets/scenes/prefabs/airfield/airfield_1/biometexture.png|
 |assets/scenes/prefabs/airfield/airfield_1/blendtexture.png|
@@ -727,6 +728,7 @@
 |assets/scenes/release/savasisland/splattexture1.png|
 |assets/scenes/release/savasisland/topologytexture.png|
 |assets/scenes/release/savasisland/watertexture.png|
+|assets/scenes/release/skinviewer/skinviewer_border.png|
 |assets/scenes/release/tutorial island/alphatexture.png|
 |assets/scenes/release/tutorial island/biometexture.png|
 |assets/scenes/release/tutorial island/distancetexture.png|
