@@ -35,10 +35,12 @@
 |assets/content/image effects/postfx_volumes/main_underground_monument_softened.asset|
 |assets/content/image effects/postfx_volumes/main_underground_neutral.asset|
 |assets/content/image effects/postfx_volumes/main_underwater_lab.asset|
+|assets/content/image effects/postfx_volumes/nightlight.asset|
 |assets/content/image effects/postfx_volumes/nvg.asset|
 |assets/content/image effects/postfx_volumes/radiation.asset|
 |assets/content/image effects/postfx_volumes/screen_blur.asset|
 |assets/content/image effects/postfx_volumes/sharpen_vignette.asset|
+|assets/content/image effects/postfx_volumes/skin_viewer.asset|
 |assets/content/image effects/postfx_volumes/submarine_dof.asset|
 |assets/content/image effects/postfx_volumes/wantedposter_polaroid.asset|
 |assets/content/image effects/postfx_volumes/wantedposter_sepia.asset|
@@ -304,11 +306,6 @@
 |assets/content/player/clothing/skin/player.male.light05.asset|
 |assets/content/player/clothing/skin/player.skinset.female.asset|
 |assets/content/player/clothing/skin/player.skinset.male.asset|
-|assets/content/player/poses/relaxed.asset|
-|assets/content/player/poses/rustidle.asset|
-|assets/content/player/poses/testpose.asset|
-|assets/content/player/poses/twerk.asset|
-|assets/content/player/poses/wave.asset|
 |assets/content/player/server side ragdoll bone pos data.asset|
 |assets/content/properties/armor/armor.all.asset|
 |assets/content/properties/armor/armor.body.asset|
@@ -855,6 +852,7 @@
 |assets/content/properties/lootspawn/generated/items/attire/burlap.shirt.asset|
 |assets/content/properties/lootspawn/generated/items/attire/burlap.shoes.asset|
 |assets/content/properties/lootspawn/generated/items/attire/burlap.trousers.asset|
+|assets/content/properties/lootspawn/generated/items/attire/chicken.costume.asset|
 |assets/content/properties/lootspawn/generated/items/attire/coffeecan.helmet.asset|
 |assets/content/properties/lootspawn/generated/items/attire/cratecostume.asset|
 |assets/content/properties/lootspawn/generated/items/attire/diving.fins.asset|
@@ -1310,6 +1308,7 @@
 |assets/content/properties/lootspawn/generated/items/items/twitchrivals2023desk.asset|
 |assets/content/properties/lootspawn/generated/items/items/twowaymirror.window.asset|
 |assets/content/properties/lootspawn/generated/items/items/vending.machine.asset|
+|assets/content/properties/lootspawn/generated/items/items/walkietalkie.asset|
 |assets/content/properties/lootspawn/generated/items/items/water.barrel.asset|
 |assets/content/properties/lootspawn/generated/items/items/water.purifier.asset|
 |assets/content/properties/lootspawn/generated/items/items/woodframe.large.asset|
@@ -1543,6 +1542,7 @@
 |assets/content/properties/lootspawn/lootspawn.barrelbetter.asset|
 |assets/content/properties/lootspawn/lootspawn.barrelcommon.asset|
 |assets/content/properties/lootspawn/lootspawn.barrelgarbage.asset|
+|assets/content/properties/lootspawn/lootspawn.barreltutorial.asset|
 |assets/content/properties/lootspawn/lootspawn.blackbox.asset|
 |assets/content/properties/lootspawn/lootspawn.foodbox.asset|
 |assets/content/properties/lootspawn/lootspawn.foodcrate.asset|
@@ -1559,6 +1559,7 @@
 |assets/content/properties/lootspawn/lootspawn.supplydrop.asset|
 |assets/content/properties/lootspawn/lootspawn.trashcan.asset|
 |assets/content/properties/lootspawn/lootspawn.trashpile.asset|
+|assets/content/properties/lootspawn/lootspawn.tutorialhiddencrate.asset|
 |assets/content/properties/lootspawn/nothing.asset|
 |assets/content/properties/lootspawn/pickles.asset|
 |assets/content/properties/lootspawn/radpills.asset|
@@ -1614,6 +1615,7 @@
 |assets/content/properties/playerinventory/lumberjack.asset|
 |assets/content/properties/playerinventory/melee weapons.asset|
 |assets/content/properties/playerinventory/miner.asset|
+|assets/content/properties/playerinventory/missionprovider_tutorial.asset|
 |assets/content/properties/playerinventory/murderer.asset|
 |assets/content/properties/playerinventory/parachute.asset|
 |assets/content/properties/playerinventory/plumber.asset|
@@ -1635,6 +1637,7 @@
 |assets/content/properties/playerinventory/stablehand.asset|
 |assets/content/properties/playerinventory/summerdlc.asset|
 |assets/content/properties/playerinventory/survivorinventory.asset|
+|assets/content/properties/playerinventory/tutorial.asset|
 |assets/content/properties/playerinventory/vagabond.asset|
 |assets/content/properties/playerinventory/voiceprops.asset|
 |assets/content/properties/protection/50percent.asset|
@@ -1946,6 +1949,10 @@
 |assets/content/properties/steamcategories/limited-chinese-newyear-2023-300.steam.asset|
 |assets/content/properties/steamcategories/limited-chinese-newyear-2023-500.steam.asset|
 |assets/content/properties/steamcategories/limited-chinese-newyear-2023-650.steam.asset|
+|assets/content/properties/steamcategories/limited-chinese-newyear-2024-250.steam.asset|
+|assets/content/properties/steamcategories/limited-chinese-newyear-2024-400.steam.asset|
+|assets/content/properties/steamcategories/limited-chinese-newyear-2024-550.steam.asset|
+|assets/content/properties/steamcategories/limited-chinese-newyear-2024-650.steam.asset|
 |assets/content/properties/steamcategories/limited-christmas2015.steam.asset|
 |assets/content/properties/steamcategories/limited-christmas2017.steam.asset|
 |assets/content/properties/steamcategories/limited-christmas2017-cheap.steam.asset|
@@ -3499,6 +3506,7 @@
 |assets/content/sound/soundclasses/ambience-localized-rivers.sound-class.asset|
 |assets/content/sound/soundclasses/ambience-stings.sound-class.asset|
 |assets/content/sound/soundclasses/bullet-flyby.sound-class.asset|
+|assets/content/sound/soundclasses/cinematic-isolated.sound-class.asset|
 |assets/content/sound/soundclasses/default.sound-class.asset|
 |assets/content/sound/soundclasses/destruction-impact.sound-class.asset|
 |assets/content/sound/soundclasses/destruction-large.sound-class.asset|
@@ -4102,6 +4110,7 @@
 |assets/content/ui/fonts/nonenglish/notosanscjksc-bold sdf.asset|
 |assets/content/ui/fonts/nonenglish/notosanshebrew-bold sdf.asset|
 |assets/content/ui/fonts/pressstart2p-regular sdf.asset|
+|assets/content/ui/fonts/robotocondensed-bold sdf - hotkey.asset|
 |assets/content/ui/fonts/robotocondensed-bold sdf.asset|
 |assets/content/ui/fonts/robotocondensed-regular sdf.asset|
 |assets/content/ui/fonts/robotomono-regular sdf noztest.asset|
@@ -4153,6 +4162,7 @@
 |assets/content/vehicles/attackhelicopter/sound/attack-helicopter-explosion-debris-01.asset|
 |assets/content/vehicles/attackhelicopter/sound/attack-helicopter-flare-deploy.asset|
 |assets/content/vehicles/attackhelicopter/sound/attack-helicopter-flare-dryfire.asset|
+|assets/content/vehicles/attackhelicopter/sound/attack-helicopter-flares-ready.asset|
 |assets/content/vehicles/attackhelicopter/sound/attack-helicopter-flight-engine-loop.asset|
 |assets/content/vehicles/attackhelicopter/sound/attack-helicopter-flight-engine-start.asset|
 |assets/content/vehicles/attackhelicopter/sound/attack-helicopter-flight-rotor-loop.asset|
@@ -4790,6 +4800,7 @@
 |assets/plugins/ezsoftbone/tests/presets/sbmat_default_soft.asset|
 |assets/plugins/ezsoftbone/tests/presets/sbmat_demo.asset|
 |assets/plugins/rust.ui/controls/aiuitoggle.asset|
+|assets/plugins/rust.ui/controls/clickableimage.asset|
 |assets/plugins/rust.ui/controls/container.popup.normal.asset|
 |assets/plugins/rust.ui/controls/dropdown.normal.asset|
 |assets/plugins/rust.ui/controls/form.horizontal.normal.asset|
@@ -4815,6 +4826,7 @@
 |assets/plugins/rust.ui/controls/rustbutton.mapmarkerlistdelete.asset|
 |assets/plugins/rust.ui/controls/rustbutton.menu.asset|
 |assets/plugins/rust.ui/controls/rustbutton.menu-notice-banreport.asset|
+|assets/plugins/rust.ui/controls/rustbutton.menu-optionstoggle.asset|
 |assets/plugins/rust.ui/controls/rustbutton.menu-right.asset|
 |assets/plugins/rust.ui/controls/rustbutton.menu-right-alert.asset|
 |assets/plugins/rust.ui/controls/rustbutton.missiontoggle.asset|
@@ -5565,6 +5577,8 @@
 |assets/prefabs/misc/decor_dlc/wantedposter/wantedposter.skinnable.asset|
 |assets/prefabs/misc/easter/bunny_hat/bunnyhat.sitem.asset|
 |assets/prefabs/misc/easter/bunny_hat/sbmat_bunnyhat_ears.asset|
+|assets/prefabs/misc/easter/chickencostume/chicken.costume.sitem.asset|
+|assets/prefabs/misc/easter/chickencostume/sound/chicken-costume-footstep-accent.asset|
 |assets/prefabs/misc/easter/door_wreath/easterwreath.sitem.asset|
 |assets/prefabs/misc/easter/easter basket/sound/easter-basket-add-egg.asset|
 |assets/prefabs/misc/easter/easter basket/sound/easter-basket-aim.asset|
@@ -5959,6 +5973,126 @@
 |assets/prefabs/missions/testmission.asset|
 |assets/prefabs/missions/testmission2.asset|
 |assets/prefabs/missions/testmission3.asset|
+|assets/prefabs/missions/tutorialisland/endcinematic/audio/tutorial-end-cinematic-boat-pull-up.asset|
+|assets/prefabs/missions/tutorialisland/endcinematic/audio/tutorial-end-cinematic-music-strike-mixdown.asset|
+|assets/prefabs/missions/tutorialisland/endcinematic/audio/tutorial-end-cinematic-scientist-chatter-01.asset|
+|assets/prefabs/missions/tutorialisland/endcinematic/audio/tutorial-end-cinematic-scientist-chatter-02.asset|
+|assets/prefabs/missions/tutorialisland/endcinematic/audio/tutorial-end-cinematic-scientist-footsteps.asset|
+|assets/prefabs/missions/tutorialisland/endcinematic/audio/tutorialisland_endcinematic_mixdown_v002.asset|
+|assets/prefabs/missions/tutorialisland/helpprompts/helpinfo.bandages.asset|
+|assets/prefabs/missions/tutorialisland/helpprompts/helpinfo.barrels.asset|
+|assets/prefabs/missions/tutorialisland/helpprompts/helpinfo.bowusage.asset|
+|assets/prefabs/missions/tutorialisland/helpprompts/helpinfo.buildbase_changeblock.asset|
+|assets/prefabs/missions/tutorialisland/helpprompts/helpinfo.buildbase_closedoor.asset|
+|assets/prefabs/missions/tutorialisland/helpprompts/helpinfo.buildbase_filltc.asset|
+|assets/prefabs/missions/tutorialisland/helpprompts/helpinfo.buildbase_foundation.asset|
+|assets/prefabs/missions/tutorialisland/helpprompts/helpinfo.buildbase_hammer.asset|
+|assets/prefabs/missions/tutorialisland/helpprompts/helpinfo.buildbase_planner.asset|
+|assets/prefabs/missions/tutorialisland/helpprompts/helpinfo.buildbase_softsides.asset|
+|assets/prefabs/missions/tutorialisland/helpprompts/helpinfo.buildbase_upgradewood.asset|
+|assets/prefabs/missions/tutorialisland/helpprompts/helpinfo.buildkayak.asset|
+|assets/prefabs/missions/tutorialisland/helpprompts/helpinfo.clothing.asset|
+|assets/prefabs/missions/tutorialisland/helpprompts/helpinfo.cook.asset|
+|assets/prefabs/missions/tutorialisland/helpprompts/helpinfo.cook_eat.asset|
+|assets/prefabs/missions/tutorialisland/helpprompts/helpinfo.cook_ignite.asset|
+|assets/prefabs/missions/tutorialisland/helpprompts/helpinfo.corpselooting.asset|
+|assets/prefabs/missions/tutorialisland/helpprompts/helpinfo.craft.asset|
+|assets/prefabs/missions/tutorialisland/helpprompts/helpinfo.crouch.asset|
+|assets/prefabs/missions/tutorialisland/helpprompts/helpinfo.deployvehicles.asset|
+|assets/prefabs/missions/tutorialisland/helpprompts/helpinfo.finishbase_clothhemp.asset|
+|assets/prefabs/missions/tutorialisland/helpprompts/helpinfo.finishbase_deployables.asset|
+|assets/prefabs/missions/tutorialisland/helpprompts/helpinfo.furnace.asset|
+|assets/prefabs/missions/tutorialisland/helpprompts/helpinfo.harvestbear.asset|
+|assets/prefabs/missions/tutorialisland/helpprompts/helpinfo.hunt_campfire.asset|
+|assets/prefabs/missions/tutorialisland/helpprompts/helpinfo.hunt_harvest.asset|
+|assets/prefabs/missions/tutorialisland/helpprompts/helpinfo.hunt_spear.asset|
+|assets/prefabs/missions/tutorialisland/helpprompts/helpinfo.inventory.asset|
+|assets/prefabs/missions/tutorialisland/helpprompts/helpinfo.lowgrade.asset|
+|assets/prefabs/missions/tutorialisland/helpprompts/helpinfo.movecontrols.asset|
+|assets/prefabs/missions/tutorialisland/helpprompts/helpinfo.opensupplies.asset|
+|assets/prefabs/missions/tutorialisland/helpprompts/helpinfo.ore.asset|
+|assets/prefabs/missions/tutorialisland/helpprompts/helpinfo.paddle.asset|
+|assets/prefabs/missions/tutorialisland/helpprompts/helpinfo.respawn.asset|
+|assets/prefabs/missions/tutorialisland/helpprompts/helpinfo.sprinting.asset|
+|assets/prefabs/missions/tutorialisland/helpprompts/helpinfo.treehitting.asset|
+|assets/prefabs/missions/tutorialisland/helpprompts/helpinfo.usefurnace.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission_objective_speakwithsurvivor.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission01_forage.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission01_objective_harveststone.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission01_objective_harvestwood.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission02_craft.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission02_objective_craft_hatchet.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission02_objective_craft_pickaxe.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission03_buildbase.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission03_objective_buildfoundations.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission03_objective_craft_planner.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission03_objective_openstorage.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission03b_buildbase.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission03b_objective_builddoorway.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission03b_objective_buildroof.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission03b_objective_buildwalls.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission04_finishbase.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission04_objective_craft_door.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission04_objective_craft_keylock.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission04_objective_craft_sleepingbag.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission04_objective_craft_toolcupboard.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission04_objective_deploybagcupboarddoor.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission04_objective_harvestcloth.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission04_objective_openstorage.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission04b_objective_crafthammer.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission04b_objective_openstorage.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission04b_objective_upgradewood.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission04b_upgradetowood.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission04c_filltoolcupboard.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission04c_objective_filltc.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission05_huntforfood.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission05_objective_craft_campfire.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission05_objective_craft_spear.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission05_objective_deploycampfire.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission05_objective_harvestchicken.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission05_objective_killchicken.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission05_objective_openstorage.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission05b_cookfood.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission05b_objective_consumecookedchicken.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission05b_objective_cookchicken.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission05b_objective_ignitecampfire.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission05c_objective_opencorpse.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission05c_objective_respawn.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission05c_respawn.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission06_objective_craft_arrows.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission06_objective_craft_bandages.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission06_objective_craft_bow.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission06_objective_craft_burlappants.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission06_objective_craft_burlapshirt.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission06_objective_equipclothing.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission06_objective_openstorage.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission06_prepareforcombat.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission06b_killthebear.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission06b_objective_harvestanimalfat.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission06b_objective_heal.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission06b_objective_killbear.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission07_buildfurnace.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission07_objective_craftfurnace.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission07_objective_craftlowgrade.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission07_objective_deployfurnace.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission07_objective_openstorage.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission07b_buildworkbench.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission07b_objective_acquiremetalfrags.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission07b_objective_craftworkbench.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission07b_objective_deployworkbench.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission07b_objective_harvestmetalore.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission07b_objective_harvestscrap.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission07b_objective_openstorage.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission07b_objective_producemetalfrags.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission07c_buildkayak.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission07c_objective_acquiremetalblade.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission07c_objective_craftkayak.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission07c_objective_craftpaddle.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission07c_objective_openstorage.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission08_escape.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission08_objective_deploykayak.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission08_objective_mountkayak.asset|
+|assets/prefabs/missions/tutorialisland/tutorialmission08_objective_movekayak.asset|
 |assets/prefabs/npc/autoturret/sound/ambient-loop.asset|
 |assets/prefabs/npc/autoturret/sound/attack.asset|
 |assets/prefabs/npc/autoturret/sound/autoturrent-ambient-loop.ambience-def.asset|
@@ -6054,6 +6188,15 @@
 |assets/prefabs/npc/scientist/sound/responddeath.asset|
 |assets/prefabs/npc/scientist/sound/respondok.asset|
 |assets/prefabs/npc/scientist/sound/takecover.asset|
+|assets/prefabs/npc/tutorial/tutorialconversation.asset|
+|assets/prefabs/npc/tutorial/tutorialconversation_midmission.asset|
+|assets/prefabs/npc/tutorial/tutorialconversation_stage02.asset|
+|assets/prefabs/npc/tutorial/tutorialconversation_stage03.asset|
+|assets/prefabs/npc/tutorial/tutorialconversation_stage04.asset|
+|assets/prefabs/npc/tutorial/tutorialconversation_stage05.asset|
+|assets/prefabs/npc/tutorial/tutorialconversation_stage05b.asset|
+|assets/prefabs/npc/tutorial/tutorialconversation_stage06.asset|
+|assets/prefabs/npc/tutorial/tutorialconversation_stage07.asset|
 |assets/prefabs/plants/berrry/black/black_berry.plantproperty.asset|
 |assets/prefabs/plants/berrry/blue/blue_berry.plantproperty.asset|
 |assets/prefabs/plants/berrry/green/green_berry.plantproperty.asset|
@@ -6963,9 +7106,11 @@
 |assets/resources/worldspline prefab shared data.asset|
 |assets/rust.ai/agents/animal/animal.aidesign.asset|
 |assets/rust.ai/agents/animal/animal.bear.aidesign.asset|
+|assets/rust.ai/agents/animal/animal.bear.tutorial.aidesign.asset|
 |assets/rust.ai/agents/animal/animal.controltest.aidesign.asset|
 |assets/rust.ai/agents/animal/animal.polarbear.aidesign.asset|
 |assets/rust.ai/agents/animal/animal.wolf.aidesign.asset|
+|assets/rust.ai/agents/animal/chicken.tutorial.aidesign.asset|
 |assets/rust.ai/agents/bear/bear.footstep.asset|
 |assets/rust.ai/agents/bear/bear.population.asset|
 |assets/rust.ai/agents/bear/bear.skeleton.asset|
