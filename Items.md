@@ -470,6 +470,7 @@
 |![](https://rustlabs.com/img/items180/attire.bunnyears.png)|Bunny Ears|attire.bunnyears|-1004426654|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/attire.bunny.onesie.png)|Bunny Onesie|attire.bunny.onesie|-1266045928|ItemModWearable<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/hat.bunnyhat.png)|Bunny Hat|hat.bunnyhat|23391694|ItemModWearable<br>ItemBlueprint<br>|
+|![](https://rustlabs.com/img/items180/chicken.costume.png)|Chicken Costume|chicken.costume|-152332823|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
 |![](https://rustlabs.com/img/items180/easterdoorwreath.png)|Easter Door Wreath|easterdoorwreath|-979302481|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/easterbasket.png)|Egg Basket|easterbasket|1856217390|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/attire.egg.suit.png)|Egg Suit|attire.egg.suit|-747743875|ItemModWearable<br>ItemBlueprint<br>ItemModPaintable<br>ItemMod<br>|
@@ -781,6 +782,7 @@
 |![](https://rustlabs.com/img/items180/spraycandecal.png)|Spray Can Decal|spraycandecal|-1366326648||
 |![](https://rustlabs.com/img/items180/supply.signal.png)|Supply Signal|supply.signal|1397052267|ItemModEntity<br>|
 |![](https://rustlabs.com/img/items180/surveycharge.png)|Survey Charge|surveycharge|1975934948|ItemModEntity<br>ItemBlueprint<br>ItemModEntity<br>|
+|![](https://rustlabs.com/img/items180/walkietalkie.png)|Walkie Talkie|walkietalkie|-1416322465|ItemBlueprint<br>ItemModConversation<br>|
 |![](https://rustlabs.com/img/items180/wiretool.png)|Wire Tool|wiretool|-144417939|ItemModEntity<br>ItemBlueprint<br>|
 |![](https://rustlabs.com/img/items180/vehicle.chassis.2mod.png)|Small Chassis|vehicle.chassis.2mod|-44066600|ItemBlueprint<br>ItemModVehicleChassis<br>|
 |![](https://rustlabs.com/img/items180/vehicle.chassis.3mod.png)|Medium Chassis|vehicle.chassis.3mod|-44066823|ItemBlueprint<br>ItemModVehicleChassis<br>|
