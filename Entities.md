@@ -1283,6 +1283,12 @@
 |XmasGingerbreadDungeon|2614965312|ProceduralDynamicDungeon<br>MonumentNavMesh<br>|assets/prefabs/missions/portal/xmasgingerbreaddungeon.prefab|
 |XMasPortalEntry|2270960267|XmasDungeon<br>BaseCombatEntity<br>BasePortal<br>BoxCollider<br>Spawnable<br>|assets/prefabs/missions/portal/xmasportalentry.prefab|
 |XmasPortalExit|2696291976|BasePortal<br>BoxCollider<br>|assets/prefabs/missions/portal/xmasportalexit.prefab|
+|crate_elite_tutorial|3586383791|LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/prefabs/missions/tutorialisland/crate_elite_tutorial.prefab|
+|crate_tools_tutorial|25203603|TutorialContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/prefabs/missions/tutorialisland/crate_tools_tutorial.prefab|
+|EndTutorialCinematic|2744328499|CinematicScenePlaybackEntity<br>SignalReceiver<br>|assets/prefabs/missions/tutorialisland/endtutorialcinematic.prefab|
+|Loot-Barrel-Tutorial|1380255172|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/missions/tutorialisland/loot-barrel-tutorial.prefab|
+|TutorialIsland|3290961355|TutorialIsland<br>MonumentNavMesh<br>|assets/prefabs/missions/tutorialisland/tutorialisland.prefab|
+|TutorialMapMarker|3719689594|TutorialIsland_MapMarker<br>|assets/prefabs/missions/tutorialisland/tutorialmapmarker.prefab|
 |autoturret_deployed|3312510084|AutoTurret<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>Model<br>DestroyOnGroundMissing<br>GroundWatch<br>CapsuleCollider<br>|assets/prefabs/npc/autoturret/autoturret_deployed.prefab|
 |AirWolfSpawner|3960558419|VehicleSpawner<br>BoxCollider<br>|assets/prefabs/npc/bandit/airwolfspawner.prefab|
 |BoatSpawner|2609911909|VehicleSpawner<br>BoxCollider<br>|assets/prefabs/npc/bandit/boatspawner.prefab|
@@ -1333,6 +1339,7 @@
 |Scarecrow_Dungeon|3019050354|ScarecrowNPC<br>BaseCombatEntity<br>BasePlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>Spawnable<br>NPCPlayerNavigator<br>NavMeshAgent<br>ScarecrowBrain<br>Spawnable<br>|assets/prefabs/npc/scarecrow/scarecrow_dungeon.prefab|
 |Scarecrow_DungeonNoRoam|70161046|ScarecrowNPC<br>BaseCombatEntity<br>BasePlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>Spawnable<br>NPCPlayerNavigator<br>NavMeshAgent<br>ScarecrowBrain<br>Spawnable<br>|assets/prefabs/npc/scarecrow/scarecrow_dungeonnoroam.prefab|
 |scientist_corpse|1236143239|NPCPlayerCorpse<br>BaseCombatEntity<br>LootableCorpse<br>BaseCorpse<br>HumanBodyResourceDispenser<br>Buoyancy<br>HeadDispenser<br>|assets/prefabs/npc/scientist/scientist_corpse.prefab|
+|MissionProvider_Tutorial|3344407138|TutorialNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCTalking<br>NPCShopKeeper<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>|assets/prefabs/npc/tutorial/missionprovider_tutorial.prefab|
 |PhysicsEntityCube|681646903|BaseEntity<br>Rigidbody<br>|assets/prefabs/physicstesting/physicsentitycube.prefab|
 |PhysicsEntityCube_MaxFriction|4224922530|BaseEntity<br>Rigidbody<br>|assets/prefabs/physicstesting/physicsentitycube_maxfriction.prefab|
 |PhysicsEntityCube_MaxFriction_Heavy|2366673790|BaseEntity<br>Rigidbody<br>|assets/prefabs/physicstesting/physicsentitycube_maxfriction_heavy.prefab|
@@ -1384,8 +1391,7 @@
 |syringe_medical.entity|283937635|MedicalTool<br>HeldEntity<br>|assets/prefabs/tools/medical syringe/syringe_medical.entity.prefab|
 |metal_detector.entity|892200099|BaseMetalDetector<br>Model<br>|assets/prefabs/tools/metaldetector/metal_detector.entity.prefab|
 |metal_detector_flag.entity|1406086660|MetalDetectorFlag<br>BaseCombatEntity<br>Model<br>|assets/prefabs/tools/metaldetector/metal_detector_flag.entity.prefab|
-|metal_detector_flag_ghost|521911201||assets/prefabs/tools/metaldetector/metal_detector_flag_ghost.prefab|
-|metal_detector_source.entity|1244235496|MetalDetectorSource<br>Spawnable<br>|assets/prefabs/tools/metaldetector/metal_detector_source.entity.prefab|
+|metal_detector_source.entity|1244235496|MetalDetectorSource<br>Spawnable<br>SphereCollider<br>|assets/prefabs/tools/metaldetector/metal_detector_source.entity.prefab|
 |pager.entity|2918467232|PagerEntity<br>|assets/prefabs/tools/pager/pager.entity.prefab|
 |pipetool.entity|3896504765|WireTool<br>|assets/prefabs/tools/pipe/pipetool.entity.prefab|
 |planner|1435750071|Planner<br>|assets/prefabs/tools/planner/planner.prefab|
@@ -1573,13 +1579,16 @@
 |spear_wooden.entity|2828546575|BaseMelee<br>HeldEntity<br>|assets/prefabs/weapons/wooden spear/spear_wooden.entity.prefab|
 |Bear.Corpse|4102891990|BaseCorpse<br>ResourceDispenser<br>HeadDispenser<br>|assets/rust.ai/agents/bear/bear.corpse.prefab|
 |Bear|1799741974|Bear<br>BaseCombatEntity<br>BaseNpc<br>NavMeshAgent<br>Spawnable<br>CapsuleCollider<br>AnimalBrain<br>NPCNavigator<br>|assets/rust.ai/agents/bear/bear.prefab|
+|Bear_Tutorial|3752179891|Bear<br>BaseCombatEntity<br>BaseNpc<br>NavMeshAgent<br>Spawnable<br>CapsuleCollider<br>AnimalBrain<br>NPCNavigator<br>|assets/rust.ai/agents/bear/bear_tutorial.prefab|
 |PolarBear.Corpse|2275652760|BaseCorpse<br>ResourceDispenser<br>HeadDispenser<br>|assets/rust.ai/agents/bear/polarbear.corpse.prefab|
 |PolarBear|749308997|Polarbear<br>BaseCombatEntity<br>BaseNpc<br>NavMeshAgent<br>Spawnable<br>CapsuleCollider<br>AnimalBrain<br>NPCNavigator<br>|assets/rust.ai/agents/bear/polarbear.prefab|
 |Boar.Corpse|3307373733|BaseCorpse<br>ResourceDispenser<br>HeadDispenser<br>|assets/rust.ai/agents/boar/boar.corpse.prefab|
 |Boar|502341109|Boar<br>BaseCombatEntity<br>BaseNpc<br>NavMeshAgent<br>Spawnable<br>CapsuleCollider<br>AnimalBrain<br>NPCNavigator<br>|assets/rust.ai/agents/boar/boar.prefab|
 |Bottest|1784396605|BasePlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>DevDressPlayer<br>DevMovePlayer<br>|assets/rust.ai/agents/bottest/bottest.prefab|
 |Chicken.Corpse|345706504|BaseCorpse<br>ResourceDispenser<br>HeadDispenser<br>|assets/rust.ai/agents/chicken/chicken.corpse.prefab|
+|Chicken.Corpse.tutorial|1502667878|BaseCorpse<br>ResourceDispenser<br>HeadDispenser<br>|assets/rust.ai/agents/chicken/chicken.corpse.tutorial.prefab|
 |Chicken|152398164|Chicken<br>BaseCombatEntity<br>BaseNpc<br>NavMeshAgent<br>Spawnable<br>CapsuleCollider<br>AnimalBrain<br>NPCNavigator<br>|assets/rust.ai/agents/chicken/chicken.prefab|
+|Chicken.tutorial|2830011179|Chicken<br>BaseCombatEntity<br>BaseNpc<br>NavMeshAgent<br>Spawnable<br>CapsuleCollider<br>AnimalBrain<br>NPCNavigator<br>|assets/rust.ai/agents/chicken/chicken.tutorial.prefab|
 |BloodCloud|2939690783|ScreenBounceFade<br>|assets/rust.ai/agents/fish/shark/effects/bloodcloud.prefab|
 |Shark.Corpse|3051190050|BaseCorpse<br>ResourceDispenser<br>Buoyancy<br>HeadDispenser<br>|assets/rust.ai/agents/fish/shark.corpse.prefab|
 |Shark_Unused|1738989765|BaseFishNPC<br>BaseCombatEntity<br>Spawnable<br>CapsuleCollider<br>FishBrain<br>FishNavigator<br>NavMeshAgent<br>|assets/rust.ai/agents/fish/shark_unused.prefab|
