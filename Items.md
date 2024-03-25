@@ -5,7 +5,7 @@
 |<img src="https://rustlabs.com/img/items180/strobelight.png" width="100" height="80">|Strobe Light|strobelight|2104517339|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://rustlabs.com/img/items180/attackhelicopter.png" width="100" height="80">|Attack Helicopter|attackhelicopter|1113514903|ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/kayak.png" width="100" height="80">|Kayak|kayak|190184021|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
-|<img src="https://rustlabs.com/img/items180/rhib.png" width="100" height="80">|RHIB|rhib|1394042569|ItemBlueprint<br>|
+|<img src="https://rustlabs.com/img/screenshots/rhib.png" width="100" height="80">|RHIB|rhib|1394042569|ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/rowboat.png" width="100" height="80">|Rowboat|rowboat|1878053256|ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://rustlabs.com/img/items180/tugboat.png" width="100" height="80">|Tugboat|tugboat|-561148628|ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://rustlabs.com/img/items180/minihelicopter.repair.png" width="100" height="80">|MC repair|minihelicopter.repair|1426574435|ItemBlueprint<br>|
@@ -16,10 +16,10 @@
 |<img src="https://rustlabs.com/img/items180/snowmobile.png" width="100" height="80">|Snowmobile|snowmobile|-1364246987|ItemBlueprint<br>ItemModEntityReference<br>|
 |<img src="https://rustlabs.com/img/items180/snowmobiletomaha.png" width="100" height="80">|Tomaha Snowmobile|snowmobiletomaha|1768112091|ItemBlueprint<br>ItemModEntityReference<br>|
 |<img src="https://rustlabs.com/img/items180/submarineduo.png" width="100" height="80">|Duo Submarine|submarineduo|1015352446|ItemBlueprint<br>|
-|<img src="https://rustlabs.com/img/items180/submarinesolo.png" width="100" height="80">|Solo Submarine|submarinesolo|-187031121|ItemBlueprint<br>|
-|<img src="https://rustlabs.com/img/items180/locomotive.png" width="100" height="80">|Locomotive|locomotive|-2027988285|ItemBlueprint<br>|
-|<img src="https://rustlabs.com/img/items180/wagon.png" width="100" height="80">|Wagon|wagon|996757362|ItemBlueprint<br>|
-|<img src="https://rustlabs.com/img/items180/workcart.png" width="100" height="80">|Work Cart|workcart|-810326667|ItemBlueprint<br>|
+|<img src="https://rustlabs.com/img/screenshots/submarine-solo.png" width="100" height="80">|Solo Submarine|submarinesolo|-187031121|ItemBlueprint<br>|
+|<img src="https://www.corrosionhour.com/wp-content/uploads/2022/08/rust-locomotive-300x300.png" width="100" height="80">|Locomotive|locomotive|-2027988285|ItemBlueprint<br>|
+|<img src="https://www.corrosionhour.com/wp-content/uploads/2022/05/rust-wagon-300x300.png" width="100" height="80">|Wagon|wagon|996757362|ItemBlueprint<br>|
+|<img src="https://rustlabs.com/img/screenshots/workcart.png" width="100" height="80">|Work Cart|workcart|-810326667|ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/ammo.grenadelauncher.buckshot.png" width="100" height="80">|40mm Shotgun Round|ammo.grenadelauncher.buckshot|1055319033|ItemModProjectile<br>ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/ammo.grenadelauncher.he.png" width="100" height="80">|40mm HE Grenade|ammo.grenadelauncher.he|349762871|ItemModProjectile<br>ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/ammo.grenadelauncher.smoke.png" width="100" height="80">|40mm Smoke Grenade|ammo.grenadelauncher.smoke|915408809|ItemModProjectile<br>ItemBlueprint<br>|
@@ -96,7 +96,7 @@
 |<img src="https://rustlabs.com/img/items180/halloween.mummysuit.png" width="100" height="80">|Mummy Suit|halloween.mummysuit|277730763|ItemModWearable<br>|
 |<img src="https://rustlabs.com/img/items180/scarecrow.suit.png" width="100" height="80">|Scarecrow Suit|scarecrow.suit|273951840|ItemModWearable<br>|
 |<img src="https://rustlabs.com/img/items180/scarecrowhead.png" width="100" height="80">|Scarecrow Wrap|scarecrowhead|809942731|ItemModWearable<br>ItemBlueprint<br>|
-|<img src="https://rustlabs.com/img/items180/metal.facemask.hockey.png" width="100" height="80">|Hockey Mask|metal.facemask.hockey|-1334569149|ItemModWearable<br>ItemBlueprint<br>|
+|<img src="https://rustlabs.com/img/skins/324/10212.png" width="100" height="80">|Hockey Mask|metal.facemask.hockey|-1334569149|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/attire.hide.helterneck.png" width="100" height="80">|Hide Halterneck|attire.hide.helterneck|3222790|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/hat.beenie.png" width="100" height="80">|Beenie Hat|hat.beenie|1675639563|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/hat.boonie.png" width="100" height="80">|Boonie Hat|hat.boonie|-23994173|ItemModWearable<br>ItemBlueprint<br>|
@@ -151,7 +151,7 @@
 |<img src="https://rustlabs.com/img/items180/hazmatsuit_scientist_arctic.png" width="100" height="80">|Arctic Scientist Suit|hazmatsuit_scientist_arctic|1107575710|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
 |<img src="https://rustlabs.com/img/items180/hazmatsuit_scientist_nvgm.png" width="100" height="80">|NVGM Scientist Suit|hazmatsuit_scientist_nvgm|86840834|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
 |<img src="https://rustlabs.com/img/items180/hazmatsuit_scientist_peacekeeper.png" width="100" height="80">|Scientist Suit|hazmatsuit_scientist_peacekeeper|-1958316066|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
-|<img src="https://rustlabs.com/img/items180/hazmatsuit.spacesuit.png" width="100" height="80">|Space Suit|hazmatsuit.spacesuit|-560304835|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
+|<img src="https://rustlabs.com/img/skins/324/10180.png" width="100" height="80">|Space Suit|hazmatsuit.spacesuit|-560304835|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
 |<img src="https://rustlabs.com/img/items180/hazmatsuittwitch.png" width="100" height="80">|Twitch Rivals Hazmat Suit|hazmatsuittwitch|468313189|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
 |<img src="https://rustlabs.com/img/items180/scientistsuit_heavy.png" width="100" height="80">|Heavy Scientist Suit|scientistsuit_heavy|-1772746857|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
 |<img src="https://rustlabs.com/img/items180/jumpsuit.suit.blue.png" width="100" height="80">|Blue Jumpsuit|jumpsuit.suit.blue|1601468620|ItemModWearable<br>ItemBlueprint<br>|
@@ -572,7 +572,7 @@
 |<img src="https://rustlabs.com/img/items180/movembermoustachecard.png" width="100" height="80">|Card Movember Moustache|movembermoustachecard|3380160|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/movembermoustache.png" width="100" height="80">|Movember Moustache|movembermoustache|-2047081330|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/note.png" width="100" height="80">|Note|note|1414245162|ItemBlueprint<br>|
-|<img src="https://rustlabs.com/img/items180/parachute.deployed.png" width="100" height="80">|Parachute (Deployed)|parachute.deployed|1784005657|ItemModWearable<br>|
+|<img src="https://rustlabs.com/img/items180/parachute.png" width="100" height="80">|Parachute (Deployed)|parachute.deployed|1784005657|ItemModWearable<br>|
 |<img src="https://rustlabs.com/img/items180/parachute.png" width="100" height="80">|Parachute|parachute|602628465|ItemModWearable<br>ItemBlueprint<br>ItemModParachute<br>ItemMod<br>|
 |<img src="https://rustlabs.com/img/items180/factorydoor.png" width="100" height="80">|Factory Door|factorydoor|2054391128|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://rustlabs.com/img/items180/industrial.wall.light.green.png" width="100" height="80">|Green Industrial Wall Light|industrial.wall.light.green|1268178466|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
@@ -787,7 +787,7 @@
 |<img src="https://rustlabs.com/img/items180/vehicle.chassis.2mod.png" width="100" height="80">|Small Chassis|vehicle.chassis.2mod|-44066600|ItemBlueprint<br>ItemModVehicleChassis<br>|
 |<img src="https://rustlabs.com/img/items180/vehicle.chassis.3mod.png" width="100" height="80">|Medium Chassis|vehicle.chassis.3mod|-44066823|ItemBlueprint<br>ItemModVehicleChassis<br>|
 |<img src="https://rustlabs.com/img/items180/vehicle.chassis.4mod.png" width="100" height="80">|Large Chassis|vehicle.chassis.4mod|-44066790|ItemBlueprint<br>ItemModVehicleChassis<br>|
-|<img src="https://rustlabs.com/img/items180/vehicle.chassis.png" width="100" height="80">|Generic vehicle chassis|vehicle.chassis|1770744540|ItemBlueprint<br>ItemModVehicleChassis<br>|
+|<img src="https://www.corrosionhour.com/wp-content/uploads/2021/06/rust-vehicle-chassis-2mod-300x300.png" width="100" height="80">|Generic vehicle chassis|vehicle.chassis|1770744540|ItemBlueprint<br>ItemModVehicleChassis<br>|
 |<img src="https://rustlabs.com/img/items180/vehicle.1mod.cockpit.png" width="100" height="80">|Cockpit Vehicle Module|vehicle.1mod.cockpit|-1501451746|ItemBlueprint<br>ItemModVehicleModule<br>|
 |<img src="https://rustlabs.com/img/items180/vehicle.1mod.cockpit.armored.png" width="100" height="80">|Armored Cockpit Vehicle Module|vehicle.1mod.cockpit.armored|1874610722|ItemBlueprint<br>ItemModVehicleModule<br>|
 |<img src="https://rustlabs.com/img/items180/vehicle.1mod.cockpit.with.engine.png" width="100" height="80">|Cockpit With Engine Vehicle Module|vehicle.1mod.cockpit.with.engine|170758448|ItemBlueprint<br>ItemModVehicleModule<br>|
@@ -801,7 +801,7 @@
 |<img src="https://rustlabs.com/img/items180/vehicle.2mod.flatbed.png" width="100" height="80">|Large Flatbed Vehicle Module|vehicle.2mod.flatbed|-1693832478|ItemBlueprint<br>ItemModVehicleModule<br>|
 |<img src="https://rustlabs.com/img/items180/vehicle.2mod.fuel.tank.png" width="100" height="80">|Fuel Tank Vehicle Module|vehicle.2mod.fuel.tank|1186655046|ItemBlueprint<br>ItemModVehicleModule<br>|
 |<img src="https://rustlabs.com/img/items180/vehicle.2mod.passengers.png" width="100" height="80">|Passenger Vehicle Module|vehicle.2mod.passengers|895374329|ItemBlueprint<br>ItemModVehicleModule<br>|
-|<img src="https://rustlabs.com/img/items180/vehicle.module.png" width="100" height="80">|Generic vehicle module|vehicle.module|878301596|ItemBlueprint<br>ItemModVehicleModule<br>|
+|<img src="https://www.corrosionhour.com/wp-content/uploads/2021/06/no-icon-300x300.png" width="100" height="80">|Generic vehicle module|vehicle.module|878301596|ItemBlueprint<br>ItemModVehicleModule<br>|
 |<img src="https://rustlabs.com/img/items180/boombox.png" width="100" height="80">|Boom Box|boombox|-1113501606|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://rustlabs.com/img/items180/fun.boomboxportable.png" width="100" height="80">|Portable Boom Box|fun.boomboxportable|576509618|ItemModEntity<br>ItemBlueprint<br>ItemModCassetteContainer<br>ItemMod<br>|
 |<img src="https://rustlabs.com/img/items180/cassette.png" width="100" height="80">|Cassette - Long|cassette|476066818|ItemBlueprint<br>ItemModCassette<br>ItemMod<br>|
@@ -854,11 +854,11 @@
 |<img src="https://rustlabs.com/img/items180/grenade.flashbang.png" width="100" height="80">|Flashbang|grenade.flashbang|-936921910|ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/pistol.prototype17.png" width="100" height="80">|Prototype 17|pistol.prototype17|1914691295|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |<img src="https://rustlabs.com/img/items180/multiplegrenadelauncher.png" width="100" height="80">|Multiple Grenade Launcher|multiplegrenadelauncher|-1123473824|ItemModEntity<br>ItemModContainer<br>ItemBlueprint<br>|
-|<img src="https://rustlabs.com/img/items180/mace.baseballbat.png" width="100" height="80">|Baseball Bat|mace.baseballbat|-2026042603|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
+|<img src="https://rustlabs.com/img/skins/324/10214.png" width="100" height="80">|Baseball Bat|mace.baseballbat|-2026042603|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |<img src="https://rustlabs.com/img/items180/knife.butcher.png" width="100" height="80">|Butcher Knife|knife.butcher|-194509282|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |<img src="https://rustlabs.com/img/items180/pitchfork.png" width="100" height="80">|Pitchfork|pitchfork|1090916276|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |<img src="https://rustlabs.com/img/items180/sickle.png" width="100" height="80">|Sickle|sickle|-1368584029|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
-|<img src="https://rustlabs.com/img/items180/torch.torch.skull.png" width="100" height="80">|Cultist Deer Torch|torch.torch.skull|-1175656359|ItemModEntity<br>ItemBlueprint<br>|
+|<img src="https://rustlabs.com/img/skins/324/10213.png" width="100" height="80">|Cultist Deer Torch|torch.torch.skull|-1175656359|ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/skull.png" width="100" height="80">|Skull|skull|1312843609|ItemModEntity<br>ItemModProjectile<br>ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/vampire.stake.png" width="100" height="80">|Vampire Stake|vampire.stake|-885833256|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |<img src="https://rustlabs.com/img/items180/hammer.png" width="100" height="80">|Hammer|hammer|200773292|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
