@@ -15,7 +15,7 @@
 |<img src="https://rustlabs.com/img/items180/scraptransportheli.repair.png" width="100" height="80">|ScrapTransportHeliRepair|scraptransportheli.repair|-1884328185|ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/snowmobile.png" width="100" height="80">|Snowmobile|snowmobile|-1364246987|ItemBlueprint<br>ItemModEntityReference<br>|
 |<img src="https://rustlabs.com/img/items180/snowmobiletomaha.png" width="100" height="80">|Tomaha Snowmobile|snowmobiletomaha|1768112091|ItemBlueprint<br>ItemModEntityReference<br>|
-|<img src="https://rustlabs.com/img/items180/submarineduo.png" width="100" height="80">|Duo Submarine|submarineduo|1015352446|ItemBlueprint<br>|
+|<img src="https://rustlabs.com/img/screenshots/submarine-duo.png" width="100" height="80">|Duo Submarine|submarineduo|1015352446|ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/screenshots/submarine-solo.png" width="100" height="80">|Solo Submarine|submarinesolo|-187031121|ItemBlueprint<br>|
 |<img src="https://www.corrosionhour.com/wp-content/uploads/2022/08/rust-locomotive-300x300.png" width="100" height="80">|Locomotive|locomotive|-2027988285|ItemBlueprint<br>|
 |<img src="https://www.corrosionhour.com/wp-content/uploads/2022/05/rust-wagon-300x300.png" width="100" height="80">|Wagon|wagon|996757362|ItemBlueprint<br>|
