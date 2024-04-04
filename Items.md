@@ -123,6 +123,7 @@
 |<img src="https://rustlabs.com/img/items180/mask.bandana.png" width="100" height="80">|Bandana Mask|mask.bandana|-702051347|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/metal.facemask.png" width="100" height="80">|Metal Facemask|metal.facemask|-194953424|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/metal.facemask.icemask.png" width="100" height="80">|Ice Metal Facemask|metal.facemask.icemask|110116923|ItemModWearable<br>ItemBlueprint<br>|
+|<img src="https://rustlabs.com/img/items180/minigunammopack.png" width="100" height="80">|Minigun Ammo Pack|minigunammopack|355877490|ItemModWearable<br>ItemModContainer<br>ItemModBackpack<br>ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/nightvisiongoggles.png" width="100" height="80">|Night Vision Goggles|nightvisiongoggles|-1518883088|ItemModWearable<br>ItemBlueprint<br>ItemModRepair<br>|
 |<img src="https://rustlabs.com/img/items180/attire.ninja.suit.png" width="100" height="80">|Ninja Suit|attire.ninja.suit|-1506417026|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/burlap.trousers.png" width="100" height="80">|Burlap Trousers|burlap.trousers|1992974553|ItemModWearable<br>ItemBlueprint<br>|
@@ -343,6 +344,7 @@
 |<img src="https://rustlabs.com/img/items180/workbench2.png" width="100" height="80">|Workbench Level 2|workbench2|-41896755|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://rustlabs.com/img/items180/workbench3.png" width="100" height="80">|Workbench Level 3|workbench3|-1607980696|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://rustlabs.com/img/items180/cupboard.tool.png" width="100" height="80">|Tool Cupboard|cupboard.tool|-97956382|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|<img src="https://rustlabs.com/img/items180/cupboard.tool.retro.png" width="100" height="80">|Retro Tool Cupboard|cupboard.tool.retro|1488606552|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://rustlabs.com/img/items180/tunalight.png" width="100" height="80">|Tuna Can Lamp|tunalight|-1478445584|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>ItemModContainer<br>|
 |<img src="https://rustlabs.com/img/items180/vending.machine.png" width="100" height="80">|Vending Machine|vending.machine|198438816|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://rustlabs.com/img/items180/water.catcher.large.png" width="100" height="80">|Large Water Catcher|water.catcher.large|-1100168350|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
@@ -841,7 +843,7 @@
 |<img src="https://rustlabs.com/img/items180/cakefiveyear.png" width="100" height="80">|Birthday Cake|cakefiveyear|1973165031|ItemModEntity<br>ItemModProjectile<br>ItemModConsumable<br>ItemModConsume<br>ItemModMenuOption<br>|
 |<img src="https://rustlabs.com/img/items180/chainsaw.png" width="100" height="80">|Chainsaw|chainsaw|1104520648|ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/salvaged.cleaver.png" width="100" height="80">|Salvaged Cleaver|salvaged.cleaver|-1978999529|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
-|<img src="https://rustlabs.com/img/items180/spear.cny.png" width="100" height="80">|Chinese new year spear|spear.cny|695450239|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
+|<img src="https://rustlabs.com/img/items180/spear.cny.png" width="100" height="80">|Lunar New Year Spear|spear.cny|695450239|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |<img src="https://rustlabs.com/img/items180/bow.compound.png" width="100" height="80">|Compound Bow|bow.compound|884424049|ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/crossbow.png" width="100" height="80">|Crossbow|crossbow|1965232394|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |<img src="https://rustlabs.com/img/items180/diverhatchet.png" width="100" height="80">|Abyss Metal Hatchet|diverhatchet|1046904719|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
@@ -875,6 +877,8 @@
 |<img src="https://rustlabs.com/img/items180/pistol.m92.png" width="100" height="80">|M92 Pistol|pistol.m92|-852563019|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |<img src="https://rustlabs.com/img/items180/mace.png" width="100" height="80">|Mace|mace|-1966748496|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |<img src="https://rustlabs.com/img/items180/machete.png" width="100" height="80">|Machete|machete|-1137865085|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
+|<img src="https://rustlabs.com/img/items180/military flamethrower.png" width="100" height="80">|Military Flame Thrower|military flamethrower|703057617|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
+|<img src="https://rustlabs.com/img/items180/minigun.png" width="100" height="80">|Minigun|minigun|935606207|ItemModEntity<br>ItemBlueprint<br>ItemModReload<br>|
 |<img src="https://rustlabs.com/img/items180/grenade.molotov.png" width="100" height="80">|Molotov Cocktail|grenade.molotov|1556365900|ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/smg.mp5.png" width="100" height="80">|MP5A4|smg.mp5|1318558775|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |<img src="https://rustlabs.com/img/items180/pistol.nailgun.png" width="100" height="80">|Nailgun|pistol.nailgun|1953903201|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
