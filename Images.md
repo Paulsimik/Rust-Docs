@@ -755,6 +755,15 @@
 |assets/scenes/test/bradleylaunchtest/splattexture1.png|
 |assets/scenes/test/bradleylaunchtest/topologytexture.png|
 |assets/scenes/test/bradleylaunchtest/watertexture.png|
+|assets/scenes/test/cargodocking/cargodocking terrain/alphatexture.png|
+|assets/scenes/test/cargodocking/cargodocking terrain/biometexture.png|
+|assets/scenes/test/cargodocking/cargodocking terrain/distancetexture.png|
+|assets/scenes/test/cargodocking/cargodocking terrain/heighttexture.png|
+|assets/scenes/test/cargodocking/cargodocking terrain/normaltexture.png|
+|assets/scenes/test/cargodocking/cargodocking terrain/splattexture0.png|
+|assets/scenes/test/cargodocking/cargodocking terrain/splattexture1.png|
+|assets/scenes/test/cargodocking/cargodocking terrain/topologytexture.png|
+|assets/scenes/test/cargodocking/cargodocking terrain/watertexture.png|
 |assets/scenes/test/coastal_cliffs/coastal_cliffs_test/alphatexture.png|
 |assets/scenes/test/coastal_cliffs/coastal_cliffs_test/biometexture.png|
 |assets/scenes/test/coastal_cliffs/coastal_cliffs_test/heighttexture.png|
