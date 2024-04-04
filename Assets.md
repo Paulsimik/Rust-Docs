@@ -652,6 +652,8 @@
 |assets/content/properties/lootspawn/collections/mgl/mgl_buckshot.asset|
 |assets/content/properties/lootspawn/collections/mgl/mgl_he.asset|
 |assets/content/properties/lootspawn/collections/mgl/mgl_smoke.asset|
+|assets/content/properties/lootspawn/collections/militaryflamer with ammo.asset|
+|assets/content/properties/lootspawn/collections/minigun with ammo.asset|
 |assets/content/properties/lootspawn/collections/mining gunpowder.asset|
 |assets/content/properties/lootspawn/collections/mining metalfrags.asset|
 |assets/content/properties/lootspawn/collections/mining oil.asset|
@@ -910,6 +912,7 @@
 |assets/content/properties/lootspawn/generated/items/attire/metal.facemask.icemask.asset|
 |assets/content/properties/lootspawn/generated/items/attire/metal.plate.torso.asset|
 |assets/content/properties/lootspawn/generated/items/attire/metal.plate.torso.icevest.asset|
+|assets/content/properties/lootspawn/generated/items/attire/minigunammopack.asset|
 |assets/content/properties/lootspawn/generated/items/attire/nightvisiongoggles.asset|
 |assets/content/properties/lootspawn/generated/items/attire/pants.asset|
 |assets/content/properties/lootspawn/generated/items/attire/pants.shorts.asset|
@@ -1451,6 +1454,8 @@
 |assets/content/properties/lootspawn/generated/items/weapon/mace.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/mace.baseballbat.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/machete.asset|
+|assets/content/properties/lootspawn/generated/items/weapon/military flamethrower.asset|
+|assets/content/properties/lootspawn/generated/items/weapon/minigun.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/multiplegrenadelauncher.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/paddle.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/pistol.eoka.asset|
@@ -1588,6 +1593,8 @@
 |assets/content/properties/materialconfig/dunes blended.asset|
 |assets/content/properties/materialconfig/rock blended.asset|
 |assets/content/properties/materialconfig/rock.asset|
+|assets/content/properties/materialconfig/snow effect part accum mats.asset|
+|assets/content/properties/materialconfig/snow effect.asset|
 |assets/content/properties/playerinventory/arrow weapons.asset|
 |assets/content/properties/playerinventory/bandit_guard.asset|
 |assets/content/properties/playerinventory/bandit_shopkeeper_adv.asset|
@@ -1809,6 +1816,7 @@
 |assets/content/properties/recoil/new/m249recoil.nopattern.asset|
 |assets/content/properties/recoil/new/m39recoil.nopattern.asset|
 |assets/content/properties/recoil/new/m92.recoil.nopattern.asset|
+|assets/content/properties/recoil/new/minigun.recoil.nopattern.asset|
 |assets/content/properties/recoil/new/mp5.recoil.nopattern.asset|
 |assets/content/properties/recoil/new/sap.recoil.nopattern.asset|
 |assets/content/properties/recoil/new/semiautorifle.recoil.nopattern.asset|
@@ -1984,6 +1992,11 @@
 |assets/content/properties/steamcategories/limited-easter-2022.600.steam.asset|
 |assets/content/properties/steamcategories/limited-easter-2023.1000.steam.asset|
 |assets/content/properties/steamcategories/limited-easter-2023.650.steam.asset|
+|assets/content/properties/steamcategories/limited-easter-2024.100.steam.asset|
+|assets/content/properties/steamcategories/limited-easter-2024.1000.steam.asset|
+|assets/content/properties/steamcategories/limited-easter-2024.150.steam.asset|
+|assets/content/properties/steamcategories/limited-easter-2024.350.steam.asset|
+|assets/content/properties/steamcategories/limited-easter-2024.800.steam.asset|
 |assets/content/properties/steamcategories/limited-halloween2015.steam.asset|
 |assets/content/properties/steamcategories/limited-halloween2017.steam.asset|
 |assets/content/properties/steamcategories/limited-halloween2018.steam.asset|
@@ -4094,6 +4107,24 @@
 |assets/content/structures/excavator/prefabs/sound/excavator-wheel-motor-stop.asset|
 |assets/content/structures/excavator/prefabs/sound/rock_debris_loop.asset|
 |assets/content/structures/excavator/prefabs/sound/rock_debris_loop_quiet.asset|
+|assets/content/structures/harbor/cranes/sound/harbor-bridge-move-loop.asset|
+|assets/content/structures/harbor/cranes/sound/harbor-bridge-move-start.asset|
+|assets/content/structures/harbor/cranes/sound/harbor-bridge-move-stop.asset|
+|assets/content/structures/harbor/cranes/sound/harbor-container-door-close-end.asset|
+|assets/content/structures/harbor/cranes/sound/harbor-container-door-close-start.asset|
+|assets/content/structures/harbor/cranes/sound/harbor-container-door-open-end.asset|
+|assets/content/structures/harbor/cranes/sound/harbor-container-door-open-start.asset|
+|assets/content/structures/harbor/cranes/sound/harbor-container-drop.asset|
+|assets/content/structures/harbor/cranes/sound/harbor-container-lift.asset|
+|assets/content/structures/harbor/cranes/sound/harbor-crane-arm-rotate-loop.asset|
+|assets/content/structures/harbor/cranes/sound/harbor-crane-arm-rotate-start.asset|
+|assets/content/structures/harbor/cranes/sound/harbor-crane-arm-rotate-stop.asset|
+|assets/content/structures/harbor/cranes/sound/harbor-crane-grab-move-loop.asset|
+|assets/content/structures/harbor/cranes/sound/harbor-crane-grab-move-start.asset|
+|assets/content/structures/harbor/cranes/sound/harbor-crane-grab-move-stop.asset|
+|assets/content/structures/harbor/cranes/sound/harbor-crane-root-rotate-loop.asset|
+|assets/content/structures/harbor/cranes/sound/harbor-crane-root-rotate-start.asset|
+|assets/content/structures/harbor/cranes/sound/harbor-crane-root-rotate-stop.asset|
 |assets/content/structures/lifts/sound/lift-movement-loop.asset|
 |assets/content/structures/lifts/sound/lift-movement-start.asset|
 |assets/content/structures/lifts/sound/lift-movement-stop.asset|
@@ -5372,6 +5403,12 @@
 |assets/prefabs/deployable/tier 3 workbench/sounds/workbench-tier-3-close.asset|
 |assets/prefabs/deployable/tier 3 workbench/sounds/workbench-tier-3-deploy.asset|
 |assets/prefabs/deployable/tier 3 workbench/sounds/workbench-tier-3-open.asset|
+|assets/prefabs/deployable/tool cupboard/cupboard.tool.skinnable.asset|
+|assets/prefabs/deployable/tool cupboard/retro/cupboard.tool.retro.skin.asset|
+|assets/prefabs/deployable/tool cupboard/retro/sound/tool-cupboard-retro-active-loop.asset|
+|assets/prefabs/deployable/tool cupboard/retro/sound/tool-cupboard-retro-close.asset|
+|assets/prefabs/deployable/tool cupboard/retro/sound/tool-cupboard-retro-deploy.asset|
+|assets/prefabs/deployable/tool cupboard/retro/sound/tool-cupboard-retro-open.asset|
 |assets/prefabs/deployable/tool cupboard/sound/tool-cupboard-close.asset|
 |assets/prefabs/deployable/tool cupboard/sound/tool-cupboard-deploy.asset|
 |assets/prefabs/deployable/tool cupboard/sound/tool-cupboard-open.asset|
@@ -6214,9 +6251,13 @@
 |assets/prefabs/plants/plantseed.sound.asset|
 |assets/prefabs/plants/potato/potato.plantproperty.asset|
 |assets/prefabs/plants/pumpkin/pumpkin.plantproperty.asset|
+|assets/prefabs/player/gestures/cinematic/gesture.cinematic.chicken.asset|
+|assets/prefabs/player/gestures/cinematic/gesture.cinematic.drink.asset|
 |assets/prefabs/player/gestures/cinematic/gesture.cinematic.exclaim_01.asset|
 |assets/prefabs/player/gestures/cinematic/gesture.cinematic.hattip.asset|
 |assets/prefabs/player/gestures/cinematic/gesture.cinematic.holdrelaxed.asset|
+|assets/prefabs/player/gestures/cinematic/gesture.cinematic.kick.asset|
+|assets/prefabs/player/gestures/cinematic/gesture.cinematic.push.asset|
 |assets/prefabs/player/gestures/cinematic/gesture.cinematic.talk_01.asset|
 |assets/prefabs/player/gestures/cinematic/gesture.cinematic.talk_02.asset|
 |assets/prefabs/player/gestures/cinematic/gesture.cinematic.talk_03.asset|
@@ -6795,6 +6836,35 @@
 |assets/prefabs/weapons/machete/sounds/machete-strike.asset|
 |assets/prefabs/weapons/machete/sounds/machete-strike-muted.asset|
 |assets/prefabs/weapons/machete/sounds/machete-strike-soft.asset|
+|assets/prefabs/weapons/military flamethrower/sound/military-flamethrower-admire-01.asset|
+|assets/prefabs/weapons/military flamethrower/sound/military-flamethrower-admire-02.asset|
+|assets/prefabs/weapons/military flamethrower/sound/military-flamethrower-admire-03.asset|
+|assets/prefabs/weapons/military flamethrower/sound/military-flamethrower-attack-loop.asset|
+|assets/prefabs/weapons/military flamethrower/sound/military-flamethrower-attack-start.asset|
+|assets/prefabs/weapons/military flamethrower/sound/military-flamethrower-attack-stop.asset|
+|assets/prefabs/weapons/military flamethrower/sound/military-flamethrower-deploy.asset|
+|assets/prefabs/weapons/military flamethrower/sound/military-flamethrower-reload-attach-canister.asset|
+|assets/prefabs/weapons/military flamethrower/sound/military-flamethrower-reload-finish.asset|
+|assets/prefabs/weapons/military flamethrower/sound/military-flamethrower-reload-remove-canister.asset|
+|assets/prefabs/weapons/military flamethrower/sound/military-flamethrower-reload-start.asset|
+|assets/prefabs/weapons/minigun/sound/minigun-admire-01.asset|
+|assets/prefabs/weapons/minigun/sound/minigun-admire-02.asset|
+|assets/prefabs/weapons/minigun/sound/minigun-admire-03.asset|
+|assets/prefabs/weapons/minigun/sound/minigun-deploy.asset|
+|assets/prefabs/weapons/minigun/sound/minigun-gunshot-body-loop.asset|
+|assets/prefabs/weapons/minigun/sound/minigun-gunshot-body-start.asset|
+|assets/prefabs/weapons/minigun/sound/minigun-gunshot-body-tail.asset|
+|assets/prefabs/weapons/minigun/sound/minigun-gunshot-lfe-loop.asset|
+|assets/prefabs/weapons/minigun/sound/minigun-gunshot-lfe-start.asset|
+|assets/prefabs/weapons/minigun/sound/minigun-gunshot-lfe-tail.asset|
+|assets/prefabs/weapons/minigun/sound/minigun-gunshot-mech-loop.asset|
+|assets/prefabs/weapons/minigun/sound/minigun-gunshot-mech-tail.asset|
+|assets/prefabs/weapons/minigun/sound/minigun-motor-loop-pitched.asset|
+|assets/prefabs/weapons/minigun/sound/minigun-motor-loop-unpitched.asset|
+|assets/prefabs/weapons/minigun/sound/minigun-motor-release.asset|
+|assets/prefabs/weapons/minigun/sound/minigun-motor-start.asset|
+|assets/prefabs/weapons/minigun/sound/minigun-motor-stop.asset|
+|assets/prefabs/weapons/minigun/sound/minigun-reload.asset|
 |assets/prefabs/weapons/molotov cocktail/sound/molotov-cocktail-burn-in-hand-loop.asset|
 |assets/prefabs/weapons/molotov cocktail/sound/molotov-cocktail-deploy.asset|
 |assets/prefabs/weapons/molotov cocktail/sound/molotov-cocktail-explosion.asset|
@@ -7211,11 +7281,15 @@
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/heavyscientist.oilrig.aidesign.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/heavyscientist-1.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/heavyscientist-2.asset|
+|assets/rust.ai/agents/npcplayer/humannpc/scientist/heavyscientist-3.asset|
+|assets/rust.ai/agents/npcplayer/humannpc/scientist/heavyscientist-4.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/scientist 1.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/scientist.arctic1.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/scientist.arctic2.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/scientist.arena.roam.aidesign.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/scientist.asset|
+|assets/rust.ai/agents/npcplayer/humannpc/scientist/scientist.bradleyapc.aidesign.asset|
+|assets/rust.ai/agents/npcplayer/humannpc/scientist/scientist.bradleyapc.stationary.aidesign.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/scientist.cargoship.aidesign.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/scientist.cargoship.turret.aidesign.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/scientist.ch47.gunner.aidesign.asset|
@@ -7327,6 +7401,7 @@
 |assets/scenes/prefabs/trainyard/sound/coaling-tower-suction-ore-loop-interior-pipe.asset|
 |assets/scenes/prefabs/trainyard/sound/coaling-tower-suction-ore-start.asset|
 |assets/scenes/test/billbtestmap/billbtestmap terrain.asset|
+|assets/scenes/test/cargodocking/cargodocking terrain.asset|
 |assets/scenes/test/coastal_cliffs/coastal_cliffs_test.asset|
 |assets/scripts/entity/misc/f15/sound/f15e-flight-loop.asset|
 |assets/scripts/entity/misc/f15/sound/f15e-fly-by.asset|
