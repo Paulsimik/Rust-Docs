@@ -669,6 +669,7 @@
 |assets/content/effects/muzzleflashes/muzzleflash_lightex_tiny.prefab|
 |assets/content/effects/muzzleflashes/other/eoka_attack.prefab|
 |assets/content/effects/muzzleflashes/other/eoka_flint_spark.prefab|
+|assets/content/effects/muzzleflashes/other/muzzle_flash_minigun.prefab|
 |assets/content/effects/muzzleflashes/other/muzzle_flash_snowballgun.prefab|
 |assets/content/effects/muzzleflashes/other/projectilefx_snowballgun.prefab|
 |assets/content/effects/muzzleflashes/other/projectilefx_snowballgun_impact.prefab|
@@ -979,6 +980,7 @@
 |assets/prefabs/deployable/tier 2 workbench/effects/workbench-tier-2-deploy.prefab|
 |assets/prefabs/deployable/tier 3 workbench/effects/workbench-tier-3-deploy.prefab|
 |assets/prefabs/deployable/tool cupboard/effects/tool-cupboard-deploy.prefab|
+|assets/prefabs/deployable/tool cupboard/retro/effects/tool-cupboard-retro-deploy.prefab|
 |assets/prefabs/deployable/tuna can wall lamp/effects/tuna-can-lamp-deploy.prefab|
 |assets/prefabs/deployable/vendingmachine/effects/vending-machine-deploy.prefab|
 |assets/prefabs/deployable/vendingmachine/effects/vending-machine-purchase-human.prefab|
@@ -1666,6 +1668,16 @@
 |assets/prefabs/weapons/machete/effects/hit-soft.prefab|
 |assets/prefabs/weapons/machete/effects/swing_thirdperson.prefab|
 |assets/prefabs/weapons/machete/effects/throw.prefab|
+|assets/prefabs/weapons/military flamethrower/effects/flamethrower_military_fire.prefab|
+|assets/prefabs/weapons/military flamethrower/effects/flamethrower_military_fire_12range.prefab|
+|assets/prefabs/weapons/military flamethrower/effects/flamethrower_military_pilotflames.prefab|
+|assets/prefabs/weapons/minigun/effects/attack.prefab|
+|assets/prefabs/weapons/minigun/effects/attack_shake_ads.prefab|
+|assets/prefabs/weapons/minigun/effects/cinematic_minigun_constantattack.prefab|
+|assets/prefabs/weapons/minigun/effects/cinematic_minigun_constantattack_v2.prefab|
+|assets/prefabs/weapons/minigun/effects/cinematic_minigun_fixedduration.prefab|
+|assets/prefabs/weapons/minigun/effects/eject_shellpluslink.prefab|
+|assets/prefabs/weapons/minigun/effects/minigun-reload.prefab|
 |assets/prefabs/weapons/molotov cocktail/effects/laterimprovementwip/burstwip.prefab|
 |assets/prefabs/weapons/molotov cocktail/effects/laterimprovementwip/chainspring_c1_3_jnt_flame.prefab|
 |assets/prefabs/weapons/molotov cocktail/effects/laterimprovementwip/pfx_firepoint.prefab|
