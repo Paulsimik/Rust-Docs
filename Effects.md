@@ -1875,6 +1875,21 @@
 |assets/prefabs/weapons/semi auto rifle/effects/eject_rifle_shell.prefab|
 |assets/prefabs/weapons/semi auto rifle/effects/w_drop_magazine.prefab|
 |assets/prefabs/weapons/semi auto rifle/effects/w_eject_rifle_shell.prefab|
+|assets/prefabs/weapons/sks/effects/attack.prefab|
+|assets/prefabs/weapons/sks/effects/attack_muzzlebrake.prefab|
+|assets/prefabs/weapons/sks/effects/attack_shake.prefab|
+|assets/prefabs/weapons/sks/effects/attack_shake_ads.prefab|
+|assets/prefabs/weapons/sks/effects/attack_silenced.prefab|
+|assets/prefabs/weapons/sks/effects/bolt_back.prefab|
+|assets/prefabs/weapons/sks/effects/bolt_forward.prefab|
+|assets/prefabs/weapons/sks/effects/clip_in.prefab|
+|assets/prefabs/weapons/sks/effects/clip_out.prefab|
+|assets/prefabs/weapons/sks/effects/clip_slap.prefab|
+|assets/prefabs/weapons/sks/effects/deploy.prefab|
+|assets/prefabs/weapons/sks/effects/dryfire.prefab|
+|assets/prefabs/weapons/sks/effects/eject_rifle_shell.prefab|
+|assets/prefabs/weapons/sks/effects/w_drop_magazine.prefab|
+|assets/prefabs/weapons/sks/effects/w_eject_rifle_shell.prefab|
 |assets/prefabs/weapons/smg/effects/attack.prefab|
 |assets/prefabs/weapons/smg/effects/attack_muzzlebrake.prefab|
 |assets/prefabs/weapons/smg/effects/attack_shake.prefab|
