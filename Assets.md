@@ -854,7 +854,6 @@
 |assets/content/properties/lootspawn/generated/items/attire/burlap.shirt.asset|
 |assets/content/properties/lootspawn/generated/items/attire/burlap.shoes.asset|
 |assets/content/properties/lootspawn/generated/items/attire/burlap.trousers.asset|
-|assets/content/properties/lootspawn/generated/items/attire/chicken.costume.asset|
 |assets/content/properties/lootspawn/generated/items/attire/coffeecan.helmet.asset|
 |assets/content/properties/lootspawn/generated/items/attire/cratecostume.asset|
 |assets/content/properties/lootspawn/generated/items/attire/diving.fins.asset|
@@ -2588,7 +2587,6 @@
 |assets/content/sound/instruments/acousticguitar/acoustic-guitar-g3.asset|
 |assets/content/sound/instruments/acousticguitar/acoustic-guitar-g4.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-a#1.asset|
-|assets/content/sound/instruments/bassguitar/bass-guitar-a#2.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-a1.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-a2.asset|
 |assets/content/sound/instruments/bassguitar/bass-guitar-b1.asset|
@@ -4212,23 +4210,29 @@
 |assets/content/vehicles/attackhelicopter/sound/attack-helicopter-turret-reload-finish.asset|
 |assets/content/vehicles/attackhelicopter/sound/attack-helicopter-turret-reload-loop.asset|
 |assets/content/vehicles/attackhelicopter/sound/attack-helicopter-turret-reload-start.asset|
-|assets/content/vehicles/boats/cargoship/sound/bow_ambience.asset|
-|assets/content/vehicles/boats/cargoship/sound/cargo-ship-ambient-stings.ambience-list.asset|
-|assets/content/vehicles/boats/cargoship/sound/cargo-ship-deck-ambience.ambience-def.asset|
-|assets/content/vehicles/boats/cargoship/sound/cargo-ship-deck-ambience.ambience-list.asset|
-|assets/content/vehicles/boats/cargoship/sound/cargo-ship-deck-ambience.asset|
-|assets/content/vehicles/boats/cargoship/sound/cargo-ship-engine-hum.asset|
+|assets/content/vehicles/boats/cargoship/sound/cargo-ship-ambience-pipe-hiss-01.asset|
+|assets/content/vehicles/boats/cargoship/sound/cargo-ship-ambience-rattle-01.asset|
+|assets/content/vehicles/boats/cargoship/sound/cargo-ship-ambience-rattle-02.asset|
+|assets/content/vehicles/boats/cargoship/sound/cargo-ship-ambience-rattle-03.asset|
+|assets/content/vehicles/boats/cargoship/sound/cargo-ship-ambience-rattle-04.asset|
+|assets/content/vehicles/boats/cargoship/sound/cargo-ship-ambience-rattle-05.asset|
+|assets/content/vehicles/boats/cargoship/sound/cargo-ship-ambience-rattle-06.asset|
+|assets/content/vehicles/boats/cargoship/sound/cargo-ship-ambience-rattle-07.asset|
+|assets/content/vehicles/boats/cargoship/sound/cargo-ship-ambience-rattle-08.asset|
+|assets/content/vehicles/boats/cargoship/sound/cargo-ship-ambience-rattle-09.asset|
+|assets/content/vehicles/boats/cargoship/sound/cargo-ship-ambience-rattle-10.asset|
+|assets/content/vehicles/boats/cargoship/sound/cargo-ship-ambience-sting-metal-groan.asset|
+|assets/content/vehicles/boats/cargoship/sound/cargo-ship-engine-loop.asset|
+|assets/content/vehicles/boats/cargoship/sound/cargo-ship-horn.asset|
 |assets/content/vehicles/boats/cargoship/sound/cargo-ship-huge-rumble.asset|
 |assets/content/vehicles/boats/cargoship/sound/cargo-ship-interior-ambience.ambience-def.asset|
 |assets/content/vehicles/boats/cargoship/sound/cargo-ship-interior-ambience.ambience-list.asset|
 |assets/content/vehicles/boats/cargoship/sound/cargo-ship-interior-ambience.asset|
-|assets/content/vehicles/boats/cargoship/sound/cargo-ship-waves.asset|
-|assets/content/vehicles/boats/cargoship/sound/cargo-ship-waves-stern.asset|
-|assets/content/vehicles/boats/cargoship/sound/deck_ambience.asset|
-|assets/content/vehicles/boats/cargoship/sound/horn.asset|
+|assets/content/vehicles/boats/cargoship/sound/cargo-ship-waves-idle-loop.asset|
+|assets/content/vehicles/boats/cargoship/sound/cargo-ship-waves-side-loop.asset|
+|assets/content/vehicles/boats/cargoship/sound/cargo-ship-waves-stern-loop.asset|
 |assets/content/vehicles/boats/cargoship/sound/radiation_alarm.asset|
 |assets/content/vehicles/boats/cargoship/sound/radiation_alarm_far.asset|
-|assets/content/vehicles/boats/cargoship/sound/rear_ambience.asset|
 |assets/content/vehicles/boats/kayak/sound/kayak-dismount.asset|
 |assets/content/vehicles/boats/kayak/sound/kayak-impact.asset|
 |assets/content/vehicles/boats/kayak/sound/kayak-mount.asset|
@@ -4870,8 +4874,10 @@
 |assets/plugins/rust.ui/controls/rustbutton.tab.red.asset|
 |assets/plugins/rust.ui/controls/rustbutton.toggle.asset|
 |assets/plugins/rust.ui/controls/rustbutton.toggle.demo.asset|
+|assets/plugins/rust.ui/controls/rustbutton.toggle.workshop.asset|
 |assets/plugins/rust.ui/controls/rustbutton.toolbar.normal.asset|
 |assets/plugins/rust.ui/controls/rustbutton.transparent.asset|
+|assets/plugins/rust.ui/controls/rustbutton.transparentteamdock.asset|
 |assets/plugins/rust.ui/controls/rustimagebutton.toggle.danger.asset|
 |assets/plugins/rust.ui/controls/rustimagebutton.toggle.success.asset|
 |assets/plugins/rust.ui/controls/rustinput.normal.asset|
@@ -5313,6 +5319,7 @@
 |assets/prefabs/deployable/reactive target/sounds/reactive-target-lower.asset|
 |assets/prefabs/deployable/reactive target/sounds/reactive-target-raise.asset|
 |assets/prefabs/deployable/recycler/sounds/grinding_loop.asset|
+|assets/prefabs/deployable/recycler/sounds/grinding_loop_slow.asset|
 |assets/prefabs/deployable/recycler/sounds/recycler-close.asset|
 |assets/prefabs/deployable/recycler/sounds/recycler-open.asset|
 |assets/prefabs/deployable/recycler/sounds/recycle-start.asset|
@@ -7068,6 +7075,22 @@
 |assets/prefabs/weapons/semi auto rifle/sound/semi-auto-rifle-gunshot-lfe.asset|
 |assets/prefabs/weapons/semi auto rifle/sound/semi-auto-rifle-gunshot-mech.asset|
 |assets/prefabs/weapons/semi auto rifle/sound/semi-auto-rifle-gunshot-tail-outdoor.asset|
+|assets/prefabs/weapons/sks/sound/sks-admire-01.asset|
+|assets/prefabs/weapons/sks/sound/sks-admire-02.asset|
+|assets/prefabs/weapons/sks/sound/sks-admire-03.asset|
+|assets/prefabs/weapons/sks/sound/sks-deploy.asset|
+|assets/prefabs/weapons/sks/sound/sks-dryfire.asset|
+|assets/prefabs/weapons/sks/sound/sks-gunshot-body.asset|
+|assets/prefabs/weapons/sks/sound/sks-gunshot-body-suppressed.asset|
+|assets/prefabs/weapons/sks/sound/sks-gunshot-lfe.asset|
+|assets/prefabs/weapons/sks/sound/sks-gunshot-mech.asset|
+|assets/prefabs/weapons/sks/sound/sks-gunshot-tail-outdoor.asset|
+|assets/prefabs/weapons/sks/sound/sks-reload-bolt-action.asset|
+|assets/prefabs/weapons/sks/sound/sks-reload-bolt-forward-empty.asset|
+|assets/prefabs/weapons/sks/sound/sks-reload-finish.asset|
+|assets/prefabs/weapons/sks/sound/sks-reload-insert-magazine.asset|
+|assets/prefabs/weapons/sks/sound/sks-reload-remove-magazine.asset|
+|assets/prefabs/weapons/sks/sound/sks-reload-start.asset|
 |assets/prefabs/weapons/smg/smg.skinnable.asset|
 |assets/prefabs/weapons/smg/sound/ak74u-dryfire.asset|
 |assets/prefabs/weapons/smg/sound/custom-smg-gunshot-body.asset|
