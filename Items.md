@@ -897,6 +897,7 @@
 |<img src="https://rustlabs.com/img/items180/shotgun.pump.png" width="100" height="80">|Pump Shotgun|shotgun.pump|795371088|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |<img src="https://rustlabs.com/img/items180/pistol.semiauto.png" width="100" height="80">|Semi-Automatic Pistol|pistol.semiauto|818877484|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |<img src="https://rustlabs.com/img/items180/rifle.semiauto.png" width="100" height="80">|Semi-Automatic Rifle|rifle.semiauto|-904863145|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
+|<img src="https://rustlabs.com/img/items180/rifle.sks.png" width="100" height="80">|SKS|rifle.sks|-348232115|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |<img src="https://rustlabs.com/img/items180/smg.2.png" width="100" height="80">|Custom SMG|smg.2|1796682209|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |<img src="https://rustlabs.com/img/items180/shotgun.spas12.png" width="100" height="80">|Spas-12 Shotgun|shotgun.spas12|-41440462|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |<img src="https://rustlabs.com/img/items180/speargun.png" width="100" height="80">|Speargun|speargun|-1517740219|ItemModEntity<br>ItemBlueprint<br>|
