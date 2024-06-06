@@ -1058,6 +1058,7 @@
 |assets/content/properties/lootspawn/generated/items/electrical/electric.random.switch.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/electric.rf.broadcaster.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/electric.rf.receiver.asset|
+|assets/content/properties/lootspawn/generated/items/electrical/electric.seismicsensor.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/electric.sirenlight.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/electric.solarpanel.large.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/electric.splitter.asset|
@@ -1748,6 +1749,7 @@
 |assets/content/properties/protection/parachute.asset|
 |assets/content/properties/protection/player_helicopter_protection.asset|
 |assets/content/properties/protection/player_large_helicopter_protection.asset|
+|assets/content/properties/protection/playerbarricade.asset|
 |assets/content/properties/protection/rhibprotection.asset|
 |assets/content/properties/protection/rowboatprotection.asset|
 |assets/content/properties/protection/samsitedeployed.asset|
@@ -1772,6 +1774,10 @@
 |assets/content/properties/recipes/mixingtable/healingtea/healingtea.advanced.recipe.asset|
 |assets/content/properties/recipes/mixingtable/healingtea/healingtea.basic.recipe.asset|
 |assets/content/properties/recipes/mixingtable/healingtea/healingtea.pure.recipe.asset|
+|assets/content/properties/recipes/mixingtable/hvpistolammo.asset|
+|assets/content/properties/recipes/mixingtable/hvrifleammo.asset|
+|assets/content/properties/recipes/mixingtable/incendiaryammo.recipe.asset|
+|assets/content/properties/recipes/mixingtable/incendiarypistolammo.asset|
 |assets/content/properties/recipes/mixingtable/lowgraderecipe.asset|
 |assets/content/properties/recipes/mixingtable/maxhealthtea/maxhealthtea.advanced.recipe.asset|
 |assets/content/properties/recipes/mixingtable/maxhealthtea/maxhealthtea.basic.recipe.asset|
@@ -4871,6 +4877,7 @@
 |assets/plugins/rust.ui/controls/rustbutton.sleepingbagdelete.asset|
 |assets/plugins/rust.ui/controls/rustbutton.success.asset|
 |assets/plugins/rust.ui/controls/rustbutton.success.toggle.asset|
+|assets/plugins/rust.ui/controls/rustbutton.success.toggle.techtree.asset|
 |assets/plugins/rust.ui/controls/rustbutton.tab.red.asset|
 |assets/plugins/rust.ui/controls/rustbutton.toggle.asset|
 |assets/plugins/rust.ui/controls/rustbutton.toggle.demo.asset|
@@ -4880,11 +4887,13 @@
 |assets/plugins/rust.ui/controls/rustbutton.transparentteamdock.asset|
 |assets/plugins/rust.ui/controls/rustimagebutton.toggle.danger.asset|
 |assets/plugins/rust.ui/controls/rustimagebutton.toggle.success.asset|
+|assets/plugins/rust.ui/controls/rustinput.ioconfig.asset|
 |assets/plugins/rust.ui/controls/rustinput.normal.asset|
 |assets/plugins/rust.ui/controls/rustinput.serverbrowser.asset|
 |assets/plugins/rust.ui/controls/rustinput.transparent.asset|
 |assets/plugins/rust.ui/controls/rustoption.normal.asset|
 |assets/plugins/rust.ui/controls/rustslider.demo.asset|
+|assets/plugins/rust.ui/controls/rustslider.ioconfig.asset|
 |assets/plugins/rust.ui/controls/rustslider.normal.asset|
 |assets/plugins/rust.ui/controls/rustslider.white.asset|
 |assets/plugins/rust.ui/controls/rusttoggle.normal.off.asset|
@@ -6325,6 +6334,7 @@
 |assets/prefabs/tools/detonator/sound/detonator-interference-start.asset|
 |assets/prefabs/tools/detonator/sound/detonator-switch.asset|
 |assets/prefabs/tools/detonator/sound/detonator-switch_unpress.asset|
+|assets/prefabs/tools/fishing rod/fishlookup.asset|
 |assets/prefabs/tools/fishing rod/sound/fishing-rod-cast-aim.asset|
 |assets/prefabs/tools/fishing rod/sound/fishing-rod-cast-aim-cancel.asset|
 |assets/prefabs/tools/fishing rod/sound/fishing-rod-cast-end.asset|
@@ -6430,6 +6440,9 @@
 |assets/prefabs/tools/surveycharge/sound/survey-charge-deploy.asset|
 |assets/prefabs/tools/surveycharge/sound/survey-charge-deploy-3p.asset|
 |assets/prefabs/tools/surveycharge/sound/survey-charge-fuse-loop.asset|
+|assets/prefabs/tools/wire/electric color settings.asset|
+|assets/prefabs/tools/wire/fluidic color settings.asset|
+|assets/prefabs/tools/wire/industrial color settings.asset|
 |assets/prefabs/voiceaudio/boombox/sound/boombox-active-loop.asset|
 |assets/prefabs/voiceaudio/boombox/sound/boombox-deploy.asset|
 |assets/prefabs/voiceaudio/boombox/sound/boombox-start.asset|
@@ -6996,6 +7009,7 @@
 |assets/prefabs/weapons/rocketlauncher/sound/rocket-launcher-reload-insert-rocket.asset|
 |assets/prefabs/weapons/rocketlauncher/sound/rocket-launcher-reload-open-hatch.asset|
 |assets/prefabs/weapons/rocketlauncher/sound/rocket-launcher-reload-start.asset|
+|assets/prefabs/weapons/rocketlauncher/sound/rocket-launcher-rocket-hv-explosion.asset|
 |assets/prefabs/weapons/salvaged_axe/sound/salvaged-axe-attack.asset|
 |assets/prefabs/weapons/salvaged_axe/sound/salvaged-axe-attack-3p.asset|
 |assets/prefabs/weapons/salvaged_axe/sound/salvaged-axe-deploy.asset|
