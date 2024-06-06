@@ -298,6 +298,7 @@
 |<img src="https://rustlabs.com/img/items180/electric.simplelight.png" width="100" height="80">|Simple Light|electric.simplelight|-282113991|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://rustlabs.com/img/items180/electric.sirenlight.png" width="100" height="80">|Siren Light|electric.sirenlight|762289806|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://rustlabs.com/img/items180/powered.water.purifier.png" width="100" height="80">|Powered Water Purifier|powered.water.purifier|-365097295|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|<img src="https://rustlabs.com/img/items180/electric.seismicsensor.png" width="100" height="80">|Seismic Sensor|electric.seismicsensor|-948291630|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://rustlabs.com/img/items180/electric.switch.png" width="100" height="80">|Switch|electric.switch|1951603367|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://rustlabs.com/img/items180/electric.splitter.png" width="100" height="80">|Splitter|electric.splitter|-563624462|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://rustlabs.com/img/items180/electric.sprinkler.png" width="100" height="80">|Sprinkler|electric.sprinkler|-781014061|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
@@ -701,7 +702,7 @@
 |<img src="https://rustlabs.com/img/items180/fat.animal.png" width="100" height="80">|Animal Fat|fat.animal|-1018587433||
 |<img src="https://rustlabs.com/img/items180/battery.small.png" width="100" height="80">|Battery - Small|battery.small|609049394||
 |<img src="https://rustlabs.com/img/items180/blood.png" width="100" height="80">|Blood|blood|1776460938||
-|<img src="https://rustlabs.com/img/items180/bone.fragments.png" width="100" height="80">|Bone Fragments|bone.fragments|1719978075||
+|<img src="https://rustlabs.com/img/items180/bone.fragments.png" width="100" height="80">|Bone Fragments|bone.fragments|1719978075|ItemModCompostable<br>|
 |<img src="https://rustlabs.com/img/items180/cctv.camera.png" width="100" height="80">|CCTV Camera|cctv.camera|634478325|ItemBlueprint<br>ItemModEntity<br>ItemModDeployable<br>|
 |<img src="https://rustlabs.com/img/items180/charcoal.png" width="100" height="80">|Charcoal|charcoal|-1938052175||
 |<img src="https://rustlabs.com/img/items180/cloth.png" width="100" height="80">|Cloth|cloth|-858312878|ItemModXPWhenUsed<br>|
