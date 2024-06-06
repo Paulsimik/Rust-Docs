@@ -262,15 +262,35 @@
 |admin_rock_quarry_small_a|1858217462|BaseEntity<br>|assets/bundled/prefabs/modding/admin/admin_rock_quarry_small_a.prefab|
 |door.vault.static|3595032872|Door<br>BaseCombatEntity<br>StabilityEntity<br>DecayEntity<br>Model<br>|assets/bundled/prefabs/modding/asset_store/bankheist_package/bankheist_vol03/prefabs/door.vault.static.prefab|
 |HiddenHackableCrate|3527151681|HackableLockedCrate<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>|assets/bundled/prefabs/modding/asset_store/hiddenhackablecrate.prefab|
+|cinebg_black|2591728644|CinematicEntity<br>|assets/bundled/prefabs/modding/cinematic/backdrops/cinebg_black.prefab|
+|cinebg_blue|2292776106|CinematicEntity<br>|assets/bundled/prefabs/modding/cinematic/backdrops/cinebg_blue.prefab|
+|cinebg_green|2234666354|CinematicEntity<br>|assets/bundled/prefabs/modding/cinematic/backdrops/cinebg_green.prefab|
+|cinebg_grey|558936370|CinematicEntity<br>|assets/bundled/prefabs/modding/cinematic/backdrops/cinebg_grey.prefab|
+|cinebg_neutral|3253929870|CinematicEntity<br>|assets/bundled/prefabs/modding/cinematic/backdrops/cinebg_neutral.prefab|
+|cinebg_white|3671475527|CinematicEntity<br>|assets/bundled/prefabs/modding/cinematic/backdrops/cinebg_white.prefab|
+|cinecyc_black|1447385912|CinematicEntity<br>|assets/bundled/prefabs/modding/cinematic/backdrops/cinecyc_black.prefab|
+|cinecyc_blue|482438116|CinematicEntity<br>|assets/bundled/prefabs/modding/cinematic/backdrops/cinecyc_blue.prefab|
+|cinecyc_green|1860184634|CinematicEntity<br>|assets/bundled/prefabs/modding/cinematic/backdrops/cinecyc_green.prefab|
+|cinecyc_grey|1306620303|CinematicEntity<br>|assets/bundled/prefabs/modding/cinematic/backdrops/cinecyc_grey.prefab|
+|cinecyc_neutral|2334104199|CinematicEntity<br>|assets/bundled/prefabs/modding/cinematic/backdrops/cinecyc_neutral.prefab|
+|cinecyc_white|3704788625|CinematicEntity<br>|assets/bundled/prefabs/modding/cinematic/backdrops/cinecyc_white.prefab|
 |cinelight_3p_cool|3602562162|CinematicEntity<br>|assets/bundled/prefabs/modding/cinematic/cinelights/cinelight_3p_cool.prefab|
 |cinelight_3p_warm|3795442096|CinematicEntity<br>|assets/bundled/prefabs/modding/cinematic/cinelights/cinelight_3p_warm.prefab|
+|cinelight_point_blue|1898416990|CinematicEntity<br>|assets/bundled/prefabs/modding/cinematic/cinelights/cinelight_point_blue.prefab|
 |cinelight_point_cool|160023459|CinematicEntity<br>|assets/bundled/prefabs/modding/cinematic/cinelights/cinelight_point_cool.prefab|
 |cinelight_point_green|2423685124|CinematicEntity<br>|assets/bundled/prefabs/modding/cinematic/cinelights/cinelight_point_green.prefab|
 |cinelight_point_red|2835806094|CinematicEntity<br>|assets/bundled/prefabs/modding/cinematic/cinelights/cinelight_point_red.prefab|
 |cinelight_point_warm|1872375139|CinematicEntity<br>|assets/bundled/prefabs/modding/cinematic/cinelights/cinelight_point_warm.prefab|
+|cinelight_point_white|2128315598|CinematicEntity<br>|assets/bundled/prefabs/modding/cinematic/cinelights/cinelight_point_white.prefab|
+|cinelight_spot_blue|3754980051|CinematicEntity<br>|assets/bundled/prefabs/modding/cinematic/cinelights/cinelight_spot_blue.prefab|
 |cinelight_spot_cool|3590519405|CinematicEntity<br>|assets/bundled/prefabs/modding/cinematic/cinelights/cinelight_spot_cool.prefab|
+|cinelight_spot_green|761588015|CinematicEntity<br>|assets/bundled/prefabs/modding/cinematic/cinelights/cinelight_spot_green.prefab|
+|cinelight_spot_red|3794823196|CinematicEntity<br>|assets/bundled/prefabs/modding/cinematic/cinelights/cinelight_spot_red.prefab|
 |cinelight_spot_warm|2260738994|CinematicEntity<br>|assets/bundled/prefabs/modding/cinematic/cinelights/cinelight_spot_warm.prefab|
 |cinelight_spot_white|1180129634|CinematicEntity<br>|assets/bundled/prefabs/modding/cinematic/cinelights/cinelight_spot_white.prefab|
+|cineflag_L|1760473991|CinematicEntity<br>|assets/bundled/prefabs/modding/cinematic/flags/cineflag_l.prefab|
+|cineflag_M|2859730042|CinematicEntity<br>|assets/bundled/prefabs/modding/cinematic/flags/cineflag_m.prefab|
+|cineflag_S|1094548865|CinematicEntity<br>|assets/bundled/prefabs/modding/cinematic/flags/cineflag_s.prefab|
 |br_sphere|2637346832|SphereEntity<br>|assets/bundled/prefabs/modding/events/twitch/br_sphere.prefab|
 |br_sphere_green|3453089031|SphereEntity<br>|assets/bundled/prefabs/modding/events/twitch/br_sphere_green.prefab|
 |br_sphere_purple|1440656070|SphereEntity<br>|assets/bundled/prefabs/modding/events/twitch/br_sphere_purple.prefab|
@@ -770,6 +790,9 @@
 |RomanCandle-Green|2847715782|PFXRepeatingFirework<br>BaseFirework<br>BaseCombatEntity<br>CapsuleCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/fireworks/romancandle-green.prefab|
 |RomanCandle-Violet|793494534|PFXRepeatingFirework<br>BaseFirework<br>BaseCombatEntity<br>CapsuleCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/fireworks/romancandle-violet.prefab|
 |RomanCandle|1410649145|PFXRepeatingFirework<br>BaseFirework<br>BaseCombatEntity<br>CapsuleCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/fireworks/romancandle.prefab|
+|RomanCandleBlue|3989759960|PFXRepeatingFirework<br>BaseFirework<br>BaseCombatEntity<br>CapsuleCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/fireworks/romancandleblue.prefab|
+|RomanCandleGreen|1833523633|PFXRepeatingFirework<br>BaseFirework<br>BaseCombatEntity<br>CapsuleCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/fireworks/romancandlegreen.prefab|
+|RomanCandleViolet|4013199910|PFXRepeatingFirework<br>BaseFirework<br>BaseCombatEntity<br>CapsuleCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/fireworks/romancandleviolet.prefab|
 |VolcanoFirework-Red|1311124308|BaseFirework<br>MeshCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/fireworks/volcanofirework-red.prefab|
 |VolcanoFirework-Violet|2771932546|BaseFirework<br>MeshCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/fireworks/volcanofirework-violet.prefab|
 |VolcanoFirework|4042905807|BaseFirework<br>MeshCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/fireworks/volcanofirework.prefab|
@@ -810,7 +833,7 @@
 |SmartSwitch|457838080|SmartSwitch<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/playerioents/app/smartswitch/smartswitch.prefab|
 |StorageMonitor.deployed|2575066828|StorageMonitor<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>|assets/prefabs/deployable/playerioents/app/storagemonitor/storagemonitor.deployed.prefab|
 |large.rechargable.battery.deployed|3398686648|ElectricBattery<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/playerioents/batteries/large/large.rechargable.battery.deployed.prefab|
-|medium.rechargable.battery.deployed|262703036|ElectricBattery<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>MeshCollider<br>|assets/prefabs/deployable/playerioents/batteries/medium/medium.rechargable.battery.deployed.prefab|
+|medium.rechargable.battery.deployed|262703036|ElectricBattery<br>BaseCombatEntity<br>DecayEntity<br>DestroyOnGroundMissing<br>GroundWatch<br>MeshCollider<br>|assets/prefabs/deployable/playerioents/batteries/medium/medium.rechargable.battery.deployed.prefab|
 |SmallRechargableBattery.deployed|918119888|ElectricBattery<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/playerioents/batteries/smallrechargablebattery.deployed.prefab|
 |Button|52925389|PressButton<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/playerioents/button/button.prefab|
 |Counter|4254177840|PowerCounter<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/playerioents/counter/counter.prefab|
@@ -848,6 +871,7 @@
 |electric.sirenlight.deployed|2436926577|SirenLight<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/playerioents/lights/sirenlight/electric.sirenlight.deployed.prefab|
 |poweredwaterpurifier.deployed|1259335874|PoweredWaterPurifier<br>BaseCombatEntity<br>ContainerIOEntity<br>IOEntity<br>LiquidContainer<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>MeshCollider<br>|assets/prefabs/deployable/playerioents/poweredwaterpurifier/poweredwaterpurifier.deployed.prefab|
 |poweredwaterpurifier.storage|795179107|BoxCollider<br>LiquidContainer<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>|assets/prefabs/deployable/playerioents/poweredwaterpurifier/poweredwaterpurifier.storage.prefab|
+|electric.seismicsensor.deployed|1565495109|SeismicSensor<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>CapsuleCollider<br>|assets/prefabs/deployable/playerioents/seismicsensor/electric.seismicsensor.deployed.prefab|
 |Switch|2374429146|ElectricSwitch<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/playerioents/simpleswitch/switch.prefab|
 |Splitter|2864726542|Splitter<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/playerioents/splitter/splitter.prefab|
 |electric.sprinkler.deployed|2389629329|Sprinkler<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>EntityFlag_Animator<br>|assets/prefabs/deployable/playerioents/sprinkler/electric.sprinkler.deployed.prefab|
@@ -865,7 +889,7 @@
 |researchtable_deployed|146554961|ResearchTable<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/research table/researchtable_deployed.prefab|
 |rug.bear.deployed|3110378351|DecorDeployable<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/rug/rug.bear.deployed.prefab|
 |rug.deployed|4196580066|DecorDeployable<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/rug/rug.deployed.prefab|
-|searchlight.deployed|1427415412|SearchLight<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>MeshCollider<br>|assets/prefabs/deployable/search light/searchlight.deployed.prefab|
+|searchlight.deployed|1427415412|SearchLight<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/search light/searchlight.deployed.prefab|
 |secretlabchair.deployed|286221745|BaseChair<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/secretlab chair/secretlabchair.deployed.prefab|
 |shelves|501605075|DecorDeployable<br>BaseCombatEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/shelves/shelves.prefab|
 |sign.hanging.banner.large|637495597|Signage<br>BaseCombatEntity<br>DecayEntity<br>DestroyOnGroundMissing<br>GroundWatch<br>MeshCollider<br>|assets/prefabs/deployable/signs/sign.hanging.banner.large.prefab|
@@ -1411,6 +1435,9 @@
 |lumberjack_pick.entity|1725165540|BaseMelee<br>HeldEntity<br>|assets/prefabs/tools/lumberjack_tools/lumberjack_pick.entity.prefab|
 |CargoMarker|843218194|MapMarkerCH47<br>|assets/prefabs/tools/map/cargomarker.prefab|
 |CH47Marker|3775898198|MapMarkerCH47<br>|assets/prefabs/tools/map/ch47marker.prefab|
+|CineMarkerA|2913233310|MapMarker<br>|assets/prefabs/tools/map/cinemarkera.prefab|
+|CineMarkerB|1697598722|MapMarker<br>|assets/prefabs/tools/map/cinemarkerb.prefab|
+|CineMarkerC|4244600952|MapMarker<br>|assets/prefabs/tools/map/cinemarkerc.prefab|
 |CrateMarker|2366974922|MobileMapMarker<br>|assets/prefabs/tools/map/cratemarker.prefab|
 |ExplosionMarker|4060989661|MapMarkerExplosion<br>|assets/prefabs/tools/map/explosionmarker.prefab|
 |GenericRadiusMarker|2849728229|MapMarkerGenericRadius<br>|assets/prefabs/tools/map/genericradiusmarker.prefab|
@@ -1478,6 +1505,7 @@
 |TugboatDriver|1955582400|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/tugboatdriver.prefab|
 |TwitchBusSeat|1948876508|SledSeat<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicleMountPoint<br>|assets/prefabs/vehicle/seats/twitchbusseat.prefab|
 |WorkCartDriver|311277167|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>|assets/prefabs/vehicle/seats/workcartdriver.prefab|
+|building_blocked_preview|3818842557|BuildingBlockedGuide<br>|assets/prefabs/visualization/building_blocked_preview.prefab|
 |sphere|3211242734|SphereEntity<br>|assets/prefabs/visualization/sphere.prefab|
 |BoomBox.deployed|244503553|DeployableBoomBox<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>BoomBox<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/voiceaudio/boombox/boombox.deployed.prefab|
 |BoomBox.static|1771910647|DeployableBoomBox<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>BoomBox<br>BoxCollider<br>|assets/prefabs/voiceaudio/boombox/boombox.static.prefab|
@@ -1540,7 +1568,7 @@
 |diver_torch.entity|1029607191|TorchWeapon<br>HeldEntity<br>AttackEntity<br>|assets/prefabs/weapons/divertorch/diver_torch.entity.prefab|
 |double_shotgun.entity|3474489095|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/doubleshotgun/double_shotgun.entity.prefab|
 |pistol_eoka.entity|2176761593|FlintStrikeWeapon<br>HeldEntity<br>AttackEntity<br>Model<br>|assets/prefabs/weapons/eoka pistol/pistol_eoka.entity.prefab|
-|grenade.f1.deployed|1128089209|TimedExplosive<br>Rigidbody<br>CapsuleCollider<br>|assets/prefabs/weapons/f1 grenade/grenade.f1.deployed.prefab|
+|grenade.f1.deployed|1128089209|TimedExplosive<br>Rigidbody<br>CapsuleCollider<br>Model<br>|assets/prefabs/weapons/f1 grenade/grenade.f1.deployed.prefab|
 |grenade.f1.entity|45697420|GrenadeWeapon<br>HeldEntity<br>AttackEntity<br>|assets/prefabs/weapons/f1 grenade/grenade.f1.entity.prefab|
 |flamethrower.entity|3717106868|FlameThrower<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/flamethrower/flamethrower.entity.prefab|
 |Flamethrower_fireball|844008300|FireBall<br>Rigidbody<br>BoxCollider<br>|assets/prefabs/weapons/flamethrower/flamethrower_fireball.prefab|
