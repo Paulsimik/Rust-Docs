@@ -338,8 +338,8 @@
 |assets/content/properties/damage/damage.rifle.asset|
 |assets/content/properties/damage/damage.slug.asset|
 |assets/content/properties/damage/damage.throwable.asset|
-|assets/content/properties/entitylist/debris_whitelist.asset|
-|assets/content/properties/entitylist/door_deploy_whitelist.asset|
+|assets/content/properties/entitylist/door_deploy_blacklist.asset|
+|assets/content/properties/entitylist/vending_deploy_blacklist.asset|
 |assets/content/properties/foliage_procmap_v3/all/underwater-coral_red_big.asset|
 |assets/content/properties/foliage_procmap_v3/all/underwater-coral_red_small.asset|
 |assets/content/properties/foliage_procmap_v3/all/underwater-coral_white_big.asset|
@@ -917,6 +917,7 @@
 |assets/content/properties/lootspawn/generated/items/attire/pants.shorts.asset|
 |assets/content/properties/lootspawn/generated/items/attire/parachute.asset|
 |assets/content/properties/lootspawn/generated/items/attire/parachute.deployed.asset|
+|assets/content/properties/lootspawn/generated/items/attire/prisonerhood.asset|
 |assets/content/properties/lootspawn/generated/items/attire/riot.helmet.asset|
 |assets/content/properties/lootspawn/generated/items/attire/roadsign.gloves.asset|
 |assets/content/properties/lootspawn/generated/items/attire/roadsign.jacket.asset|
@@ -1331,6 +1332,7 @@
 |assets/content/properties/lootspawn/generated/items/medical/bandage.asset|
 |assets/content/properties/lootspawn/generated/items/medical/largemedkit.asset|
 |assets/content/properties/lootspawn/generated/items/medical/syringe.medical.asset|
+|assets/content/properties/lootspawn/generated/items/misc/bicycle.asset|
 |assets/content/properties/lootspawn/generated/items/misc/door.key.asset|
 |assets/content/properties/lootspawn/generated/items/misc/easterbasket.asset|
 |assets/content/properties/lootspawn/generated/items/misc/electric.andswitch.asset|
@@ -1367,6 +1369,8 @@
 |assets/content/properties/lootspawn/generated/items/misc/keycard_red.asset|
 |assets/content/properties/lootspawn/generated/items/misc/locomotive.asset|
 |assets/content/properties/lootspawn/generated/items/misc/mlrs.asset|
+|assets/content/properties/lootspawn/generated/items/misc/motorbike.asset|
+|assets/content/properties/lootspawn/generated/items/misc/motorbike_sidecar.asset|
 |assets/content/properties/lootspawn/generated/items/misc/photo.asset|
 |assets/content/properties/lootspawn/generated/items/misc/pumpkinbasket.asset|
 |assets/content/properties/lootspawn/generated/items/misc/rf_pager.asset|
@@ -1374,6 +1378,7 @@
 |assets/content/properties/lootspawn/generated/items/misc/snowmobiletomaha.asset|
 |assets/content/properties/lootspawn/generated/items/misc/submarineduo.asset|
 |assets/content/properties/lootspawn/generated/items/misc/submarinesolo.asset|
+|assets/content/properties/lootspawn/generated/items/misc/trike.asset|
 |assets/content/properties/lootspawn/generated/items/misc/wagon.asset|
 |assets/content/properties/lootspawn/generated/items/misc/wiretool.asset|
 |assets/content/properties/lootspawn/generated/items/misc/workcart.asset|
@@ -1407,6 +1412,7 @@
 |assets/content/properties/lootspawn/generated/items/tool/flashlight.held.asset|
 |assets/content/properties/lootspawn/generated/items/tool/grenade.smoke.asset|
 |assets/content/properties/lootspawn/generated/items/tool/hammer.salvaged.asset|
+|assets/content/properties/lootspawn/generated/items/tool/handcuffs.asset|
 |assets/content/properties/lootspawn/generated/items/tool/hatchet.asset|
 |assets/content/properties/lootspawn/generated/items/tool/icepick.salvaged.asset|
 |assets/content/properties/lootspawn/generated/items/tool/jackhammer.asset|
@@ -1474,6 +1480,7 @@
 |assets/content/properties/lootspawn/generated/items/weapon/rifle.lr300.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/rifle.m39.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/rifle.semiauto.asset|
+|assets/content/properties/lootspawn/generated/items/weapon/rifle.sks.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/rocket.launcher.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/salvaged.cleaver.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/salvaged.sword.asset|
@@ -4216,6 +4223,51 @@
 |assets/content/vehicles/attackhelicopter/sound/attack-helicopter-turret-reload-finish.asset|
 |assets/content/vehicles/attackhelicopter/sound/attack-helicopter-turret-reload-loop.asset|
 |assets/content/vehicles/attackhelicopter/sound/attack-helicopter-turret-reload-start.asset|
+|assets/content/vehicles/bikes/motorbikes_monuments.population.asset|
+|assets/content/vehicles/bikes/pedalbikes_monuments.population.asset|
+|assets/content/vehicles/bikes/pedalbikes_world.population.asset|
+|assets/content/vehicles/bikes/sound/bicycle-bell.asset|
+|assets/content/vehicles/bikes/sound/bicycle-brake-loop.asset|
+|assets/content/vehicles/bikes/sound/bicycle-brake-start.asset|
+|assets/content/vehicles/bikes/sound/bicycle-brake-stop.asset|
+|assets/content/vehicles/bikes/sound/bicycle-dismount.asset|
+|assets/content/vehicles/bikes/sound/bicycle-impact.asset|
+|assets/content/vehicles/bikes/sound/bicycle-mount.asset|
+|assets/content/vehicles/bikes/sound/bicycle-pedal-active-loop.asset|
+|assets/content/vehicles/bikes/sound/bicycle-pedal-spin-loop.asset|
+|assets/content/vehicles/bikes/sound/bicycle-pedal-start.asset|
+|assets/content/vehicles/bikes/sound/bicycle-pedal-stop.asset|
+|assets/content/vehicles/bikes/sound/bicycle-suspension.asset|
+|assets/content/vehicles/bikes/sound/bicycle-tire-roll-grass-loop.asset|
+|assets/content/vehicles/bikes/sound/bicycle-tire-roll-loop-dirt.asset|
+|assets/content/vehicles/bikes/sound/bicycle-tire-roll-loop-snow.asset|
+|assets/content/vehicles/bikes/sound/bicycle-tire-roll-water-shallow-loop.asset|
+|assets/content/vehicles/bikes/sound/bicycle-water-movement-loop.asset|
+|assets/content/vehicles/bikes/sound/bicycle-water-splash.asset|
+|assets/content/vehicles/bikes/sound/motorbike.engine-audio-set.asset|
+|assets/content/vehicles/bikes/sound/motorcycle-brake-squeal-loop.asset|
+|assets/content/vehicles/bikes/sound/motorcycle-brake-start.asset|
+|assets/content/vehicles/bikes/sound/motorcycle-brake-stop.asset|
+|assets/content/vehicles/bikes/sound/motorcycle-damaged.asset|
+|assets/content/vehicles/bikes/sound/motorcycle-dismount.asset|
+|assets/content/vehicles/bikes/sound/motorcycle-engine.loop-definition 1.asset|
+|assets/content/vehicles/bikes/sound/motorcycle-engine.loop-definition.asset|
+|assets/content/vehicles/bikes/sound/motorcycle-engine.loop-definition.bak.asset|
+|assets/content/vehicles/bikes/sound/motorcycle-engine-idle-loop-01.asset|
+|assets/content/vehicles/bikes/sound/motorcycle-engine-rpm-loop-01.asset|
+|assets/content/vehicles/bikes/sound/motorcycle-engine-rpm-loop-02.asset|
+|assets/content/vehicles/bikes/sound/motorcycle-engine-rpm-loop-03.asset|
+|assets/content/vehicles/bikes/sound/motorcycle-engine-rpm-loop-04.asset|
+|assets/content/vehicles/bikes/sound/motorcycle-engine-start.asset|
+|assets/content/vehicles/bikes/sound/motorcycle-engine-start-fail.asset|
+|assets/content/vehicles/bikes/sound/motorcycle-mount.asset|
+|assets/content/vehicles/bikes/sound/motorcycle-suspension.asset|
+|assets/content/vehicles/bikes/sound/motorcycle-tire-roll-dirt-loop.asset|
+|assets/content/vehicles/bikes/sound/motorcycle-tire-roll-grass-loop.asset|
+|assets/content/vehicles/bikes/sound/motorcycle-tire-roll-snow-loop.asset|
+|assets/content/vehicles/bikes/sound/motorcycle-water-movement-loop.asset|
+|assets/content/vehicles/bikes/sound/motorcycle-water-splash.asset|
+|assets/content/vehicles/bikes/sound/pedalbike.engine-audio-set.asset|
 |assets/content/vehicles/boats/cargoship/sound/cargo-ship-ambience-pipe-hiss-01.asset|
 |assets/content/vehicles/boats/cargoship/sound/cargo-ship-ambience-rattle-01.asset|
 |assets/content/vehicles/boats/cargoship/sound/cargo-ship-ambience-rattle-02.asset|
@@ -5453,6 +5505,8 @@
 |assets/prefabs/deployable/vendingmachine/npcsellorders/resources.asset|
 |assets/prefabs/deployable/vendingmachine/npcsellorders/stables.asset|
 |assets/prefabs/deployable/vendingmachine/npcsellorders/tools.asset|
+|assets/prefabs/deployable/vendingmachine/npcsellorders/travellingvendor.asset|
+|assets/prefabs/deployable/vendingmachine/npcsellorders/travellingvendorlite.asset|
 |assets/prefabs/deployable/vendingmachine/npcsellorders/vehicles.asset|
 |assets/prefabs/deployable/vendingmachine/npcsellorders/vehicles2.asset|
 |assets/prefabs/deployable/vendingmachine/npcsellorders/vmomanifest.asset|
@@ -6241,6 +6295,18 @@
 |assets/prefabs/npc/scientist/sound/responddeath.asset|
 |assets/prefabs/npc/scientist/sound/respondok.asset|
 |assets/prefabs/npc/scientist/sound/takecover.asset|
+|assets/prefabs/npc/travelling vendor/sound/travelling-vendor.engine-audio-set.asset|
+|assets/prefabs/npc/travelling vendor/sound/travelling-vendor-angry-horn.asset|
+|assets/prefabs/npc/travelling vendor/sound/travelling-vendor-backfire.asset|
+|assets/prefabs/npc/travelling vendor/sound/travelling-vendor-bad-shift.asset|
+|assets/prefabs/npc/travelling vendor/sound/travelling-vendor-brake-hiss.asset|
+|assets/prefabs/npc/travelling vendor/sound/travelling-vendor-engine.loop-definition.asset|
+|assets/prefabs/npc/travelling vendor/sound/travelling-vendor-engine-1k-rpm-loop.asset|
+|assets/prefabs/npc/travelling vendor/sound/travelling-vendor-engine-2k-rpm-loop.asset|
+|assets/prefabs/npc/travelling vendor/sound/travelling-vendor-engine-idle-loop.asset|
+|assets/prefabs/npc/travelling vendor/sound/travelling-vendor-movement-loop.asset|
+|assets/prefabs/npc/travelling vendor/sound/travelling-vendor-music-loop.asset|
+|assets/prefabs/npc/travelling vendor/sound/travelling-vendor-suspension.asset|
 |assets/prefabs/npc/tutorial/tutorialconversation.asset|
 |assets/prefabs/npc/tutorial/tutorialconversation_midmission.asset|
 |assets/prefabs/npc/tutorial/tutorialconversation_stage02.asset|
@@ -6363,6 +6429,27 @@
 |assets/prefabs/tools/flashlight/sound/flashlight-deploy-3p.asset|
 |assets/prefabs/tools/flashlight/sound/flashlight-strike.asset|
 |assets/prefabs/tools/flashlight/sound/flashlight-switch.asset|
+|assets/prefabs/tools/handcuffs/sound/handcuffs-admire-01.asset|
+|assets/prefabs/tools/handcuffs/sound/handcuffs-admire-02.asset|
+|assets/prefabs/tools/handcuffs/sound/handcuffs-admire-03.asset|
+|assets/prefabs/tools/handcuffs/sound/handcuffs-admire-04.asset|
+|assets/prefabs/tools/handcuffs/sound/handcuffs-attack-settle-01.asset|
+|assets/prefabs/tools/handcuffs/sound/handcuffs-attack-start-01.asset|
+|assets/prefabs/tools/handcuffs/sound/handcuffs-break-01.asset|
+|assets/prefabs/tools/handcuffs/sound/handcuffs-deploy-locked-01.asset|
+|assets/prefabs/tools/handcuffs/sound/handcuffs-deploy-unlocked-01.asset|
+|assets/prefabs/tools/handcuffs/sound/handcuffs-lock-01.asset|
+|assets/prefabs/tools/handcuffs/sound/handcuffs-struggle-anim-01.asset|
+|assets/prefabs/tools/handcuffs/sound/handcuffs-struggle-anim-02.asset|
+|assets/prefabs/tools/handcuffs/sound/handcuffs-struggle-anim-03.asset|
+|assets/prefabs/tools/handcuffs/sound/handcuffs-struggle-anim-04.asset|
+|assets/prefabs/tools/handcuffs/sound/handcuffs-struggle-anim-05.asset|
+|assets/prefabs/tools/handcuffs/sound/handcuffs-struggle-anim-06.asset|
+|assets/prefabs/tools/handcuffs/sound/handcuffs-struggle-anim-07.asset|
+|assets/prefabs/tools/handcuffs/sound/handcuffs-struggle-anim-08.asset|
+|assets/prefabs/tools/handcuffs/sound/handcuffs-struggle-anim-09.asset|
+|assets/prefabs/tools/handcuffs/sound/handcuffs-struggle-pull-hard.asset|
+|assets/prefabs/tools/handcuffs/sound/handcuffs-struggle-pull-soft.asset|
 |assets/prefabs/tools/jackhammer/jackhammer.skinnable.asset|
 |assets/prefabs/tools/jackhammer/sound/mechanics_loop.asset|
 |assets/prefabs/tools/keycard/sound/keycard_swing.asset|
