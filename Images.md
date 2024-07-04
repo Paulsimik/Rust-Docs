@@ -720,14 +720,6 @@
 |assets/scenes/release/range/splattexture0.png|
 |assets/scenes/release/range/splattexture1.png|
 |assets/scenes/release/range/topologytexture.png|
-|assets/scenes/release/savasisland/alphatexture.png|
-|assets/scenes/release/savasisland/biometexture.png|
-|assets/scenes/release/savasisland/heighttexture.png|
-|assets/scenes/release/savasisland/normaltexture.png|
-|assets/scenes/release/savasisland/splattexture0.png|
-|assets/scenes/release/savasisland/splattexture1.png|
-|assets/scenes/release/savasisland/topologytexture.png|
-|assets/scenes/release/savasisland/watertexture.png|
 |assets/scenes/release/skinviewer/skinviewer_border.png|
 |assets/scenes/release/tutorial island/alphatexture.png|
 |assets/scenes/release/tutorial island/biometexture.png|
