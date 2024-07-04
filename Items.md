@@ -4,6 +4,10 @@
 |<img src="https://rustlabs.com/img/items180/fogmachine.png" width="100" height="80">|Fogger-3000|fogmachine|-1973785141|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>ItemModContainer<br>|
 |<img src="https://rustlabs.com/img/items180/strobelight.png" width="100" height="80">|Strobe Light|strobelight|2104517339|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://rustlabs.com/img/items180/attackhelicopter.png" width="100" height="80">|Attack Helicopter|attackhelicopter|1113514903|ItemBlueprint<br>|
+|<img src="https://rustlabs.com/img/items180/motorbike.png" width="100" height="80">|Motorbike|motorbike|-1417478274|ItemBlueprint<br>ItemModEntityReference<br>|
+|<img src="https://rustlabs.com/img/items180/motorbike_sidecar.png" width="100" height="80">|Motorbike With Sidecar|motorbike_sidecar|1869224826|ItemBlueprint<br>ItemModEntityReference<br>|
+|<img src="https://rustlabs.com/img/items180/bicycle.png" width="100" height="80">|Bicycle|bicycle|821588319|ItemBlueprint<br>ItemModEntityReference<br>|
+|<img src="https://rustlabs.com/img/items180/trike.png" width="100" height="80">|Trike|trike|1991794121|ItemBlueprint<br>ItemModEntityReference<br>|
 |<img src="https://rustlabs.com/img/items180/kayak.png" width="100" height="80">|Kayak|kayak|190184021|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://rustlabs.com/img/screenshots/rhib.png" width="100" height="80">|RHIB|rhib|1394042569|ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/rowboat.png" width="100" height="80">|Rowboat|rowboat|1878053256|ItemBlueprint<br>ItemModEntity<br>|
@@ -110,6 +114,7 @@
 |<img src="https://rustlabs.com/img/items180/heavy.plate.helmet.png" width="100" height="80">|Heavy Plate Helmet|heavy.plate.helmet|1181207482|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/hat.miner.png" width="100" height="80">|Miners Hat|hat.miner|-1539025626|ItemModWearable<br>ItemBlueprint<br>ItemModContainer<br>|
 |<img src="https://rustlabs.com/img/items180/partyhat.png" width="100" height="80">|Party Hat|partyhat|-575744869|ItemModWearable<br>|
+|<img src="https://rustlabs.com/img/items180/prisonerhood.png" width="100" height="80">|Prisoner Hood|prisonerhood|-892718768|ItemModWearable<br>ItemBlueprint<br>ItemModForceWearFromBelt<br>|
 |<img src="https://rustlabs.com/img/items180/riot.helmet.png" width="100" height="80">|Riot Helmet|riot.helmet|671063303|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/wood.armor.helmet.png" width="100" height="80">|Wood Armor Helmet|wood.armor.helmet|-2094954543|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/hoodie.png" width="100" height="80">|Hoodie|hoodie|1751045826|ItemModWearable<br>ItemBlueprint<br>|
@@ -763,6 +768,7 @@
 |<img src="https://rustlabs.com/img/items180/flare.png" width="100" height="80">|Flare|flare|304481038|ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/flashlight.held.png" width="100" height="80">|Flashlight|flashlight.held|-196667575|ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/geiger.counter.png" width="100" height="80">|Geiger Counter|geiger.counter|999690781|ItemModEntity<br>ItemBlueprint<br>|
+|<img src="https://rustlabs.com/img/items180/handcuffs.png" width="100" height="80">|Handcuffs|handcuffs|-839576748|ItemModEntity<br>ItemBlueprint<br>ItemModForceSelectFromBelt<br>ItemModRestraint<br>|
 |<img src="https://rustlabs.com/img/items180/hosetool.png" width="100" height="80">|Hose Tool|hosetool|363163265|ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/jackhammer.png" width="100" height="80">|Jackhammer|jackhammer|1488979457|ItemModEntity<br>ItemBlueprint<br>ItemModRepair<br>|
 |<img src="https://rustlabs.com/img/items180/keycard_blue.png" width="100" height="80">|Blue Keycard|keycard_blue|-484206264|ItemModEntity<br>ItemModKeycard<br>|
