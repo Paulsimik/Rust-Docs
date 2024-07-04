@@ -247,12 +247,6 @@
 |Fireball_Small_Arrow|1081379866|FireBall<br>Rigidbody<br>BoxCollider<br>|assets/bundled/prefabs/fireball_small_arrow.prefab|
 |Fireball_Small_Molotov|2673585394|FireBall<br>Rigidbody<br>BoxCollider<br>|assets/bundled/prefabs/fireball_small_molotov.prefab|
 |fireball_small_shotgun|1837652231|FireBall<br>Rigidbody<br>BoxCollider<br>|assets/bundled/prefabs/fireball_small_shotgun.prefab|
-|NPCVendingMachine_building_hapis|1566614566|NPCVendingMachine<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>BoxCollider<br>|assets/bundled/prefabs/hapis/npcvendingmachine_building_hapis.prefab|
-|NPCVendingMachine_Buyres_hapis|924385556|NPCVendingMachine<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>BoxCollider<br>|assets/bundled/prefabs/hapis/npcvendingmachine_buyres_hapis.prefab|
-|NPCVendingMachine_food_hapis|3921325388|NPCVendingMachine<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>BoxCollider<br>|assets/bundled/prefabs/hapis/npcvendingmachine_food_hapis.prefab|
-|NPCVendingMachine_hapis_farming|1883306314|NPCVendingMachine<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>BoxCollider<br>|assets/bundled/prefabs/hapis/npcvendingmachine_hapis_farming.prefab|
-|NPCVendingMachine_hapis_hapis|3357703198|NPCVendingMachine<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>BoxCollider<br>|assets/bundled/prefabs/hapis/npcvendingmachine_hapis_hapis.prefab|
-|NPCVendingMachine_Weapons_hapis|2630900005|NPCVendingMachine<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>BoxCollider<br>|assets/bundled/prefabs/hapis/npcvendingmachine_weapons_hapis.prefab|
 |incendiary_fireball|720000925|FireBall<br>Rigidbody<br>BoxCollider<br>|assets/bundled/prefabs/incendiary_fireball.prefab|
 |admin_cliff_low_arc|3646182337|BaseEntity<br>|assets/bundled/prefabs/modding/admin/admin_cliff_low_arc.prefab|
 |admin_Cliff_medium_arc_arid_small|4075671165|BaseEntity<br>|assets/bundled/prefabs/modding/admin/admin_cliff_medium_arc_arid_small.prefab|
@@ -296,6 +290,12 @@
 |br_sphere_purple|1440656070|SphereEntity<br>|assets/bundled/prefabs/modding/events/twitch/br_sphere_purple.prefab|
 |br_sphere_red|816064497|SphereEntity<br>|assets/bundled/prefabs/modding/events/twitch/br_sphere_red.prefab|
 |twitch_dropbox.deployed|1572428470|DropBox<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>|assets/bundled/prefabs/modding/events/twitch/twitch_dropbox.deployed.prefab|
+|NPCVendingMachine_building_hapis|2012620586|NPCVendingMachine<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>BoxCollider<br>|assets/bundled/prefabs/modding/hapis/npcvendingmachine_building_hapis.prefab|
+|NPCVendingMachine_Buyres_hapis|4240629323|NPCVendingMachine<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>BoxCollider<br>|assets/bundled/prefabs/modding/hapis/npcvendingmachine_buyres_hapis.prefab|
+|NPCVendingMachine_food_hapis|2259370323|NPCVendingMachine<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>BoxCollider<br>|assets/bundled/prefabs/modding/hapis/npcvendingmachine_food_hapis.prefab|
+|NPCVendingMachine_hapis_farming|801029401|NPCVendingMachine<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>BoxCollider<br>|assets/bundled/prefabs/modding/hapis/npcvendingmachine_hapis_farming.prefab|
+|NPCVendingMachine_hapis_hapis|2089668427|NPCVendingMachine<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>BoxCollider<br>|assets/bundled/prefabs/modding/hapis/npcvendingmachine_hapis_hapis.prefab|
+|NPCVendingMachine_Weapons_hapis|1310687873|NPCVendingMachine<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>BoxCollider<br>|assets/bundled/prefabs/modding/hapis/npcvendingmachine_weapons_hapis.prefab|
 |invisible_crate_basic|506215165|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/modding/lootables/invisible/invisible_lootable_prefabs/invisible_crate_basic.prefab|
 |invisible_crate_elite|3590920894|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/modding/lootables/invisible/invisible_lootable_prefabs/invisible_crate_elite.prefab|
 |invisible_crate_normal|1510201832|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/modding/lootables/invisible/invisible_lootable_prefabs/invisible_crate_normal.prefab|
@@ -350,8 +350,10 @@
 |tech_parts_2|2571433948|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/radtown/underwater_labs/tech_parts_2.prefab|
 |vehicle_parts|971684836|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/radtown/underwater_labs/vehicle_parts.prefab|
 |vehicle_parts|356724277|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/radtown/vehicle_parts.prefab|
-|bbq.static|128449714|BaseOven<br>BaseCombatEntity<br>DecayEntity<br>EntityFlag_Toggle<br>Model<br>MeshCollider<br>|assets/bundled/prefabs/static/bbq.static.prefab|
+|bbq.static|128449714|BaseOven<br>BaseCombatEntity<br>DecayEntity<br>EntityFlag_Toggle<br>EntityFlag_Toggle<br>|assets/bundled/prefabs/static/bbq.static.prefab|
 |bbq.static_hidden|787806833|BaseOven<br>BaseCombatEntity<br>DecayEntity<br>EntityFlag_Toggle<br>Model<br>MeshCollider<br>|assets/bundled/prefabs/static/bbq.static_hidden.prefab|
+|bbq_on.static|2743758661|BaseEntity<br>|assets/bundled/prefabs/static/bbq_on.static.prefab|
+|campfire_on.static|3746987785|BaseEntity<br>MeshCollider<br>|assets/bundled/prefabs/static/campfire_on.static.prefab|
 |campfire_static|1339281147|BaseOven<br>BaseCombatEntity<br>DecayEntity<br>EntityFlag_Toggle<br>MeshCollider<br>|assets/bundled/prefabs/static/campfire_static.prefab|
 |candle_large_on.static|1946458280|BaseEntity<br>BoxCollider<br>|assets/bundled/prefabs/static/candle_large_on.static.prefab|
 |candle_medium_on.static|1215944999|BaseEntity<br>BoxCollider<br>|assets/bundled/prefabs/static/candle_medium_on.static.prefab|
@@ -365,7 +367,13 @@
 |chair_b.static|2560344996|BaseChair<br>BaseCombatEntity<br>|assets/bundled/prefabs/static/chair_b.static.prefab|
 |chair_c.static|641900253|BaseChair<br>BaseCombatEntity<br>|assets/bundled/prefabs/static/chair_c.static.prefab|
 |ChippyArcadeMachine.static|1418740895|BaseArcadeMachine<br>BaseCombatEntity<br>BaseMountable<br>Model<br>|assets/bundled/prefabs/static/chippyarcademachine.static.prefab|
-|controlchair.static|4116424082|BaseChair<br>BaseCombatEntity<br>MeshCollider<br>|assets/bundled/prefabs/static/controlchair.static.prefab|
+|controlchair.static|4116424082|BaseChair<br>BaseCombatEntity<br>|assets/bundled/prefabs/static/controlchair.static.prefab|
+|cursedcauldron_on.static|2601212795|BaseEntity<br>MeshCollider<br>|assets/bundled/prefabs/static/cursedcauldron_on.static.prefab|
+|decor_shelf_01.static|2563708287|BaseEntity<br>MeshCollider<br>|assets/bundled/prefabs/static/decor_shelf_01.static.prefab|
+|decor_shelf_02.static|480612559|BaseEntity<br>MeshCollider<br>|assets/bundled/prefabs/static/decor_shelf_02.static.prefab|
+|decor_shelf_03.static|820082729|BaseEntity<br>MeshCollider<br>|assets/bundled/prefabs/static/decor_shelf_03.static.prefab|
+|decor_shelf_04.static|20844965|BaseEntity<br>MeshCollider<br>|assets/bundled/prefabs/static/decor_shelf_04.static.prefab|
+|decor_shelf_05.static|4158399174|BaseEntity<br>MeshCollider<br>|assets/bundled/prefabs/static/decor_shelf_05.static.prefab|
 |desk_a.static|4176420588|BaseEntity<br>MeshCollider<br>|assets/bundled/prefabs/static/desk_a.static.prefab|
 |desk_b.static|3954468111|BaseEntity<br>MeshCollider<br>|assets/bundled/prefabs/static/desk_b.static.prefab|
 |desk_c.static|3912035642|BaseEntity<br>MeshCollider<br>|assets/bundled/prefabs/static/desk_c.static.prefab|
@@ -410,8 +418,11 @@
 |hobobarrel_static_AlwaysOn|1524464733|BaseEntity<br>MeshCollider<br>|assets/bundled/prefabs/static/hobobarrel_static_alwayson.prefab|
 |lab_table1.static|1806696064|BaseEntity<br>MeshCollider<br>|assets/bundled/prefabs/static/lab_table1.static.prefab|
 |lab_table2.static|2836270959|BaseEntity<br>MeshCollider<br>|assets/bundled/prefabs/static/lab_table2.static.prefab|
-|lab_table3.static|2495247709|BaseEntity<br>|assets/bundled/prefabs/static/lab_table3.static.prefab|
+|lab_table3.static|2495247709|BaseEntity<br>MeshCollider<br>|assets/bundled/prefabs/static/lab_table3.static.prefab|
+|lantern_on.static|1094316550|BaseEntity<br>MeshCollider<br>|assets/bundled/prefabs/static/lantern_on.static.prefab|
+|legacy_furnace_on.static|2391238149|BaseEntity<br>MeshCollider<br>|assets/bundled/prefabs/static/legacy_furnace_on.static.prefab|
 |miningquarry_static|3424003500|MiningQuarry<br>BaseCombatEntity<br>|assets/bundled/prefabs/static/miningquarry_static.prefab|
+|MixingTable_on.static|4213295507|BaseEntity<br>|assets/bundled/prefabs/static/mixingtable_on.static.prefab|
 |ModularCarLift.static|3844433950|ModularCarGarage<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>|assets/bundled/prefabs/static/modularcarlift.static.prefab|
 |piano.deployed.static|3858860623|StaticInstrument<br>BaseCombatEntity<br>Model<br>InstrumentKeyController<br>InstrumentIKController<br>|assets/bundled/prefabs/static/piano.deployed.static.prefab|
 |pumpjack-static|3449840583|MiningQuarry<br>BaseCombatEntity<br>NavMeshObstacle<br>|assets/bundled/prefabs/static/pumpjack-static.prefab|
@@ -426,6 +437,8 @@
 |tabledoor_b.static|1983756250|BaseEntity<br>MeshCollider<br>|assets/bundled/prefabs/static/tabledoor_b.static.prefab|
 |toilet_a.static|1465881654|BaseChair<br>BaseCombatEntity<br>|assets/bundled/prefabs/static/toilet_a.static.prefab|
 |toilet_b.static|3816788004|BaseChair<br>BaseCombatEntity<br>|assets/bundled/prefabs/static/toilet_b.static.prefab|
+|torchholder_cultist_on.static|843449532|BaseEntity<br>|assets/bundled/prefabs/static/torchholder_cultist_on.static.prefab|
+|torchholder_diver_on.static|89824208|BaseEntity<br>|assets/bundled/prefabs/static/torchholder_diver_on.static.prefab|
 |torchholder_on.static|3832937201|BaseEntity<br>|assets/bundled/prefabs/static/torchholder_on.static.prefab|
 |tunalight_on.static|2822590885|BaseEntity<br>|assets/bundled/prefabs/static/tunalight_on.static.prefab|
 |wall.frame.shopfront.metal.static|3894884980|ShopFront<br>BaseCombatEntity<br>DecayEntity<br>|assets/bundled/prefabs/static/wall.frame.shopfront.metal.static.prefab|
@@ -524,6 +537,12 @@
 |rockets_attackheli|2338617081|AttackHelicopterRockets<br>BaseCombatEntity<br>DecayEntity<br>Model<br>|assets/content/vehicles/attackhelicopter/subents/rockets_attackheli.prefab|
 |turret_attackheli|1707353991|AttackHelicopterTurret<br>BaseCombatEntity<br>DecayEntity<br>Model<br>|assets/content/vehicles/attackhelicopter/subents/turret_attackheli.prefab|
 |ball.entity|3289412313|SoccerBall<br>Rigidbody<br>Buoyancy<br>|assets/content/vehicles/ball/ball.entity.prefab|
+|_BikeBase|1485211|Bike<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>MagnetLiftable<br>Model<br>Spawnable<br>|assets/content/vehicles/bikes/_bikebase.prefab|
+|Motorbike|248647596|Bike<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>MagnetLiftable<br>Model<br>Spawnable<br>|assets/content/vehicles/bikes/motorbike.prefab|
+|Motorbike_Sidecar|573812|Bike<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>MagnetLiftable<br>Model<br>Spawnable<br>|assets/content/vehicles/bikes/motorbike_sidecar.prefab|
+|PedalBike|226383098|Bike<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>MagnetLiftable<br>Model<br>Spawnable<br>PrefabParameters<br>|assets/content/vehicles/bikes/pedalbike.prefab|
+|PedalTrike|383359455|Bike<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>MagnetLiftable<br>Model<br>Spawnable<br>PrefabParameters<br>|assets/content/vehicles/bikes/pedaltrike.prefab|
+|MotorbikeFuelStorage|1394984235|StorageContainer<br>BaseCombatEntity<br>|assets/content/vehicles/bikes/subents/motorbikefuelstorage.prefab|
 |CargoShipTest|3234960997|CargoShip<br>|assets/content/vehicles/boats/cargoship/cargoshiptest.prefab|
 |Kayak|1973784208|Kayak<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Buoyancy<br>Spawnable<br>PhysicsEffects<br>|assets/content/vehicles/boats/kayak/kayak.prefab|
 |RHIB|2226588638|RHIB<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>BaseBoat<br>Buoyancy<br>Rigidbody<br>Spawnable<br>|assets/content/vehicles/boats/rhib/rhib.prefab|
@@ -728,7 +747,7 @@
 |debris.wood.external.wall|2304619954|GroundWatch<br>DebrisEntity<br>|assets/prefabs/debris/debris.wood.external.wall.prefab|
 |barricade.concrete|2057881102|GroundWatch<br>DestroyOnGroundMissing<br>Barricade<br>BaseCombatEntity<br>NavMeshObstacle<br>Model<br>MeshCollider<br>MeshCollider<br>|assets/prefabs/deployable/barricades/barricade.concrete.prefab|
 |barricade.cover.wood|1581233281|Barricade<br>BaseCombatEntity<br>|assets/prefabs/deployable/barricades/barricade.cover.wood.prefab|
-|barricade.cover.wood_double|2982625522|Barricade<br>BaseCombatEntity<br>|assets/prefabs/deployable/barricades/barricade.cover.wood_double.prefab|
+|barricade.cover.wood_double|2982625522|Barricade<br>BaseCombatEntity<br>NavMeshObstacle<br>|assets/prefabs/deployable/barricades/barricade.cover.wood_double.prefab|
 |barricade.metal|3824663394|GroundWatch<br>DestroyOnGroundMissing<br>Barricade<br>BaseCombatEntity<br>MeshCollider<br>NavMeshObstacle<br>|assets/prefabs/deployable/barricades/barricade.metal.prefab|
 |barricade.sandbags|2335812770|GroundWatch<br>DestroyOnGroundMissing<br>Barricade<br>BaseCombatEntity<br>MeshCollider<br>NavMeshObstacle<br>Model<br>|assets/prefabs/deployable/barricades/barricade.sandbags.prefab|
 |barricade.stone|1206527181|GroundWatch<br>DestroyOnGroundMissing<br>Barricade<br>BaseCombatEntity<br>MeshCollider<br>NavMeshObstacle<br>|assets/prefabs/deployable/barricades/barricade.stone.prefab|
@@ -879,6 +898,7 @@
 |Timer|3673859458|CustomTimerSwitch<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/playerioents/timers/timer.prefab|
 |CableTunnel|3855268767|BoxCollider<br>CableTunnel<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/playerioents/tunnel/cabletunnel.prefab|
 |water.pump.deployed|3841120196|WaterPump<br>BaseCombatEntity<br>ContainerIOEntity<br>IOEntity<br>DecayEntity<br>MeshCollider<br>|assets/prefabs/deployable/playerioents/waterpump/water.pump.deployed.prefab|
+|ptz_cctv.static|4131768945|CCTV_RC<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>BoxCollider<br>|assets/prefabs/deployable/ptz security camera/ptz_cctv.static.prefab|
 |ptz_cctv_deployed|2576173574|CCTV_RC<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/ptz security camera/ptz_cctv_deployed.prefab|
 |EngineSwitch|167149050|EngineSwitch<br>MeshCollider<br>|assets/prefabs/deployable/quarry/engineswitch.prefab|
 |FuelStorage|362963830|BoxCollider<br>ResourceExtractorFuelStorage<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/deployable/quarry/fuelstorage.prefab|
@@ -936,11 +956,13 @@
 |NPCVendingMachine_HapisExchange|2055811113|NPCVendingMachine<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>BoxCollider<br>|assets/prefabs/deployable/vendingmachine/npcvendingmachines/npcvendingmachine_hapisexchange.prefab|
 |NPCVendingMachine_Resources|1505537622|NPCVendingMachine<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>BoxCollider<br>|assets/prefabs/deployable/vendingmachine/npcvendingmachines/npcvendingmachine_resources.prefab|
 |NPCVendingMachine_Tools|2259994529|NPCVendingMachine<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>BoxCollider<br>|assets/prefabs/deployable/vendingmachine/npcvendingmachines/npcvendingmachine_tools.prefab|
+|NPCVendingMachine_TravellingVendor|534084276|NPCVendingMachine<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>|assets/prefabs/deployable/vendingmachine/npcvendingmachines/npcvendingmachine_travellingvendor.prefab|
 |NPCVendingMachine_Vehicles|3835594039|NPCVendingMachine<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>BoxCollider<br>|assets/prefabs/deployable/vendingmachine/npcvendingmachines/npcvendingmachine_vehicles.prefab|
 |NPCVendingMachine_VehiclesHigh|2038954881|NPCVendingMachine<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>BoxCollider<br>|assets/prefabs/deployable/vendingmachine/npcvendingmachines/npcvendingmachine_vehicleshigh.prefab|
 |NPCVendingMachine_Weapons|3836034446|NPCVendingMachine<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>BoxCollider<br>|assets/prefabs/deployable/vendingmachine/npcvendingmachines/npcvendingmachine_weapons.prefab|
 |Shopkeeper_VM_Invis|858853278|InvisibleVendingMachine<br>BaseCombatEntity<br>StorageContainer<br>VendingMachine<br>DecayEntity<br>Model<br>BoxCollider<br>ColliderInfo<br>|assets/prefabs/deployable/vendingmachine/npcvendingmachines/shopkeeper_vm_invis.prefab|
 |Vending_MapMarker|3459945130|VendingMachineMapMarker<br>|assets/prefabs/deployable/vendingmachine/vending_mapmarker.prefab|
+|VendingFront|1107947433|Model<br>VendingMachineFront<br>|assets/prefabs/deployable/vendingmachine/vendingfront.prefab|
 |vendingmachine.deployed|186002280|VendingMachine<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/vendingmachine/vendingmachine.deployed.prefab|
 |water_catcher_large|3418194637|WaterCatcher<br>BaseCombatEntity<br>ContainerIOEntity<br>IOEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/water catcher/water_catcher_large.prefab|
 |water_catcher_small|3661185369|WaterCatcher<br>BaseCombatEntity<br>ContainerIOEntity<br>IOEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>CapsuleCollider<br>|assets/prefabs/deployable/water catcher/water_catcher_small.prefab|
@@ -1089,6 +1111,7 @@
 |divesite_b|2048371271|Spawnable<br>DiveSite<br>|assets/prefabs/misc/divesite/divesite_b.prefab|
 |divesite_c|1891214172|Spawnable<br>DiveSite<br>|assets/prefabs/misc/divesite/divesite_c.prefab|
 |DoorCloser|1831641807|DoorCloser<br>BoxCollider<br>|assets/prefabs/misc/doorcloser/doorcloser.prefab|
+|DynamicPreventBuilding|4124785483|BaseEntity<br>SphereCollider<br>|assets/prefabs/misc/dynamicpreventbuilding.prefab|
 |easter_door_wreath_deployed|3375996320|BaseCombatEntity<br>|assets/prefabs/misc/easter/door_wreath/easter_door_wreath_deployed.prefab|
 |easter_basket.entity|557749706|EasterBasket<br>HeldEntity<br>|assets/prefabs/misc/easter/easter basket/easter_basket.entity.prefab|
 |EasterEggProjectile|3721260684|SeasonalTimedExplosive<br>ServerProjectile<br>SphereCollider<br>|assets/prefabs/misc/easter/easter basket/eastereggprojectile.prefab|
@@ -1371,7 +1394,7 @@
 |Gingerbread_Dungeon|2992757580|GingerbreadNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>Spawnable<br>NavMeshAgent<br>Spawnable<br>ScientistBrain<br>NPCPlayerNavigator<br>|assets/prefabs/npc/gingerbread/gingerbread_dungeon.prefab|
 |Gingerbread_MeleeDungeon|1172642608|GingerbreadNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>Spawnable<br>NavMeshAgent<br>Spawnable<br>ScientistBrain<br>NPCPlayerNavigator<br>|assets/prefabs/npc/gingerbread/gingerbread_meleedungeon.prefab|
 |bradley_crate|1737870479|LockedByEntCrate<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>BoxCollider<br>|assets/prefabs/npc/m2bradley/bradley_crate.prefab|
-|BradleyAPC|1456850188|BradleyAPC<br>Rigidbody<br>Model<br>TreadEffects<br>|assets/prefabs/npc/m2bradley/bradleyapc.prefab|
+|BradleyAPC|1456850188|BradleyAPC<br>Rigidbody<br>Model<br>|assets/prefabs/npc/m2bradley/bradleyapc.prefab|
 |MainCannonShell|3032863244|TimedExplosive<br>ServerProjectile<br>|assets/prefabs/npc/m2bradley/maincannonshell.prefab|
 |oilFireball2|3761185980|FireBall<br>Rigidbody<br>BoxCollider<br>|assets/prefabs/npc/m2bradley/oilfireball2.prefab|
 |ServerGibs_Bradley|4214400966|HelicopterDebris<br>BaseCombatEntity<br>ResourceDispenser<br>|assets/prefabs/npc/m2bradley/servergibs_bradley.prefab|
@@ -1391,6 +1414,9 @@
 |Scarecrow_Dungeon|3019050354|ScarecrowNPC<br>BaseCombatEntity<br>BasePlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>Spawnable<br>NPCPlayerNavigator<br>NavMeshAgent<br>ScarecrowBrain<br>Spawnable<br>|assets/prefabs/npc/scarecrow/scarecrow_dungeon.prefab|
 |Scarecrow_DungeonNoRoam|70161046|ScarecrowNPC<br>BaseCombatEntity<br>BasePlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>Spawnable<br>NPCPlayerNavigator<br>NavMeshAgent<br>ScarecrowBrain<br>Spawnable<br>|assets/prefabs/npc/scarecrow/scarecrow_dungeonnoroam.prefab|
 |scientist_corpse|1236143239|NPCPlayerCorpse<br>BaseCombatEntity<br>LootableCorpse<br>BaseCorpse<br>HumanBodyResourceDispenser<br>Buoyancy<br>HeadDispenser<br>|assets/prefabs/npc/scientist/scientist_corpse.prefab|
+|NPCVendorTurretModified Variant|2857401739|NPCAutoTurret<br>BaseCombatEntity<br>ContainerIOEntity<br>IOEntity<br>DecayEntity<br>Model<br>CapsuleCollider<br>|assets/prefabs/npc/travelling vendor/npcvendorturretmodified variant.prefab|
+|NPCVendorTurretSide|4291749291|NPCAutoTurret<br>BaseCombatEntity<br>ContainerIOEntity<br>IOEntity<br>DecayEntity<br>Model<br>|assets/prefabs/npc/travelling vendor/npcvendorturretside.prefab|
+|travellingvendor|3338740337|Rigidbody<br>TravellingVendor<br>Model<br>|assets/prefabs/npc/travelling vendor/travellingvendor.prefab|
 |MissionProvider_Tutorial|3344407138|TutorialNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCTalking<br>NPCShopKeeper<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>|assets/prefabs/npc/tutorial/missionprovider_tutorial.prefab|
 |PhysicsEntityCube|681646903|BaseEntity<br>Rigidbody<br>|assets/prefabs/physicstesting/physicsentitycube.prefab|
 |PhysicsEntityCube_MaxFriction|4224922530|BaseEntity<br>Rigidbody<br>|assets/prefabs/physicstesting/physicsentitycube_maxfriction.prefab|
@@ -1423,6 +1449,7 @@
 |flare.weapon|2661658442|GrenadeWeapon<br>HeldEntity<br>AttackEntity<br>|assets/prefabs/tools/flareold/flare.weapon.prefab|
 |flashlight.entity|72718095|BaseMelee<br>HeldEntity<br>|assets/prefabs/tools/flashlight/flashlight.entity.prefab|
 |geiger_counter.entity|47304962|GeigerCounter<br>HeldEntity<br>|assets/prefabs/tools/geiger counter/geiger_counter.entity.prefab|
+|handcuffs.entity|3263286159|Handcuffs<br>HeldEntity<br>AttackEntity<br>|assets/prefabs/tools/handcuffs/handcuffs.entity.prefab|
 |hosetool.entity|3568270288|WireTool<br>|assets/prefabs/tools/hose/hosetool.entity.prefab|
 |jackhammer.entity|3537156861|Jackhammer<br>HeldEntity<br>AttackEntity<br>Model<br>|assets/prefabs/tools/jackhammer/jackhammer.entity.prefab|
 |keycard.entity|3773357817|Keycard<br>HeldEntity<br>SwapKeycard<br>|assets/prefabs/tools/keycard/keycard.entity.prefab|
@@ -1443,6 +1470,7 @@
 |GenericRadiusMarker|2849728229|MapMarkerGenericRadius<br>|assets/prefabs/tools/map/genericradiusmarker.prefab|
 |map|491065559|MapEntity<br>|assets/prefabs/tools/map/map.prefab|
 |MissionProviderMarker|1670391308|MapMarkerMissionProvider<br>|assets/prefabs/tools/map/missionprovidermarker.prefab|
+|TravellingVendorMarker|4216742342|MapMarkerCH47<br>|assets/prefabs/tools/map/travellingvendormarker.prefab|
 |UI.Map.LegacyShelter|70605177|RectTransform<br>UnityEngine.Component<br>UnityEngine.Object<br>|assets/prefabs/tools/map/ui/ui.map.legacyshelter.prefab|
 |syringe_medical.entity|283937635|MedicalTool<br>HeldEntity<br>|assets/prefabs/tools/medical syringe/syringe_medical.entity.prefab|
 |metal_detector.entity|892200099|BaseMetalDetector<br>Model<br>|assets/prefabs/tools/metaldetector/metal_detector.entity.prefab|
@@ -1467,6 +1495,8 @@
 |ArcadeUser|1600307371|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/arcadeuser.prefab|
 |AttackHeliDriver|70742988|AttackHeliDriverSeat<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicleMountPoint<br>MeshCollider<br>|assets/prefabs/vehicle/seats/attackhelidriver.prefab|
 |AttackHeliGunner|240871686|AttackHeliGunnerSeat<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicleMountPoint<br>MeshCollider<br>|assets/prefabs/vehicle/seats/attackheligunner.prefab|
+|BikeDriverSeat|4261260455|BikeDriverSeat<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicleMountPoint<br>BaseVehicleSeat<br>MeshCollider<br>|assets/prefabs/vehicle/seats/bikedriverseat.prefab|
+|BikePassengerSeat|3025064202|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/bikepassengerseat.prefab|
 |CopilotSeat|1070668182|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/copilotseat.prefab|
 |CraneOperator|1103757790|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/craneoperator.prefab|
 |DriverSeat|4088163379|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/driverseat.prefab|
@@ -1481,6 +1511,8 @@
 |ModularCarPassengerSeatLessLegroomRight|1826159939|ModularCarSeat<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicleMountPoint<br>BaseVehicleSeat<br>|assets/prefabs/vehicle/seats/modularcarpassengerseatlesslegroomright.prefab|
 |ModularCarPassengerSeatRight|205354363|ModularCarSeat<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicleMountPoint<br>BaseVehicleSeat<br>|assets/prefabs/vehicle/seats/modularcarpassengerseatright.prefab|
 |ModularCarPassengerSeatSidewayLeft|4116606551|ModularCarSeat<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicleMountPoint<br>BaseVehicleSeat<br>|assets/prefabs/vehicle/seats/modularcarpassengerseatsidewayleft.prefab|
+|MotorbikeDriverSeat|1359197088|BikeDriverSeat<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicleMountPoint<br>BaseVehicleSeat<br>MeshCollider<br>|assets/prefabs/vehicle/seats/motorbikedriverseat.prefab|
+|MotorbikePassengerSeat|1177038454|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/motorbikepassengerseat.prefab|
 |ParachuteSeat|3398060938|ParachuteSeat<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicleMountPoint<br>BaseVehicleSeat<br>MeshCollider<br>|assets/prefabs/vehicle/seats/parachuteseat.prefab|
 |Passenger|2304142695|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/passenger.prefab|
 |PassengerChair|1954020959|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/passengerchair.prefab|
