@@ -614,6 +614,15 @@
 |assets/content/effects/cars/pfx_car_damage_severe.prefab|
 |assets/content/effects/cars/pfx_car_destroyed.prefab|
 |assets/content/effects/cars/pfx_car_exhaust.prefab|
+|assets/content/effects/cars/pfx_motorbike_spin_asphalt.prefab|
+|assets/content/effects/cars/pfx_motorbike_spin_dirt.prefab|
+|assets/content/effects/cars/pfx_motorbike_spin_sand.prefab|
+|assets/content/effects/cars/pfx_pedalbike_spin_dirt.prefab|
+|assets/content/effects/cars/pfx_pedalbike_spin_snow.prefab|
+|assets/content/effects/cars/pfx_pedalbike_trail_dirt.prefab|
+|assets/content/effects/cars/pfx_pedalbike_trail_sand.prefab|
+|assets/content/effects/cars/pfx_pedalbike_trail_snow.prefab|
+|assets/content/effects/cars/pfx_pedalbike_trail_water.prefab|
 |assets/content/effects/cars/pfx_ski_sparks.prefab|
 |assets/content/effects/cars/pfx_ski_trail_sand.prefab|
 |assets/content/effects/cars/pfx_tread_spin_sand.prefab|
@@ -641,6 +650,8 @@
 |assets/content/effects/explosions/underwater/explosion_underwater_surface_large.prefab|
 |assets/content/effects/explosions/underwater/explosion_underwater_surface_medium.prefab|
 |assets/content/effects/explosions/underwater/explosion_underwater_surface_small.prefab|
+|assets/content/effects/fire/pfx_ground_flame_v2.prefab|
+|assets/content/effects/fire/pfx_ground_flame_v2_small.prefab|
 |assets/content/effects/fireworks/pfx fireworks boomer blue v2.prefab|
 |assets/content/effects/fireworks/pfx fireworks boomer golden xl v2.prefab|
 |assets/content/effects/fireworks/pfx fireworks boomer green v2.prefab|
@@ -706,6 +717,8 @@
 |assets/content/effects/muzzleflashes/smg/muzzle_flash_smg_twin.prefab|
 |assets/content/effects/muzzleflashes/smg/shell_eject_smg.prefab|
 |assets/content/effects/objects/decal_box.prefab|
+|assets/content/effects/rotorwashparticles_large.prefab|
+|assets/content/effects/rotorwashparticles_small.prefab|
 |assets/content/effects/water/bullet_trails_underwater_01.prefab|
 |assets/content/effects/weather/dust/vfx_dust_cinematic_volume.prefab|
 |assets/content/effects/weather/lightning/lightningbolt.prefab|
@@ -751,6 +764,10 @@
 |assets/content/vehicles/attackhelicopter/effects/pfx_flares_attackhelicopter.prefab|
 |assets/content/vehicles/attackhelicopter/effects/pfx_rocketpod.prefab|
 |assets/content/vehicles/attackhelicopter/effects/pfx_rocketpod_rocket.prefab|
+|assets/content/vehicles/bikes/motorbike/effects/damageeffects motorbike lights.prefab|
+|assets/content/vehicles/bikes/motorbike/effects/damageeffects motorbike.prefab|
+|assets/content/vehicles/bikes/motorbike/effects/exhaust motorbike.prefab|
+|assets/content/vehicles/bikes/motorbike/effects/lights on.prefab|
 |assets/content/vehicles/boats/effects/small-boat-push-land.prefab|
 |assets/content/vehicles/boats/effects/small-boat-push-water.prefab|
 |assets/content/vehicles/boats/effects/splash.prefab|
@@ -1190,12 +1207,17 @@
 |assets/prefabs/npc/ch47/effects/watergroundeffect.prefab|
 |assets/prefabs/npc/flame turret/effects/flameturret-deploy.prefab|
 |assets/prefabs/npc/m2bradley/effects/bradley_explosion.prefab|
-|assets/prefabs/npc/m2bradley/effects/coaxmgmuzzle.prefab|
+|assets/prefabs/npc/m2bradley/effects/coaxmachinegunattackdeprecated.prefab|
+|assets/prefabs/npc/m2bradley/effects/coaxmgattack.prefab|
+|assets/prefabs/npc/m2bradley/effects/exhaustv2.prefab|
+|assets/prefabs/npc/m2bradley/effects/lighteffets.prefab|
+|assets/prefabs/npc/m2bradley/effects/lightingeffectsv2.prefab|
 |assets/prefabs/npc/m2bradley/effects/maincannonattack.prefab|
 |assets/prefabs/npc/m2bradley/effects/maincannonshell_explosion.prefab|
 |assets/prefabs/npc/m2bradley/effects/sidegun_muzzleflash.prefab|
 |assets/prefabs/npc/m2bradley/effects/tread_dirt.prefab|
 |assets/prefabs/npc/m2bradley/effects/tread_smoke.prefab|
+|assets/prefabs/npc/m2bradley/effects/treadfxv2.prefab|
 |assets/prefabs/npc/patrol helicopter/effects/gun_fire.prefab|
 |assets/prefabs/npc/patrol helicopter/effects/gun_fire_small.prefab|
 |assets/prefabs/npc/patrol helicopter/effects/heli_explosion.prefab|
@@ -1207,6 +1229,10 @@
 |assets/prefabs/npc/sam_site_turret/effects/rocket_sam_explosion.prefab|
 |assets/prefabs/npc/sam_site_turret/effects/sam_damage.prefab|
 |assets/prefabs/npc/sam_site_turret/effects/tube_launch.prefab|
+|assets/prefabs/npc/travelling vendor/effects/vendor truck exhaust backfire.prefab|
+|assets/prefabs/npc/travelling vendor/effects/vendor truck exhaust.prefab|
+|assets/prefabs/npc/travelling vendor/effects/vendor truck lighting.prefab|
+|assets/prefabs/npc/travelling vendor/effects/vendor turret laser pointer.prefab|
 |assets/prefabs/tools/binoculars/effects/deploy.prefab|
 |assets/prefabs/tools/c4/effects/c4_explosion.prefab|
 |assets/prefabs/tools/c4/effects/c4_stick.prefab|
@@ -1223,6 +1249,11 @@
 |assets/prefabs/tools/flashlight/effects/attack_hit.prefab|
 |assets/prefabs/tools/flashlight/effects/deploy.prefab|
 |assets/prefabs/tools/flashlight/effects/turn_on.prefab|
+|assets/prefabs/tools/handcuffs/effects/attack.prefab|
+|assets/prefabs/tools/handcuffs/effects/handcuffs-break.prefab|
+|assets/prefabs/tools/handcuffs/effects/handcuffs-lock.prefab|
+|assets/prefabs/tools/handcuffs/effects/strike.prefab|
+|assets/prefabs/tools/handcuffs/effects/strike_screenshake.prefab|
 |assets/prefabs/tools/hose/effects/waterplugeffect.prefab|
 |assets/prefabs/tools/jackhammer/effects/deploy.prefab|
 |assets/prefabs/tools/jackhammer/effects/strike_screenshake.prefab|
