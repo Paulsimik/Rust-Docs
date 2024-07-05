@@ -2040,6 +2040,8 @@
 |assets/content/properties/steamcategories/limited-halloween2023-799.steam.asset|
 |assets/content/properties/steamcategories/limited-july4-2021-1000.steam.asset|
 |assets/content/properties/steamcategories/limited-july4-2021-500.steam.asset|
+|assets/content/properties/steamcategories/limited-july4-2024-fireworks-cheap.steam.asset|
+|assets/content/properties/steamcategories/limited-july4-2024-fireworks-expensive.steam.asset|
 |assets/content/properties/steamcategories/limited-movember2020.steam.asset|
 |assets/content/properties/steamcategories/limited-newyear-2020-2021-fireworks-cheap.steam.asset|
 |assets/content/properties/steamcategories/limited-newyear-2020-2021-fireworks-expensive.steam.asset|
