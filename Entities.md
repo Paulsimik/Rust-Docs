@@ -247,7 +247,6 @@
 |Fireball_Small_Arrow|1081379866|FireBall<br>Rigidbody<br>BoxCollider<br>|assets/bundled/prefabs/fireball_small_arrow.prefab|
 |Fireball_Small_Molotov|2673585394|FireBall<br>Rigidbody<br>BoxCollider<br>|assets/bundled/prefabs/fireball_small_molotov.prefab|
 |fireball_small_shotgun|1837652231|FireBall<br>Rigidbody<br>BoxCollider<br>|assets/bundled/prefabs/fireball_small_shotgun.prefab|
-|incendiary_fireball|720000925|FireBall<br>Rigidbody<br>BoxCollider<br>|assets/bundled/prefabs/incendiary_fireball.prefab|
 |admin_cliff_low_arc|3646182337|BaseEntity<br>|assets/bundled/prefabs/modding/admin/admin_cliff_low_arc.prefab|
 |admin_Cliff_medium_arc_arid_small|4075671165|BaseEntity<br>|assets/bundled/prefabs/modding/admin/admin_cliff_medium_arc_arid_small.prefab|
 |admin_rock_Clutter_medium_d|3408002736|BaseEntity<br>|assets/bundled/prefabs/modding/admin/admin_rock_clutter_medium_d.prefab|
@@ -805,9 +804,6 @@
 |MortarPattern|4155476352|PatternFirework<br>BaseFirework<br>RepeatingFirework<br>BaseCombatEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/fireworks/mortarpattern.prefab|
 |MortarRed|2059113465|MortarFirework<br>BaseFirework<br>BaseCombatEntity<br>MeshCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/fireworks/mortarred.prefab|
 |MortarViolet|571344195|MortarFirework<br>BaseFirework<br>BaseCombatEntity<br>MeshCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/fireworks/mortarviolet.prefab|
-|RomanCandle-Blue|2628631772|PFXRepeatingFirework<br>BaseFirework<br>BaseCombatEntity<br>CapsuleCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/fireworks/romancandle-blue.prefab|
-|RomanCandle-Green|2847715782|PFXRepeatingFirework<br>BaseFirework<br>BaseCombatEntity<br>CapsuleCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/fireworks/romancandle-green.prefab|
-|RomanCandle-Violet|793494534|PFXRepeatingFirework<br>BaseFirework<br>BaseCombatEntity<br>CapsuleCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/fireworks/romancandle-violet.prefab|
 |RomanCandle|1410649145|PFXRepeatingFirework<br>BaseFirework<br>BaseCombatEntity<br>CapsuleCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/fireworks/romancandle.prefab|
 |RomanCandleBlue|3989759960|PFXRepeatingFirework<br>BaseFirework<br>BaseCombatEntity<br>CapsuleCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/fireworks/romancandleblue.prefab|
 |RomanCandleGreen|1833523633|PFXRepeatingFirework<br>BaseFirework<br>BaseCombatEntity<br>CapsuleCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/fireworks/romancandlegreen.prefab|
