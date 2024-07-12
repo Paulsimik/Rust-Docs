@@ -768,7 +768,7 @@
 |<img src="https://rustlabs.com/img/items180/flare.png" width="100" height="80">|Flare|flare|304481038|ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/flashlight.held.png" width="100" height="80">|Flashlight|flashlight.held|-196667575|ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/geiger.counter.png" width="100" height="80">|Geiger Counter|geiger.counter|999690781|ItemModEntity<br>ItemBlueprint<br>|
-|<img src="https://rustlabs.com/img/items180/handcuffs.png" width="100" height="80">|Handcuffs|handcuffs|-839576748|ItemModEntity<br>ItemBlueprint<br>ItemModForceSelectFromBelt<br>ItemModRestraint<br>|
+|<img src="https://rustlabs.com/img/items180/handcuffs.png" width="100" height="80">|Handcuffs|handcuffs|-839576748|ItemModEntity<br>ItemBlueprint<br>ItemModForceSelectFromBelt<br>ItemModRestraint<br>ItemModHideInfoPanel<br>|
 |<img src="https://rustlabs.com/img/items180/hosetool.png" width="100" height="80">|Hose Tool|hosetool|363163265|ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/jackhammer.png" width="100" height="80">|Jackhammer|jackhammer|1488979457|ItemModEntity<br>ItemBlueprint<br>ItemModRepair<br>|
 |<img src="https://rustlabs.com/img/items180/keycard_blue.png" width="100" height="80">|Blue Keycard|keycard_blue|-484206264|ItemModEntity<br>ItemModKeycard<br>|
