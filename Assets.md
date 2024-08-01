@@ -26,6 +26,7 @@
 |assets/content/image effects/postfx_volumes/flashbang.asset|
 |assets/content/image effects/postfx_volumes/hot.asset|
 |assets/content/image effects/postfx_volumes/hurt.asset|
+|assets/content/image effects/postfx_volumes/hurtpunch.asset|
 |assets/content/image effects/postfx_volumes/low_oxygen.asset|
 |assets/content/image effects/postfx_volumes/main_base.asset|
 |assets/content/image effects/postfx_volumes/main_biome_arctic.asset|
@@ -1438,6 +1439,7 @@
 |assets/content/properties/lootspawn/generated/items/traps/flameturret.asset|
 |assets/content/properties/lootspawn/generated/items/traps/guntrap.asset|
 |assets/content/properties/lootspawn/generated/items/traps/spikes.floor.asset|
+|assets/content/properties/lootspawn/generated/items/traps/tincan.alarm.asset|
 |assets/content/properties/lootspawn/generated/items/traps/trap.bear.asset|
 |assets/content/properties/lootspawn/generated/items/traps/trap.landmine.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/bone.club.asset|
@@ -1767,6 +1769,7 @@
 |assets/content/properties/protection/submarineprotection.asset|
 |assets/content/properties/protection/tankprotection.asset|
 |assets/content/properties/protection/target_protection.asset|
+|assets/content/properties/protection/tincanalarm.asset|
 |assets/content/properties/protection/trainprotection.asset|
 |assets/content/properties/protection/tree protection.asset|
 |assets/content/properties/protection/tugboatprotection.asset|
@@ -4894,6 +4897,9 @@
 |assets/plugins/ezsoftbone/tests/presets/sbmat_default_normal.asset|
 |assets/plugins/ezsoftbone/tests/presets/sbmat_default_soft.asset|
 |assets/plugins/ezsoftbone/tests/presets/sbmat_demo.asset|
+|assets/plugins/facepunch.burstcloth/materials/cm_defaultchain.asset|
+|assets/plugins/facepunch.burstcloth/materials/cm_defaultcloth.asset|
+|assets/plugins/facepunch.burstcloth/materials/cm_defaultspring.asset|
 |assets/plugins/rust.ui/controls/aiuitoggle.asset|
 |assets/plugins/rust.ui/controls/clickableimage.asset|
 |assets/plugins/rust.ui/controls/container.popup.normal.asset|
@@ -5311,6 +5317,9 @@
 |assets/prefabs/deployable/playerioents/detectors/hbhfsensor/sound/idle.asset|
 |assets/prefabs/deployable/playerioents/detectors/pressurepad/sound/pressure-pad-activate.asset|
 |assets/prefabs/deployable/playerioents/detectors/pressurepad/sound/pressure-pad-deactivate.asset|
+|assets/prefabs/deployable/playerioents/detectors/tincanalarm/sound/tin-can-alarm-arm.asset|
+|assets/prefabs/deployable/playerioents/detectors/tincanalarm/sound/tin-can-alarm-deploy.asset|
+|assets/prefabs/deployable/playerioents/detectors/tincanalarm/sound/tin-can-alarm-trip.asset|
 |assets/prefabs/deployable/playerioents/electricfurnace/sound/electric-furnace-active-loop.asset|
 |assets/prefabs/deployable/playerioents/electricfurnace/sound/electric-furnace-close.asset|
 |assets/prefabs/deployable/playerioents/electricfurnace/sound/electric-furnace-deploy.asset|
@@ -5479,6 +5488,7 @@
 |assets/prefabs/deployable/tool cupboard/retro/sound/tool-cupboard-retro-close.asset|
 |assets/prefabs/deployable/tool cupboard/retro/sound/tool-cupboard-retro-deploy.asset|
 |assets/prefabs/deployable/tool cupboard/retro/sound/tool-cupboard-retro-open.asset|
+|assets/prefabs/deployable/tool cupboard/shockbyte/cupboard.tool.shockbyte.skin.asset|
 |assets/prefabs/deployable/tool cupboard/sound/tool-cupboard-close.asset|
 |assets/prefabs/deployable/tool cupboard/sound/tool-cupboard-deploy.asset|
 |assets/prefabs/deployable/tool cupboard/sound/tool-cupboard-open.asset|
@@ -5517,6 +5527,7 @@
 |assets/prefabs/deployable/vendingmachine/sound/ambient_loop.asset|
 |assets/prefabs/deployable/vendingmachine/sound/purchase.asset|
 |assets/prefabs/deployable/vendingmachine/sound/purchase_human.asset|
+|assets/prefabs/deployable/vendingmachine/sound/purchase_travellingvendor.asset|
 |assets/prefabs/deployable/vendingmachine/sound/vending-machine-close.asset|
 |assets/prefabs/deployable/vendingmachine/sound/vending-machine-deploy.asset|
 |assets/prefabs/deployable/vendingmachine/sound/vending-machine-open.asset|
@@ -7527,6 +7538,9 @@
 |assets/scenes/prefabs/trainyard/sound/coaling-tower-suction-ore-loop-interior-pipe.asset|
 |assets/scenes/prefabs/trainyard/sound/coaling-tower-suction-ore-start.asset|
 |assets/scenes/test/billbtestmap/billbtestmap terrain.asset|
+|assets/scenes/test/burstcloth/burstclothmats/fabric_bcmat.asset|
+|assets/scenes/test/burstcloth/burstclothmats/rope_bcmat.asset|
+|assets/scenes/test/burstcloth/burstclothmats/spring_bcmat.asset|
 |assets/scenes/test/cargodocking/cargodocking terrain.asset|
 |assets/scenes/test/coastal_cliffs/coastal_cliffs_test.asset|
 |assets/scripts/entity/misc/f15/sound/f15e-flight-loop.asset|
