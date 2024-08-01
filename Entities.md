@@ -500,8 +500,8 @@
 |StrobeLight|699083235|StrobeLight<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/content/props/strobe light/strobelight.prefab|
 |train_signal_lights_a|2412590018|TrainSignal<br>MeshCollider<br>|assets/content/props/train_signal_lights/train_signal_lights_a.prefab|
 |train_signal_lights_b|3367685342|TrainSignal<br>MeshCollider<br>|assets/content/props/train_signal_lights/train_signal_lights_b.prefab|
-|TrainBarricade|1221760186|TrainBarricade<br>Spawnable<br>|assets/content/props/train_tunnels/trainbarricade.prefab|
-|TrainBarricadeHeavy|1363243026|TrainBarricade<br>Spawnable<br>|assets/content/props/train_tunnels/trainbarricadeheavy.prefab|
+|TrainBarricade|1221760186|BaseCombatEntity<br>HittableByTrains<br>Spawnable<br>|assets/content/props/train_tunnels/trainbarricade.prefab|
+|TrainBarricadeHeavy|1363243026|BaseCombatEntity<br>HittableByTrains<br>Spawnable<br>|assets/content/props/train_tunnels/trainbarricadeheavy.prefab|
 |wooden_crate_gingerbread|2954096225|MeshCollider<br>Barricade<br>BaseCombatEntity<br>|assets/content/props/wooden_crates/wooden_crate_gingerbread.prefab|
 |door.hinged.arctic.garage|276455361|Door<br>BaseCombatEntity<br>StabilityEntity<br>DecayEntity<br>Model<br>|assets/content/structures/arctic_base_modules/door.hinged.arctic.garage.prefab|
 |carshredder.entity|1114045676|LargeShredder<br>Model<br>|assets/content/structures/carshredder/carshredder.entity.prefab|
@@ -542,7 +542,7 @@
 |PedalBike|226383098|Bike<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>MagnetLiftable<br>Model<br>Spawnable<br>PrefabParameters<br>|assets/content/vehicles/bikes/pedalbike.prefab|
 |PedalTrike|383359455|Bike<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>MagnetLiftable<br>Model<br>Spawnable<br>PrefabParameters<br>|assets/content/vehicles/bikes/pedaltrike.prefab|
 |MotorbikeFuelStorage|1394984235|StorageContainer<br>BaseCombatEntity<br>|assets/content/vehicles/bikes/subents/motorbikefuelstorage.prefab|
-|CargoShipTest|3234960997|CargoShip<br>|assets/content/vehicles/boats/cargoship/cargoshiptest.prefab|
+|CargoShipTest|3234960997|CargoShip<br>EntityFlag_Toggle<br>|assets/content/vehicles/boats/cargoship/cargoshiptest.prefab|
 |Kayak|1973784208|Kayak<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Buoyancy<br>Spawnable<br>PhysicsEffects<br>|assets/content/vehicles/boats/kayak/kayak.prefab|
 |RHIB|2226588638|RHIB<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>BaseBoat<br>Buoyancy<br>Rigidbody<br>Spawnable<br>|assets/content/vehicles/boats/rhib/rhib.prefab|
 |fuel_storage|1394312733|StorageContainer<br>BaseCombatEntity<br>|assets/content/vehicles/boats/rhib/subents/fuel_storage.prefab|
@@ -745,8 +745,8 @@
 |debris.wall|1424066995|GroundWatch<br>DestroyOnGroundMissing<br>DebrisEntity<br>BoxCollider<br>|assets/prefabs/debris/debris.wall.prefab|
 |debris.wood.external.wall|2304619954|GroundWatch<br>DebrisEntity<br>|assets/prefabs/debris/debris.wood.external.wall.prefab|
 |barricade.concrete|2057881102|GroundWatch<br>DestroyOnGroundMissing<br>Barricade<br>BaseCombatEntity<br>NavMeshObstacle<br>Model<br>MeshCollider<br>MeshCollider<br>|assets/prefabs/deployable/barricades/barricade.concrete.prefab|
-|barricade.cover.wood|1581233281|Barricade<br>BaseCombatEntity<br>|assets/prefabs/deployable/barricades/barricade.cover.wood.prefab|
-|barricade.cover.wood_double|2982625522|Barricade<br>BaseCombatEntity<br>NavMeshObstacle<br>|assets/prefabs/deployable/barricades/barricade.cover.wood_double.prefab|
+|barricade.cover.wood|1581233281|Barricade<br>BaseCombatEntity<br>HittableByTrains<br>|assets/prefabs/deployable/barricades/barricade.cover.wood.prefab|
+|barricade.cover.wood_double|2982625522|Barricade<br>BaseCombatEntity<br>HittableByTrains<br>NavMeshObstacle<br>|assets/prefabs/deployable/barricades/barricade.cover.wood_double.prefab|
 |barricade.metal|3824663394|GroundWatch<br>DestroyOnGroundMissing<br>Barricade<br>BaseCombatEntity<br>MeshCollider<br>NavMeshObstacle<br>|assets/prefabs/deployable/barricades/barricade.metal.prefab|
 |barricade.sandbags|2335812770|GroundWatch<br>DestroyOnGroundMissing<br>Barricade<br>BaseCombatEntity<br>MeshCollider<br>NavMeshObstacle<br>Model<br>|assets/prefabs/deployable/barricades/barricade.sandbags.prefab|
 |barricade.stone|1206527181|GroundWatch<br>DestroyOnGroundMissing<br>Barricade<br>BaseCombatEntity<br>MeshCollider<br>NavMeshObstacle<br>|assets/prefabs/deployable/barricades/barricade.stone.prefab|
@@ -855,6 +855,7 @@
 |hbhfsensor.deployed|986625916|HBHFSensor<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/playerioents/detectors/hbhfsensor/hbhfsensor.deployed.prefab|
 |LaserDetector|2260707523|LaserDetector<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/playerioents/detectors/laserdetector/laserdetector.prefab|
 |pressurepad.deployed|687239341|PressurePad<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/playerioents/detectors/pressurepad/pressurepad.deployed.prefab|
+|tincan.alarm.deployed|1200964049|TinCanAlarm<br>BaseCombatEntity<br>GroundWatch<br>CapsuleCollider<br>|assets/prefabs/deployable/playerioents/detectors/tincanalarm/tincan.alarm.deployed.prefab|
 |doorcontroller.deployed|2343730564|CustomDoorManipulator<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>|assets/prefabs/deployable/playerioents/doormanipulators/doorcontroller.deployed.prefab|
 |electricfurnace.deployed|3808299817|ElectricOven<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>EntityFlag_Toggle<br>BoxCollider<br>|assets/prefabs/deployable/playerioents/electricfurnace/electricfurnace.deployed.prefab|
 |electricfurnace.io|2678691787|ElectricFurnaceIO<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/prefabs/deployable/playerioents/electricfurnace/electricfurnace.io.prefab|
@@ -941,6 +942,7 @@
 |cupboard.tool.deployed|2476970476|BoxCollider<br>BuildingPrivlidge<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>Model<br>|assets/prefabs/deployable/tool cupboard/cupboard.tool.deployed.prefab|
 |cupboard.tool.retro.deployed|785685130|BuildingPrivilegeRetro<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>Model<br>|assets/prefabs/deployable/tool cupboard/retro/cupboard.tool.retro.deployed.prefab|
 |StorageAdaptor_retro_tc.deployed|1420913995|IndustrialStorageAdaptor<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>BoxCollider<br>|assets/prefabs/deployable/tool cupboard/retro/storageadaptor_retro_tc.deployed.prefab|
+|cupboard.tool.shockbyte.deployed|3932172323|BoxCollider<br>BuildingPrivlidge<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>Model<br>|assets/prefabs/deployable/tool cupboard/shockbyte/cupboard.tool.shockbyte.deployed.prefab|
 |tunalight.deployed|1392608348|BaseFuelLightSource<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>EntityFlag_Toggle<br>MeshCollider<br>|assets/prefabs/deployable/tuna can wall lamp/tunalight.deployed.prefab|
 |NPCVendingMachine|2245774897|NPCVendingMachine<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>BoxCollider<br>|assets/prefabs/deployable/vendingmachine/npcvendingmachine.prefab|
 |NPCVendingMachine_Attire|3971055878|NPCVendingMachine<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>BoxCollider<br>|assets/prefabs/deployable/vendingmachine/npcvendingmachines/npcvendingmachine_attire.prefab|
@@ -1491,8 +1493,8 @@
 |ArcadeUser|1600307371|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/arcadeuser.prefab|
 |AttackHeliDriver|70742988|AttackHeliDriverSeat<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicleMountPoint<br>MeshCollider<br>|assets/prefabs/vehicle/seats/attackhelidriver.prefab|
 |AttackHeliGunner|240871686|AttackHeliGunnerSeat<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicleMountPoint<br>MeshCollider<br>|assets/prefabs/vehicle/seats/attackheligunner.prefab|
-|BikeDriverSeat|4261260455|BikeDriverSeat<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicleMountPoint<br>BaseVehicleSeat<br>MeshCollider<br>|assets/prefabs/vehicle/seats/bikedriverseat.prefab|
-|BikePassengerSeat|3025064202|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/bikepassengerseat.prefab|
+|BikeDriverSeat|4261260455|BikeDriverSeat<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicleMountPoint<br>BaseVehicleSeat<br>MouseSteerableSeat<br>MeshCollider<br>|assets/prefabs/vehicle/seats/bikedriverseat.prefab|
+|BikePassengerSeat|3025064202|BikeSeat<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicleMountPoint<br>BaseVehicleSeat<br>MeshCollider<br>|assets/prefabs/vehicle/seats/bikepassengerseat.prefab|
 |CopilotSeat|1070668182|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/copilotseat.prefab|
 |CraneOperator|1103757790|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/craneoperator.prefab|
 |DriverSeat|4088163379|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/driverseat.prefab|
@@ -1507,8 +1509,8 @@
 |ModularCarPassengerSeatLessLegroomRight|1826159939|ModularCarSeat<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicleMountPoint<br>BaseVehicleSeat<br>|assets/prefabs/vehicle/seats/modularcarpassengerseatlesslegroomright.prefab|
 |ModularCarPassengerSeatRight|205354363|ModularCarSeat<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicleMountPoint<br>BaseVehicleSeat<br>|assets/prefabs/vehicle/seats/modularcarpassengerseatright.prefab|
 |ModularCarPassengerSeatSidewayLeft|4116606551|ModularCarSeat<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicleMountPoint<br>BaseVehicleSeat<br>|assets/prefabs/vehicle/seats/modularcarpassengerseatsidewayleft.prefab|
-|MotorbikeDriverSeat|1359197088|BikeDriverSeat<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicleMountPoint<br>BaseVehicleSeat<br>MeshCollider<br>|assets/prefabs/vehicle/seats/motorbikedriverseat.prefab|
-|MotorbikePassengerSeat|1177038454|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/motorbikepassengerseat.prefab|
+|MotorbikeDriverSeat|1359197088|BikeDriverSeat<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicleMountPoint<br>BaseVehicleSeat<br>MouseSteerableSeat<br>MeshCollider<br>|assets/prefabs/vehicle/seats/motorbikedriverseat.prefab|
+|MotorbikePassengerSeat|1177038454|BikeSeat<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicleMountPoint<br>BaseVehicleSeat<br>MeshCollider<br>|assets/prefabs/vehicle/seats/motorbikepassengerseat.prefab|
 |ParachuteSeat|3398060938|ParachuteSeat<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicleMountPoint<br>BaseVehicleSeat<br>MeshCollider<br>|assets/prefabs/vehicle/seats/parachuteseat.prefab|
 |Passenger|2304142695|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/passenger.prefab|
 |PassengerChair|1954020959|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/passengerchair.prefab|
