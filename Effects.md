@@ -952,6 +952,7 @@
 |assets/prefabs/deployable/planters/effects/planter-deploy.prefab|
 |assets/prefabs/deployable/playerioents/detectors/hbhfsensor/effects/detect_down.prefab|
 |assets/prefabs/deployable/playerioents/detectors/hbhfsensor/effects/detect_up.prefab|
+|assets/prefabs/deployable/playerioents/detectors/tincanalarm/effects/tin-can-alarm-deploy.prefab|
 |assets/prefabs/deployable/playerioents/electricfurnace/effects/electric-furnace-deploy.prefab|
 |assets/prefabs/deployable/playerioents/industrialadaptors/effects/event lights.prefab|
 |assets/prefabs/deployable/playerioents/industrialconveyor/effects/event lights.prefab|
