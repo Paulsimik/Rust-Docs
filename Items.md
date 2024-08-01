@@ -274,6 +274,7 @@
 |<img src="https://rustlabs.com/img/items180/electric.hbhfsensor.png" width="100" height="80">|HBHF Sensor|electric.hbhfsensor|-1507239837|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://rustlabs.com/img/items180/electric.laserdetector.png" width="100" height="80">|Laser Detector|electric.laserdetector|-798293154|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://rustlabs.com/img/items180/electric.pressurepad.png" width="100" height="80">|Pressure Pad|electric.pressurepad|-2049214035|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|<img src="https://rustlabs.com/img/items180/tincan.alarm.png" width="100" height="80">|Tin Can Alarm|tincan.alarm|962186730|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/electric.doorcontroller.png" width="100" height="80">|Door Controller|electric.doorcontroller|-502177121|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://rustlabs.com/img/items180/electric.furnace.png" width="100" height="80">|Electric Furnace|electric.furnace|-1196547867|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>ItemModChildIO<br>|
 |<img src="https://rustlabs.com/img/items180/electric.heater.png" width="100" height="80">|Electric Heater|electric.heater|-784870360|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
@@ -351,6 +352,7 @@
 |<img src="https://rustlabs.com/img/items180/workbench3.png" width="100" height="80">|Workbench Level 3|workbench3|-1607980696|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://rustlabs.com/img/items180/cupboard.tool.png" width="100" height="80">|Tool Cupboard|cupboard.tool|-97956382|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://rustlabs.com/img/items180/cupboard.tool.retro.png" width="100" height="80">|Retro Tool Cupboard|cupboard.tool.retro|1488606552|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|<img src="https://rustlabs.com/img/items180/cupboard.tool.shockbyte.png" width="100" height="80">|Shockbyte Tool Cupboard|cupboard.tool.shockbyte|1174957864|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://rustlabs.com/img/items180/tunalight.png" width="100" height="80">|Tuna Can Lamp|tunalight|-1478445584|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>ItemModContainer<br>|
 |<img src="https://rustlabs.com/img/items180/vending.machine.png" width="100" height="80">|Vending Machine|vending.machine|198438816|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://rustlabs.com/img/items180/water.catcher.large.png" width="100" height="80">|Large Water Catcher|water.catcher.large|-1100168350|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
