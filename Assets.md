@@ -14,6 +14,21 @@
 |assets/bundled/prefabs/radtown/sound/tech-parts-open.asset|
 |assets/bundled/prefabs/radtown/sound/vehicle-parts-close.asset|
 |assets/bundled/prefabs/radtown/sound/vehicle-parts-open.asset|
+|assets/bundled/prefabs/ui/dialogs/ioconfig/rustbutton.iotoggle.asset|
+|assets/content/accessibility/buildingblockedzone.asset|
+|assets/content/accessibility/healthvitals.asset|
+|assets/content/accessibility/holosightmaterials.asset|
+|assets/content/accessibility/hungervitals.asset|
+|assets/content/accessibility/hydrationvitals.asset|
+|assets/content/accessibility/laserdetectormaterials.dot.asset|
+|assets/content/accessibility/laserdetectormaterials.flare.asset|
+|assets/content/accessibility/laserdetectormaterials.laser.asset|
+|assets/content/accessibility/mushroommaterials.asset|
+|assets/content/accessibility/nametagally.asset|
+|assets/content/accessibility/nametagclan.asset|
+|assets/content/accessibility/nametagenemy.asset|
+|assets/content/accessibility/nametagteam.asset|
+|assets/content/accessibility/treemarkerdecalcollection.asset|
 |assets/content/building/parts/shipping_container/shippingcontainercolourlookup.asset|
 |assets/content/image effects/postfx_volumes/building_exposure.asset|
 |assets/content/image effects/postfx_volumes/candyworld.asset|
@@ -23,6 +38,7 @@
 |assets/content/image effects/postfx_volumes/cctv_mlrs.asset|
 |assets/content/image effects/postfx_volumes/cold.asset|
 |assets/content/image effects/postfx_volumes/dof_exposer.asset|
+|assets/content/image effects/postfx_volumes/explosion.asset|
 |assets/content/image effects/postfx_volumes/flashbang.asset|
 |assets/content/image effects/postfx_volumes/hot.asset|
 |assets/content/image effects/postfx_volumes/hurt.asset|
@@ -985,6 +1001,7 @@
 |assets/content/properties/lootspawn/generated/items/component/vehicle.2mod.passengers.asset|
 |assets/content/properties/lootspawn/generated/items/component/vehicle.module.asset|
 |assets/content/properties/lootspawn/generated/items/component/weapon.mod.burstmodule.asset|
+|assets/content/properties/lootspawn/generated/items/component/weapon.mod.gascompressionovedrive.asset|
 |assets/content/properties/lootspawn/generated/items/construction/barricade.concrete.asset|
 |assets/content/properties/lootspawn/generated/items/construction/barricade.metal.asset|
 |assets/content/properties/lootspawn/generated/items/construction/barricade.sandbags.asset|
@@ -1046,6 +1063,7 @@
 |assets/content/properties/lootspawn/generated/items/electrical/electric.blocker.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/electric.button.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/electric.counter.asset|
+|assets/content/properties/lootspawn/generated/items/electrical/electric.digitalclock.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/electric.doorcontroller.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/electric.flasherlight.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/electric.fuelgenerator.small.asset|
@@ -1774,6 +1792,7 @@
 |assets/content/properties/protection/tree protection.asset|
 |assets/content/properties/protection/tugboatprotection.asset|
 |assets/content/properties/protection/turret_protection.asset|
+|assets/content/properties/protection/wallpaperprotection.asset|
 |assets/content/properties/protection/waterinflatable.asset|
 |assets/content/properties/protection/worldmetal.asset|
 |assets/content/properties/recipes/frankensteintable.recipelist.asset|
@@ -4146,22 +4165,24 @@
 |assets/content/structures/lifts/sound/lift-movement-stop.asset|
 |assets/content/structures/office_interiors/sound/vent-close.asset|
 |assets/content/structures/office_interiors/sound/vent-open.asset|
-|assets/content/ui/fonts/bootstrap robotocondensed-bold sdf.asset|
-|assets/content/ui/fonts/bootstrap robotocondensed-regular sdf.asset|
-|assets/content/ui/fonts/droidsansmono sdf.asset|
-|assets/content/ui/fonts/nonenglish/notosansarabic-bold sdf.asset|
-|assets/content/ui/fonts/nonenglish/notosanscjksc-bold chinese common 2 sdf.asset|
-|assets/content/ui/fonts/nonenglish/notosanscjksc-bold chinese rare sdf.asset|
-|assets/content/ui/fonts/nonenglish/notosanscjksc-bold japanese sdf.asset|
-|assets/content/ui/fonts/nonenglish/notosanscjksc-bold korean sdf.asset|
-|assets/content/ui/fonts/nonenglish/notosanscjksc-bold sdf.asset|
-|assets/content/ui/fonts/nonenglish/notosanshebrew-bold sdf.asset|
-|assets/content/ui/fonts/pressstart2p-regular sdf.asset|
-|assets/content/ui/fonts/robotocondensed-bold sdf - hotkey.asset|
-|assets/content/ui/fonts/robotocondensed-bold sdf.asset|
-|assets/content/ui/fonts/robotocondensed-regular sdf.asset|
-|assets/content/ui/fonts/robotomono-regular sdf noztest.asset|
-|assets/content/ui/fonts/robotomono-regular sdf.asset|
+|assets/content/ui/fonts/_nonenglish/arabic/notosansarabic-bold sdf.asset|
+|assets/content/ui/fonts/_nonenglish/arabic/notosansarabic-regular sdf.asset|
+|assets/content/ui/fonts/_nonenglish/notosanscjksc-bold chinese common 2 sdf.asset|
+|assets/content/ui/fonts/_nonenglish/notosanscjksc-bold chinese rare sdf.asset|
+|assets/content/ui/fonts/_nonenglish/notosanscjksc-bold japanese sdf.asset|
+|assets/content/ui/fonts/_nonenglish/notosanscjksc-bold korean sdf.asset|
+|assets/content/ui/fonts/_nonenglish/notosanscjksc-bold sdf.asset|
+|assets/content/ui/fonts/_nonenglish/notosanshebrew-bold sdf.asset|
+|assets/content/ui/fonts/_robotocondensed/bootstrap robotocondensed-bold sdf.asset|
+|assets/content/ui/fonts/_robotocondensed/bootstrap robotocondensed-regular sdf.asset|
+|assets/content/ui/fonts/_robotocondensed/robotocondensed-bold sdf - hotkey.asset|
+|assets/content/ui/fonts/_robotocondensed/robotocondensed-bold sdf.asset|
+|assets/content/ui/fonts/_robotocondensed/robotocondensed-regular sdf.asset|
+|assets/content/ui/fonts/droidsansmono/droidsansmono sdf.asset|
+|assets/content/ui/fonts/poxel/poxel sdf.asset|
+|assets/content/ui/fonts/pressstart2p/pressstart2p-regular sdf.asset|
+|assets/content/ui/fonts/robotomono/robotomono-regular sdf noztest.asset|
+|assets/content/ui/fonts/robotomono/robotomono-regular sdf.asset|
 |assets/content/ui/gameui/achievements/item-complete.asset|
 |assets/content/ui/gameui/achievements/list-complete.asset|
 |assets/content/ui/gameui/achievements/popup.asset|
@@ -4892,6 +4913,7 @@
 |assets/content/workshop/skin/unknown/rasta beenie/skin.beenie.rastabeenie.itemskin.asset|
 |assets/content/workshop/skin/unknown/rorschach skull/skin.balaclava.rorschachskull.itemskin.asset|
 |assets/content/workshop/skin/unknown/rorschach skull/skull.meta.asset|
+|assets/hotreload/resources/hotreloadsettingsobject.asset|
 |assets/manifest.asset|
 |assets/plugins/ezsoftbone/tests/presets/sbmat_default_hard.asset|
 |assets/plugins/ezsoftbone/tests/presets/sbmat_default_normal.asset|
@@ -4908,6 +4930,7 @@
 |assets/plugins/rust.ui/controls/form.vertical.normal.asset|
 |assets/plugins/rust.ui/controls/menu.normal.asset|
 |assets/plugins/rust.ui/controls/menuoption.normal.asset|
+|assets/plugins/rust.ui/controls/rustbutton.alert.asset|
 |assets/plugins/rust.ui/controls/rustbutton.alt.asset|
 |assets/plugins/rust.ui/controls/rustbutton.altwithdisable.asset|
 |assets/plugins/rust.ui/controls/rustbutton.buttongroup.normal.asset|
@@ -4947,6 +4970,7 @@
 |assets/plugins/rust.ui/controls/rustbutton.transparentteamdock.asset|
 |assets/plugins/rust.ui/controls/rustimagebutton.toggle.danger.asset|
 |assets/plugins/rust.ui/controls/rustimagebutton.toggle.success.asset|
+|assets/plugins/rust.ui/controls/rustinput.assignfriend.asset|
 |assets/plugins/rust.ui/controls/rustinput.ioconfig.asset|
 |assets/plugins/rust.ui/controls/rustinput.normal.asset|
 |assets/plugins/rust.ui/controls/rustinput.serverbrowser.asset|
@@ -5320,6 +5344,9 @@
 |assets/prefabs/deployable/playerioents/detectors/tincanalarm/sound/tin-can-alarm-arm.asset|
 |assets/prefabs/deployable/playerioents/detectors/tincanalarm/sound/tin-can-alarm-deploy.asset|
 |assets/prefabs/deployable/playerioents/detectors/tincanalarm/sound/tin-can-alarm-trip.asset|
+|assets/prefabs/deployable/playerioents/digitalclock/sounds/digital-clock-alarm-loop.asset|
+|assets/prefabs/deployable/playerioents/digitalclock/sounds/digital-clock-alarm-start.asset|
+|assets/prefabs/deployable/playerioents/digitalclock/sounds/digital-clock-alarm-stop.asset|
 |assets/prefabs/deployable/playerioents/electricfurnace/sound/electric-furnace-active-loop.asset|
 |assets/prefabs/deployable/playerioents/electricfurnace/sound/electric-furnace-close.asset|
 |assets/prefabs/deployable/playerioents/electricfurnace/sound/electric-furnace-deploy.asset|
@@ -6584,8 +6611,40 @@
 |assets/prefabs/voiceaudio/telephone/sound/telephone-ring-loop-payphone.asset|
 |assets/prefabs/voiceaudio/telephone/sound/telephone-ring-mobile-loop.asset|
 |assets/prefabs/voiceaudio/telephone/sound/telephone-ring-remote.asset|
+|assets/prefabs/wallpaper/skins/wallpaper.bluediamond.skin.asset|
+|assets/prefabs/wallpaper/skins/wallpaper.clouds.skin.asset|
+|assets/prefabs/wallpaper/skins/wallpaper.geometrica.skin.asset|
+|assets/prefabs/wallpaper/skins/wallpaper.geometricb.skin.asset|
+|assets/prefabs/wallpaper/skins/wallpaper.green.skin.asset|
+|assets/prefabs/wallpaper/skins/wallpaper.polkadotsa.skin.asset|
+|assets/prefabs/wallpaper/skins/wallpaper.polkadotsb.skin.asset|
+|assets/prefabs/wallpaper/skins/wallpaper.polkadotsc.skin.asset|
+|assets/prefabs/wallpaper/skins/wallpaper.red.skin.asset|
+|assets/prefabs/wallpaper/skins/wallpaper.retroa.skin.asset|
+|assets/prefabs/wallpaper/skins/wallpaper.retrob.skin.asset|
+|assets/prefabs/wallpaper/skins/wallpaper.retroc.skin.asset|
+|assets/prefabs/wallpaper/skins/wallpaper.royala.skin.asset|
+|assets/prefabs/wallpaper/skins/wallpaper.royalb.skin.asset|
+|assets/prefabs/wallpaper/skins/wallpaper.royalc.skin.asset|
+|assets/prefabs/wallpaper/skins/wallpaper.subway.skin.asset|
+|assets/prefabs/wallpaper/skins/wallpaper.subwayb.skin.asset|
+|assets/prefabs/wallpaper/skins/wallpaper.venetianplastera.skin.asset|
+|assets/prefabs/wallpaper/skins/wallpaper.venetianplasterb.skin.asset|
+|assets/prefabs/wallpaper/skins/wallpaper.venetianplasterc.skin.asset|
+|assets/prefabs/wallpaper/skins/wallpaper.wainscottinga.skin.asset|
+|assets/prefabs/wallpaper/skins/wallpaper.wainscottingb.skin.asset|
+|assets/prefabs/wallpaper/skins/wallpaper.wainscottingc.skin.asset|
+|assets/prefabs/wallpaper/skins/wallpaper.yellow.skin.asset|
+|assets/prefabs/wallpaper/skins/wallpaper.yellowstripe.skin.asset|
+|assets/prefabs/wallpaper/sound/wallpaper-deploy.asset|
+|assets/prefabs/wallpaper/sound/wallpaper-place.asset|
+|assets/prefabs/wallpaper/sound/wallpaper-place-viewmodel.asset|
+|assets/prefabs/wallpaper/wallpaper settings.asset|
+|assets/prefabs/wallpaper/wallpaper.pack1.item.asset|
+|assets/prefabs/wallpaper/wallpaper.skinnable.asset|
 |assets/prefabs/weapon mods/flashlight/sound/flashlight-off.asset|
 |assets/prefabs/weapon mods/flashlight/sound/flashlight-on.asset|
+|assets/prefabs/weapon mods/gascompressionoverdrive/sound/gco-attack-layer.asset|
 |assets/prefabs/weapon mods/lasersight/sound/laser-sight-off.asset|
 |assets/prefabs/weapon mods/lasersight/sound/laser-sight-on.asset|
 |assets/prefabs/weapon mods/mod_attach.sound.asset|
@@ -7555,3 +7614,7 @@
 |assets/skins.asset|
 |assets/textmesh pro/resources/tmp settings.asset|
 |assets/third party/volumetriclightbeam/resources/config.asset|
+|assets/workshop/rustslider.workshopblue.asset|
+|assets/workshop/rustslider.workshopcutoff.asset|
+|assets/workshop/rustslider.workshopgreen.asset|
+|assets/workshop/rustslider.workshopred.asset|
