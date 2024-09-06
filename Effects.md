@@ -639,6 +639,10 @@
 |assets/content/effects/crossbreed/pfx crossbreed plain.prefab|
 |assets/content/effects/crossbreed/pfx crossbreed yellow.prefab|
 |assets/content/effects/electrical/fx-fusebox-sparks.prefab|
+|assets/content/effects/explosions/effects - explosion.prefab|
+|assets/content/effects/explosions/explosion large.prefab|
+|assets/content/effects/explosions/explosion medium.prefab|
+|assets/content/effects/explosions/explosion small.prefab|
 |assets/content/effects/explosions/explosion/prefebs/explosion_3.prefab|
 |assets/content/effects/explosions/explosion/prefebs/explosion_6.prefab|
 |assets/content/effects/explosions/explosion/prefebs/explosion_7.prefab|
@@ -1219,12 +1223,11 @@
 |assets/prefabs/npc/m2bradley/effects/tread_dirt.prefab|
 |assets/prefabs/npc/m2bradley/effects/tread_smoke.prefab|
 |assets/prefabs/npc/m2bradley/effects/treadfxv2.prefab|
+|assets/prefabs/npc/patrol helicopter/effects/component_damged.prefab|
+|assets/prefabs/npc/patrol helicopter/effects/component_destroyed.prefab|
 |assets/prefabs/npc/patrol helicopter/effects/gun_fire.prefab|
-|assets/prefabs/npc/patrol helicopter/effects/gun_fire_small.prefab|
 |assets/prefabs/npc/patrol helicopter/effects/heli_explosion.prefab|
 |assets/prefabs/npc/patrol helicopter/effects/pfx_flares_patrolhelicopter.prefab|
-|assets/prefabs/npc/patrol helicopter/effects/rocket_airburst_explosion.prefab|
-|assets/prefabs/npc/patrol helicopter/effects/rocket_airburst_groundeffect.prefab|
 |assets/prefabs/npc/patrol helicopter/effects/rocket_explosion.prefab|
 |assets/prefabs/npc/patrol helicopter/effects/rocket_fire.prefab|
 |assets/prefabs/npc/sam_site_turret/effects/rocket_sam_explosion.prefab|
@@ -1306,6 +1309,8 @@
 |assets/prefabs/voiceaudio/discofloor/effects/disco-floor-deploy.prefab|
 |assets/prefabs/voiceaudio/microphonestand/effects/microphone-stand-deploy.prefab|
 |assets/prefabs/voiceaudio/telephone/effects/telephone-deploy.prefab|
+|assets/prefabs/wallpaper/effects/deploy.prefab|
+|assets/prefabs/wallpaper/effects/place.prefab|
 |assets/prefabs/weapon mods/silencers/effects/silencedshot_default.prefab|
 |assets/prefabs/weapon mods/silencers/effects/silencer_attach.fx.prefab|
 |assets/prefabs/weapons/ak47u/effects/attack.prefab|
