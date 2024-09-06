@@ -12,11 +12,11 @@
 |<img src="https://rustlabs.com/img/screenshots/rhib.png" width="100" height="80">|RHIB|rhib|1394042569|ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/rowboat.png" width="100" height="80">|Rowboat|rowboat|1878053256|ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://rustlabs.com/img/items180/tugboat.png" width="100" height="80">|Tugboat|tugboat|-561148628|ItemBlueprint<br>ItemModEntity<br>|
-|<img src="https://rustlabs.com/img/items180/minihelicopter.repair.png" width="100" height="80">|MC repair|minihelicopter.repair|1426574435|ItemBlueprint<br>|
+|<img src="https://rustlabs.com/img/items180/minihelicopter.repair.png" width="100" height="80">|Minicopter|minihelicopter.repair|1426574435|ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/aiming.module.mlrs.png" width="100" height="80">|MLRS Aiming Module|aiming.module.mlrs|343045591|ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/mlrs.png" width="100" height="80">|MLRS|mlrs|-1449152644|ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/ammo.rocket.mlrs.png" width="100" height="80">|MLRS Rocket|ammo.rocket.mlrs|-1843426638|ItemModProjectile<br>ItemBlueprint<br>|
-|<img src="https://rustlabs.com/img/items180/scraptransportheli.repair.png" width="100" height="80">|ScrapTransportHeliRepair|scraptransportheli.repair|-1884328185|ItemBlueprint<br>|
+|<img src="https://rustlabs.com/img/items180/scraptransportheli.repair.png" width="100" height="80">|Scrap Transport Helicopter|scraptransportheli.repair|-1884328185|ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/snowmobile.png" width="100" height="80">|Snowmobile|snowmobile|-1364246987|ItemBlueprint<br>ItemModEntityReference<br>|
 |<img src="https://rustlabs.com/img/items180/snowmobiletomaha.png" width="100" height="80">|Tomaha Snowmobile|snowmobiletomaha|1768112091|ItemBlueprint<br>ItemModEntityReference<br>|
 |<img src="https://rustlabs.com/img/screenshots/submarine-duo.png" width="100" height="80">|Duo Submarine|submarineduo|1015352446|ItemBlueprint<br>|
@@ -246,7 +246,7 @@
 |<img src="https://rustlabs.com/img/items180/weaponrack.doublelight.png" width="100" height="80">|Weapon Rack Double Light|weaponrack.doublelight|1277159544|ItemModEntity<br>|
 |<img src="https://rustlabs.com/img/items180/hitchtroughcombo.png" width="100" height="80">|Hitch & Trough|hitchtroughcombo|1160881421|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://rustlabs.com/img/items180/hab.armor.png" width="100" height="80">|Hot Air Balloon Armor|hab.armor|-1989600732|ItemBlueprint<br>ItemModHABEquipment<br>|
-|<img src="https://rustlabs.com/img/items180/habrepair.png" width="100" height="80">|Hab Repair|habrepair|-1759188988|ItemBlueprint<br>|
+|<img src="https://rustlabs.com/img/items180/habrepair.png" width="100" height="80">|Hot Air Balloon|habrepair|-1759188988|ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/jackolantern.angry.png" width="100" height="80">|Jack O Lantern Angry|jackolantern.angry|1242482355|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://rustlabs.com/img/items180/jackolantern.happy.png" width="100" height="80">|Jack O Lantern Happy|jackolantern.happy|-1824943010|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://rustlabs.com/img/items180/trap.landmine.png" width="100" height="80">|Homemade Landmine|trap.landmine|-1663759755|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
@@ -275,6 +275,7 @@
 |<img src="https://rustlabs.com/img/items180/electric.laserdetector.png" width="100" height="80">|Laser Detector|electric.laserdetector|-798293154|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://rustlabs.com/img/items180/electric.pressurepad.png" width="100" height="80">|Pressure Pad|electric.pressurepad|-2049214035|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://rustlabs.com/img/items180/tincan.alarm.png" width="100" height="80">|Tin Can Alarm|tincan.alarm|962186730|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
+|<img src="https://rustlabs.com/img/items180/electric.digitalclock.png" width="100" height="80">|Digital Clock|electric.digitalclock|1619039771|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://rustlabs.com/img/items180/electric.doorcontroller.png" width="100" height="80">|Door Controller|electric.doorcontroller|-502177121|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://rustlabs.com/img/items180/electric.furnace.png" width="100" height="80">|Electric Furnace|electric.furnace|-1196547867|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>ItemModChildIO<br>|
 |<img src="https://rustlabs.com/img/items180/electric.heater.png" width="100" height="80">|Electric Heater|electric.heater|-784870360|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
@@ -829,10 +830,12 @@
 |<img src="https://rustlabs.com/img/items180/mobilephone.png" width="100" height="80">|Mobile Phone|mobilephone|-20045316|ItemModEntity<br>ItemBlueprint<br>ItemModEntity<br>ItemModAssociatedEntityMobile<br>ItemMod<br>|
 |<img src="https://rustlabs.com/img/items180/soundlight.png" width="100" height="80">|Sound Light|soundlight|-343857907|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://rustlabs.com/img/items180/telephone.png" width="100" height="80">|Telephone|telephone|1234878710|ItemBlueprint<br>ItemModEntity<br>ItemModDeployable<br>|
+|<img src="https://rustlabs.com/img/items180/wallpaper.png" width="100" height="80">|Wallpaper|wallpaper|-1501434104|ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://rustlabs.com/img/items180/weapon.mod.8x.scope.png" width="100" height="80">|16x Zoom Scope|weapon.mod.8x.scope|174866732|ItemBlueprint<br>ItemModEntity<br>ItemModSound<br>|
 |<img src="https://rustlabs.com/img/items180/weapon.mod.burstmodule.png" width="100" height="80">|Burst Module|weapon.mod.burstmodule|838308300|ItemBlueprint<br>ItemModEntity<br>ItemModSound<br>|
 |<img src="https://rustlabs.com/img/items180/weapon.mod.extendedmags.png" width="100" height="80">|Extended Magazine|weapon.mod.extendedmags|2005491391|ItemBlueprint<br>ItemModEntity<br>ItemModSound<br>|
 |<img src="https://rustlabs.com/img/items180/weapon.mod.flashlight.png" width="100" height="80">|Weapon flashlight|weapon.mod.flashlight|952603248|ItemBlueprint<br>ItemModEntity<br>ItemModSound<br>|
+|<img src="https://rustlabs.com/img/items180/weapon.mod.gascompressionovedrive.png" width="100" height="80">|Gas Compression Overdrive|weapon.mod.gascompressionovedrive|-1767794021|ItemBlueprint<br>ItemModEntity<br>ItemModSound<br>|
 |<img src="https://rustlabs.com/img/items180/weapon.mod.holosight.png" width="100" height="80">|Holosight|weapon.mod.holosight|442289265|ItemBlueprint<br>ItemModEntity<br>ItemModSound<br>|
 |<img src="https://rustlabs.com/img/items180/weapon.mod.lasersight.png" width="100" height="80">|Weapon Lasersight|weapon.mod.lasersight|-132516482|ItemBlueprint<br>ItemModEntity<br>ItemModSound<br>|
 |<img src="https://rustlabs.com/img/items180/weapon.mod.muzzleboost.png" width="100" height="80">|Muzzle Boost|weapon.mod.muzzleboost|-1405508498|ItemBlueprint<br>ItemModEntity<br>ItemModSound<br>|
