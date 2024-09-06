@@ -1518,6 +1518,7 @@
 |assets/content/properties/lootspawn/generated/items/weapon/weapon.mod.8x.scope.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/weapon.mod.extendedmags.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/weapon.mod.flashlight.asset|
+|assets/content/properties/lootspawn/generated/items/weapon/weapon.mod.gascompressionovedrive.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/weapon.mod.holosight.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/weapon.mod.lasersight.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/weapon.mod.muzzleboost.asset|
