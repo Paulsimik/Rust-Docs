@@ -856,6 +856,7 @@
 |LaserDetector|2260707523|LaserDetector<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/playerioents/detectors/laserdetector/laserdetector.prefab|
 |pressurepad.deployed|687239341|PressurePad<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/playerioents/detectors/pressurepad/pressurepad.deployed.prefab|
 |tincan.alarm.deployed|1200964049|TinCanAlarm<br>BaseCombatEntity<br>GroundWatch<br>CapsuleCollider<br>|assets/prefabs/deployable/playerioents/detectors/tincanalarm/tincan.alarm.deployed.prefab|
+|electric.digitalclock.deployed|2275599299|DigitalClock<br>BaseCombatEntity<br>DecayEntity<br>DestroyOnGroundMissing<br>GroundWatch<br>BoxCollider<br>|assets/prefabs/deployable/playerioents/digitalclock/electric.digitalclock.deployed.prefab|
 |doorcontroller.deployed|2343730564|CustomDoorManipulator<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>|assets/prefabs/deployable/playerioents/doormanipulators/doorcontroller.deployed.prefab|
 |electricfurnace.deployed|3808299817|ElectricOven<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>EntityFlag_Toggle<br>BoxCollider<br>|assets/prefabs/deployable/playerioents/electricfurnace/electricfurnace.deployed.prefab|
 |electricfurnace.io|2678691787|ElectricFurnaceIO<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/prefabs/deployable/playerioents/electricfurnace/electricfurnace.io.prefab|
@@ -1560,12 +1561,19 @@
 |mobilephone.weapon|2342841515|MobilePhone<br>PhoneController<br>|assets/prefabs/voiceaudio/mobilephone/mobilephone.weapon.prefab|
 |soundlight.deployed|58106244|AudioVisualisationEntityLight<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>BoxCollider<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/voiceaudio/soundlight/soundlight.deployed.prefab|
 |telephone.deployed|2160363615|Telephone<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>DestroyOnGroundMissing<br>PhoneController<br>GroundWatch<br>|assets/prefabs/voiceaudio/telephone/telephone.deployed.prefab|
+|wallpaper.doorway.construction|1151746608|SimpleBuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/wallpaper/constructions/wallpaper.doorway.construction.prefab|
+|wallpaper.wall.construction|2402782496|SimpleBuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/wallpaper/constructions/wallpaper.wall.construction.prefab|
+|wallpaper.wall.half.construction|2617353051|SimpleBuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/wallpaper/constructions/wallpaper.wall.half.construction.prefab|
+|wallpaper.wall.low.construction|3024970135|SimpleBuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/wallpaper/constructions/wallpaper.wall.low.construction.prefab|
+|wallpaper.window.construction|2434851882|SimpleBuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/wallpaper/constructions/wallpaper.window.construction.prefab|
+|wallpaper.entity|1110771722|WallpaperPlanner<br>HeldEntity<br>|assets/prefabs/wallpaper/wallpaper.entity.prefab|
 |8xScope.entity|4005260636|ProjectileWeaponMod<br>|assets/prefabs/weapon mods/8x scope/8xscope.entity.prefab|
 |8xScope.vm.attachment|545873399|ProjectileWeaponMod<br>Model<br>IronSightOverride<br>ViewmodelScope<br>HideIfScoped<br>|assets/prefabs/weapon mods/8x scope/8xscope.vm.attachment.prefab|
 |burstmodule.entity|1243102785|ProjectileWeaponMod<br>|assets/prefabs/weapon mods/burstmodule/burstmodule.entity.prefab|
 |extendedmags.entity|330399465|ProjectileWeaponMod<br>|assets/prefabs/weapon mods/extendedmags/extendedmags.entity.prefab|
 |flashlight.entity|3357772531|ProjectileWeaponMod<br>|assets/prefabs/weapon mods/flashlight/flashlight.entity.prefab|
 |flashlight.vm.attachment|1529000711|ProjectileWeaponMod<br>Model<br>HideIfScoped<br>|assets/prefabs/weapon mods/flashlight/flashlight.vm.attachment.prefab|
+|gascompressionoverdrive.entity|869056374|ProjectileWeaponMod<br>|assets/prefabs/weapon mods/gascompressionoverdrive/gascompressionoverdrive.entity.prefab|
 |holosight.entity|1518608834|ProjectileWeaponMod<br>|assets/prefabs/weapon mods/holosight/holosight.entity.prefab|
 |holosight.vm.attachment|1968563077|ProjectileWeaponMod<br>Model<br>IronSightOverride<br>|assets/prefabs/weapon mods/holosight/holosight.vm.attachment.prefab|
 |lasersight.entity|768584306|ProjectileWeaponMod<br>|assets/prefabs/weapon mods/lasersight/lasersight.entity.prefab|
