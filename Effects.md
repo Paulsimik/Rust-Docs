@@ -692,6 +692,7 @@
 |assets/content/effects/muzzleflashes/pistol/muzzle_flash_pistol.prefab|
 |assets/content/effects/muzzleflashes/pistol/muzzle_flash_pistol_braked.prefab|
 |assets/content/effects/muzzleflashes/pistol/muzzle_flash_pistol_large.prefab|
+|assets/content/effects/muzzleflashes/pistol/muzzle_flash_pistol_powdery.prefab|
 |assets/content/effects/muzzleflashes/pistol/muzzle_flash_pistol_silenced.prefab|
 |assets/content/effects/muzzleflashes/pistol/shell_eject_pistol.prefab|
 |assets/content/effects/muzzleflashes/rifle/muzzle_flash_rifle.prefab|
@@ -711,6 +712,7 @@
 |assets/content/effects/muzzleflashes/rifle/shell_eject_rifle_m39.prefab|
 |assets/content/effects/muzzleflashes/shotgun/muzzle_flash_shotgun_braked.prefab|
 |assets/content/effects/muzzleflashes/shotgun/muzzle_flash_shotgun_narrow.prefab|
+|assets/content/effects/muzzleflashes/shotgun/muzzle_flash_shotgun_powdery.prefab|
 |assets/content/effects/muzzleflashes/shotgun/muzzle_flash_shotgun_silenced.prefab|
 |assets/content/effects/muzzleflashes/shotgun/muzzle_flash_shotgun_wide.prefab|
 |assets/content/effects/muzzleflashes/shotgun/shell_eject_shotgun.prefab|
@@ -785,6 +787,7 @@
 |assets/content/vehicles/crane_magnet/effects/lightgroup body.prefab|
 |assets/content/vehicles/crane_magnet/effects/magnetdust.prefab|
 |assets/content/vehicles/crane_magnet/effects/refract.prefab|
+|assets/content/vehicles/dpv/effects/dpv-deploy.prefab|
 |assets/content/vehicles/minicopter/effects/mincopter_explosion.prefab|
 |assets/content/vehicles/minicopter/effects/minicopter-wheel-impact.prefab|
 |assets/content/vehicles/mlrs/effects/cabinlighting.prefab|
@@ -1130,6 +1133,7 @@
 |assets/prefabs/misc/orebonus/effects/bonus_fail.prefab|
 |assets/prefabs/misc/orebonus/effects/bonus_finish.prefab|
 |assets/prefabs/misc/orebonus/effects/bonus_hit.prefab|
+|assets/prefabs/misc/orebonus/effects/bonus_hit_wood.prefab|
 |assets/prefabs/misc/orebonus/effects/hotspot_death.prefab|
 |assets/prefabs/misc/orebonus/effects/ore_finish.prefab|
 |assets/prefabs/misc/pinata/effects/pinata-deploy.prefab|
@@ -1355,6 +1359,11 @@
 |assets/prefabs/weapons/beancan grenade/effects/bounce.prefab|
 |assets/prefabs/weapons/beancan grenade/effects/deploy.prefab|
 |assets/prefabs/weapons/beancan grenade/effects/light_fuse.prefab|
+|assets/prefabs/weapons/blunderbuss/effects/attack.prefab|
+|assets/prefabs/weapons/blunderbuss/effects/blunderbuss_3p_shell_eject_1_blue.prefab|
+|assets/prefabs/weapons/blunderbuss/effects/blunderbuss_3p_shell_eject_1_green.prefab|
+|assets/prefabs/weapons/blunderbuss/effects/blunderbuss_3p_shell_eject_1_red.prefab|
+|assets/prefabs/weapons/blunderbuss/effects/pfx_open_barrel_smoke.prefab|
 |assets/prefabs/weapons/bolt rifle/effects/attack.prefab|
 |assets/prefabs/weapons/bolt rifle/effects/attack_muzzlebrake.prefab|
 |assets/prefabs/weapons/bolt rifle/effects/attack_shake.prefab|
@@ -1578,6 +1587,10 @@
 |assets/prefabs/weapons/hatchet/effects/strike-soft.prefab|
 |assets/prefabs/weapons/hatchet/effects/swing.prefab|
 |assets/prefabs/weapons/hatchet/effects/throw.prefab|
+|assets/prefabs/weapons/high caliber revolver/effects/1p_bullet_drop.prefab|
+|assets/prefabs/weapons/high caliber revolver/effects/3p_reload_cylinder.prefab|
+|assets/prefabs/weapons/high caliber revolver/effects/attack.prefab|
+|assets/prefabs/weapons/high caliber revolver/effects/reload_smoke_temp_dontuse.prefab|
 |assets/prefabs/weapons/hmlmg/effects/attack.prefab|
 |assets/prefabs/weapons/hmlmg/effects/attack_muzzlebrake.prefab|
 |assets/prefabs/weapons/hmlmg/effects/attack_shake.prefab|
