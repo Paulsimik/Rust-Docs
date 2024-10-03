@@ -78,6 +78,7 @@
 |assets/content/nature/treesprefabs/trees/sound/tree_spray.asset|
 |assets/content/nature/treesprefabs/trees/sound/tree-bonus-damage.asset|
 |assets/content/nature/treesprefabs/trees/sound/tree-crack-med.asset|
+|assets/content/nature/treesprefabs/trees/sound/tree-crack-pile.asset|
 |assets/content/nature/treesprefabs/trees/sound/tree-crack-small.asset|
 |assets/content/nature/treesprefabs/trees/sound/tree-fall-impact.asset|
 |assets/content/nature/treesprefabs/trees/sound/tree-fall-impact-small.asset|
@@ -692,6 +693,7 @@
 |assets/content/properties/lootspawn/collections/smg with ammo.asset|
 |assets/content/properties/lootspawn/collections/spas12 with ammo.asset|
 |assets/content/properties/lootspawn/collections/surveycharges.asset|
+|assets/content/properties/lootspawn/collections/teas.asset|
 |assets/content/properties/lootspawn/collections/traps.asset|
 |assets/content/properties/lootspawn/componentloot/lootspawn.components.tier0.asset|
 |assets/content/properties/lootspawn/componentloot/lootspawn.components.tier1.asset|
@@ -899,6 +901,7 @@
 |assets/content/properties/lootspawn/generated/items/attire/hazmatsuit.arcticsuit.asset|
 |assets/content/properties/lootspawn/generated/items/attire/hazmatsuit.asset|
 |assets/content/properties/lootspawn/generated/items/attire/hazmatsuit.diver.asset|
+|assets/content/properties/lootspawn/generated/items/attire/hazmatsuit.frontier.asset|
 |assets/content/properties/lootspawn/generated/items/attire/hazmatsuit.lumberjack.asset|
 |assets/content/properties/lootspawn/generated/items/attire/hazmatsuit.nomadsuit.asset|
 |assets/content/properties/lootspawn/generated/items/attire/hazmatsuit.spacesuit.asset|
@@ -1322,6 +1325,7 @@
 |assets/content/properties/lootspawn/generated/items/items/sign.wooden.large.asset|
 |assets/content/properties/lootspawn/generated/items/items/sign.wooden.medium.asset|
 |assets/content/properties/lootspawn/generated/items/items/sign.wooden.small.asset|
+|assets/content/properties/lootspawn/generated/items/items/skidoo.asset|
 |assets/content/properties/lootspawn/generated/items/items/sleepingbag.asset|
 |assets/content/properties/lootspawn/generated/items/items/small.oil.refinery.asset|
 |assets/content/properties/lootspawn/generated/items/items/spinner.wheel.asset|
@@ -1429,6 +1433,7 @@
 |assets/content/properties/lootspawn/generated/items/tool/explosive.timed.asset|
 |assets/content/properties/lootspawn/generated/items/tool/flare.asset|
 |assets/content/properties/lootspawn/generated/items/tool/flashlight.held.asset|
+|assets/content/properties/lootspawn/generated/items/tool/frontier_hatchet.asset|
 |assets/content/properties/lootspawn/generated/items/tool/grenade.smoke.asset|
 |assets/content/properties/lootspawn/generated/items/tool/hammer.salvaged.asset|
 |assets/content/properties/lootspawn/generated/items/tool/handcuffs.asset|
@@ -1460,6 +1465,7 @@
 |assets/content/properties/lootspawn/generated/items/traps/tincan.alarm.asset|
 |assets/content/properties/lootspawn/generated/items/traps/trap.bear.asset|
 |assets/content/properties/lootspawn/generated/items/traps/trap.landmine.asset|
+|assets/content/properties/lootspawn/generated/items/weapon/blunderbuss.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/bone.club.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/bow.compound.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/bow.hunting.asset|
@@ -1492,6 +1498,7 @@
 |assets/content/properties/lootspawn/generated/items/weapon/pistol.revolver.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/pistol.semiauto.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/pistol.water.asset|
+|assets/content/properties/lootspawn/generated/items/weapon/revolver.hc.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/rifle.ak.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/rifle.ak.diver.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/rifle.ak.ice.asset|
@@ -1578,6 +1585,8 @@
 |assets/content/properties/lootspawn/lootspawn.barreltutorial.asset|
 |assets/content/properties/lootspawn/lootspawn.blackbox.asset|
 |assets/content/properties/lootspawn/lootspawn.foodbox.asset|
+|assets/content/properties/lootspawn/lootspawn.foodcache.asset|
+|assets/content/properties/lootspawn/lootspawn.foodcache_food.asset|
 |assets/content/properties/lootspawn/lootspawn.foodcrate.asset|
 |assets/content/properties/lootspawn/lootspawn.generic.asset|
 |assets/content/properties/lootspawn/lootspawn.genericlessnothing.asset|
@@ -1675,6 +1684,7 @@
 |assets/content/properties/playerinventory/tutorial.asset|
 |assets/content/properties/playerinventory/vagabond.asset|
 |assets/content/properties/playerinventory/voiceprops.asset|
+|assets/content/properties/playerinventory/waterwell_shopkeeper.asset|
 |assets/content/properties/protection/50percent.asset|
 |assets/content/properties/protection/barricademetal.asset|
 |assets/content/properties/protection/barricadestone.asset|
@@ -1835,6 +1845,7 @@
 |assets/content/properties/recoil/doubleshotgunrecoil.asset|
 |assets/content/properties/recoil/eokarecoil.asset|
 |assets/content/properties/recoil/eokastrikerecoil.asset|
+|assets/content/properties/recoil/hcrrecoil.asset|
 |assets/content/properties/recoil/hmlmgrecoil.asset|
 |assets/content/properties/recoil/hominglauncherrecoil.asset|
 |assets/content/properties/recoil/l96.recoil.asset|
@@ -1958,6 +1969,7 @@
 |assets/content/properties/spawnpopulation/v3_tundra_forest_dead.asset|
 |assets/content/properties/spawnpopulation/v3_tundra_forest_saplings.asset|
 |assets/content/properties/spawnpopulation/v3_tundra_forestside.asset|
+|assets/content/properties/spawnpopulation/wood_log_pile.asset|
 |assets/content/properties/steamcategories/associatedgamegift.asset|
 |assets/content/properties/steamcategories/award.steam.asset|
 |assets/content/properties/steamcategories/clothing-cheap.steam.asset|
@@ -2979,6 +2991,8 @@
 |assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-large.reverb-settings.asset|
 |assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-small.reverb-settings.asset|
 |assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-stings.ambience-list.asset|
+|assets/content/sound/music/themes/atrium-carceri-first-steps/atrium-carceri-first-steps.asset|
+|assets/content/sound/music/themes/atrium-carceri-first-steps/atrium-carceri-first-steps.music-theme.asset|
 |assets/content/sound/music/themes/classic/music-classic.asset|
 |assets/content/sound/music/themes/classic/music-classic-ambience-001.asset|
 |assets/content/sound/music/themes/classic/music-classic-ambience-002.asset|
@@ -4180,6 +4194,8 @@
 |assets/content/ui/fonts/_robotocondensed/robotocondensed-bold sdf.asset|
 |assets/content/ui/fonts/_robotocondensed/robotocondensed-regular sdf.asset|
 |assets/content/ui/fonts/droidsansmono/droidsansmono sdf.asset|
+|assets/content/ui/fonts/lcd sdf.asset|
+|assets/content/ui/fonts/permanentmarker/permanentmarker sdf.asset|
 |assets/content/ui/fonts/poxel/poxel sdf.asset|
 |assets/content/ui/fonts/pressstart2p/pressstart2p-regular sdf.asset|
 |assets/content/ui/fonts/robotomono/robotomono-regular sdf noztest.asset|
@@ -4396,6 +4412,20 @@
 |assets/content/vehicles/crane_magnet/sound/magnet-crane-movement-lurch.asset|
 |assets/content/vehicles/crane_magnet/sound/magnet-crane-track-loop.asset|
 |assets/content/vehicles/crane_magnet/sound/magnet-crane-turn-loop.asset|
+|assets/content/vehicles/dpv/sound/dpv-deploy.asset|
+|assets/content/vehicles/dpv/sound/dpv-dismount.asset|
+|assets/content/vehicles/dpv/sound/dpv-engine-active-loop.asset|
+|assets/content/vehicles/dpv/sound/dpv-engine-loop.asset|
+|assets/content/vehicles/dpv/sound/dpv-engine-start.asset|
+|assets/content/vehicles/dpv/sound/dpv-engine-start-fail.asset|
+|assets/content/vehicles/dpv/sound/dpv-engine-stop.asset|
+|assets/content/vehicles/dpv/sound/dpv-impact.asset|
+|assets/content/vehicles/dpv/sound/dpv-mount.asset|
+|assets/content/vehicles/dpv/sound/dpv-propeller-loop.asset|
+|assets/content/vehicles/dpv/sound/dpv-water-emerge.asset|
+|assets/content/vehicles/dpv/sound/dpv-water-movement-loop.asset|
+|assets/content/vehicles/dpv/sound/dpv-water-submerge.asset|
+|assets/content/vehicles/dpv/sound/dpv-water-surface-loop.asset|
 |assets/content/vehicles/minicopter/minicopter.population.asset|
 |assets/content/vehicles/minicopter/sound/engine-loop.asset|
 |assets/content/vehicles/minicopter/sound/engine-start.asset|
@@ -4937,6 +4967,7 @@
 |assets/plugins/rust.ui/controls/rustbutton.buttongroup.normal.asset|
 |assets/plugins/rust.ui/controls/rustbutton.chatbarbuttons.asset|
 |assets/plugins/rust.ui/controls/rustbutton.danger.asset|
+|assets/plugins/rust.ui/controls/rustbutton.deathscreen.respawn.asset|
 |assets/plugins/rust.ui/controls/rustbutton.demodanger.asset|
 |assets/plugins/rust.ui/controls/rustbutton.demofolder.asset|
 |assets/plugins/rust.ui/controls/rustbutton.demoplayback.asset|
@@ -5043,12 +5074,13 @@
 |assets/prefabs/clothes/gloves.roadsign/gloves.roadsign.skinnable.asset|
 |assets/prefabs/clothes/halloween.draculacape/cloth.draculacape.asset|
 |assets/prefabs/clothes/halloween.draculacape/player_skeleton.draculacape.asset|
-|assets/prefabs/clothes/halloween.draculacape/player_skeleton.draculacape_highbonecount.asset|
 |assets/prefabs/clothes/halloween.draculamask/draculamask.sitem.asset|
 |assets/prefabs/clothes/halloween.draculamask/materials/ssp_draculamask.asset|
+|assets/prefabs/clothes/halloween.frankensteinmask/materials/ssp_frankensteinmask.asset|
 |assets/prefabs/clothes/halloween.ghostsheet/cloth.ghostsheet.asset|
 |assets/prefabs/clothes/halloween.ghostsheet/player_skeleton.ghostsheet.asset|
 |assets/prefabs/clothes/halloween.ghostsheet/sbmat_ghostsheet.asset|
+|assets/prefabs/clothes/halloween.mummymask/materials/mummymasksubsurfaceprofile.asset|
 |assets/prefabs/clothes/halloween.scarecrow/sound/soul_release.asset|
 |assets/prefabs/clothes/haloween.hockeymask/metal.facemask.hockey.skin.asset|
 |assets/prefabs/clothes/halterneck.hide/halterneck.hide.skinnable.asset|
@@ -5147,6 +5179,11 @@
 |assets/prefabs/clothes/skirt.hide/skirt.hide.skinnable.asset|
 |assets/prefabs/clothes/suit.hazmat/arctic/hazmat.arctic.skin.asset|
 |assets/prefabs/clothes/suit.hazmat/diver/hazmatsuit.diver.skin.asset|
+|assets/prefabs/clothes/suit.hazmat/frontier/cloth.frontierbag.asset|
+|assets/prefabs/clothes/suit.hazmat/frontier/cloth.frontierbeltpelts.asset|
+|assets/prefabs/clothes/suit.hazmat/frontier/cloth.tunic.asset|
+|assets/prefabs/clothes/suit.hazmat/frontier/frontierhazmat.skeleton.asset|
+|assets/prefabs/clothes/suit.hazmat/frontier/hazmat.frontier.skin.asset|
 |assets/prefabs/clothes/suit.hazmat/hazmat.skinnable.asset|
 |assets/prefabs/clothes/suit.hazmat/lumberjack/hazmat.lumberjack.skin.asset|
 |assets/prefabs/clothes/suit.hazmat/nomad/hazmat.nomad.skin.asset|
@@ -5550,6 +5587,7 @@
 |assets/prefabs/deployable/vendingmachine/npcsellorders/vehicles.asset|
 |assets/prefabs/deployable/vendingmachine/npcsellorders/vehicles2.asset|
 |assets/prefabs/deployable/vendingmachine/npcsellorders/vmomanifest.asset|
+|assets/prefabs/deployable/vendingmachine/npcsellorders/waterwell.asset|
 |assets/prefabs/deployable/vendingmachine/npcsellorders/weapons.asset|
 |assets/prefabs/deployable/vendingmachine/npcsellorders/weapons_bandit.asset|
 |assets/prefabs/deployable/vendingmachine/sound/ambient_loop.asset|
@@ -6686,6 +6724,21 @@
 |assets/prefabs/weapons/beancan grenade/sound/beancan-grenade-explosion.asset|
 |assets/prefabs/weapons/beancan grenade/sound/beancan-light-fuse.asset|
 |assets/prefabs/weapons/beancan grenade/sound/bounce.asset|
+|assets/prefabs/weapons/blunderbuss/blunderbuss.skin.asset|
+|assets/prefabs/weapons/blunderbuss/sound/blunderbuss-admire-01.asset|
+|assets/prefabs/weapons/blunderbuss/sound/blunderbuss-admire-02.asset|
+|assets/prefabs/weapons/blunderbuss/sound/blunderbuss-admire-03.asset|
+|assets/prefabs/weapons/blunderbuss/sound/blunderbuss-deploy.asset|
+|assets/prefabs/weapons/blunderbuss/sound/blunderbuss-dryfire.asset|
+|assets/prefabs/weapons/blunderbuss/sound/blunderbuss-gunshot-body.asset|
+|assets/prefabs/weapons/blunderbuss/sound/blunderbuss-gunshot-mech.asset|
+|assets/prefabs/weapons/blunderbuss/sound/blunderbuss-gunshot-tail-outdoor.asset|
+|assets/prefabs/weapons/blunderbuss/sound/blunderbuss-reload-breech-open.asset|
+|assets/prefabs/weapons/blunderbuss/sound/blunderbuss-reload-close-breech.asset|
+|assets/prefabs/weapons/blunderbuss/sound/blunderbuss-reload-finish.asset|
+|assets/prefabs/weapons/blunderbuss/sound/blunderbuss-reload-insert-shells.asset|
+|assets/prefabs/weapons/blunderbuss/sound/blunderbuss-reload-remove-shells.asset|
+|assets/prefabs/weapons/blunderbuss/sound/blunderbuss-reload-start.asset|
 |assets/prefabs/weapons/bolt rifle/bolt_rifle.skinnable.asset|
 |assets/prefabs/weapons/bolt rifle/sound/bolt-rifle-attack.asset|
 |assets/prefabs/weapons/bolt rifle/sound/bolt-rifle-attack-silenced.asset|
@@ -6823,6 +6876,8 @@
 |assets/prefabs/weapons/flashbang/sound/flashbang-explosion.asset|
 |assets/prefabs/weapons/flashbang/sound/flashbang-pull-pin.asset|
 |assets/prefabs/weapons/flashbang/sound/flashbang-pull-pin-start.asset|
+|assets/prefabs/weapons/frontier hatchet/clothmat_frontier_hatchet_vm.asset|
+|assets/prefabs/weapons/frontier hatchet/frontier_hatchet.skin.asset|
 |assets/prefabs/weapons/glockskin/sound/glock-deploy.asset|
 |assets/prefabs/weapons/glockskin/sound/glock-gunshot-body.asset|
 |assets/prefabs/weapons/glockskin/sound/glock-gunshot-body-suppressed.asset|
@@ -6874,6 +6929,22 @@
 |assets/prefabs/weapons/hatchet/sound/hatchet-strike.asset|
 |assets/prefabs/weapons/hatchet/sound/hatchet-strike-muted.asset|
 |assets/prefabs/weapons/hatchet/sound/hatchet-strike-soft.asset|
+|assets/prefabs/weapons/high caliber revolver/sound/hc-revolver-admire-01.asset|
+|assets/prefabs/weapons/high caliber revolver/sound/hc-revolver-admire-02.asset|
+|assets/prefabs/weapons/high caliber revolver/sound/hc-revolver-admire-03.asset|
+|assets/prefabs/weapons/high caliber revolver/sound/hc-revolver-admire-04.asset|
+|assets/prefabs/weapons/high caliber revolver/sound/hc-revolver-cock.asset|
+|assets/prefabs/weapons/high caliber revolver/sound/hc-revolver-deploy.asset|
+|assets/prefabs/weapons/high caliber revolver/sound/hc-revolver-dryfire.asset|
+|assets/prefabs/weapons/high caliber revolver/sound/hc-revolver-gunshot-body.asset|
+|assets/prefabs/weapons/high caliber revolver/sound/hc-revolver-gunshot-lfe.asset|
+|assets/prefabs/weapons/high caliber revolver/sound/hc-revolver-gunshot-mech.asset|
+|assets/prefabs/weapons/high caliber revolver/sound/hc-revolver-gunshot-tail-outdoors.asset|
+|assets/prefabs/weapons/high caliber revolver/sound/hc-revolver-reload-eject-bullets.asset|
+|assets/prefabs/weapons/high caliber revolver/sound/hc-revolver-reload-finish.asset|
+|assets/prefabs/weapons/high caliber revolver/sound/hc-revolver-reload-grab-speedloader.asset|
+|assets/prefabs/weapons/high caliber revolver/sound/hc-revolver-reload-insert-speedloader.asset|
+|assets/prefabs/weapons/high caliber revolver/sound/hc-revolver-reload-start.asset|
 |assets/prefabs/weapons/hmlmg/sound/hmlmg-deoloy-01-close-top-01.asset|
 |assets/prefabs/weapons/hmlmg/sound/hmlmg-deploy-01-finish-01.asset|
 |assets/prefabs/weapons/hmlmg/sound/hmlmg-deploy-01-start-01.asset|
@@ -7597,6 +7668,7 @@
 |assets/scenes/prefabs/trainyard/sound/coaling-tower-suction-ore-loop.asset|
 |assets/scenes/prefabs/trainyard/sound/coaling-tower-suction-ore-loop-interior-pipe.asset|
 |assets/scenes/prefabs/trainyard/sound/coaling-tower-suction-ore-start.asset|
+|assets/scenes/prefabs/unique environments/ue_lake_a.asset|
 |assets/scenes/test/billbtestmap/billbtestmap terrain.asset|
 |assets/scenes/test/burstcloth/burstclothmats/fabric_bcmat.asset|
 |assets/scenes/test/burstcloth/burstclothmats/rope_bcmat.asset|
