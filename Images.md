@@ -458,6 +458,18 @@
 |assets/scenes/prefabs/powerplant/powerplant_root_lods/powerplant_root_hlod_albedo.png|
 |assets/scenes/prefabs/powerplant/powerplant_root_lods/powerplant_root_hlod_normals.png|
 |assets/scenes/prefabs/powerplant/powerplant_root_lods/powerplant_root_hlod_specular.png|
+|assets/scenes/prefabs/radtown/radtown/alphatexture.png|
+|assets/scenes/prefabs/radtown/radtown/biometexture.png|
+|assets/scenes/prefabs/radtown/radtown/blendtexture.png|
+|assets/scenes/prefabs/radtown/radtown/heighttexture.png|
+|assets/scenes/prefabs/radtown/radtown/normaltexture.png|
+|assets/scenes/prefabs/radtown/radtown/splattexture0.png|
+|assets/scenes/prefabs/radtown/radtown/splattexture1.png|
+|assets/scenes/prefabs/radtown/radtown/topologytexture.png|
+|assets/scenes/prefabs/radtown/radtown/watertexture.png|
+|assets/scenes/prefabs/radtown/radtown_root_lods/radtown_root_hlod_albedo.png|
+|assets/scenes/prefabs/radtown/radtown_root_lods/radtown_root_hlod_normals.png|
+|assets/scenes/prefabs/radtown/radtown_root_lods/radtown_root_hlod_specular.png|
 |assets/scenes/prefabs/rocks/rocks_dressing/biometexture.png|
 |assets/scenes/prefabs/rocks/rocks_dressing/heighttexture.png|
 |assets/scenes/prefabs/rocks/rocks_dressing/normaltexture.png|
@@ -596,6 +608,87 @@
 |assets/scenes/prefabs/tunnels/entrance/splattexture0.png|
 |assets/scenes/prefabs/tunnels/entrance/splattexture1.png|
 |assets/scenes/prefabs/tunnels/entrance/topologytexture.png|
+|assets/scenes/prefabs/unique environments/ue_canyon_a/alphatexture.png|
+|assets/scenes/prefabs/unique environments/ue_canyon_a/biometexture.png|
+|assets/scenes/prefabs/unique environments/ue_canyon_a/blendtexture.png|
+|assets/scenes/prefabs/unique environments/ue_canyon_a/heighttexture.png|
+|assets/scenes/prefabs/unique environments/ue_canyon_a/normaltexture.png|
+|assets/scenes/prefabs/unique environments/ue_canyon_a/splattexture0.png|
+|assets/scenes/prefabs/unique environments/ue_canyon_a/splattexture1.png|
+|assets/scenes/prefabs/unique environments/ue_canyon_a/topologytexture.png|
+|assets/scenes/prefabs/unique environments/ue_canyon_a/watertexture.png|
+|assets/scenes/prefabs/unique environments/ue_canyon_b/alphatexture.png|
+|assets/scenes/prefabs/unique environments/ue_canyon_b/biometexture.png|
+|assets/scenes/prefabs/unique environments/ue_canyon_b/blendtexture.png|
+|assets/scenes/prefabs/unique environments/ue_canyon_b/heighttexture.png|
+|assets/scenes/prefabs/unique environments/ue_canyon_b/normaltexture.png|
+|assets/scenes/prefabs/unique environments/ue_canyon_b/splattexture0.png|
+|assets/scenes/prefabs/unique environments/ue_canyon_b/splattexture1.png|
+|assets/scenes/prefabs/unique environments/ue_canyon_b/topologytexture.png|
+|assets/scenes/prefabs/unique environments/ue_canyon_b/watertexture.png|
+|assets/scenes/prefabs/unique environments/ue_canyon_c/alphatexture.png|
+|assets/scenes/prefabs/unique environments/ue_canyon_c/biometexture.png|
+|assets/scenes/prefabs/unique environments/ue_canyon_c/blendtexture.png|
+|assets/scenes/prefabs/unique environments/ue_canyon_c/heighttexture.png|
+|assets/scenes/prefabs/unique environments/ue_canyon_c/normaltexture.png|
+|assets/scenes/prefabs/unique environments/ue_canyon_c/splattexture0.png|
+|assets/scenes/prefabs/unique environments/ue_canyon_c/splattexture1.png|
+|assets/scenes/prefabs/unique environments/ue_canyon_c/topologytexture.png|
+|assets/scenes/prefabs/unique environments/ue_canyon_c/watertexture.png|
+|assets/scenes/prefabs/unique environments/ue_lake_a/alphatexture.png|
+|assets/scenes/prefabs/unique environments/ue_lake_a/biometexture.png|
+|assets/scenes/prefabs/unique environments/ue_lake_a/blendtexture.png|
+|assets/scenes/prefabs/unique environments/ue_lake_a/heighttexture.png|
+|assets/scenes/prefabs/unique environments/ue_lake_a/normaltexture.png|
+|assets/scenes/prefabs/unique environments/ue_lake_a/splattexture0.png|
+|assets/scenes/prefabs/unique environments/ue_lake_a/splattexture1.png|
+|assets/scenes/prefabs/unique environments/ue_lake_a/topologytexture.png|
+|assets/scenes/prefabs/unique environments/ue_lake_a/watertexture.png|
+|assets/scenes/prefabs/unique environments/ue_lake_b/alphatexture.png|
+|assets/scenes/prefabs/unique environments/ue_lake_b/biometexture.png|
+|assets/scenes/prefabs/unique environments/ue_lake_b/blendtexture.png|
+|assets/scenes/prefabs/unique environments/ue_lake_b/heighttexture.png|
+|assets/scenes/prefabs/unique environments/ue_lake_b/normaltexture.png|
+|assets/scenes/prefabs/unique environments/ue_lake_b/splattexture0.png|
+|assets/scenes/prefabs/unique environments/ue_lake_b/splattexture1.png|
+|assets/scenes/prefabs/unique environments/ue_lake_b/topologytexture.png|
+|assets/scenes/prefabs/unique environments/ue_lake_b/watertexture.png|
+|assets/scenes/prefabs/unique environments/ue_lake_c/alphatexture.png|
+|assets/scenes/prefabs/unique environments/ue_lake_c/biometexture.png|
+|assets/scenes/prefabs/unique environments/ue_lake_c/blendtexture.png|
+|assets/scenes/prefabs/unique environments/ue_lake_c/heighttexture.png|
+|assets/scenes/prefabs/unique environments/ue_lake_c/normaltexture.png|
+|assets/scenes/prefabs/unique environments/ue_lake_c/splattexture0.png|
+|assets/scenes/prefabs/unique environments/ue_lake_c/splattexture1.png|
+|assets/scenes/prefabs/unique environments/ue_lake_c/topologytexture.png|
+|assets/scenes/prefabs/unique environments/ue_lake_c/watertexture.png|
+|assets/scenes/prefabs/unique environments/ue_oasis_a/alphatexture.png|
+|assets/scenes/prefabs/unique environments/ue_oasis_a/biometexture.png|
+|assets/scenes/prefabs/unique environments/ue_oasis_a/blendtexture.png|
+|assets/scenes/prefabs/unique environments/ue_oasis_a/heighttexture.png|
+|assets/scenes/prefabs/unique environments/ue_oasis_a/normaltexture.png|
+|assets/scenes/prefabs/unique environments/ue_oasis_a/splattexture0.png|
+|assets/scenes/prefabs/unique environments/ue_oasis_a/splattexture1.png|
+|assets/scenes/prefabs/unique environments/ue_oasis_a/topologytexture.png|
+|assets/scenes/prefabs/unique environments/ue_oasis_a/watertexture.png|
+|assets/scenes/prefabs/unique environments/ue_oasis_b/alphatexture.png|
+|assets/scenes/prefabs/unique environments/ue_oasis_b/biometexture.png|
+|assets/scenes/prefabs/unique environments/ue_oasis_b/blendtexture.png|
+|assets/scenes/prefabs/unique environments/ue_oasis_b/heighttexture.png|
+|assets/scenes/prefabs/unique environments/ue_oasis_b/normaltexture.png|
+|assets/scenes/prefabs/unique environments/ue_oasis_b/splattexture0.png|
+|assets/scenes/prefabs/unique environments/ue_oasis_b/splattexture1.png|
+|assets/scenes/prefabs/unique environments/ue_oasis_b/topologytexture.png|
+|assets/scenes/prefabs/unique environments/ue_oasis_b/watertexture.png|
+|assets/scenes/prefabs/unique environments/ue_oasis_c/alphatexture.png|
+|assets/scenes/prefabs/unique environments/ue_oasis_c/biometexture.png|
+|assets/scenes/prefabs/unique environments/ue_oasis_c/blendtexture.png|
+|assets/scenes/prefabs/unique environments/ue_oasis_c/heighttexture.png|
+|assets/scenes/prefabs/unique environments/ue_oasis_c/normaltexture.png|
+|assets/scenes/prefabs/unique environments/ue_oasis_c/splattexture0.png|
+|assets/scenes/prefabs/unique environments/ue_oasis_c/splattexture1.png|
+|assets/scenes/prefabs/unique environments/ue_oasis_c/topologytexture.png|
+|assets/scenes/prefabs/unique environments/ue_oasis_c/watertexture.png|
 |assets/scenes/prefabs/water treatment plant/water_treatment_plant/alphatexture.png|
 |assets/scenes/prefabs/water treatment plant/water_treatment_plant/biometexture.png|
 |assets/scenes/prefabs/water treatment plant/water_treatment_plant/blendtexture.png|
