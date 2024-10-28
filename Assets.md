@@ -1551,6 +1551,7 @@
 |assets/content/properties/lootspawn/halloween/cratecostume.asset|
 |assets/content/properties/lootspawn/halloween/draculacape.asset|
 |assets/content/properties/lootspawn/halloween/fence.asset|
+|assets/content/properties/lootspawn/halloween/frankensteinmask.asset|
 |assets/content/properties/lootspawn/halloween/frankensteinparts.asset|
 |assets/content/properties/lootspawn/halloween/frankensteinparts/frankenstein.01.head.asset|
 |assets/content/properties/lootspawn/halloween/frankensteinparts/frankenstein.01.legs.asset|
@@ -1571,6 +1572,7 @@
 |assets/content/properties/lootspawn/halloween/lootbag_large_contents.asset|
 |assets/content/properties/lootspawn/halloween/lootbag_medium_contents.asset|
 |assets/content/properties/lootspawn/halloween/lootbag_small_contents.asset|
+|assets/content/properties/lootspawn/halloween/mummymask.asset|
 |assets/content/properties/lootspawn/halloween/murderer.frankensteinparts.asset|
 |assets/content/properties/lootspawn/halloween/pitchfork.asset|
 |assets/content/properties/lootspawn/halloween/pumpkin_basket.asset|
@@ -5073,6 +5075,7 @@
 |assets/prefabs/clothes/gloves.leather/gloves.leather.skinnable.asset|
 |assets/prefabs/clothes/gloves.roadsign/gloves.roadsign.skinnable.asset|
 |assets/prefabs/clothes/halloween.draculacape/cloth.draculacape.asset|
+|assets/prefabs/clothes/halloween.draculacape/draculacape.sitem.asset|
 |assets/prefabs/clothes/halloween.draculacape/player_skeleton.draculacape.asset|
 |assets/prefabs/clothes/halloween.draculamask/draculamask.sitem.asset|
 |assets/prefabs/clothes/halloween.draculamask/materials/ssp_draculamask.asset|
