@@ -1415,7 +1415,7 @@
 |MainCannonShell|3032863244|TimedExplosive<br>ServerProjectile<br>|assets/prefabs/npc/m2bradley/maincannonshell.prefab|
 |oilFireball2|3761185980|FireBall<br>Rigidbody<br>BoxCollider<br>|assets/prefabs/npc/m2bradley/oilfireball2.prefab|
 |ServerGibs_Bradley|4214400966|HelicopterDebris<br>BaseCombatEntity<br>ResourceDispenser<br>|assets/prefabs/npc/m2bradley/servergibs_bradley.prefab|
-|murderer_corpse|2400390439|NPCPlayerCorpse<br>BaseCombatEntity<br>LootableCorpse<br>BaseCorpse<br>HumanBodyResourceDispenser<br>Buoyancy<br>|assets/prefabs/npc/murderer/murderer_corpse.prefab|
+|murderer_corpse|2400390439|NPCPlayerCorpse<br>BaseCombatEntity<br>LootableCorpse<br>BaseCorpse<br>HumanBodyResourceDispenser<br>Buoyancy<br>HeadDispenser<br>|assets/prefabs/npc/murderer/murderer_corpse.prefab|
 |heli_crate|1314849795|LockedByEntCrate<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>BoxCollider<br>|assets/prefabs/npc/patrol helicopter/heli_crate.prefab|
 |PatrolHelicopter|3029415845|PatrolHelicopter<br>PatrolHelicopterAI<br>AIHelicopterAnimation<br>Rigidbody<br>Model<br>MusicChangeIntensity<br>|assets/prefabs/npc/patrol helicopter/patrolhelicopter.prefab|
 |PatrolHelicopterMarker|3212876472|MapMarkerCH47<br>|assets/prefabs/npc/patrol helicopter/patrolhelicoptermarker.prefab|
