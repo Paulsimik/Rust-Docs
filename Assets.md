@@ -20,6 +20,8 @@
 |assets/content/accessibility/holosightmaterials.asset|
 |assets/content/accessibility/hungervitals.asset|
 |assets/content/accessibility/hydrationvitals.asset|
+|assets/content/accessibility/ioarrow_input.asset|
+|assets/content/accessibility/ioarrow_output.asset|
 |assets/content/accessibility/laserdetectormaterials.dot.asset|
 |assets/content/accessibility/laserdetectormaterials.flare.asset|
 |assets/content/accessibility/laserdetectormaterials.laser.asset|
@@ -358,6 +360,7 @@
 |assets/content/properties/damage/damage.throwable.asset|
 |assets/content/properties/entitylist/door_deploy_blacklist.asset|
 |assets/content/properties/entitylist/vending_deploy_blacklist.asset|
+|assets/content/properties/entitylist/wooden.signs_entitylist.asset|
 |assets/content/properties/foliage_procmap_v3/all/underwater-coral_red_big.asset|
 |assets/content/properties/foliage_procmap_v3/all/underwater-coral_red_small.asset|
 |assets/content/properties/foliage_procmap_v3/all/underwater-coral_white_big.asset|
@@ -1004,7 +1007,6 @@
 |assets/content/properties/lootspawn/generated/items/component/vehicle.2mod.passengers.asset|
 |assets/content/properties/lootspawn/generated/items/component/vehicle.module.asset|
 |assets/content/properties/lootspawn/generated/items/component/weapon.mod.burstmodule.asset|
-|assets/content/properties/lootspawn/generated/items/component/weapon.mod.gascompressionovedrive.asset|
 |assets/content/properties/lootspawn/generated/items/construction/barricade.concrete.asset|
 |assets/content/properties/lootspawn/generated/items/construction/barricade.metal.asset|
 |assets/content/properties/lootspawn/generated/items/construction/barricade.sandbags.asset|
@@ -1678,6 +1680,7 @@
 |assets/content/properties/playerinventory/science_pickaxe.asset|
 |assets/content/properties/playerinventory/science_pistol.asset|
 |assets/content/properties/playerinventory/science_shotgn.asset|
+|assets/content/properties/playerinventory/scientist_nvg_outfit.asset|
 |assets/content/properties/playerinventory/scientistmissionproviderattire.asset|
 |assets/content/properties/playerinventory/spraycan.asset|
 |assets/content/properties/playerinventory/stablehand.asset|
@@ -1868,7 +1871,9 @@
 |assets/content/properties/recoil/new/mp5.recoil.nopattern.asset|
 |assets/content/properties/recoil/new/sap.recoil.nopattern.asset|
 |assets/content/properties/recoil/new/semiautorifle.recoil.nopattern.asset|
+|assets/content/properties/recoil/new/sks.recoil.nopattern.asset|
 |assets/content/properties/recoil/new/smg.recoil.nopattern.asset|
+|assets/content/properties/recoil/new/t1smg.recoil.nopattern.asset|
 |assets/content/properties/recoil/new/thompson.recoil.nopattern.asset|
 |assets/content/properties/recoil/pumpshotgunrecoil.asset|
 |assets/content/properties/recoil/pythonrecoil.asset|
@@ -1877,7 +1882,9 @@
 |assets/content/properties/recoil/sap.recoil.asset|
 |assets/content/properties/recoil/semiautorifle.recoil.asset|
 |assets/content/properties/recoil/shotgunrecoil.asset|
+|assets/content/properties/recoil/sks.recoil.asset|
 |assets/content/properties/recoil/smgrecoil.asset|
+|assets/content/properties/recoil/t1smgrecoil.asset|
 |assets/content/properties/recoil/thompsonrecoil.asset|
 |assets/content/properties/skeletons/skeleton.boar.asset|
 |assets/content/properties/skeletons/skeleton.horse.asset|
@@ -2075,6 +2082,11 @@
 |assets/content/properties/steamcategories/limited-halloween2023-599.steam.asset|
 |assets/content/properties/steamcategories/limited-halloween2023-699.steam.asset|
 |assets/content/properties/steamcategories/limited-halloween2023-799.steam.asset|
+|assets/content/properties/steamcategories/limited-halloween2024-299.steam.asset|
+|assets/content/properties/steamcategories/limited-halloween2024-399.steam.asset|
+|assets/content/properties/steamcategories/limited-halloween2024-499.steam.asset|
+|assets/content/properties/steamcategories/limited-halloween2024-599.steam.asset|
+|assets/content/properties/steamcategories/limited-halloween2024-699.steam.asset|
 |assets/content/properties/steamcategories/limited-july4-2021-1000.steam.asset|
 |assets/content/properties/steamcategories/limited-july4-2021-500.steam.asset|
 |assets/content/properties/steamcategories/limited-july4-2024-fireworks-cheap.steam.asset|
@@ -4946,6 +4958,7 @@
 |assets/content/workshop/skin/unknown/rasta beenie/skin.beenie.rastabeenie.itemskin.asset|
 |assets/content/workshop/skin/unknown/rorschach skull/skin.balaclava.rorschachskull.itemskin.asset|
 |assets/content/workshop/skin/unknown/rorschach skull/skull.meta.asset|
+|assets/editor/rust/tools/fsm/testfsm.asset|
 |assets/hotreload/resources/hotreloadsettingsobject.asset|
 |assets/manifest.asset|
 |assets/plugins/ezsoftbone/tests/presets/sbmat_default_hard.asset|
@@ -5856,6 +5869,7 @@
 |assets/prefabs/misc/item drop/sounds/backpack-small-pickup.asset|
 |assets/prefabs/misc/item drop/sounds/hard-case-close.asset|
 |assets/prefabs/misc/item drop/sounds/hard-case-open.asset|
+|assets/prefabs/misc/largebackpack/largebackpack.skinnable.asset|
 |assets/prefabs/misc/marketplace/cobaltdeliverydroneconfig.asset|
 |assets/prefabs/misc/marketplace/sound/marketplace-button-press.asset|
 |assets/prefabs/misc/marketplace/sound/marketplace-close.asset|
@@ -6427,6 +6441,18 @@
 |assets/prefabs/player/gestures/cinematic/gesture.cinematic.talk_03.asset|
 |assets/prefabs/player/gestures/cinematic/gesture.cinematic.talk_04.asset|
 |assets/prefabs/player/gestures/cinematic/gesture.cinematic.talk_05.asset|
+|assets/prefabs/player/gestures/crude pack/gesture.crankfinger.asset|
+|assets/prefabs/player/gestures/crude pack/gesture.doublemiddlefinger.asset|
+|assets/prefabs/player/gestures/crude pack/gesture.fingergun.asset|
+|assets/prefabs/player/gestures/crude pack/gesture.knucklescrack.asset|
+|assets/prefabs/player/gestures/crude pack/gesture.loser.asset|
+|assets/prefabs/player/gestures/crude pack/gesture.middlefinger.asset|
+|assets/prefabs/player/gestures/crude pack/gesture.nofingerwag.asset|
+|assets/prefabs/player/gestures/crude pack/gesture.rps.asset|
+|assets/prefabs/player/gestures/crude pack/gesture.shush.asset|
+|assets/prefabs/player/gestures/crude pack/gesture.shushvocal.asset|
+|assets/prefabs/player/gestures/crude pack/gesture.throatcut.asset|
+|assets/prefabs/player/gestures/crude pack/gesture.watchingyou.asset|
 |assets/prefabs/player/gestures/gesture.cabbagepatch.asset|
 |assets/prefabs/player/gestures/gesture.clap.asset|
 |assets/prefabs/player/gestures/gesture.flashblinded.asset|
@@ -6450,12 +6476,19 @@
 |assets/prefabs/player/gestures/sound/gesture-anim-friendly-end.asset|
 |assets/prefabs/player/gestures/sound/gesture-anim-friendly-start.asset|
 |assets/prefabs/player/gestures/sound/gesture-anim-hurry.asset|
+|assets/prefabs/player/gestures/sound/gesture-anim-knucklescrack.asset|
+|assets/prefabs/player/gestures/sound/gesture-anim-nono.asset|
 |assets/prefabs/player/gestures/sound/gesture-anim-okay-end.asset|
 |assets/prefabs/player/gestures/sound/gesture-anim-okay-start.asset|
 |assets/prefabs/player/gestures/sound/gesture-anim-point-end.asset|
 |assets/prefabs/player/gestures/sound/gesture-anim-point-start.asset|
+|assets/prefabs/player/gestures/sound/gesture-anim-rps-lose.asset|
+|assets/prefabs/player/gestures/sound/gesture-anim-rps-play.asset|
+|assets/prefabs/player/gestures/sound/gesture-anim-rps-ready.asset|
+|assets/prefabs/player/gestures/sound/gesture-anim-rps-win.asset|
 |assets/prefabs/player/gestures/sound/gesture-anim-shrug-end.asset|
 |assets/prefabs/player/gestures/sound/gesture-anim-shrug-start.asset|
+|assets/prefabs/player/gestures/sound/gesture-anim-shush.asset|
 |assets/prefabs/player/gestures/sound/gesture-anim-thumbsdown.asset|
 |assets/prefabs/player/gestures/sound/gesture-anim-thumbsup-end.asset|
 |assets/prefabs/player/gestures/sound/gesture-anim-thumbsup-start.asset|
@@ -7403,6 +7436,23 @@
 |assets/prefabs/weapons/sword/sound/sword-strike.asset|
 |assets/prefabs/weapons/sword/sound/sword-strike-muted.asset|
 |assets/prefabs/weapons/sword/sound/sword-strike-soft.asset|
+|assets/prefabs/weapons/t1 smg/sound/t1-smg-admire-01.asset|
+|assets/prefabs/weapons/t1 smg/sound/t1-smg-admire-02.asset|
+|assets/prefabs/weapons/t1 smg/sound/t1-smg-admire-03.asset|
+|assets/prefabs/weapons/t1 smg/sound/t1-smg-deploy-01.asset|
+|assets/prefabs/weapons/t1 smg/sound/t1-smg-deploy-02.asset|
+|assets/prefabs/weapons/t1 smg/sound/t1-smg-gunshot-body.asset|
+|assets/prefabs/weapons/t1 smg/sound/t1-smg-gunshot-lfe.asset|
+|assets/prefabs/weapons/t1 smg/sound/t1-smg-gunshot-mech.asset|
+|assets/prefabs/weapons/t1 smg/sound/t1-smg-gunshot-tail-outdoor.asset|
+|assets/prefabs/weapons/t1 smg/sound/t1-smg-reload-bolt-action.asset|
+|assets/prefabs/weapons/t1 smg/sound/t1-smg-reload-boltback-bolt-action.asset|
+|assets/prefabs/weapons/t1 smg/sound/t1-smg-reload-boltback-remove-mag.asset|
+|assets/prefabs/weapons/t1 smg/sound/t1-smg-reload-finish.asset|
+|assets/prefabs/weapons/t1 smg/sound/t1-smg-reload-grab-bolt.asset|
+|assets/prefabs/weapons/t1 smg/sound/t1-smg-reload-insert-mag.asset|
+|assets/prefabs/weapons/t1 smg/sound/t1-smg-reload-remove-mag.asset|
+|assets/prefabs/weapons/t1 smg/sound/t1-smg-reload-start.asset|
 |assets/prefabs/weapons/thompson/sound/rifle-jingle-2.asset|
 |assets/prefabs/weapons/thompson/sound/thompson-attack.asset|
 |assets/prefabs/weapons/thompson/sound/thompson-attack-silenced.asset|
@@ -7612,6 +7662,22 @@
 |assets/rust.ai/agents/stag/stag.footsteps.asset|
 |assets/rust.ai/agents/stag/stag.population.asset|
 |assets/rust.ai/agents/stag/stag.skeleton.asset|
+|assets/rust.ai/agents/wolf/animation/anim2024_update/wolf_atk_1_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/wolf/animation/anim2024_update/wolf_growlruntowalkback_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/wolf/animation/anim2024_update/wolf_rotate_left_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/wolf/animation/anim2024_update/wolf_rotate_left_rm_rootmotiondata_dst.asset|
+|assets/rust.ai/agents/wolf/animation/anim2024_update/wolf_rotate_right_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/wolf/animation/anim2024_update/wolf_rotate_right_rm_rootmotiondata_dst.asset|
+|assets/rust.ai/agents/wolf/animation/anim2024_update/wolf_run_150_turnleft_to_run_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/wolf/animation/anim2024_update/wolf_run_180_left_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/wolf/animation/anim2024_update/wolf_run_180_turnleft_to_run_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/wolf/animation/anim2024_update/wolf_run_atk_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/wolf/animation/anim2024_update/wolf_run_atk_shorter_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/wolf/animation/anim2024_update/wolf_run_hit_2_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/wolf/animation/anim2024_update/wolf_run_hit_3_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/wolf/animation/anim2024_update/wolf_run_hit_left_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/wolf/animation/anim2024_update/wolf_run_hit_right_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/wolf/animation/anim2024_update/wolf_run_hit_rm_rootmotiondata.asset|
 |assets/rust.ai/agents/wolf/footsteps/wolf-footstep-concrete.asset|
 |assets/rust.ai/agents/wolf/footsteps/wolf-footstep-dirt.asset|
 |assets/rust.ai/agents/wolf/footsteps/wolf-footstep-grass.asset|
@@ -7628,13 +7694,43 @@
 |assets/rust.ai/agents/wolf/sound/death.asset|
 |assets/rust.ai/agents/wolf/sound/growl.asset|
 |assets/rust.ai/agents/wolf/sound/howl.asset|
+|assets/rust.ai/agents/wolf/sound/placeholder/wolf_bodyfall.asset|
+|assets/rust.ai/agents/wolf/sound/placeholder/wolf_cry.asset|
+|assets/rust.ai/agents/wolf/sound/placeholder/wolf_cry_long.asset|
+|assets/rust.ai/agents/wolf/sound/placeholder/wolf_eat.asset|
+|assets/rust.ai/agents/wolf/sound/placeholder/wolf_growl.asset|
+|assets/rust.ai/agents/wolf/sound/placeholder/wolf_howl.asset|
 |assets/rust.ai/agents/wolf/sound/run-attack.asset|
 |assets/rust.ai/agents/wolf/sound/scratch.asset|
 |assets/rust.ai/agents/wolf/sound/scratch-ear.asset|
 |assets/rust.ai/agents/wolf/sound/scratch-floor.asset|
 |assets/rust.ai/agents/wolf/sound/sleeping.asset|
 |assets/rust.ai/agents/wolf/sound/whimper.asset|
+|assets/rust.ai/agents/wolf/sound/wolf-anim-bark-01.asset|
+|assets/rust.ai/agents/wolf/sound/wolf-anim-eating-01.asset|
+|assets/rust.ai/agents/wolf/sound/wolf-anim-eating-02.asset|
+|assets/rust.ai/agents/wolf/sound/wolf-anim-growlruntowalkback_rm-01.asset|
+|assets/rust.ai/agents/wolf/sound/wolf-anim-hit2-01.asset|
+|assets/rust.ai/agents/wolf/sound/wolf-anim-hit2-02.asset|
+|assets/rust.ai/agents/wolf/sound/wolf-anim-howl-01.asset|
+|assets/rust.ai/agents/wolf/sound/wolf-anim-idle_to_sleep-01.asset|
+|assets/rust.ai/agents/wolf/sound/wolf-anim-idle4-01.asset|
+|assets/rust.ai/agents/wolf/sound/wolf-anim-idle4-02.asset|
+|assets/rust.ai/agents/wolf/sound/wolf-anim-idle5-01.asset|
+|assets/rust.ai/agents/wolf/sound/wolf-anim-idle5-02.asset|
+|assets/rust.ai/agents/wolf/sound/wolf-anim-idle5-03.asset|
+|assets/rust.ai/agents/wolf/sound/wolf-anim-scratch_ear-01.asset|
+|assets/rust.ai/agents/wolf/sound/wolf-anim-scratch_ear-02.asset|
+|assets/rust.ai/agents/wolf/sound/wolf-anim-wakeup-01.asset|
+|assets/rust.ai/agents/wolf/sound/wolf-anim-wakeup-02.asset|
+|assets/rust.ai/agents/wolf/sound/wolf-attack-bark.asset|
+|assets/rust.ai/agents/wolf/sound/wolf-growl-1s.asset|
+|assets/rust.ai/agents/wolf/sound/wolf-growl-prebark.asset|
+|assets/rust.ai/agents/wolf/sound/wolf-hit-bodyfall.asset|
 |assets/rust.ai/agents/wolf/sound/wolf-idle-growl.asset|
+|assets/rust.ai/agents/wolf/sound/wolf-sleep-exhale.asset|
+|assets/rust.ai/agents/wolf/sound/wolf-sleep-inhale.asset|
+|assets/rust.ai/agents/wolf/sound/wolf-yelp.asset|
 |assets/rust.ai/agents/wolf/wolf.footsteps.asset|
 |assets/rust.ai/agents/wolf/wolf.population.asset|
 |assets/rust.ai/agents/wolf/wolf.skeleton.asset|
