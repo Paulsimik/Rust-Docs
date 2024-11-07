@@ -2013,6 +2013,10 @@
 |assets/prefabs/weapons/sword/effects/hit-muted.prefab|
 |assets/prefabs/weapons/sword/effects/hit-soft.prefab|
 |assets/prefabs/weapons/sword/effects/throw.prefab|
+|assets/prefabs/weapons/t1 smg/effects/attack.prefab|
+|assets/prefabs/weapons/t1 smg/effects/attack_muzzlebrake.prefab|
+|assets/prefabs/weapons/t1 smg/effects/attack_silenced.prefab|
+|assets/prefabs/weapons/t1 smg/effects/w_drop_magazine.prefab|
 |assets/prefabs/weapons/thompson/effects/attack.prefab|
 |assets/prefabs/weapons/thompson/effects/attack_muzzlebrake.prefab|
 |assets/prefabs/weapons/thompson/effects/attack_shake.prefab|
