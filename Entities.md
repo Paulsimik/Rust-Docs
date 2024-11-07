@@ -307,11 +307,11 @@
 |invisible_vehicle_parts|2291464081|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/modding/lootables/invisible/invisible_lootable_prefabs/invisible_vehicle_parts.prefab|
 |napalm|184893264|FireBall<br>Rigidbody<br>BoxCollider<br>|assets/bundled/prefabs/napalm.prefab|
 |oilFireballSmall|3550347674|FireBall<br>Rigidbody<br>BoxCollider<br>|assets/bundled/prefabs/oilfireballsmall.prefab|
-|crate_basic|1603759333|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/radtown/crate_basic.prefab|
-|crate_elite|3286607235|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/radtown/crate_elite.prefab|
-|crate_mine|1071933290|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/radtown/crate_mine.prefab|
-|crate_normal|2857304752|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/radtown/crate_normal.prefab|
-|crate_normal_2|1546200557|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/radtown/crate_normal_2.prefab|
+|crate_basic|1603759333|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>NavMeshObstacle<br>|assets/bundled/prefabs/radtown/crate_basic.prefab|
+|crate_elite|3286607235|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>NavMeshObstacle<br>|assets/bundled/prefabs/radtown/crate_elite.prefab|
+|crate_mine|1071933290|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>NavMeshObstacle<br>|assets/bundled/prefabs/radtown/crate_mine.prefab|
+|crate_normal|2857304752|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>NavMeshObstacle<br>|assets/bundled/prefabs/radtown/crate_normal.prefab|
+|crate_normal_2|1546200557|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>NavMeshObstacle<br>|assets/bundled/prefabs/radtown/crate_normal_2.prefab|
 |crate_normal_2_food|2066926276|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/radtown/crate_normal_2_food.prefab|
 |crate_normal_2_medical|1791916628|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/radtown/crate_normal_2_medical.prefab|
 |crate_tools|1892026534|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/radtown/crate_tools.prefab|
@@ -328,23 +328,23 @@
 |DM Tier2 Lootbox|4149070860|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/radtown/dmloot/dm tier2 lootbox.prefab|
 |DM Tier3 Lootbox|226982278|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/radtown/dmloot/dm tier3 lootbox.prefab|
 |foodbox|2896170989|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/radtown/foodbox.prefab|
-|loot_barrel_1|3364121927|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>MeshCollider<br>|assets/bundled/prefabs/radtown/loot_barrel_1.prefab|
-|loot_barrel_2|3269883781|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>MeshCollider<br>|assets/bundled/prefabs/radtown/loot_barrel_2.prefab|
+|loot_barrel_1|3364121927|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>MeshCollider<br>NavMeshObstacle<br>|assets/bundled/prefabs/radtown/loot_barrel_1.prefab|
+|loot_barrel_2|3269883781|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>MeshCollider<br>NavMeshObstacle<br>|assets/bundled/prefabs/radtown/loot_barrel_2.prefab|
 |loot_component_test|1906351305|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>|assets/bundled/prefabs/radtown/loot_component_test.prefab|
 |loot_trash|3279100614|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>|assets/bundled/prefabs/radtown/loot_trash.prefab|
 |minecart|1768976424|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/radtown/minecart.prefab|
-|oil_barrel|3438187947|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>MeshCollider<br>|assets/bundled/prefabs/radtown/oil_barrel.prefab|
+|oil_barrel|3438187947|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>MeshCollider<br>NavMeshObstacle<br>|assets/bundled/prefabs/radtown/oil_barrel.prefab|
 |ore_metal|3327726152|Spawnable<br>OreResourceEntity<br>ResourceEntity<br>ResourceDispenser<br>NavMeshObstacle<br>|assets/bundled/prefabs/radtown/ore_metal.prefab|
 |ore_stone|960501790|Spawnable<br>OreResourceEntity<br>ResourceEntity<br>ResourceDispenser<br>NavMeshObstacle<br>|assets/bundled/prefabs/radtown/ore_stone.prefab|
 |ore_sulfur|152562243|Spawnable<br>OreResourceEntity<br>ResourceEntity<br>ResourceDispenser<br>NavMeshObstacle<br>|assets/bundled/prefabs/radtown/ore_sulfur.prefab|
 |crate_ammunition|2439530480|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/radtown/underwater_labs/crate_ammunition.prefab|
-|crate_elite|96231181|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/radtown/underwater_labs/crate_elite.prefab|
+|crate_elite|96231181|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>NavMeshObstacle<br>|assets/bundled/prefabs/radtown/underwater_labs/crate_elite.prefab|
 |crate_food_1|808303766|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/radtown/underwater_labs/crate_food_1.prefab|
 |crate_food_2|3249643118|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/radtown/underwater_labs/crate_food_2.prefab|
 |crate_fuel|2159599897|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/radtown/underwater_labs/crate_fuel.prefab|
 |crate_medical|1800392710|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/radtown/underwater_labs/crate_medical.prefab|
 |crate_normal|1009499252|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/radtown/underwater_labs/crate_normal.prefab|
-|crate_normal_2|2276830067|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/radtown/underwater_labs/crate_normal_2.prefab|
+|crate_normal_2|2276830067|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>NavMeshObstacle<br>|assets/bundled/prefabs/radtown/underwater_labs/crate_normal_2.prefab|
 |crate_tools|3027334492|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/radtown/underwater_labs/crate_tools.prefab|
 |tech_parts_1|3185867955|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/radtown/underwater_labs/tech_parts_1.prefab|
 |tech_parts_2|2571433948|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/radtown/underwater_labs/tech_parts_2.prefab|
@@ -663,9 +663,9 @@
 |locomotive_fuel_storage|1731121048|StorageContainer<br>BaseCombatEntity<br>|assets/content/vehicles/trains/locomotive/subents/locomotive_fuel_storage.prefab|
 |_BaseTrainWagon.entity|526417839|TrainCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>Model<br>|assets/content/vehicles/trains/wagons/_basetrainwagon.entity.prefab|
 |wagon_crate_normal|2225695845|LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/content/vehicles/trains/wagons/subents/wagon_crate_normal.prefab|
-|wagon_crate_normal_2|1187125596|LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/content/vehicles/trains/wagons/subents/wagon_crate_normal_2.prefab|
-|wagon_crate_normal_2_food|3590824134|LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/content/vehicles/trains/wagons/subents/wagon_crate_normal_2_food.prefab|
-|wagon_crate_normal_2_medical|2479563290|LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/content/vehicles/trains/wagons/subents/wagon_crate_normal_2_medical.prefab|
+|wagon_crate_normal_2|1187125596|LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>NavMeshObstacle<br>|assets/content/vehicles/trains/wagons/subents/wagon_crate_normal_2.prefab|
+|wagon_crate_normal_2_food|3590824134|LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>NavMeshObstacle<br>|assets/content/vehicles/trains/wagons/subents/wagon_crate_normal_2_food.prefab|
+|wagon_crate_normal_2_medical|2479563290|LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>NavMeshObstacle<br>|assets/content/vehicles/trains/wagons/subents/wagon_crate_normal_2_medical.prefab|
 |wagon_storage|3798073427|StorageContainer<br>BaseCombatEntity<br>|assets/content/vehicles/trains/wagons/subents/wagon_storage.prefab|
 |wagon_storage_fuel|2600682814|StorageContainer<br>BaseCombatEntity<br>|assets/content/vehicles/trains/wagons/subents/wagon_storage_fuel.prefab|
 |wagon_storage_lootwagon|4110027805|StorageContainer<br>BaseCombatEntity<br>|assets/content/vehicles/trains/wagons/subents/wagon_storage_lootwagon.prefab|
@@ -750,7 +750,7 @@
 |debris.wall|1424066995|GroundWatch<br>DestroyOnGroundMissing<br>DebrisEntity<br>BoxCollider<br>|assets/prefabs/debris/debris.wall.prefab|
 |debris.wood.external.wall|2304619954|GroundWatch<br>DebrisEntity<br>|assets/prefabs/debris/debris.wood.external.wall.prefab|
 |barricade.concrete|2057881102|GroundWatch<br>DestroyOnGroundMissing<br>Barricade<br>BaseCombatEntity<br>NavMeshObstacle<br>Model<br>MeshCollider<br>MeshCollider<br>|assets/prefabs/deployable/barricades/barricade.concrete.prefab|
-|barricade.cover.wood|1581233281|Barricade<br>BaseCombatEntity<br>HittableByTrains<br>|assets/prefabs/deployable/barricades/barricade.cover.wood.prefab|
+|barricade.cover.wood|1581233281|Barricade<br>BaseCombatEntity<br>HittableByTrains<br>NavMeshObstacle<br>|assets/prefabs/deployable/barricades/barricade.cover.wood.prefab|
 |barricade.cover.wood_double|2982625522|Barricade<br>BaseCombatEntity<br>HittableByTrains<br>NavMeshObstacle<br>|assets/prefabs/deployable/barricades/barricade.cover.wood_double.prefab|
 |barricade.metal|3824663394|GroundWatch<br>DestroyOnGroundMissing<br>Barricade<br>BaseCombatEntity<br>MeshCollider<br>NavMeshObstacle<br>|assets/prefabs/deployable/barricades/barricade.metal.prefab|
 |barricade.sandbags|2335812770|GroundWatch<br>DestroyOnGroundMissing<br>Barricade<br>BaseCombatEntity<br>MeshCollider<br>NavMeshObstacle<br>Model<br>|assets/prefabs/deployable/barricades/barricade.sandbags.prefab|
@@ -777,8 +777,8 @@
 |ceilinglight.deployed|3953213470|CeilingLight<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/ceiling light/ceilinglight.deployed.prefab|
 |chair.deployed|1992774774|BaseChair<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/chair/chair.deployed.prefab|
 |chair.icethrone|3579302978|BaseChair<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/chair/ice_throne/chair.icethrone.prefab|
-|CodelockedHackableCrate|209286362|HackableLockedCrate<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>Rigidbody<br>|assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate.prefab|
-|CodelockedHackableCrate_Oilrig|2043434947|HackableLockedCrate<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>Rigidbody<br>|assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate_oilrig.prefab|
+|CodelockedHackableCrate|209286362|HackableLockedCrate<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>Rigidbody<br>NavMeshObstacle<br>|assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate.prefab|
+|CodelockedHackableCrate_Oilrig|2043434947|HackableLockedCrate<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>Rigidbody<br>NavMeshObstacle<br>|assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate_oilrig.prefab|
 |clan.table|319712039|ClanTable<br>|assets/prefabs/deployable/clan table/clan.table.prefab|
 |clantable.deployed|1545936318|ClanTable<br>Model<br>DestroyOnGroundMissing<br>GroundWatch<br>|assets/prefabs/deployable/clan table/clantable.deployed.prefab|
 |clantable.static|1091538011|ClanTable<br>Model<br>|assets/prefabs/deployable/clan table/clantable.static.prefab|
@@ -1371,7 +1371,7 @@
 |HalloweenPortalEntry|3939551954|HalloweenDungeon<br>BaseCombatEntity<br>BoxCollider<br>Spawnable<br>|assets/prefabs/missions/portal/halloweenportalentry.prefab|
 |HalloweenPortalExit|1686410832|BasePortal<br>BoxCollider<br>|assets/prefabs/missions/portal/halloweenportalexit.prefab|
 |MineDungeon|3461158248|ProceduralDynamicDungeon<br>MonumentNavMesh<br>|assets/prefabs/missions/portal/minedungeon.prefab|
-|XmasTunnelLootBox|3343729976|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>Model<br>|assets/prefabs/missions/portal/proceduraldungeon/xmastunnels/loot/xmastunnellootbox.prefab|
+|XmasTunnelLootBox|3343729976|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>NavMeshObstacle<br>Model<br>|assets/prefabs/missions/portal/proceduraldungeon/xmastunnels/loot/xmastunnellootbox.prefab|
 |XmasGingerbreadDungeon|2614965312|ProceduralDynamicDungeon<br>MonumentNavMesh<br>|assets/prefabs/missions/portal/xmasgingerbreaddungeon.prefab|
 |XMasPortalEntry|2270960267|XmasDungeon<br>BaseCombatEntity<br>BasePortal<br>BoxCollider<br>Spawnable<br>|assets/prefabs/missions/portal/xmasportalentry.prefab|
 |XmasPortalExit|2696291976|BasePortal<br>BoxCollider<br>|assets/prefabs/missions/portal/xmasportalexit.prefab|
@@ -1690,6 +1690,7 @@
 |spear_stone.entity|1943636975|BaseMelee<br>HeldEntity<br>|assets/prefabs/weapons/stone spear/spear_stone.entity.prefab|
 |salvaged_sword.entity|1663991785|BaseMelee<br>HeldEntity<br>|assets/prefabs/weapons/sword/salvaged_sword.entity.prefab|
 |longsword.entity|3395979968|BaseMelee<br>HeldEntity<br>|assets/prefabs/weapons/sword big/longsword.entity.prefab|
+|t1_smg.entity|4251501342|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/t1 smg/t1_smg.entity.prefab|
 |thompson.entity|3243900999|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/thompson/thompson.entity.prefab|
 |toolgun.entity|417347909|Toolgun<br>BaseMelee<br>HeldEntity<br>AttackEntity<br>Model<br>|assets/prefabs/weapons/toolgun/toolgun.entity.prefab|
 |torch.entity|1543342082|TorchWeapon<br>HeldEntity<br>AttackEntity<br>|assets/prefabs/weapons/torch/torch.entity.prefab|
@@ -1748,6 +1749,7 @@
 |Stag|1378621008|Stag<br>BaseCombatEntity<br>BaseNpc<br>NavMeshAgent<br>Spawnable<br>CapsuleCollider<br>AnimalBrain<br>NPCNavigator<br>|assets/rust.ai/agents/stag/stag.prefab|
 |Wolf.Corpse|4107384580|BaseCorpse<br>ResourceDispenser<br>HeadDispenser<br>|assets/rust.ai/agents/wolf/wolf.corpse.prefab|
 |Wolf|2144238755|Wolf<br>BaseCombatEntity<br>BaseNpc<br>NavMeshAgent<br>Spawnable<br>CapsuleCollider<br>AnimalBrain<br>NPCNavigator<br>|assets/rust.ai/agents/wolf/wolf.prefab|
+|Wolf2|2288788453|Wolf2<br>BaseCombatEntity<br>NavMeshAgent<br>Spawnable<br>CapsuleCollider<br>LimitedTurnNavAgent<br>RootMotionPlayer<br>SenseComponent<br>Wolf2FSM<br>BlackboardComponent<br>|assets/rust.ai/agents/wolf/wolf2.prefab|
 |Zombie.Corpse|81333250|BaseCorpse<br>|assets/rust.ai/agents/zombie/zombie.corpse.prefab|
 |Zombie|2805320019|Zombie<br>BaseCombatEntity<br>BaseNpc<br>NavMeshAgent<br>Spawnable<br>AiManagedAgent<br>CapsuleCollider<br>|assets/rust.ai/agents/zombie/zombie.prefab|
 |TestRidableHorse|2421623959|RidableHorse<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>CapsuleCollider<br>Rigidbody<br>Spawnable<br>|assets/rust.ai/nextai/testridablehorse.prefab|
