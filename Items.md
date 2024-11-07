@@ -927,6 +927,7 @@
 |<img src="https://rustlabs.com/img/items180/spear.stone.png" width="100" height="80">|Stone Spear|spear.stone|1602646136|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |<img src="https://rustlabs.com/img/items180/longsword.png" width="100" height="80">|Longsword|longsword|-1469578201|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |<img src="https://rustlabs.com/img/items180/salvaged.sword.png" width="100" height="80">|Salvaged Sword|salvaged.sword|1326180354|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
+|<img src="https://rustlabs.com/img/items180/t1_smg.png" width="100" height="80">|Handmade SMG|t1_smg|2083256995|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |<img src="https://rustlabs.com/img/items180/smg.thompson.png" width="100" height="80">|Thompson|smg.thompson|-1758372725|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |<img src="https://rustlabs.com/img/items180/toolgun.png" width="100" height="80">|Garry's Mod Tool Gun|toolgun|1803831286|ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://rustlabs.com/img/items180/torch.png" width="100" height="80">|Torch|torch|795236088|ItemModEntity<br>ItemBlueprint<br>|
