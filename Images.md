@@ -810,7 +810,6 @@
 |assets/scenes/release/range/biometexture.png|
 |assets/scenes/release/range/heighttexture.png|
 |assets/scenes/release/range/normaltexture.png|
-|assets/scenes/release/range/splattexture0.png|
 |assets/scenes/release/range/splattexture1.png|
 |assets/scenes/release/range/topologytexture.png|
 |assets/scenes/release/skinviewer/skinviewer_border.png|
