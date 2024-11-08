@@ -6453,6 +6453,7 @@
 |assets/prefabs/player/gestures/crude pack/gesture.shushvocal.asset|
 |assets/prefabs/player/gestures/crude pack/gesture.throatcut.asset|
 |assets/prefabs/player/gestures/crude pack/gesture.watchingyou.asset|
+|assets/prefabs/player/gestures/crude pack/gesturepack.item.asset|
 |assets/prefabs/player/gestures/gesture.cabbagepatch.asset|
 |assets/prefabs/player/gestures/gesture.clap.asset|
 |assets/prefabs/player/gestures/gesture.flashblinded.asset|
