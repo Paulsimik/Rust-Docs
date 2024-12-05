@@ -810,18 +810,10 @@
 |assets/scenes/release/range/biometexture.png|
 |assets/scenes/release/range/heighttexture.png|
 |assets/scenes/release/range/normaltexture.png|
+|assets/scenes/release/range/splattexture0.png|
 |assets/scenes/release/range/splattexture1.png|
 |assets/scenes/release/range/topologytexture.png|
 |assets/scenes/release/skinviewer/skinviewer_border.png|
-|assets/scenes/release/tutorial island/alphatexture.png|
-|assets/scenes/release/tutorial island/biometexture.png|
-|assets/scenes/release/tutorial island/distancetexture.png|
-|assets/scenes/release/tutorial island/heighttexture.png|
-|assets/scenes/release/tutorial island/normaltexture.png|
-|assets/scenes/release/tutorial island/splattexture0.png|
-|assets/scenes/release/tutorial island/splattexture1.png|
-|assets/scenes/release/tutorial island/topologytexture.png|
-|assets/scenes/release/tutorial island/watertexture.png|
 |assets/scenes/test/billbtestmap/billbtestmap terrain/alphatexture.png|
 |assets/scenes/test/billbtestmap/billbtestmap terrain/biometexture.png|
 |assets/scenes/test/billbtestmap/billbtestmap terrain/distancetexture.png|
@@ -896,6 +888,15 @@
 |assets/scenes/test/train_tunnels_test/train_tunnels_test/splattexture1.png|
 |assets/scenes/test/train_tunnels_test/train_tunnels_test/topologytexture.png|
 |assets/scenes/test/train_tunnels_test/train_tunnels_test/watertexture.png|
+|assets/scenes/test/tutorialisland/tutorial island/alphatexture.png|
+|assets/scenes/test/tutorialisland/tutorial island/biometexture.png|
+|assets/scenes/test/tutorialisland/tutorial island/distancetexture.png|
+|assets/scenes/test/tutorialisland/tutorial island/heighttexture.png|
+|assets/scenes/test/tutorialisland/tutorial island/normaltexture.png|
+|assets/scenes/test/tutorialisland/tutorial island/splattexture0.png|
+|assets/scenes/test/tutorialisland/tutorial island/splattexture1.png|
+|assets/scenes/test/tutorialisland/tutorial island/topologytexture.png|
+|assets/scenes/test/tutorialisland/tutorial island/watertexture.png|
 |assets/scenes/test/waterlevelterrain/alphatexture.png|
 |assets/scenes/test/waterlevelterrain/biometexture.png|
 |assets/scenes/test/waterlevelterrain/heighttexture.png|
