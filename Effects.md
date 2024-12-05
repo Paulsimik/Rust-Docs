@@ -606,6 +606,9 @@
 |assets/bundled/prefabs/fx/weapons/survey_charge/survey_charge_stick.prefab|
 |assets/bundled/prefabs/fx/well/pump_down.prefab|
 |assets/bundled/prefabs/fx/well/pump_up.prefab|
+|assets/bundled/prefabs/modding/fx/fire_static_01.prefab|
+|assets/bundled/prefabs/modding/fx/fire_static_02.prefab|
+|assets/bundled/prefabs/modding/fx/fire_static_03.prefab|
 |assets/content/effects/brzone/brzone.prefab|
 |assets/content/effects/candle.prefab|
 |assets/content/effects/cars/pfx_car_collision.prefab|
@@ -723,6 +726,7 @@
 |assets/content/effects/muzzleflashes/smg/muzzle_flash_smg_twin.prefab|
 |assets/content/effects/muzzleflashes/smg/shell_eject_smg.prefab|
 |assets/content/effects/objects/decal_box.prefab|
+|assets/content/effects/ocean visibility gizmo.prefab|
 |assets/content/effects/rotorwashparticles_large.prefab|
 |assets/content/effects/rotorwashparticles_small.prefab|
 |assets/content/effects/water/bullet_trails_underwater_01.prefab|
@@ -984,6 +988,8 @@
 |assets/prefabs/deployable/research table/effects/research-success.prefab|
 |assets/prefabs/deployable/research table/effects/research-table-deploy.prefab|
 |assets/prefabs/deployable/rug/effects/rug-deploy.prefab|
+|assets/prefabs/deployable/sculptures/icesculpture/effects/sculpture fumes.prefab|
+|assets/prefabs/deployable/sculptures/icesculpture/effects/sculpture impact.prefab|
 |assets/prefabs/deployable/search light/effects/search-light-deploy.prefab|
 |assets/prefabs/deployable/shelves/effects/shelves-deploy.prefab|
 |assets/prefabs/deployable/signs/effects/large-banner-deploy.prefab|
@@ -2016,6 +2022,7 @@
 |assets/prefabs/weapons/t1 smg/effects/attack.prefab|
 |assets/prefabs/weapons/t1 smg/effects/attack_muzzlebrake.prefab|
 |assets/prefabs/weapons/t1 smg/effects/attack_silenced.prefab|
+|assets/prefabs/weapons/t1 smg/effects/eject_shell.prefab|
 |assets/prefabs/weapons/t1 smg/effects/w_drop_magazine.prefab|
 |assets/prefabs/weapons/thompson/effects/attack.prefab|
 |assets/prefabs/weapons/thompson/effects/attack_muzzlebrake.prefab|
