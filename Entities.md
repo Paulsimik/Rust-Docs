@@ -46,15 +46,15 @@
 |Loot-Barrel-1|966676416|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>|assets/bundled/prefabs/autospawn/resource/loot/loot-barrel-1.prefab|
 |Loot-Barrel-2|555882409|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>|assets/bundled/prefabs/autospawn/resource/loot/loot-barrel-2.prefab|
 |Trash-Pile-1|615147957|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/autospawn/resource/loot/trash-pile-1.prefab|
-|Metal-Ore|3774647716|Spawnable<br>OreResourceEntity<br>ResourceEntity<br>ResourceDispenser<br>NavMeshObstacle<br>|assets/bundled/prefabs/autospawn/resource/ores/metal-ore.prefab|
-|Stone-Ore|4124824587|Spawnable<br>OreResourceEntity<br>ResourceEntity<br>ResourceDispenser<br>NavMeshObstacle<br>PrefabParameters<br>|assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab|
-|Sulfur-Ore|3058967796|Spawnable<br>OreResourceEntity<br>ResourceEntity<br>ResourceDispenser<br>NavMeshObstacle<br>|assets/bundled/prefabs/autospawn/resource/ores/sulfur-ore.prefab|
-|Metal-Ore|4225479497|Spawnable<br>OreResourceEntity<br>ResourceEntity<br>ResourceDispenser<br>NavMeshObstacle<br>|assets/bundled/prefabs/autospawn/resource/ores_sand/metal-ore.prefab|
-|Stone-Ore|266547145|Spawnable<br>OreResourceEntity<br>ResourceEntity<br>ResourceDispenser<br>NavMeshObstacle<br>|assets/bundled/prefabs/autospawn/resource/ores_sand/stone-ore.prefab|
-|Sulfur-Ore|1227527004|Spawnable<br>OreResourceEntity<br>ResourceEntity<br>ResourceDispenser<br>NavMeshObstacle<br>|assets/bundled/prefabs/autospawn/resource/ores_sand/sulfur-ore.prefab|
-|Metal-Ore|3345228353|Spawnable<br>OreResourceEntity<br>ResourceEntity<br>ResourceDispenser<br>NavMeshObstacle<br>|assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab|
-|Stone-Ore|723721358|Spawnable<br>OreResourceEntity<br>ResourceEntity<br>ResourceDispenser<br>NavMeshObstacle<br>|assets/bundled/prefabs/autospawn/resource/ores_snow/stone-ore.prefab|
-|Sulfur-Ore|2204178116|Spawnable<br>OreResourceEntity<br>ResourceEntity<br>ResourceDispenser<br>NavMeshObstacle<br>|assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab|
+|Metal-Ore|3774647716|Spawnable<br>OreResourceEntity<br>ResourceEntity<br>ResourceDispenser<br>NavMeshObstacle<br>MeshCollider<br>|assets/bundled/prefabs/autospawn/resource/ores/metal-ore.prefab|
+|Stone-Ore|4124824587|Spawnable<br>OreResourceEntity<br>ResourceEntity<br>ResourceDispenser<br>NavMeshObstacle<br>PrefabParameters<br>MeshCollider<br>|assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab|
+|Sulfur-Ore|3058967796|Spawnable<br>OreResourceEntity<br>ResourceEntity<br>ResourceDispenser<br>NavMeshObstacle<br>MeshCollider<br>|assets/bundled/prefabs/autospawn/resource/ores/sulfur-ore.prefab|
+|Metal-Ore|4225479497|Spawnable<br>OreResourceEntity<br>ResourceEntity<br>ResourceDispenser<br>NavMeshObstacle<br>MeshCollider<br>|assets/bundled/prefabs/autospawn/resource/ores_sand/metal-ore.prefab|
+|Stone-Ore|266547145|Spawnable<br>OreResourceEntity<br>ResourceEntity<br>ResourceDispenser<br>NavMeshObstacle<br>MeshCollider<br>|assets/bundled/prefabs/autospawn/resource/ores_sand/stone-ore.prefab|
+|Sulfur-Ore|1227527004|Spawnable<br>OreResourceEntity<br>ResourceEntity<br>ResourceDispenser<br>NavMeshObstacle<br>MeshCollider<br>|assets/bundled/prefabs/autospawn/resource/ores_sand/sulfur-ore.prefab|
+|Metal-Ore|3345228353|Spawnable<br>OreResourceEntity<br>ResourceEntity<br>ResourceDispenser<br>NavMeshObstacle<br>MeshCollider<br>|assets/bundled/prefabs/autospawn/resource/ores_snow/metal-ore.prefab|
+|Stone-Ore|723721358|Spawnable<br>OreResourceEntity<br>ResourceEntity<br>ResourceDispenser<br>NavMeshObstacle<br>MeshCollider<br>|assets/bundled/prefabs/autospawn/resource/ores_snow/stone-ore.prefab|
+|Sulfur-Ore|2204178116|Spawnable<br>OreResourceEntity<br>ResourceEntity<br>ResourceDispenser<br>NavMeshObstacle<br>MeshCollider<br>|assets/bundled/prefabs/autospawn/resource/ores_snow/sulfur-ore.prefab|
 |swamp_tree_a|423714466|Spawnable<br>TreeEntity<br>ResourceDispenser<br>MeshCollider<br>|assets/bundled/prefabs/autospawn/resource/swamp-trees/swamp_tree_a.prefab|
 |swamp_tree_b|1848193368|Spawnable<br>TreeEntity<br>ResourceDispenser<br>MeshCollider<br>|assets/bundled/prefabs/autospawn/resource/swamp-trees/swamp_tree_b.prefab|
 |swamp_tree_c|2687734821|Spawnable<br>TreeEntity<br>ResourceDispenser<br>MeshCollider<br>|assets/bundled/prefabs/autospawn/resource/swamp-trees/swamp_tree_c.prefab|
@@ -242,15 +242,18 @@
 |Douglas_Fir_d_small|3060306561|Spawnable<br>TreeEntity<br>ResourceDispenser<br>MeshCollider<br>|assets/bundled/prefabs/autospawn/resource/v3_tundra_forestside/douglas_fir_d_small.prefab|
 |Pine_b|2783943766|Spawnable<br>TreeEntity<br>ResourceDispenser<br>MeshCollider<br>|assets/bundled/prefabs/autospawn/resource/v3_tundra_forestside/pine_b.prefab|
 |Pine_d|3941253061|Spawnable<br>TreeEntity<br>ResourceDispenser<br>MeshCollider<br>|assets/bundled/prefabs/autospawn/resource/v3_tundra_forestside/pine_d.prefab|
-|Wood-Pile|2891219449|Spawnable<br>OreResourceEntity<br>ResourceEntity<br>ResourceDispenser<br>NavMeshObstacle<br>|assets/bundled/prefabs/autospawn/resource/wood_log_pile/wood-pile.prefab|
+|Wood-Pile|2891219449|Spawnable<br>OreResourceEntity<br>ResourceEntity<br>ResourceDispenser<br>NavMeshObstacle<br>MeshCollider<br>|assets/bundled/prefabs/autospawn/resource/wood_log_pile/wood-pile.prefab|
 |Fireball|3369311876|FireBall<br>Rigidbody<br>BoxCollider<br>|assets/bundled/prefabs/fireball.prefab|
 |Fireball_Small|2086405370|FireBall<br>Rigidbody<br>BoxCollider<br>|assets/bundled/prefabs/fireball_small.prefab|
 |Fireball_Small_Arrow|1081379866|FireBall<br>Rigidbody<br>BoxCollider<br>|assets/bundled/prefabs/fireball_small_arrow.prefab|
 |Fireball_Small_Molotov|2673585394|FireBall<br>Rigidbody<br>BoxCollider<br>|assets/bundled/prefabs/fireball_small_molotov.prefab|
 |fireball_small_shotgun|1837652231|FireBall<br>Rigidbody<br>BoxCollider<br>|assets/bundled/prefabs/fireball_small_shotgun.prefab|
-|admin_cliff_low_arc|3646182337|BaseEntity<br>|assets/bundled/prefabs/modding/admin/admin_cliff_low_arc.prefab|
-|admin_Cliff_medium_arc_arid_small|4075671165|BaseEntity<br>|assets/bundled/prefabs/modding/admin/admin_cliff_medium_arc_arid_small.prefab|
+|admin_cliff_large_a|409469884|BaseEntity<br>|assets/bundled/prefabs/modding/admin/admin_cliff_large_a.prefab|
+|admin_cliff_med_a|3695298025|BaseEntity<br>|assets/bundled/prefabs/modding/admin/admin_cliff_med_a.prefab|
+|admin_invis_cube_3x3|168697730|BaseEntity<br>|assets/bundled/prefabs/modding/admin/admin_invis_cube_3x3.prefab|
+|admin_invis_wall_01|469679773|BaseEntity<br>|assets/bundled/prefabs/modding/admin/admin_invis_wall_01.prefab|
 |admin_rock_Clutter_medium_d|3408002736|BaseEntity<br>|assets/bundled/prefabs/modding/admin/admin_rock_clutter_medium_d.prefab|
+|admin_rock_formation_a|3993923542|BaseEntity<br>|assets/bundled/prefabs/modding/admin/admin_rock_formation_a.prefab|
 |admin_rock_formation_medium_a|2774275652|BaseEntity<br>|assets/bundled/prefabs/modding/admin/admin_rock_formation_medium_a.prefab|
 |admin_rock_formation_small_c|2998578701|BaseEntity<br>|assets/bundled/prefabs/modding/admin/admin_rock_formation_small_c.prefab|
 |admin_rock_quarry_small_a|1858217462|BaseEntity<br>|assets/bundled/prefabs/modding/admin/admin_rock_quarry_small_a.prefab|
@@ -334,9 +337,9 @@
 |loot_trash|3279100614|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>|assets/bundled/prefabs/radtown/loot_trash.prefab|
 |minecart|1768976424|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/radtown/minecart.prefab|
 |oil_barrel|3438187947|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>MeshCollider<br>NavMeshObstacle<br>|assets/bundled/prefabs/radtown/oil_barrel.prefab|
-|ore_metal|3327726152|Spawnable<br>OreResourceEntity<br>ResourceEntity<br>ResourceDispenser<br>NavMeshObstacle<br>|assets/bundled/prefabs/radtown/ore_metal.prefab|
-|ore_stone|960501790|Spawnable<br>OreResourceEntity<br>ResourceEntity<br>ResourceDispenser<br>NavMeshObstacle<br>|assets/bundled/prefabs/radtown/ore_stone.prefab|
-|ore_sulfur|152562243|Spawnable<br>OreResourceEntity<br>ResourceEntity<br>ResourceDispenser<br>NavMeshObstacle<br>|assets/bundled/prefabs/radtown/ore_sulfur.prefab|
+|ore_metal|3327726152|Spawnable<br>OreResourceEntity<br>ResourceEntity<br>ResourceDispenser<br>NavMeshObstacle<br>MeshCollider<br>|assets/bundled/prefabs/radtown/ore_metal.prefab|
+|ore_stone|960501790|Spawnable<br>OreResourceEntity<br>ResourceEntity<br>ResourceDispenser<br>NavMeshObstacle<br>MeshCollider<br>|assets/bundled/prefabs/radtown/ore_stone.prefab|
+|ore_sulfur|152562243|Spawnable<br>OreResourceEntity<br>ResourceEntity<br>ResourceDispenser<br>NavMeshObstacle<br>MeshCollider<br>|assets/bundled/prefabs/radtown/ore_sulfur.prefab|
 |crate_ammunition|2439530480|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/radtown/underwater_labs/crate_ammunition.prefab|
 |crate_elite|96231181|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>NavMeshObstacle<br>|assets/bundled/prefabs/radtown/underwater_labs/crate_elite.prefab|
 |crate_food_1|808303766|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/radtown/underwater_labs/crate_food_1.prefab|
@@ -430,6 +433,7 @@
 |recycler_static|1729604075|Recycler<br>BaseCombatEntity<br>DecayEntity<br>|assets/bundled/prefabs/static/recycler_static.prefab|
 |repairbench_static|1123731744|RepairBench<br>BaseCombatEntity<br>DecayEntity<br>|assets/bundled/prefabs/static/repairbench_static.prefab|
 |researchtable_static|1827442529|ResearchTable<br>BaseCombatEntity<br>DecayEntity<br>|assets/bundled/prefabs/static/researchtable_static.prefab|
+|skull_fire_pit_on.static|2980496069|BaseEntity<br>MeshCollider<br>|assets/bundled/prefabs/static/skull_fire_pit_on.static.prefab|
 |small_refinery_static|919097516|BaseOven<br>BaseCombatEntity<br>DecayEntity<br>EntityFlag_Toggle<br>|assets/bundled/prefabs/static/small_refinery_static.prefab|
 |sofa.static|2141875269|BaseVehicle<br>BaseCombatEntity<br>Model<br>MeshCollider<br>|assets/bundled/prefabs/static/sofa.static.prefab|
 |sofa_pattern.static|1268321790|BaseVehicle<br>BaseCombatEntity<br>Model<br>MeshCollider<br>|assets/bundled/prefabs/static/sofa_pattern.static.prefab|
@@ -533,7 +537,7 @@
 |rocket_crane_lift_nd|93825801|Lift<br>BaseCombatEntity<br>StabilityEntity<br>DecayEntity<br>Model<br>|assets/content/structures/rocket_crane/rocket_crane_lift_nd.prefab|
 |rocket_crane_lift_trigger|2081743917|BaseEntity<br>|assets/content/structures/rocket_crane/rocket_crane_lift_trigger.prefab|
 |ItemPreview_TomahaSnowmobile|1794744859|BaseEntity<br>|assets/content/ui/menuui/itemstore/previews/itempreview_tomahasnowmobile.prefab|
-|AttackHelicopter.entity|3052610534|AttackHelicopter<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>BaseHelicopter<br>Rigidbody<br>Model<br>PhysicsEffects<br>|assets/content/vehicles/attackhelicopter/attackhelicopter.entity.prefab|
+|AttackHelicopter.entity|3052610534|AttackHelicopter<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>BaseHelicopter<br>Rigidbody<br>Model<br>PhysicsEffects<br>MagnetLiftable<br>|assets/content/vehicles/attackhelicopter/attackhelicopter.entity.prefab|
 |fuel_storage_attackheli|1538952634|StorageContainer<br>BaseCombatEntity<br>|assets/content/vehicles/attackhelicopter/subents/fuel_storage_attackheli.prefab|
 |rockets_attackheli|2338617081|AttackHelicopterRockets<br>BaseCombatEntity<br>DecayEntity<br>Model<br>|assets/content/vehicles/attackhelicopter/subents/rockets_attackheli.prefab|
 |turret_attackheli|1707353991|AttackHelicopterTurret<br>BaseCombatEntity<br>DecayEntity<br>Model<br>|assets/content/vehicles/attackhelicopter/subents/turret_attackheli.prefab|
@@ -562,8 +566,7 @@
 |Shreddable_PickupTruck|962565779|BaseCombatEntity<br>Rigidbody<br>MagnetLiftable<br>|assets/content/vehicles/crane_magnet/shreddable_pickuptruck.prefab|
 |DPV.deployed|2559713376|DiverPropulsionVehicle<br>BaseCombatEntity<br>Model<br>GroundWatch<br>Rigidbody<br>|assets/content/vehicles/dpv/dpv.deployed.prefab|
 |DPVFuelStorage|3745895619|StorageContainer<br>BaseCombatEntity<br>|assets/content/vehicles/dpv/dpvfuelstorage.prefab|
-|DPVOLD.entity|1641492521|BaseSubmarine<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Spawnable<br>|assets/content/vehicles/dpv/dpvold.entity.prefab|
-|minicopter.entity|2278499844|Minicopter<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>BaseHelicopter<br>Rigidbody<br>Spawnable<br>PhysicsEffects<br>|assets/content/vehicles/minicopter/minicopter.entity.prefab|
+|minicopter.entity|2278499844|Minicopter<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>BaseHelicopter<br>Rigidbody<br>Spawnable<br>PhysicsEffects<br>MagnetLiftable<br>|assets/content/vehicles/minicopter/minicopter.entity.prefab|
 |fuel_storage|1950679400|StorageContainer<br>BaseCombatEntity<br>BoxCollider<br>|assets/content/vehicles/minicopter/subents/fuel_storage.prefab|
 |mlrs.entity|223554808|MLRS<br>BaseCombatEntity<br>Spawnable<br>Model<br>|assets/content/vehicles/mlrs/mlrs.entity.prefab|
 |MLRSRocketMarker|187601267|MapMarkerMLRSRocket<br>|assets/content/vehicles/mlrs/mlrsrocketmarker.prefab|
@@ -628,9 +631,10 @@
 |modular_car_camper_storage|1242362139|StorageContainer<br>BaseCombatEntity<br>Model<br>|assets/content/vehicles/modularcar/subents/modular_car_camper_storage.prefab|
 |modular_car_fuel_storage|134803077|StorageContainer<br>BaseCombatEntity<br>|assets/content/vehicles/modularcar/subents/modular_car_fuel_storage.prefab|
 |modular_car_I4_engine_storage|3092307067|EngineStorage<br>BaseCombatEntity<br>DecayEntity<br>|assets/content/vehicles/modularcar/subents/modular_car_i4_engine_storage.prefab|
+|modular_car_radio|181479306|ModularCarRadio<br>BoxCollider<br>BoomBox<br>|assets/content/vehicles/modularcar/subents/modular_car_radio.prefab|
 |modular_car_sleepingbag_campervan|2568114225|BoxCollider<br>SleepingBagCamper<br>BaseCombatEntity<br>DecayEntity<br>|assets/content/vehicles/modularcar/subents/modular_car_sleepingbag_campervan.prefab|
 |modular_car_V8_engine_storage|4151790624|EngineStorage<br>BaseCombatEntity<br>DecayEntity<br>|assets/content/vehicles/modularcar/subents/modular_car_v8_engine_storage.prefab|
-|ScrapTransportHelicopter|3484163637|Spawnable<br>ScrapTransportHelicopter<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>BaseHelicopter<br>Rigidbody<br>PhysicsEffects<br>EntityFlag_Toggle<br>|assets/content/vehicles/scrap heli carrier/scraptransporthelicopter.prefab|
+|ScrapTransportHelicopter|3484163637|Spawnable<br>ScrapTransportHelicopter<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>BaseHelicopter<br>Rigidbody<br>PhysicsEffects<br>EntityFlag_Toggle<br>MagnetLiftable<br>|assets/content/vehicles/scrap heli carrier/scraptransporthelicopter.prefab|
 |ServerGibs_ScrapTransport|1202855575|HelicopterDebris<br>BaseCombatEntity<br>ResourceDispenser<br>|assets/content/vehicles/scrap heli carrier/servergibs_scraptransport.prefab|
 |fuel_storage_scrapheli|2664694037|StorageContainer<br>BaseCombatEntity<br>BoxCollider<br>LootDistanceOverride<br>|assets/content/vehicles/scrap heli carrier/subents/fuel_storage_scrapheli.prefab|
 |sedanrail.entity|207357730|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Model<br>Spawnable<br>|assets/content/vehicles/sedan_a/sedanrail.entity.prefab|
@@ -679,6 +683,7 @@
 |workcart.entity|2059952138|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>Model<br>|assets/content/vehicles/trains/workcart/workcart.entity.prefab|
 |workcart_aboveground.entity|1173017984|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>Model<br>PrefabParameters<br>|assets/content/vehicles/trains/workcart/workcart_aboveground.entity.prefab|
 |workcart_aboveground2.entity|2466349118|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Spawnable<br>Model<br>PrefabParameters<br>|assets/content/vehicles/trains/workcart/workcart_aboveground2.entity.prefab|
+|WorkCartItemStorage|317322483|StorageContainer<br>BaseCombatEntity<br>|assets/content/vehicles/trains/workcart/workcartitemstorage.prefab|
 |40mm_grenade_he|1859672190|TimedExplosive<br>ServerProjectile<br>|assets/prefabs/ammo/40mmgrenade/40mm_grenade_he.prefab|
 |40mm_grenade_smoke|1502533292|SmokeGrenade<br>ServerProjectile<br>CapsuleCollider<br>|assets/prefabs/ammo/40mmgrenade/40mm_grenade_smoke.prefab|
 |arrow|26759631|WorldItem<br>BoxCollider<br>Rigidbody<br>ColliderInfo<br>|assets/prefabs/ammo/arrow/arrow.prefab|
@@ -823,6 +828,7 @@
 |furnace.large|1374462671|BaseOven<br>BaseCombatEntity<br>DecayEntity<br>EntityFlag_Toggle<br>MeshCollider<br>Model<br>|assets/prefabs/deployable/furnace.large/furnace.large.prefab|
 |WeaponRackLight|107031364|SimpleLight<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/gun_rack/weaponracklight.prefab|
 |WeaponRackLightDouble|3489283376|SimpleLight<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/gun_rack/weaponracklightdouble.prefab|
+|HazmatPlushy_deployed|2953997641|BaseCombatEntity<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/hazmatplushy/hazmatplushy_deployed.prefab|
 |HitchTrough.deployed|3238272924|HitchTrough<br>BaseCombatEntity<br>DecayEntity<br>Model<br>DestroyOnGroundMissing<br>GroundWatch<br>|assets/prefabs/deployable/hitch & trough/hitchtrough.deployed.prefab|
 |door.hinged.HAB_T1|1684527864|Door<br>BaseCombatEntity<br>StabilityEntity<br>DecayEntity<br>Model<br>|assets/prefabs/deployable/hot air balloon/door.hinged.hab_t1.prefab|
 |HotAirBalloon|3111236903|HotAirBalloon<br>Rigidbody<br>Spawnable<br>|assets/prefabs/deployable/hot air balloon/hotairballoon.prefab|
@@ -912,6 +918,8 @@
 |researchtable_deployed|146554961|ResearchTable<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/research table/researchtable_deployed.prefab|
 |rug.bear.deployed|3110378351|DecorDeployable<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/rug/rug.bear.deployed.prefab|
 |rug.deployed|4196580066|DecorDeployable<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/rug/rug.deployed.prefab|
+|sculpture.ice.deployed|2793055883|BaseSculpture<br>BaseCombatEntity<br>DecayEntity<br>DestroyOnGroundMissing<br>GroundWatch<br>MeshCollider<br>|assets/prefabs/deployable/sculptures/icesculpture/sculpture.ice.deployed.prefab|
+|AssociatedSculptureStorage|3422977757|AssociatedSculptureStorage<br>|assets/prefabs/deployable/sculptures/shared/associatedsculpturestorage.prefab|
 |searchlight.deployed|1427415412|SearchLight<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/search light/searchlight.deployed.prefab|
 |secretlabchair.deployed|286221745|BaseChair<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/secretlab chair/secretlabchair.deployed.prefab|
 |shelves|501605075|DecorDeployable<br>BaseCombatEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/shelves/shelves.prefab|
@@ -1031,6 +1039,7 @@
 |ORSwitch|2179325520|ORSwitch<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/io/electric/switches/orswitch.prefab|
 |PressButton|4224395968|PressButton<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/io/electric/switches/pressbutton/pressbutton.prefab|
 |PressButton_compact|3594608867|PressButton<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/io/electric/switches/pressbutton/pressbutton_compact.prefab|
+|PressButton_Invisible|2427905255|PressButton<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/io/electric/switches/pressbutton/pressbutton_invisible.prefab|
 |PressButton_OfficeElevatorCall|3024956667|PressButton_TrainTunnel<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>BoxCollider<br>|assets/prefabs/io/electric/switches/pressbutton/pressbutton_officeelevatorcall.prefab|
 |PressButton_OfficeElevatorDown|2322765486|PressButton_TrainTunnel<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>BoxCollider<br>|assets/prefabs/io/electric/switches/pressbutton/pressbutton_officeelevatordown.prefab|
 |PressButton_OfficeElevatorUp|322122625|PressButton_TrainTunnel<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>BoxCollider<br>|assets/prefabs/io/electric/switches/pressbutton/pressbutton_officeelevatorup.prefab|
@@ -1236,6 +1245,7 @@
 |platform.exclusion.entity|2065397772|PlatformEntity<br>|assets/prefabs/misc/platform/platform.exclusion.entity.prefab|
 |platform.force.entity|1224573690|PlatformEntity<br>|assets/prefabs/misc/platform/platform.force.entity.prefab|
 |planter.small.respawning.static|4258681299|PlanterBoxStatic<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>MeshCollider<br>Model<br>|assets/prefabs/misc/respawningplanters/planter.small.respawning.static.prefab|
+|SimpleLootBox|2187258018|BoxStorage<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/prefabs/misc/simplelootbox.prefab|
 |abovegroundpool.deployed|2030353082|PaddlingPool<br>BaseCombatEntity<br>ContainerIOEntity<br>IOEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/misc/summer_dlc/abovegroundpool/abovegroundpool.deployed.prefab|
 |beachchair.deployed|3552983236|BaseChair<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/misc/summer_dlc/beach_chair/beachchair.deployed.prefab|
 |beachparasol.deployed|1573548060|DecorDeployable<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/misc/summer_dlc/beach_chair/beachparasol.deployed.prefab|
@@ -1265,6 +1275,12 @@
 |Tunnel_Dwelling_G|2926207843|NPCDwelling<br>|assets/prefabs/misc/tunneldwelling/tunnel_dwelling_g.prefab|
 |Tunnel_Dwelling_H|563461422|NPCDwelling<br>|assets/prefabs/misc/tunneldwelling/tunnel_dwelling_h.prefab|
 |TunnelLootStrip_A|1970684768|NPCDwelling<br>|assets/prefabs/misc/tunneldwelling/tunnellootstrip_a.prefab|
+|HexagonGrid.entity|2384030014|HexagonGridGenerator<br>|assets/prefabs/misc/twitch/hex-a-gone/hexagongrid.entity.prefab|
+|HexagonTile_Blue.entity|608676425|HexagonTile<br>|assets/prefabs/misc/twitch/hex-a-gone/hexagontile_blue.entity.prefab|
+|HexagonTile_Green.entity|1104684023|HexagonTile<br>|assets/prefabs/misc/twitch/hex-a-gone/hexagontile_green.entity.prefab|
+|HexagonTile_Purple.entity|3592367408|HexagonTile<br>|assets/prefabs/misc/twitch/hex-a-gone/hexagontile_purple.entity.prefab|
+|HexagonTile_Red.entity|3997402336|HexagonTile<br>|assets/prefabs/misc/twitch/hex-a-gone/hexagontile_red.entity.prefab|
+|HexagonTile_Yellow.entity|2266932968|HexagonTile<br>|assets/prefabs/misc/twitch/hex-a-gone/hexagontile_yellow.entity.prefab|
 |hobobarrel.deployed|1748062128|BaseOven<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>EntityFlag_Toggle<br>Model<br>MeshCollider<br>|assets/prefabs/misc/twitch/hobobarrel/hobobarrel.deployed.prefab|
 |door.hinged.industrial.a|358326125|Door<br>BaseCombatEntity<br>StabilityEntity<br>DecayEntity<br>Model<br>|assets/prefabs/misc/twitch/industrialdoora/door.hinged.industrial.a.prefab|
 |twitchrivals2023_desk|379322905|ComputerStation<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/misc/twitch/twitch_rivals_2023_desk/twitchrivals2023_desk.prefab|
@@ -1330,8 +1346,8 @@
 |double_doorgarland.deployed|2234313662|SimpleBuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/misc/xmas/double_doorgarland/double_doorgarland.deployed.prefab|
 |GiantCandyCane.deployed|591428215|DecorDeployable<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/misc/xmas/giant_candy_cane/giantcandycane.deployed.prefab|
 |giftbox_loot|2216891097|LootContainer<br>BaseCombatEntity<br>DecayEntity<br>EntityTimedDestroy<br>|assets/prefabs/misc/xmas/giftbox/giftbox_loot.prefab|
-|IceWall|797759041|IceFence<br>BaseCombatEntity<br>StabilityEntity<br>SimpleBuildingBlock<br>DecayEntity<br>NavMeshObstacle<br>|assets/prefabs/misc/xmas/icewalls/icewall.prefab|
-|wall.external.high.ice|921229511|IceFence<br>BaseCombatEntity<br>StabilityEntity<br>SimpleBuildingBlock<br>DecayEntity<br>NavMeshObstacle<br>|assets/prefabs/misc/xmas/icewalls/wall.external.high.ice.prefab|
+|IceWall|797759041|IceFence<br>BaseCombatEntity<br>SimpleBuildingBlock<br>StabilityEntity<br>DecayEntity<br>NavMeshObstacle<br>|assets/prefabs/misc/xmas/icewalls/icewall.prefab|
+|wall.external.high.ice|921229511|IceFence<br>BaseCombatEntity<br>SimpleBuildingBlock<br>StabilityEntity<br>DecayEntity<br>NavMeshObstacle<br>|assets/prefabs/misc/xmas/icewalls/wall.external.high.ice.prefab|
 |Giantlollipops.deployed|2711960434|DecorDeployable<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/misc/xmas/lollipop_bundle/giantlollipops.deployed.prefab|
 |sign.neon.125x125|3919686896|NeonSign<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>DestroyOnGroundMissing<br>GroundWatch<br>BoxCollider<br>|assets/prefabs/misc/xmas/neon_sign/sign.neon.125x125.prefab|
 |sign.neon.125x215.animated|3591916872|NeonSign<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>DestroyOnGroundMissing<br>GroundWatch<br>BoxCollider<br>|assets/prefabs/misc/xmas/neon_sign/sign.neon.125x215.animated.prefab|
@@ -1749,7 +1765,7 @@
 |Stag|1378621008|Stag<br>BaseCombatEntity<br>BaseNpc<br>NavMeshAgent<br>Spawnable<br>CapsuleCollider<br>AnimalBrain<br>NPCNavigator<br>|assets/rust.ai/agents/stag/stag.prefab|
 |Wolf.Corpse|4107384580|BaseCorpse<br>ResourceDispenser<br>HeadDispenser<br>|assets/rust.ai/agents/wolf/wolf.corpse.prefab|
 |Wolf|2144238755|Wolf<br>BaseCombatEntity<br>BaseNpc<br>NavMeshAgent<br>Spawnable<br>CapsuleCollider<br>AnimalBrain<br>NPCNavigator<br>|assets/rust.ai/agents/wolf/wolf.prefab|
-|Wolf2|2288788453|Wolf2<br>BaseCombatEntity<br>NavMeshAgent<br>Spawnable<br>CapsuleCollider<br>LimitedTurnNavAgent<br>RootMotionPlayer<br>SenseComponent<br>Wolf2FSM<br>BlackboardComponent<br>|assets/rust.ai/agents/wolf/wolf2.prefab|
+|Wolf2|2288788453|Wolf2<br>BaseCombatEntity<br>NavMeshAgent<br>Spawnable<br>CapsuleCollider<br>LimitedTurnNavAgent<br>RootMotionPlayer<br>SenseComponent<br>Wolf2FSM<br>BlackboardComponent<br>NPCEncounterTimer<br>|assets/rust.ai/agents/wolf/wolf2.prefab|
 |Zombie.Corpse|81333250|BaseCorpse<br>|assets/rust.ai/agents/zombie/zombie.corpse.prefab|
 |Zombie|2805320019|Zombie<br>BaseCombatEntity<br>BaseNpc<br>NavMeshAgent<br>Spawnable<br>AiManagedAgent<br>CapsuleCollider<br>|assets/rust.ai/agents/zombie/zombie.prefab|
 |TestRidableHorse|2421623959|RidableHorse<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>CapsuleCollider<br>Rigidbody<br>Spawnable<br>|assets/rust.ai/nextai/testridablehorse.prefab|
