@@ -1682,6 +1682,7 @@
 |assets/content/properties/playerinventory/science_shotgn.asset|
 |assets/content/properties/playerinventory/scientist_nvg_outfit.asset|
 |assets/content/properties/playerinventory/scientistmissionproviderattire.asset|
+|assets/content/properties/playerinventory/sculptor.asset|
 |assets/content/properties/playerinventory/spraycan.asset|
 |assets/content/properties/playerinventory/stablehand.asset|
 |assets/content/properties/playerinventory/summerdlc.asset|
@@ -5490,6 +5491,8 @@
 |assets/prefabs/deployable/rug/rug.bear.deployed.skinnable.asset|
 |assets/prefabs/deployable/rug/rug.deployed.skinnable.asset|
 |assets/prefabs/deployable/rug/sound/rug-deploy.asset|
+|assets/prefabs/deployable/sculptures/icesculpture/materials/ice_sculpture_pedestal.asset|
+|assets/prefabs/deployable/sculptures/icesculpture/sculpture.ice.sitem.asset|
 |assets/prefabs/deployable/search light/sound/search-light-active-loop.ambience-def.asset|
 |assets/prefabs/deployable/search light/sound/search-light-active-loop.ambience-list.asset|
 |assets/prefabs/deployable/search light/sound/search-light-active-loop.asset|
@@ -6017,6 +6020,8 @@
 |assets/prefabs/misc/twitch/industrialdoora/door.hinged.metal.industrial.a.skin.asset|
 |assets/prefabs/misc/twitch/twitch_rivals_2023_desk/twitchrivals.sitem.asset|
 |assets/prefabs/misc/twitch/underwear/twitchunderwear.sitem.asset|
+|assets/prefabs/misc/twitch_rivals_flag/cloth.flag.asset|
+|assets/prefabs/misc/twitch_rivals_flag/twitchflag.skeleton.asset|
 |assets/prefabs/misc/xmas/advent_calendar/sound/advent-calendar-deploy.asset|
 |assets/prefabs/misc/xmas/advent_calendar/sound/advent-calendar-open.asset|
 |assets/prefabs/misc/xmas/christmas_lights/lightstring.sitem.asset|
@@ -6441,6 +6446,7 @@
 |assets/prefabs/player/gestures/cinematic/gesture.cinematic.talk_03.asset|
 |assets/prefabs/player/gestures/cinematic/gesture.cinematic.talk_04.asset|
 |assets/prefabs/player/gestures/cinematic/gesture.cinematic.talk_05.asset|
+|assets/prefabs/player/gestures/cinematic/gesture.cinematic.talk_06.asset|
 |assets/prefabs/player/gestures/crude pack/gesture.crankfinger.asset|
 |assets/prefabs/player/gestures/crude pack/gesture.doublemiddlefinger.asset|
 |assets/prefabs/player/gestures/crude pack/gesture.fingergun.asset|
@@ -6650,7 +6656,9 @@
 |assets/prefabs/voiceaudio/boombox/sound/boombox-deploy.asset|
 |assets/prefabs/voiceaudio/boombox/sound/boombox-start.asset|
 |assets/prefabs/voiceaudio/boombox/sound/boombox-stop.asset|
+|assets/prefabs/voiceaudio/boombox/sound/builtinplaylists/airwolf.asset|
 |assets/prefabs/voiceaudio/boombox/sound/builtinplaylists/chippyradio.asset|
+|assets/prefabs/voiceaudio/boombox/sound/builtinplaylists/fishingvillage.asset|
 |assets/prefabs/voiceaudio/boombox/sound/builtinplaylists/rustradio.asset|
 |assets/prefabs/voiceaudio/boombox/sound/builtinplaylists/sonisradio.asset|
 |assets/prefabs/voiceaudio/cassette/preloadedcassettecontent.asset|
@@ -6825,6 +6833,7 @@
 |assets/prefabs/weapons/chainsaw/sound/chainsaw-rev-up.asset|
 |assets/prefabs/weapons/chainsaw/sound/chainsaw-unscrew-gascap.asset|
 |assets/prefabs/weapons/chocolate_cake/material/ssp_birthdaycake_10.asset|
+|assets/prefabs/weapons/chocolate_cake/material/ssp_birthdaycake_11.asset|
 |assets/prefabs/weapons/cleaver big/sound/2handed-cleaver-attack.asset|
 |assets/prefabs/weapons/cleaver big/sound/2handed-cleaver-attack-3p.asset|
 |assets/prefabs/weapons/cleaver big/sound/2handed-cleaver-deploy.asset|
@@ -7664,6 +7673,7 @@
 |assets/rust.ai/agents/stag/stag.population.asset|
 |assets/rust.ai/agents/stag/stag.skeleton.asset|
 |assets/rust.ai/agents/wolf/animation/anim2024_update/wolf_atk_1_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/wolf/animation/anim2024_update/wolf_attack_ledge_rm_rootmotiondata.asset|
 |assets/rust.ai/agents/wolf/animation/anim2024_update/wolf_growlruntowalkback_rm_rootmotiondata.asset|
 |assets/rust.ai/agents/wolf/animation/anim2024_update/wolf_rotate_left_rm_rootmotiondata.asset|
 |assets/rust.ai/agents/wolf/animation/anim2024_update/wolf_rotate_left_rm_rootmotiondata_dst.asset|
@@ -7729,9 +7739,9 @@
 |assets/rust.ai/agents/wolf/sound/wolf-growl-prebark.asset|
 |assets/rust.ai/agents/wolf/sound/wolf-hit-bodyfall.asset|
 |assets/rust.ai/agents/wolf/sound/wolf-idle-growl.asset|
+|assets/rust.ai/agents/wolf/sound/wolf-pain-grunt.asset|
 |assets/rust.ai/agents/wolf/sound/wolf-sleep-exhale.asset|
 |assets/rust.ai/agents/wolf/sound/wolf-sleep-inhale.asset|
-|assets/rust.ai/agents/wolf/sound/wolf-yelp.asset|
 |assets/rust.ai/agents/wolf/wolf.footsteps.asset|
 |assets/rust.ai/agents/wolf/wolf.population.asset|
 |assets/rust.ai/agents/wolf/wolf.skeleton.asset|
