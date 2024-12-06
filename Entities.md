@@ -536,7 +536,7 @@
 |rocket_crane_lift|175890379|Lift<br>BaseCombatEntity<br>StabilityEntity<br>DecayEntity<br>Model<br>|assets/content/structures/rocket_crane/rocket_crane_lift.prefab|
 |rocket_crane_lift_nd|93825801|Lift<br>BaseCombatEntity<br>StabilityEntity<br>DecayEntity<br>Model<br>|assets/content/structures/rocket_crane/rocket_crane_lift_nd.prefab|
 |rocket_crane_lift_trigger|2081743917|BaseEntity<br>|assets/content/structures/rocket_crane/rocket_crane_lift_trigger.prefab|
-|ItemPreview_TomahaSnowmobile|1794744859|BaseEntity<br>|assets/content/ui/menuui/itemstore/previews/itempreview_tomahasnowmobile.prefab|
+|ItemPreview_TomahaSnowmobile|1794744859||assets/content/ui/menuui/itemstore/previews/itempreview_tomahasnowmobile.prefab|
 |AttackHelicopter.entity|3052610534|AttackHelicopter<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>BaseHelicopter<br>Rigidbody<br>Model<br>PhysicsEffects<br>MagnetLiftable<br>|assets/content/vehicles/attackhelicopter/attackhelicopter.entity.prefab|
 |fuel_storage_attackheli|1538952634|StorageContainer<br>BaseCombatEntity<br>|assets/content/vehicles/attackhelicopter/subents/fuel_storage_attackheli.prefab|
 |rockets_attackheli|2338617081|AttackHelicopterRockets<br>BaseCombatEntity<br>DecayEntity<br>Model<br>|assets/content/vehicles/attackhelicopter/subents/rockets_attackheli.prefab|
