@@ -954,6 +954,7 @@
 |assets/content/properties/lootspawn/generated/items/attire/tactical.gloves.asset|
 |assets/content/properties/lootspawn/generated/items/attire/tshirt.asset|
 |assets/content/properties/lootspawn/generated/items/attire/tshirt.long.asset|
+|assets/content/properties/lootspawn/generated/items/attire/twitchrivalsflag.asset|
 |assets/content/properties/lootspawn/generated/items/attire/wood.armor.helmet.asset|
 |assets/content/properties/lootspawn/generated/items/attire/wood.armor.jacket.asset|
 |assets/content/properties/lootspawn/generated/items/attire/wood.armor.pants.asset|
@@ -1045,6 +1046,10 @@
 |assets/content/properties/lootspawn/generated/items/construction/wall.frame.fence.asset|
 |assets/content/properties/lootspawn/generated/items/construction/wall.frame.fence.gate.asset|
 |assets/content/properties/lootspawn/generated/items/construction/wall.frame.garagedoor.asset|
+|assets/content/properties/lootspawn/generated/items/construction/wall.frame.lunar2025_01.asset|
+|assets/content/properties/lootspawn/generated/items/construction/wall.frame.lunar2025_a.asset|
+|assets/content/properties/lootspawn/generated/items/construction/wall.frame.lunar2025_b.asset|
+|assets/content/properties/lootspawn/generated/items/construction/wall.frame.lunar2025_c.asset|
 |assets/content/properties/lootspawn/generated/items/construction/wall.frame.netting.asset|
 |assets/content/properties/lootspawn/generated/items/construction/wall.frame.shopfront.asset|
 |assets/content/properties/lootspawn/generated/items/construction/wall.frame.shopfront.metal.asset|
@@ -1524,6 +1529,7 @@
 |assets/content/properties/lootspawn/generated/items/weapon/spear.stone.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/spear.wooden.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/speargun.asset|
+|assets/content/properties/lootspawn/generated/items/weapon/t1_smg.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/weapon.mod.8x.scope.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/weapon.mod.extendedmags.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/weapon.mod.flashlight.asset|
@@ -5361,6 +5367,10 @@
 |assets/prefabs/deployable/locker/sound/locker-close.asset|
 |assets/prefabs/deployable/locker/sound/locker-deploy.asset|
 |assets/prefabs/deployable/locker/sound/locker-open.asset|
+|assets/prefabs/deployable/lunar_new_year_2025_wall_divider/lunar_near_year_2025_wall_divider.item.asset|
+|assets/prefabs/deployable/lunar_new_year_2025_wall_divider/lunar_near_year_2025_wall_divider.skinnable.asset|
+|assets/prefabs/deployable/lunar_new_year_2025_wall_divider/lunar_near_year_2025_wall_divider_b.skin.asset|
+|assets/prefabs/deployable/lunar_new_year_2025_wall_divider/lunar_near_year_2025_wall_divider_c.skin.asset|
 |assets/prefabs/deployable/mailbox/maildrop.asset|
 |assets/prefabs/deployable/mailbox/sound/mailbox-close.asset|
 |assets/prefabs/deployable/mailbox/sound/mailbox-deploy.asset|
@@ -5742,6 +5752,8 @@
 |assets/prefabs/misc/chinesenewyear/sky_lantern/skylantern.skylantern.orange.skin.asset|
 |assets/prefabs/misc/chinesenewyear/sky_lantern/skylantern.skylantern.purple.skin.asset|
 |assets/prefabs/misc/chinesenewyear/sky_lantern/skylantern.skylantern.red.skin.asset|
+|assets/prefabs/misc/chinesenewyear/snakemask/cloth.snakemaskrope.asset|
+|assets/prefabs/misc/chinesenewyear/snakemask/snakemask.sitem.asset|
 |assets/prefabs/misc/chinesenewyear/throwablefirecrackers/sound/firework_explode.asset|
 |assets/prefabs/misc/chinesenewyear/tigermask/tigermask.sitem.asset|
 |assets/prefabs/misc/chippy arcade/chippyarcade.sitem.asset|
@@ -6695,6 +6707,14 @@
 |assets/prefabs/voiceaudio/telephone/sound/telephone-ring-loop-payphone.asset|
 |assets/prefabs/voiceaudio/telephone/sound/telephone-ring-mobile-loop.asset|
 |assets/prefabs/voiceaudio/telephone/sound/telephone-ring-remote.asset|
+|assets/prefabs/wallpaper/skins/lny25/wallpaper.lny25_bamboo.skin.asset|
+|assets/prefabs/wallpaper/skins/lny25/wallpaper.lny25_cherry_blossoms.skin.asset|
+|assets/prefabs/wallpaper/skins/lny25/wallpaper.lny25_chinese_lanterns.skin.asset|
+|assets/prefabs/wallpaper/skins/lny25/wallpaper.lny25_diamonds.skin.asset|
+|assets/prefabs/wallpaper/skins/lny25/wallpaper.lny25_pack.item.asset|
+|assets/prefabs/wallpaper/skins/lny25/wallpaper.lny25_panel_a.skin.asset|
+|assets/prefabs/wallpaper/skins/lny25/wallpaper.lny25_panel_b.skin.asset|
+|assets/prefabs/wallpaper/skins/lny25/wallpaper.lny25_panel_c.skin.asset|
 |assets/prefabs/wallpaper/skins/wallpaper.bluediamond.skin.asset|
 |assets/prefabs/wallpaper/skins/wallpaper.clouds.skin.asset|
 |assets/prefabs/wallpaper/skins/wallpaper.geometrica.skin.asset|
