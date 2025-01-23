@@ -261,6 +261,9 @@
 |<img src="https://czechrust.eu/img/textures2D/legacyfurnace.png" width="100" height="80">|Legacy Furnace|legacyfurnace|-1310391395|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/water.barrel.png" width="100" height="80">|Water Barrel|water.barrel|-1863559151|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/locker.png" width="100" height="80">|Locker|locker|-110921842|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|<img src="https://czechrust.eu/img/textures2D/wall.frame.lunar2025_a.png" width="100" height="80">|Lunar Wall Frame Inlay|wall.frame.lunar2025_a|1115193056|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|<img src="https://czechrust.eu/img/textures2D/wall.frame.lunar2025_b.png" width="100" height="80">|Lunar Wall Frame Swirling|wall.frame.lunar2025_b|-450890885|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|<img src="https://czechrust.eu/img/textures2D/wall.frame.lunar2025_c.png" width="100" height="80">|Lunar Wall Frame Floral|wall.frame.lunar2025_c|-2016974826|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/mailbox.png" width="100" height="80">|Mail Box|mailbox|-586784898|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/mixingtable.png" width="100" height="80">|Mixing Table|mixingtable|1259919256|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/modularcarlift.png" width="100" height="80">|Modular Car Lift|modularcarlift|1696050067|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
@@ -457,6 +460,7 @@
 |<img src="https://czechrust.eu/img/textures2D/skylantern.skylantern.orange.png" width="100" height="80">|Sky Lantern - Orange|skylantern.skylantern.orange|-1824770114|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/skylantern.skylantern.purple.png" width="100" height="80">|Sky Lantern - Purple|skylantern.skylantern.purple|831955134|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/skylantern.skylantern.red.png" width="100" height="80">|Sky Lantern - Red|skylantern.skylantern.red|-1433390281|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|<img src="https://czechrust.eu/img/textures2D/hat.snakemask.png" width="100" height="80">|Snake mask|hat.snakemask|-1314079879|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/lunar.firecrackers.png" width="100" height="80">|Firecracker String|lunar.firecrackers|-1961560162|ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/hat.tigermask.png" width="100" height="80">|Tiger Mask|hat.tigermask|709206314|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/arcade.machine.chippy.png" width="100" height="80">|Chippy Arcade Game|arcade.machine.chippy|359723196|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
