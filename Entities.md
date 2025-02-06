@@ -244,6 +244,8 @@
 |Pine_d|3941253061|Spawnable<br>TreeEntity<br>ResourceDispenser<br>MeshCollider<br>|assets/bundled/prefabs/autospawn/resource/v3_tundra_forestside/pine_d.prefab|
 |Wood-Pile|2891219449|Spawnable<br>OreResourceEntity<br>ResourceEntity<br>ResourceDispenser<br>NavMeshObstacle<br>MeshCollider<br>|assets/bundled/prefabs/autospawn/resource/wood_log_pile/wood-pile.prefab|
 |Fireball|3369311876|FireBall<br>Rigidbody<br>BoxCollider<br>|assets/bundled/prefabs/fireball.prefab|
+|Fireball_Ballista|1071667043|FireBall<br>Rigidbody<br>BoxCollider<br>|assets/bundled/prefabs/fireball_ballista.prefab|
+|Fireball_Catapult|1409563449|FireBall<br>Rigidbody<br>BoxCollider<br>|assets/bundled/prefabs/fireball_catapult.prefab|
 |Fireball_Small|2086405370|FireBall<br>Rigidbody<br>BoxCollider<br>|assets/bundled/prefabs/fireball_small.prefab|
 |Fireball_Small_Arrow|1081379866|FireBall<br>Rigidbody<br>BoxCollider<br>|assets/bundled/prefabs/fireball_small_arrow.prefab|
 |Fireball_Small_Molotov|2673585394|FireBall<br>Rigidbody<br>BoxCollider<br>|assets/bundled/prefabs/fireball_small_molotov.prefab|
@@ -339,7 +341,7 @@
 |oil_barrel|3438187947|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>MeshCollider<br>NavMeshObstacle<br>|assets/bundled/prefabs/radtown/oil_barrel.prefab|
 |ore_metal|3327726152|Spawnable<br>OreResourceEntity<br>ResourceEntity<br>ResourceDispenser<br>NavMeshObstacle<br>MeshCollider<br>|assets/bundled/prefabs/radtown/ore_metal.prefab|
 |ore_stone|960501790|Spawnable<br>OreResourceEntity<br>ResourceEntity<br>ResourceDispenser<br>NavMeshObstacle<br>MeshCollider<br>|assets/bundled/prefabs/radtown/ore_stone.prefab|
-|ore_sulfur|152562243|Spawnable<br>OreResourceEntity<br>ResourceEntity<br>ResourceDispenser<br>NavMeshObstacle<br>MeshCollider<br>|assets/bundled/prefabs/radtown/ore_sulfur.prefab|
+|ore_sulfur|152562243|Spawnable<br>OreResourceEntity<br>ResourceEntity<br>ResourceDispenser<br>NavMeshObstacle<br>MeshCollider<br>PrefabParameters<br>|assets/bundled/prefabs/radtown/ore_sulfur.prefab|
 |crate_ammunition|2439530480|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/radtown/underwater_labs/crate_ammunition.prefab|
 |crate_elite|96231181|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>NavMeshObstacle<br>|assets/bundled/prefabs/radtown/underwater_labs/crate_elite.prefab|
 |crate_food_1|808303766|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/radtown/underwater_labs/crate_food_1.prefab|
@@ -566,6 +568,10 @@
 |Shreddable_PickupTruck|962565779|BaseCombatEntity<br>Rigidbody<br>MagnetLiftable<br>|assets/content/vehicles/crane_magnet/shreddable_pickuptruck.prefab|
 |DPV.deployed|2559713376|DiverPropulsionVehicle<br>BaseCombatEntity<br>Model<br>GroundWatch<br>Rigidbody<br>|assets/content/vehicles/dpv/dpv.deployed.prefab|
 |DPVFuelStorage|3745895619|StorageContainer<br>BaseCombatEntity<br>|assets/content/vehicles/dpv/dpvfuelstorage.prefab|
+|TestRidableHorse|2421246458|RidableHorse<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>CapsuleCollider<br>Rigidbody<br>Spawnable<br>|assets/content/vehicles/horse/_old/testridablehorse.prefab|
+|Horse.Corpse|3153252488|HorseCorpse<br>BaseCombatEntity<br>BaseCorpse<br>ResourceDispenser<br>HeadDispenser<br>Buoyancy<br>|assets/content/vehicles/horse/horse.corpse.prefab|
+|Horse.Ragdoll.Temp|3199307480|BaseAnimalRagdoll<br>Ragdoll<br>Model<br>ArticulatedOccludee<br>Rigidbody<br>FixedJoint<br>Skeleton<br>|assets/content/vehicles/horse/horse.ragdoll.temp.prefab|
+|RidableHorse2|1239439581|Rigidbody<br>RidableHorse2<br>BaseCombatEntity<br>BaseMountable<br>Spawnable<br>|assets/content/vehicles/horse/ridablehorse2.prefab|
 |minicopter.entity|2278499844|Minicopter<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>BaseHelicopter<br>Rigidbody<br>Spawnable<br>PhysicsEffects<br>MagnetLiftable<br>|assets/content/vehicles/minicopter/minicopter.entity.prefab|
 |fuel_storage|1950679400|StorageContainer<br>BaseCombatEntity<br>BoxCollider<br>|assets/content/vehicles/minicopter/subents/fuel_storage.prefab|
 |mlrs.entity|223554808|MLRS<br>BaseCombatEntity<br>Spawnable<br>Model<br>|assets/content/vehicles/mlrs/mlrs.entity.prefab|
@@ -639,6 +645,36 @@
 |fuel_storage_scrapheli|2664694037|StorageContainer<br>BaseCombatEntity<br>BoxCollider<br>LootDistanceOverride<br>|assets/content/vehicles/scrap heli carrier/subents/fuel_storage_scrapheli.prefab|
 |sedanrail.entity|207357730|TrainEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Model<br>Spawnable<br>|assets/content/vehicles/sedan_a/sedanrail.entity.prefab|
 |sedantest.entity|350141265|BasicCar<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>Model<br>SedanWheelSmoke<br>|assets/content/vehicles/sedan_a/sedantest.entity.prefab|
+|ballista.bolt.hammerhead.projectile|3841293998|Projectile<br>|assets/content/vehicles/siegeweapons/ballista/ammo/projectiles/ballista.bolt.hammerhead.projectile.prefab|
+|ballista.bolt.incendiary.projectile|2634460531|Projectile<br>|assets/content/vehicles/siegeweapons/ballista/ammo/projectiles/ballista.bolt.incendiary.projectile.prefab|
+|ballista.bolt.piercer.projectile|2301406582|Projectile<br>|assets/content/vehicles/siegeweapons/ballista/ammo/projectiles/ballista.bolt.piercer.projectile.prefab|
+|ballista.bolt.pitchfork.projectile|3329430643|Projectile<br>|assets/content/vehicles/siegeweapons/ballista/ammo/projectiles/ballista.bolt.pitchfork.projectile.prefab|
+|ballista.constructable.entity|4030027921|ConstructableEntity<br>BaseCombatEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>HittableByTrains<br>|assets/content/vehicles/siegeweapons/ballista/ballista.constructable.entity.prefab|
+|ballista.entity|709305284|Rigidbody<br>Ballista<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>GroundVehicle<br>|assets/content/vehicles/siegeweapons/ballista/ballista.entity.prefab|
+|ballistagun.entity|3846181207|BallistaGun<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicleMountPoint<br>|assets/content/vehicles/siegeweapons/ballista/ballistagun.entity.prefab|
+|ballistagun.static.entity|1853547378|Rigidbody<br>BallistaGun<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicleMountPoint<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/content/vehicles/siegeweapons/ballista/ballistagun.static.entity.prefab|
+|batteringram.constructable.entity|1048042122|ConstructableEntity<br>BaseCombatEntity<br>HittableByTrains<br>|assets/content/vehicles/siegeweapons/batteringram/batteringram.constructable.entity.prefab|
+|batteringram.door.servergib|2848237533|ServerGib<br>Rigidbody<br>|assets/content/vehicles/siegeweapons/batteringram/batteringram.door.servergib.prefab|
+|batteringram.entity|3102987008|Rigidbody<br>BatteringRam<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>GroundVehicle<br>|assets/content/vehicles/siegeweapons/batteringram/batteringram.entity.prefab|
+|BatteringRamSeat|3330511413|BatteringRamSeat<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicleMountPoint<br>|assets/content/vehicles/siegeweapons/batteringram/batteringramseat.prefab|
+|batteringram.head|218065883|BatteringRamHead<br>EntityFlag_Toggle<br>|assets/content/vehicles/siegeweapons/batteringram/subents/batteringram.head.prefab|
+|boulder|362061794|TimedExplosive<br>ServerProjectile<br>|assets/content/vehicles/siegeweapons/catapult/ammo/projectiles/boulder.prefab|
+|boulder_explosive|1913489021|TimedExplosive<br>ServerProjectile<br>|assets/content/vehicles/siegeweapons/catapult/ammo/projectiles/boulder_explosive.prefab|
+|boulder_explosive_deployed|520730022|TimedExplosive<br>ServerProjectile<br>|assets/content/vehicles/siegeweapons/catapult/ammo/projectiles/boulder_explosive_deployed.prefab|
+|boulder_incendiary|3871024251|FlameExplosive<br>ServerProjectile<br>|assets/content/vehicles/siegeweapons/catapult/ammo/projectiles/boulder_incendiary.prefab|
+|boulder_incendiary_deployed|3051519634|FlameExplosive<br>ServerProjectile<br>|assets/content/vehicles/siegeweapons/catapult/ammo/projectiles/boulder_incendiary_deployed.prefab|
+|boulder_mid|4081160652|TimedExplosive<br>ServerProjectile<br>|assets/content/vehicles/siegeweapons/catapult/ammo/projectiles/boulder_mid.prefab|
+|boulder_small|1034606242|TimedExplosive<br>ServerProjectile<br>|assets/content/vehicles/siegeweapons/catapult/ammo/projectiles/boulder_small.prefab|
+|catapult.constructable.entity|77628327|ConstructableEntity<br>BaseCombatEntity<br>HittableByTrains<br>|assets/content/vehicles/siegeweapons/catapult/catapult.constructable.entity.prefab|
+|catapult.entity|501721275|Rigidbody<br>Catapult<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>GroundVehicle<br>|assets/content/vehicles/siegeweapons/catapult/catapult.entity.prefab|
+|CatapultSeat|2171582912|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>|assets/content/vehicles/siegeweapons/catapult/catapultseat.prefab|
+|catapult.ammo_storage|2705489675|CatapultAmmoContainer<br>BaseCombatEntity<br>DecayEntity<br>|assets/content/vehicles/siegeweapons/catapult/subents/catapult.ammo_storage.prefab|
+|siegetower.constructable.entity|2224520367|ConstructableEntity<br>BaseCombatEntity<br>HittableByTrains<br>|assets/content/vehicles/siegeweapons/siegetower/siegetower.constructable.entity.prefab|
+|siegetower.entity|1257246728|Rigidbody<br>SiegeTower<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>GroundVehicle<br>EntityFlag_Toggle<br>EntityFlag_Toggle<br>Model<br>|assets/content/vehicles/siegeweapons/siegetower/siegetower.entity.prefab|
+|siegetower.door|4185447710|SiegeTowerDoor<br>BaseCombatEntity<br>StabilityEntity<br>AnimatedBuildingBlock<br>DecayEntity<br>Model<br>|assets/content/vehicles/siegeweapons/siegetower/subents/siegetower.door.prefab|
+|siegetower.DrawBridge_01|4186773937|Animator<br>SiegeTowerDoor<br>BaseCombatEntity<br>StabilityEntity<br>AnimatedBuildingBlock<br>DecayEntity<br>Model<br>EntityFlag_Toggle<br>|assets/content/vehicles/siegeweapons/siegetower/subents/siegetower.drawbridge_01.prefab|
+|siegetower.DrawBridge_02|300969350|Animator<br>SiegeTowerDoor<br>BaseCombatEntity<br>StabilityEntity<br>AnimatedBuildingBlock<br>DecayEntity<br>Model<br>EntityFlag_Toggle<br>|assets/content/vehicles/siegeweapons/siegetower/subents/siegetower.drawbridge_02.prefab|
+|siegetower.DrawBridge_03|3841836703|Animator<br>SiegeTowerDoor<br>BaseCombatEntity<br>StabilityEntity<br>AnimatedBuildingBlock<br>DecayEntity<br>Model<br>EntityFlag_Toggle<br>|assets/content/vehicles/siegeweapons/siegetower/subents/siegetower.drawbridge_03.prefab|
 |_SnowmobileBase|2664297018|Snowmobile<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>MagnetLiftable<br>|assets/content/vehicles/snowmobiles/_snowmobilebase.prefab|
 |Snowmobile|4272265309|Snowmobile<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>MagnetLiftable<br>|assets/content/vehicles/snowmobiles/snowmobile.prefab|
 |SnowmobileFuelStorage|3231982996|StorageContainer<br>BaseCombatEntity<br>|assets/content/vehicles/snowmobiles/subents/snowmobilefuelstorage.prefab|
@@ -757,6 +793,7 @@
 |barricade.concrete|2057881102|GroundWatch<br>DestroyOnGroundMissing<br>Barricade<br>BaseCombatEntity<br>NavMeshObstacle<br>Model<br>MeshCollider<br>MeshCollider<br>|assets/prefabs/deployable/barricades/barricade.concrete.prefab|
 |barricade.cover.wood|1581233281|Barricade<br>BaseCombatEntity<br>HittableByTrains<br>NavMeshObstacle<br>|assets/prefabs/deployable/barricades/barricade.cover.wood.prefab|
 |barricade.cover.wood_double|2982625522|Barricade<br>BaseCombatEntity<br>HittableByTrains<br>NavMeshObstacle<br>|assets/prefabs/deployable/barricades/barricade.cover.wood_double.prefab|
+|barricade.medieval|56566310|GroundWatch<br>DestroyOnGroundMissing<br>Barricade<br>BaseCombatEntity<br>MeshCollider<br>MeshCollider<br>NavMeshObstacle<br>|assets/prefabs/deployable/barricades/barricade.medieval.prefab|
 |barricade.metal|3824663394|GroundWatch<br>DestroyOnGroundMissing<br>Barricade<br>BaseCombatEntity<br>MeshCollider<br>NavMeshObstacle<br>|assets/prefabs/deployable/barricades/barricade.metal.prefab|
 |barricade.sandbags|2335812770|GroundWatch<br>DestroyOnGroundMissing<br>Barricade<br>BaseCombatEntity<br>MeshCollider<br>NavMeshObstacle<br>Model<br>|assets/prefabs/deployable/barricades/barricade.sandbags.prefab|
 |barricade.stone|1206527181|GroundWatch<br>DestroyOnGroundMissing<br>Barricade<br>BaseCombatEntity<br>MeshCollider<br>NavMeshObstacle<br>|assets/prefabs/deployable/barricades/barricade.stone.prefab|
@@ -839,6 +876,7 @@
 |landmine|1463807579|Landmine<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>GroundWatch<br>|assets/prefabs/deployable/landmine/landmine.prefab|
 |lantern.deployed|4027991414|BaseFuelLightSource<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>MeshCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>EntityFlag_Toggle<br>|assets/prefabs/deployable/lantern/lantern.deployed.prefab|
 |box.wooden.large|2206646561|BoxStorage<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>BoxCollider<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/large wood storage/box.wooden.large.prefab|
+|medieval.box.wooden.large|2142950612|BoxStorage<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>BoxCollider<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/large wood storage/skins/medieval_large_wood_box/medieval.box.wooden.large.prefab|
 |legacy_furnace|2013224025|BaseOven<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>MeshCollider<br>DestroyOnGroundMissing<br>EntityFlag_Toggle<br>|assets/prefabs/deployable/legacyfurnace/legacy_furnace.prefab|
 |WaterBarrel|3746060889|LiquidContainer<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>MeshCollider<br>|assets/prefabs/deployable/liquidbarrel/waterbarrel.prefab|
 |locker.campermodule|1298400075|Locker<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/deployable/locker/locker.campermodule.prefab|
@@ -1009,6 +1047,7 @@
 |ReclaimManager|3866571115|ReclaimManager<br>|assets/prefabs/gamemodes/objects/reclaim/reclaimmanager.prefab|
 |ReclaimTerminal|2564311448|ReclaimTerminal<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/prefabs/gamemodes/objects/reclaim/reclaimterminal.prefab|
 |onedeath|3275115225|BaseGameMode<br>|assets/prefabs/gamemodes/onedeath.prefab|
+|primitive|2393539753|PrimitiveGameMode<br>BaseGameMode<br>|assets/prefabs/gamemodes/primitive.prefab|
 |StaticRespawnZoneBandit|3810400291|StaticRespawnArea<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/gamemodes/softcore/staticrespawnzonebandit.prefab|
 |StaticRespawnZoneCompound|1919922518|StaticRespawnArea<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/gamemodes/softcore/staticrespawnzonecompound.prefab|
 |softcore|1954920076|GameModeSoftcore<br>BaseGameMode<br>|assets/prefabs/gamemodes/softcore.prefab|
@@ -1197,6 +1236,8 @@
 |drone.delivery|2325891644|DeliveryDrone<br>BaseCombatEntity<br>RemoteControlEntity<br>Rigidbody<br>|assets/prefabs/misc/marketplace/drone.delivery.prefab|
 |Marketplace|3953076030|Marketplace<br>Model<br>|assets/prefabs/misc/marketplace/marketplace.prefab|
 |MarketTerminal|407767262|MarketTerminal<br>BaseCombatEntity<br>DecayEntity<br>Model<br>BoxCollider<br>|assets/prefabs/misc/marketplace/marketterminal.prefab|
+|medieval.door.double.hinged.metal|2035885868|Door<br>BaseCombatEntity<br>StabilityEntity<br>DecayEntity<br>Model<br>|assets/prefabs/misc/medieval door skin/medieval.door.double.hinged.metal.prefab|
+|medieval.door.hinged.metal|1019562202|Door<br>BaseCombatEntity<br>StabilityEntity<br>DecayEntity<br>Model<br>|assets/prefabs/misc/medieval door skin/medieval.door.hinged.metal.prefab|
 |frontiermirror.large|2749812535|ReflectionPlane<br>BaseCombatEntity<br>DestroyOnGroundMissing<br>GroundWatch<br>|assets/prefabs/misc/mirror/frontiermirror.large.prefab|
 |frontiermirror.medium|3598691256|ReflectionPlane<br>BaseCombatEntity<br>DestroyOnGroundMissing<br>GroundWatch<br>|assets/prefabs/misc/mirror/frontiermirror.medium.prefab|
 |frontiermirror.small|912233462|DestroyOnGroundMissing<br>GroundWatch<br>ReflectionPlane<br>BaseCombatEntity<br>|assets/prefabs/misc/mirror/frontiermirror.small.prefab|
@@ -1472,6 +1513,8 @@
 |player|4108440852|BasePlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>PlayerModifiers<br>|assets/prefabs/player/player.prefab|
 |player_corpse|2604534927|PlayerCorpse<br>BaseCombatEntity<br>BaseCorpse<br>HumanBodyResourceDispenser<br>Buoyancy<br>HeadDispenser<br>|assets/prefabs/player/player_corpse.prefab|
 |player_corpse_new|391715894|PlayerCorpse<br>BaseCombatEntity<br>BaseCorpse<br>HumanBodyResourceDispenser<br>SkinnedMultiMesh<br>Skeleton<br>PlayerModel<br>Model<br>Ragdoll<br>Rigidbody<br>DrawSkeleton<br>BoxCollider<br>Buoyancy<br>HeadDispenser<br>|assets/prefabs/player/player_corpse_new.prefab|
+|player_corpse_ragdoll|3043888346|SkinnedMultiMesh<br>PlayerModel<br>Model<br>Ragdoll<br>Rigidbody<br>FixedJoint<br>Skeleton<br>|assets/prefabs/player/player_corpse_ragdoll.prefab|
+|player_temp_ragdoll|886972632|BaseRagdoll<br>BaseCombatEntity<br>SkinnedMultiMesh<br>PlayerModel<br>Model<br>Ragdoll<br>Rigidbody<br>FixedJoint<br>Skeleton<br>Buoyancy<br>|assets/prefabs/player/player_temp_ragdoll.prefab|
 |diesel_barrel_world|4140706055|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/resource/diesel barrel/diesel_barrel_world.prefab|
 |horsedung.entity|2046937803|BaseMelee<br>HeldEntity<br>|assets/prefabs/resource/horsedung/horsedung.entity.prefab|
 |binocular.entity|436023350|Binocular<br>HeldEntity<br>|assets/prefabs/tools/binoculars/binocular.entity.prefab|
@@ -1538,6 +1581,8 @@
 |CraneOperator|1103757790|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/craneoperator.prefab|
 |DriverSeat|4088163379|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/driverseat.prefab|
 |GunnerTest|986236302|BaseAimable<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/gunnertest.prefab|
+|HorseSaddle|262646847|HorseSaddle<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicleMountPoint<br>|assets/prefabs/vehicle/seats/horsesaddle.prefab|
+|HorseSaddleRear|2508371933|HorseSaddle<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicleMountPoint<br>|assets/prefabs/vehicle/seats/horsesaddlerear.prefab|
 |KayakSeat|2907322464|KayakSeat<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicleMountPoint<br>MeshCollider<br>|assets/prefabs/vehicle/seats/kayakseat.prefab|
 |LocomotiveDriver|3398691772|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/locomotivedriver.prefab|
 |MiniHeliPassenger|1231746772|BaseVehicleSeat<br>BaseCombatEntity<br>BaseMountable<br>MeshCollider<br>|assets/prefabs/vehicle/seats/minihelipassenger.prefab|
@@ -1626,6 +1671,7 @@
 |ak47u.entity|1978739833|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/ak47u/ak47u.entity.prefab|
 |ak47u_diver.entity|4096772971|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/ak47u/diver/ak47u_diver.entity.prefab|
 |ak47u_ice.entity|1942738569|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/ak47u/iceskin/ak47u_ice.entity.prefab|
+|ak47u_med.entity|3192146626|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/ak47u/medieval skin/ak47u_med.entity.prefab|
 |bandage.entity|1383987667|MedicalTool<br>HeldEntity<br>|assets/prefabs/weapons/bandage/bandage.entity.prefab|
 |grenade.beancan.deployed|2144399804|DudTimedExplosive<br>Rigidbody<br>CapsuleCollider<br>|assets/prefabs/weapons/beancan grenade/grenade.beancan.deployed.prefab|
 |grenade.beancan.entity|3654150932|GrenadeWeapon<br>HeldEntity<br>AttackEntity<br>|assets/prefabs/weapons/beancan grenade/grenade.beancan.entity.prefab|
@@ -1640,13 +1686,15 @@
 |CNY_spear.entity|3814317397|BaseMelee<br>HeldEntity<br>|assets/prefabs/weapons/cnyspear/cny_spear.entity.prefab|
 |compound_bow.entity|1537401592|CompoundBowWeapon<br>BaseProjectile<br>HeldEntity<br>AttackEntity<br>|assets/prefabs/weapons/compound bow/compound_bow.entity.prefab|
 |crossbow.entity|2727391082|CrossbowWeapon<br>HeldEntity<br>AttackEntity<br>Model<br>|assets/prefabs/weapons/crossbow/crossbow.entity.prefab|
+|ExplosiveSiegeDeployable|2730518698|DeployableSiegeExplosive<br>BoxCollider<br>GroundWatch<br>|assets/prefabs/weapons/deployablesiegeexplosives/explosivesiegedeployable.prefab|
+|FlammableSiegeDeployable|3599700023|DeployableSiegeExplosive<br>BoxCollider<br>GroundWatch<br>|assets/prefabs/weapons/deployablesiegeexplosives/flammablesiegedeployable.prefab|
 |diver_hatchet.entity|1396987940|BaseMelee<br>HeldEntity<br>|assets/prefabs/weapons/diverhatchet/diver_hatchet.entity.prefab|
 |diver_pickaxe.entity|190635670|BaseMelee<br>HeldEntity<br>|assets/prefabs/weapons/diverpickaxe/diver_pickaxe.entity.prefab|
 |diver_torch.entity|1029607191|TorchWeapon<br>HeldEntity<br>AttackEntity<br>|assets/prefabs/weapons/divertorch/diver_torch.entity.prefab|
 |double_shotgun.entity|3474489095|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/doubleshotgun/double_shotgun.entity.prefab|
 |pistol_eoka.entity|2176761593|FlintStrikeWeapon<br>HeldEntity<br>AttackEntity<br>Model<br>|assets/prefabs/weapons/eoka pistol/pistol_eoka.entity.prefab|
 |grenade.f1.deployed|1128089209|TimedExplosive<br>Rigidbody<br>CapsuleCollider<br>Model<br>|assets/prefabs/weapons/f1 grenade/grenade.f1.deployed.prefab|
-|grenade.f1.entity|45697420|GrenadeWeapon<br>HeldEntity<br>AttackEntity<br>|assets/prefabs/weapons/f1 grenade/grenade.f1.entity.prefab|
+|grenade.f1.entity|45697420|GrenadeWeapon<br>HeldEntity<br>AttackEntity<br>Model<br>|assets/prefabs/weapons/f1 grenade/grenade.f1.entity.prefab|
 |flamethrower.entity|3717106868|FlameThrower<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/flamethrower/flamethrower.entity.prefab|
 |Flamethrower_fireball|844008300|FireBall<br>Rigidbody<br>BoxCollider<br>|assets/prefabs/weapons/flamethrower/flamethrower_fireball.prefab|
 |grenade.flashbang.deployed|1436152685|Flashbang<br>Rigidbody<br>CapsuleCollider<br>|assets/prefabs/weapons/flashbang/grenade.flashbang.deployed.prefab|
@@ -1668,6 +1716,7 @@
 |hmlmg.entity|3459133190|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/hmlmg/hmlmg.entity.prefab|
 |homing_missile_launcher.entity|542600037|LockOnLauncher<br>BaseProjectile<br>HeldEntity<br>AttackEntity<br>|assets/prefabs/weapons/homingmissilelauncher/homing_missile_launcher.entity.prefab|
 |SeekerTest|678281183|SeekerTest<br>BoxCollider<br>|assets/prefabs/weapons/homingmissilelauncher/seekertestentity/seekertest.prefab|
+|improvisedshield.entity|3088514867|Shield<br>EntityFlag_Toggle<br>Model<br>|assets/prefabs/weapons/improvised_shield/improvisedshield.entity.prefab|
 |knife.combat.entity|327944951|BaseMelee<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/knife/knife.combat.entity.prefab|
 |l96.entity|2620171289|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/l96/l96.entity.prefab|
 |legacybow.entity|1400027705|BowWeapon<br>HeldEntity<br>AttackEntity<br>|assets/prefabs/weapons/legacy bow/legacybow.entity.prefab|
@@ -1678,7 +1727,9 @@
 |m249.entity|1440914039|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/m249/m249.entity.prefab|
 |mace.entity|2927698044|BaseMelee<br>HeldEntity<br>|assets/prefabs/weapons/mace/mace.entity.prefab|
 |machete.weapon|2942508801|BaseMelee<br>HeldEntity<br>|assets/prefabs/weapons/machete/machete.weapon.prefab|
+|metalshield.entity|3703020820|Shield<br>EntityFlag_Toggle<br>Model<br>|assets/prefabs/weapons/metal_shield/metalshield.entity.prefab|
 |militaryflamethrower.entity|1710208928|FlameThrower<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/military flamethrower/militaryflamethrower.entity.prefab|
+|mini_crossbow.entity|4274044420|MiniCrossbow<br>HeldEntity<br>AttackEntity<br>Model<br>|assets/prefabs/weapons/mini crossbow/mini_crossbow.entity.prefab|
 |minigun.entity|4007138847|SpinUpWeapon<br>HeldEntity<br>AttackEntity<br>Model<br>|assets/prefabs/weapons/minigun/minigun.entity.prefab|
 |grenade.molotov.deployed|2144253630|FlameExplosive<br>Rigidbody<br>CapsuleCollider<br>|assets/prefabs/weapons/molotov cocktail/grenade.molotov.deployed.prefab|
 |grenade.molotov.entity|4104126979|MolotovCocktail<br>HeldEntity<br>ThrownWeapon<br>AttackEntity<br>|assets/prefabs/weapons/molotov cocktail/grenade.molotov.entity.prefab|
@@ -1688,6 +1739,7 @@
 |pickaxe.entity|1587077350|BaseMelee<br>HeldEntity<br>|assets/prefabs/weapons/pickaxe/pickaxe.entity.prefab|
 |shotgun_waterpipe.entity|2696589892|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/pipe shotgun/shotgun_waterpipe.entity.prefab|
 |python.entity|3305012504|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/python/python.entity.prefab|
+|reinforcedwoodshield.entity|2274489607|Shield<br>EntityFlag_Toggle<br>Model<br>|assets/prefabs/weapons/reinforcedwoodshield/reinforcedwoodshield.entity.prefab|
 |pistol_revolver.entity|2477536592|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/revolver/pistol_revolver.entity.prefab|
 |rock.entity|3940068399|BaseMelee<br>HeldEntity<br>|assets/prefabs/weapons/rock/rock.entity.prefab|
 |rocket_launcher_Dragon.entity|3036013699|BaseLauncher<br>HeldEntity<br>AttackEntity<br>Model<br>|assets/prefabs/weapons/rocketlauncher/cny_dragonlauncher/rocket_launcher_dragon.entity.prefab|
@@ -1715,6 +1767,7 @@
 |torch.entity|1543342082|TorchWeapon<br>HeldEntity<br>AttackEntity<br>|assets/prefabs/weapons/torch/torch.entity.prefab|
 |waterball|556797242|WaterBall<br>Rigidbody<br>BoxCollider<br>|assets/prefabs/weapons/waterbucket/waterball.prefab|
 |waterbucket.entity|1182699531|BaseLiquidVessel<br>HeldEntity<br>|assets/prefabs/weapons/waterbucket/waterbucket.entity.prefab|
+|woodenshield.entity|3637711865|Shield<br>EntityFlag_Toggle<br>Model<br>|assets/prefabs/weapons/wooden shield/woodenshield.entity.prefab|
 |spear_wooden.entity|2828546575|BaseMelee<br>HeldEntity<br>|assets/prefabs/weapons/wooden spear/spear_wooden.entity.prefab|
 |Bear.Corpse|4102891990|BaseCorpse<br>ResourceDispenser<br>HeadDispenser<br>|assets/rust.ai/agents/bear/bear.corpse.prefab|
 |Bear|1799741974|Bear<br>BaseCombatEntity<br>BaseNpc<br>NavMeshAgent<br>Spawnable<br>CapsuleCollider<br>AnimalBrain<br>NPCNavigator<br>|assets/rust.ai/agents/bear/bear.prefab|
@@ -1733,8 +1786,6 @@
 |Shark.Corpse|3051190050|BaseCorpse<br>ResourceDispenser<br>Buoyancy<br>HeadDispenser<br>|assets/rust.ai/agents/fish/shark.corpse.prefab|
 |Shark_Unused|1738989765|BaseFishNPC<br>BaseCombatEntity<br>Spawnable<br>CapsuleCollider<br>FishBrain<br>FishNavigator<br>NavMeshAgent<br>|assets/rust.ai/agents/fish/shark_unused.prefab|
 |SimpleShark|947646353|SimpleShark<br>Spawnable<br>CapsuleCollider<br>|assets/rust.ai/agents/fish/simpleshark.prefab|
-|Horse.Corpse|2898915566|HorseCorpse<br>BaseCombatEntity<br>BaseCorpse<br>ResourceDispenser<br>HeadDispenser<br>|assets/rust.ai/agents/horse/horse.corpse.prefab|
-|Horse|3880446623|Horse<br>BaseCombatEntity<br>BaseNpc<br>NavMeshAgent<br>Spawnable<br>AiManagedAgent<br>CapsuleCollider<br>|assets/rust.ai/agents/horse/horse.prefab|
 |NPC_Bandit_Guard|412745708|BanditGuard<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|assets/rust.ai/agents/npcplayer/humannpc/banditguard/npc_bandit_guard.prefab|
 |ScientistNPC_Arena|3430609603|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>CapsuleCollider<br>Rigidbody<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_arena.prefab|
 |ScientistNPC_Bradley|1126473739|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>CapsuleCollider<br>Rigidbody<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_bradley.prefab|
@@ -1753,6 +1804,7 @@
 |ScientistNPC_Junkpile_Pistol|2066159302|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>ScientistBrain<br>PlayerInventory<br>PlayerEyes<br>CapsuleCollider<br>Rigidbody<br>NavMeshAgent<br>NPCPlayerNavigator<br>|assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_junkpile_pistol.prefab|
 |ScientistNPC_Oilrig|548379897|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>CapsuleCollider<br>Rigidbody<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_oilrig.prefab|
 |ScientistNPC_Patrol|4272904018|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>CapsuleCollider<br>Rigidbody<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_patrol.prefab|
+|ScientistNPC_Patrol_Arctic|387319993|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>CapsuleCollider<br>Rigidbody<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_patrol_arctic.prefab|
 |ScientistNPC_Peacekeeper|2390854225|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>CapsuleCollider<br>Rigidbody<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_peacekeeper.prefab|
 |ScientistNPC_Roam|4199494415|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>CapsuleCollider<br>Rigidbody<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_roam.prefab|
 |ScientistNPC_Roam_NVG_Variant|4134517186|ScientistNPC<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>CapsuleCollider<br>Rigidbody<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|assets/rust.ai/agents/npcplayer/humannpc/scientist/scientistnpc_roam_nvg_variant.prefab|
