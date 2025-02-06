@@ -61,6 +61,7 @@
 |assets/content/image effects/postfx_volumes/sharpen_vignette.asset|
 |assets/content/image effects/postfx_volumes/skin_viewer.asset|
 |assets/content/image effects/postfx_volumes/submarine_dof.asset|
+|assets/content/image effects/postfx_volumes/temporalantialiasing.asset|
 |assets/content/image effects/postfx_volumes/wantedposter_polaroid.asset|
 |assets/content/image effects/postfx_volumes/wantedposter_sepia.asset|
 |assets/content/image effects/postfx_volumes/water.asset|
@@ -350,6 +351,7 @@
 |assets/content/properties/buildinggrade/wood.asset|
 |assets/content/properties/camera/environment properties.asset|
 |assets/content/properties/damage/damage.arrow.asset|
+|assets/content/properties/damage/damage.ballista.asset|
 |assets/content/properties/damage/damage.buckshot.asset|
 |assets/content/properties/damage/damage.default.asset|
 |assets/content/properties/damage/damage.incendiary.shell.asset|
@@ -668,6 +670,21 @@
 |assets/content/properties/lootspawn/collections/m39 with ammo.asset|
 |assets/content/properties/lootspawn/collections/m4 with ammo.asset|
 |assets/content/properties/lootspawn/collections/m92 with ammo.asset|
+|assets/content/properties/lootspawn/collections/medieval/armorandweapons/horsestuff.asset|
+|assets/content/properties/lootspawn/collections/medieval/armorandweapons/knightloadouts.asset|
+|assets/content/properties/lootspawn/collections/medieval/ballista/ballista.asset|
+|assets/content/properties/lootspawn/collections/medieval/ballista/ballistaammo.asset|
+|assets/content/properties/lootspawn/collections/medieval/ballista/ballistaammo_fire.asset|
+|assets/content/properties/lootspawn/collections/medieval/ballista/ballistaammo_hammerhead.asset|
+|assets/content/properties/lootspawn/collections/medieval/ballista/ballistaammo_piercer.asset|
+|assets/content/properties/lootspawn/collections/medieval/ballista/ballistaammo_pitchfork.asset|
+|assets/content/properties/lootspawn/collections/medieval/ballista/ballistas.asset|
+|assets/content/properties/lootspawn/collections/medieval/ballista/ballistastatic.asset|
+|assets/content/properties/lootspawn/collections/medieval/medievalroll.asset|
+|assets/content/properties/lootspawn/collections/medieval/siege/batteringram.asset|
+|assets/content/properties/lootspawn/collections/medieval/siege/catapult ammo.asset|
+|assets/content/properties/lootspawn/collections/medieval/siege/catapult.asset|
+|assets/content/properties/lootspawn/collections/medieval/siege/siegetower.asset|
 |assets/content/properties/lootspawn/collections/mgl/mgl.asset|
 |assets/content/properties/lootspawn/collections/mgl/mgl_ammo.asset|
 |assets/content/properties/lootspawn/collections/mgl/mgl_buckshot.asset|
@@ -856,6 +873,13 @@
 |assets/content/properties/lootspawn/generated/items/ammunition/arrow.fire.asset|
 |assets/content/properties/lootspawn/generated/items/ammunition/arrow.hv.asset|
 |assets/content/properties/lootspawn/generated/items/ammunition/arrow.wooden.asset|
+|assets/content/properties/lootspawn/generated/items/ammunition/ballista.bolt.hammerhead.asset|
+|assets/content/properties/lootspawn/generated/items/ammunition/ballista.bolt.incendiary.asset|
+|assets/content/properties/lootspawn/generated/items/ammunition/ballista.bolt.piercer.asset|
+|assets/content/properties/lootspawn/generated/items/ammunition/ballista.bolt.pitchfork.asset|
+|assets/content/properties/lootspawn/generated/items/ammunition/catapult.ammo.boulder.asset|
+|assets/content/properties/lootspawn/generated/items/ammunition/catapult.ammo.explosive.asset|
+|assets/content/properties/lootspawn/generated/items/ammunition/catapult.ammo.incendiary.asset|
 |assets/content/properties/lootspawn/generated/items/ammunition/speargun.spear.asset|
 |assets/content/properties/lootspawn/generated/items/ammunition/submarine.torpedo.straight.asset|
 |assets/content/properties/lootspawn/generated/items/attire/attire.bunny.onesie.asset|
@@ -918,8 +942,12 @@
 |assets/content/properties/lootspawn/generated/items/attire/horse.saddle.double.asset|
 |assets/content/properties/lootspawn/generated/items/attire/horse.saddle.single.asset|
 |assets/content/properties/lootspawn/generated/items/attire/horse.shoes.advanced.asset|
+|assets/content/properties/lootspawn/generated/items/attire/improvised.shield.asset|
 |assets/content/properties/lootspawn/generated/items/attire/jacket.asset|
 |assets/content/properties/lootspawn/generated/items/attire/jacket.snow.asset|
+|assets/content/properties/lootspawn/generated/items/attire/knightsarmour.helmet.asset|
+|assets/content/properties/lootspawn/generated/items/attire/knightsarmour.skirt.asset|
+|assets/content/properties/lootspawn/generated/items/attire/knighttorso.armour.asset|
 |assets/content/properties/lootspawn/generated/items/attire/largebackpack.asset|
 |assets/content/properties/lootspawn/generated/items/attire/leather.gloves.asset|
 |assets/content/properties/lootspawn/generated/items/attire/lumberjack hoodie.asset|
@@ -934,6 +962,7 @@
 |assets/content/properties/lootspawn/generated/items/attire/metal.facemask.icemask.asset|
 |assets/content/properties/lootspawn/generated/items/attire/metal.plate.torso.asset|
 |assets/content/properties/lootspawn/generated/items/attire/metal.plate.torso.icevest.asset|
+|assets/content/properties/lootspawn/generated/items/attire/metal.shield.asset|
 |assets/content/properties/lootspawn/generated/items/attire/minigunammopack.asset|
 |assets/content/properties/lootspawn/generated/items/attire/nightvisiongoggles.asset|
 |assets/content/properties/lootspawn/generated/items/attire/pants.asset|
@@ -941,6 +970,7 @@
 |assets/content/properties/lootspawn/generated/items/attire/parachute.asset|
 |assets/content/properties/lootspawn/generated/items/attire/parachute.deployed.asset|
 |assets/content/properties/lootspawn/generated/items/attire/prisonerhood.asset|
+|assets/content/properties/lootspawn/generated/items/attire/reinforced.wooden.shield.asset|
 |assets/content/properties/lootspawn/generated/items/attire/riot.helmet.asset|
 |assets/content/properties/lootspawn/generated/items/attire/roadsign.gloves.asset|
 |assets/content/properties/lootspawn/generated/items/attire/roadsign.jacket.asset|
@@ -958,6 +988,7 @@
 |assets/content/properties/lootspawn/generated/items/attire/wood.armor.helmet.asset|
 |assets/content/properties/lootspawn/generated/items/attire/wood.armor.jacket.asset|
 |assets/content/properties/lootspawn/generated/items/attire/wood.armor.pants.asset|
+|assets/content/properties/lootspawn/generated/items/attire/wooden.shield.asset|
 |assets/content/properties/lootspawn/generated/items/component/aiming.module.mlrs.asset|
 |assets/content/properties/lootspawn/generated/items/component/bleach.asset|
 |assets/content/properties/lootspawn/generated/items/component/carburetor1.asset|
@@ -1008,7 +1039,9 @@
 |assets/content/properties/lootspawn/generated/items/component/vehicle.2mod.passengers.asset|
 |assets/content/properties/lootspawn/generated/items/component/vehicle.module.asset|
 |assets/content/properties/lootspawn/generated/items/component/weapon.mod.burstmodule.asset|
+|assets/content/properties/lootspawn/generated/items/component/weapon.mod.gascompressionovedrive.asset|
 |assets/content/properties/lootspawn/generated/items/construction/barricade.concrete.asset|
+|assets/content/properties/lootspawn/generated/items/construction/barricade.medieval.asset|
 |assets/content/properties/lootspawn/generated/items/construction/barricade.metal.asset|
 |assets/content/properties/lootspawn/generated/items/construction/barricade.sandbags.asset|
 |assets/content/properties/lootspawn/generated/items/construction/barricade.stone.asset|
@@ -1035,6 +1068,7 @@
 |assets/content/properties/lootspawn/generated/items/construction/legacy.shelter.wood.asset|
 |assets/content/properties/lootspawn/generated/items/construction/lock.code.asset|
 |assets/content/properties/lootspawn/generated/items/construction/lock.key.asset|
+|assets/content/properties/lootspawn/generated/items/construction/medieval.door.hinged.metal.asset|
 |assets/content/properties/lootspawn/generated/items/construction/mining.quarry.asset|
 |assets/content/properties/lootspawn/generated/items/construction/shutter.metal.embrasure.a.asset|
 |assets/content/properties/lootspawn/generated/items/construction/shutter.metal.embrasure.b.asset|
@@ -1472,10 +1506,16 @@
 |assets/content/properties/lootspawn/generated/items/traps/tincan.alarm.asset|
 |assets/content/properties/lootspawn/generated/items/traps/trap.bear.asset|
 |assets/content/properties/lootspawn/generated/items/traps/trap.landmine.asset|
+|assets/content/properties/lootspawn/generated/items/weapon/ballista.asset|
+|assets/content/properties/lootspawn/generated/items/weapon/ballista.mounted.asset|
+|assets/content/properties/lootspawn/generated/items/weapon/ballista.static.asset|
+|assets/content/properties/lootspawn/generated/items/weapon/batteringram.asset|
+|assets/content/properties/lootspawn/generated/items/weapon/batteringram.head.repair.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/blunderbuss.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/bone.club.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/bow.compound.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/bow.hunting.asset|
+|assets/content/properties/lootspawn/generated/items/weapon/catapult.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/chainsaw.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/crossbow.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/flamethrower.asset|
@@ -1494,6 +1534,7 @@
 |assets/content/properties/lootspawn/generated/items/weapon/mace.baseballbat.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/machete.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/military flamethrower.asset|
+|assets/content/properties/lootspawn/generated/items/weapon/minicrossbow.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/minigun.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/multiplegrenadelauncher.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/paddle.asset|
@@ -1509,6 +1550,7 @@
 |assets/content/properties/lootspawn/generated/items/weapon/rifle.ak.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/rifle.ak.diver.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/rifle.ak.ice.asset|
+|assets/content/properties/lootspawn/generated/items/weapon/rifle.ak.med.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/rifle.bolt.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/rifle.l96.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/rifle.lr300.asset|
@@ -1523,6 +1565,7 @@
 |assets/content/properties/lootspawn/generated/items/weapon/shotgun.pump.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/shotgun.spas12.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/shotgun.waterpipe.asset|
+|assets/content/properties/lootspawn/generated/items/weapon/siegetower.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/smg.2.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/smg.mp5.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/smg.thompson.asset|
@@ -1689,6 +1732,7 @@
 |assets/content/properties/playerinventory/scientist_nvg_outfit.asset|
 |assets/content/properties/playerinventory/scientistmissionproviderattire.asset|
 |assets/content/properties/playerinventory/sculptor.asset|
+|assets/content/properties/playerinventory/shields.asset|
 |assets/content/properties/playerinventory/spraycan.asset|
 |assets/content/properties/playerinventory/stablehand.asset|
 |assets/content/properties/playerinventory/summerdlc.asset|
@@ -1776,6 +1820,7 @@
 |assets/content/properties/protection/deployablepinata.asset|
 |assets/content/properties/protection/deployablewindmill.asset|
 |assets/content/properties/protection/deployablewood.asset|
+|assets/content/properties/protection/deployedsiegeexplosive.asset|
 |assets/content/properties/protection/doors/metaldoor.asset|
 |assets/content/properties/protection/doors/wooddoor.asset|
 |assets/content/properties/protection/fence.asset|
@@ -1805,6 +1850,11 @@
 |assets/content/properties/protection/samsitedeployed.asset|
 |assets/content/properties/protection/samstatic.asset|
 |assets/content/properties/protection/shelves.asset|
+|assets/content/properties/protection/shieldimprovised.asset|
+|assets/content/properties/protection/shieldmetal.asset|
+|assets/content/properties/protection/shieldreinforcedwooden.asset|
+|assets/content/properties/protection/shieldwooden.asset|
+|assets/content/properties/protection/siegeweaponprotection.asset|
 |assets/content/properties/protection/signprotection.asset|
 |assets/content/properties/protection/spray.asset|
 |assets/content/properties/protection/submarineprotection.asset|
@@ -2024,6 +2074,11 @@
 |assets/content/properties/steamcategories/limited-chinese-newyear-2024-400.steam.asset|
 |assets/content/properties/steamcategories/limited-chinese-newyear-2024-550.steam.asset|
 |assets/content/properties/steamcategories/limited-chinese-newyear-2024-650.steam.asset|
+|assets/content/properties/steamcategories/limited-chinese-newyear-2025-250.steam.asset|
+|assets/content/properties/steamcategories/limited-chinese-newyear-2025-350.steam.asset|
+|assets/content/properties/steamcategories/limited-chinese-newyear-2025-400.steam.asset|
+|assets/content/properties/steamcategories/limited-chinese-newyear-2025-550.steam.asset|
+|assets/content/properties/steamcategories/limited-chinese-newyear-2025-650.steam.asset|
 |assets/content/properties/steamcategories/limited-christmas2015.steam.asset|
 |assets/content/properties/steamcategories/limited-christmas2017.steam.asset|
 |assets/content/properties/steamcategories/limited-christmas2017-cheap.steam.asset|
@@ -2033,6 +2088,7 @@
 |assets/content/properties/steamcategories/limited-christmas2019-dirtcheap.steam.asset|
 |assets/content/properties/steamcategories/limited-christmas2019-expensive.steam.asset|
 |assets/content/properties/steamcategories/limited-christmas2019-legacy.steam.asset|
+|assets/content/properties/steamcategories/limited-christmas2020-1200.steam.asset|
 |assets/content/properties/steamcategories/limited-christmas2020-1500.steam.asset|
 |assets/content/properties/steamcategories/limited-christmas2020-250.steam.asset|
 |assets/content/properties/steamcategories/limited-christmas2020-300.steam.asset|
@@ -4203,12 +4259,14 @@
 |assets/content/structures/office_interiors/sound/vent-open.asset|
 |assets/content/ui/fonts/_nonenglish/arabic/notosansarabic-bold sdf.asset|
 |assets/content/ui/fonts/_nonenglish/arabic/notosansarabic-regular sdf.asset|
-|assets/content/ui/fonts/_nonenglish/notosanscjksc-bold chinese common 2 sdf.asset|
-|assets/content/ui/fonts/_nonenglish/notosanscjksc-bold chinese rare sdf.asset|
-|assets/content/ui/fonts/_nonenglish/notosanscjksc-bold japanese sdf.asset|
-|assets/content/ui/fonts/_nonenglish/notosanscjksc-bold korean sdf.asset|
+|assets/content/ui/fonts/_nonenglish/chinese/notosanscjksc-bold chinese dynamic sdf.asset|
+|assets/content/ui/fonts/_nonenglish/chinese/notosanscjksc-bold chinese sdf.asset|
+|assets/content/ui/fonts/_nonenglish/hebrew/notosanshebrew-bold sdf.asset|
+|assets/content/ui/fonts/_nonenglish/japanese/notosanscjksc-bold japanese dynamic sdf.asset|
+|assets/content/ui/fonts/_nonenglish/japanese/notosanscjksc-bold japanese sdf.asset|
+|assets/content/ui/fonts/_nonenglish/korean/notosanscjksc-bold korean dynamic sdf.asset|
+|assets/content/ui/fonts/_nonenglish/korean/notosanscjksc-bold korean sdf.asset|
 |assets/content/ui/fonts/_nonenglish/notosanscjksc-bold sdf.asset|
-|assets/content/ui/fonts/_nonenglish/notosanshebrew-bold sdf.asset|
 |assets/content/ui/fonts/_robotocondensed/bootstrap robotocondensed-bold sdf.asset|
 |assets/content/ui/fonts/_robotocondensed/bootstrap robotocondensed-regular sdf.asset|
 |assets/content/ui/fonts/_robotocondensed/robotocondensed-bold sdf - hotkey.asset|
@@ -4216,6 +4274,7 @@
 |assets/content/ui/fonts/_robotocondensed/robotocondensed-regular sdf.asset|
 |assets/content/ui/fonts/droidsansmono/droidsansmono sdf.asset|
 |assets/content/ui/fonts/lcd sdf.asset|
+|assets/content/ui/fonts/localizationfontsettings.asset|
 |assets/content/ui/fonts/permanentmarker/permanentmarker sdf.asset|
 |assets/content/ui/fonts/poxel/poxel sdf.asset|
 |assets/content/ui/fonts/pressstart2p/pressstart2p-regular sdf.asset|
@@ -4256,6 +4315,7 @@
 |assets/content/ui/gameui/notices/level-up-notice.asset|
 |assets/content/ui/gameui/notices/notice-close.asset|
 |assets/content/ui/gameui/notices/xp-gain-notice.asset|
+|assets/content/ui/menuui/friendslist/friendstyle.asset|
 |assets/content/vehicles/attackhelicopter/sound/attack-helicopter-alarm-lock.asset|
 |assets/content/vehicles/attackhelicopter/sound/attack-helicopter-alarm-radar-warning.asset|
 |assets/content/vehicles/attackhelicopter/sound/attack-helicopter-change-seat.asset|
@@ -4447,6 +4507,55 @@
 |assets/content/vehicles/dpv/sound/dpv-water-movement-loop.asset|
 |assets/content/vehicles/dpv/sound/dpv-water-submerge.asset|
 |assets/content/vehicles/dpv/sound/dpv-water-surface-loop.asset|
+|assets/content/vehicles/horse/breeds/appaloosa.asset|
+|assets/content/vehicles/horse/breeds/bay.asset|
+|assets/content/vehicles/horse/breeds/black.asset|
+|assets/content/vehicles/horse/breeds/bucksin.asset|
+|assets/content/vehicles/horse/breeds/chestnut.asset|
+|assets/content/vehicles/horse/breeds/dapplegrey.asset|
+|assets/content/vehicles/horse/breeds/piebald.asset|
+|assets/content/vehicles/horse/breeds/pinto.asset|
+|assets/content/vehicles/horse/breeds/redroan.asset|
+|assets/content/vehicles/horse/breeds/white.asset|
+|assets/content/vehicles/horse/effects/footsteps/horse-footstep-concrete.asset|
+|assets/content/vehicles/horse/effects/footsteps/horse-footstep-dirt.asset|
+|assets/content/vehicles/horse/effects/footsteps/horse-footstep-grass.asset|
+|assets/content/vehicles/horse/effects/footsteps/horse-footstep-sand.asset|
+|assets/content/vehicles/horse/effects/footsteps/horse-footstep-snow.asset|
+|assets/content/vehicles/horse/effects/footsteps/horse-footstep-water.asset|
+|assets/content/vehicles/horse/effects/footsteps/horse-footstep-water-deep.asset|
+|assets/content/vehicles/horse/effects/footsteps/horse-footstep-water-deep-slosh.asset|
+|assets/content/vehicles/horse/effects/footsteps/horse-footstep-wood.asset|
+|assets/content/vehicles/horse/horse.footsteps.asset|
+|assets/content/vehicles/horse/items/roadsign.horse.protection.asset|
+|assets/content/vehicles/horse/items/roadsign.horse.rider.protection.asset|
+|assets/content/vehicles/horse/items/wood.horse.protection.asset|
+|assets/content/vehicles/horse/items/wood.horse.rider.protection.asset|
+|assets/content/vehicles/horse/model/horse.skeleton.asset|
+|assets/content/vehicles/horse/ridablehorse.population.asset|
+|assets/content/vehicles/horse/sound/attack.asset|
+|assets/content/vehicles/horse/sound/breathing.asset|
+|assets/content/vehicles/horse/sound/eat.asset|
+|assets/content/vehicles/horse/sound/flinch-1.asset|
+|assets/content/vehicles/horse/sound/flinch-2.asset|
+|assets/content/vehicles/horse/sound/footscrape.asset|
+|assets/content/vehicles/horse/sound/heavy-breath.asset|
+|assets/content/vehicles/horse/sound/horse-attach.asset|
+|assets/content/vehicles/horse/sound/horse-detach.asset|
+|assets/content/vehicles/horse/sound/horse-dismount.asset|
+|assets/content/vehicles/horse/sound/horse-eat.asset|
+|assets/content/vehicles/horse/sound/horse-mount.asset|
+|assets/content/vehicles/horse/sound/horse-movement-grunt.asset|
+|assets/content/vehicles/horse/sound/horse-pain.asset|
+|assets/content/vehicles/horse/sound/horse-saddle-movement.asset|
+|assets/content/vehicles/horse/sound/horse-saddle-movement-metal.asset|
+|assets/content/vehicles/horse/sound/horse-saddle-movement-wood.asset|
+|assets/content/vehicles/horse/sound/horse-skid-loop.asset|
+|assets/content/vehicles/horse/sound/horse-snort.asset|
+|assets/content/vehicles/horse/sound/horse-whinny-large.asset|
+|assets/content/vehicles/horse/sound/snort.asset|
+|assets/content/vehicles/horse/sound/whinny.asset|
+|assets/content/vehicles/horse/sound/whinny-large.asset|
 |assets/content/vehicles/minicopter/minicopter.population.asset|
 |assets/content/vehicles/minicopter/sound/engine-loop.asset|
 |assets/content/vehicles/minicopter/sound/engine-start.asset|
@@ -4672,6 +4781,85 @@
 |assets/content/vehicles/scrap heli carrier/sound/scrap-transport-heli-rotor-loop.asset|
 |assets/content/vehicles/sedan_a/sound/engine_drive_loop.asset|
 |assets/content/vehicles/sedan_a/sound/idle_loop.asset|
+|assets/content/vehicles/siegeweapons/ballista/sound/ballista-aim-movement-loop.asset|
+|assets/content/vehicles/siegeweapons/ballista/sound/ballista-attack.asset|
+|assets/content/vehicles/siegeweapons/ballista/sound/ballista-construct-01.asset|
+|assets/content/vehicles/siegeweapons/ballista/sound/ballista-construct-02.asset|
+|assets/content/vehicles/siegeweapons/ballista/sound/ballista-construct-03.asset|
+|assets/content/vehicles/siegeweapons/ballista/sound/ballista-deploy.asset|
+|assets/content/vehicles/siegeweapons/ballista/sound/ballista-dismount.asset|
+|assets/content/vehicles/siegeweapons/ballista/sound/ballista-mount.asset|
+|assets/content/vehicles/siegeweapons/ballista/sound/ballista-movement-loop.asset|
+|assets/content/vehicles/siegeweapons/ballista/sound/ballista-projectile-fire-flight-loop.asset|
+|assets/content/vehicles/siegeweapons/ballista/sound/ballista-projectile-fire-idle-loop.asset|
+|assets/content/vehicles/siegeweapons/ballista/sound/ballista-projectile-fire-impact.asset|
+|assets/content/vehicles/siegeweapons/ballista/sound/ballista-projectile-flight-loop.asset|
+|assets/content/vehicles/siegeweapons/ballista/sound/ballista-projectile-impact.asset|
+|assets/content/vehicles/siegeweapons/ballista/sound/ballista-reload-finish.asset|
+|assets/content/vehicles/siegeweapons/ballista/sound/ballista-reload-gear-click.asset|
+|assets/content/vehicles/siegeweapons/ballista/sound/ballista-reload-ratchet.asset|
+|assets/content/vehicles/siegeweapons/ballista/sound/ballista-reload-tension.asset|
+|assets/content/vehicles/siegeweapons/ballista/sound/ballista-repair.asset|
+|assets/content/vehicles/siegeweapons/batteringram/sound/battering-ram.engine-audio-set.asset|
+|assets/content/vehicles/siegeweapons/batteringram/sound/battering-ram-active-loop.asset|
+|assets/content/vehicles/siegeweapons/batteringram/sound/battering-ram-attack.asset|
+|assets/content/vehicles/siegeweapons/batteringram/sound/battering-ram-attack-impact.asset|
+|assets/content/vehicles/siegeweapons/batteringram/sound/battering-ram-attack-wind-up.asset|
+|assets/content/vehicles/siegeweapons/batteringram/sound/battering-ram-construct-01.asset|
+|assets/content/vehicles/siegeweapons/batteringram/sound/battering-ram-construct-02.asset|
+|assets/content/vehicles/siegeweapons/batteringram/sound/battering-ram-construct-03.asset|
+|assets/content/vehicles/siegeweapons/batteringram/sound/battering-ram-construct-04.asset|
+|assets/content/vehicles/siegeweapons/batteringram/sound/battering-ram-deploy.asset|
+|assets/content/vehicles/siegeweapons/batteringram/sound/battering-ram-dismount.asset|
+|assets/content/vehicles/siegeweapons/batteringram/sound/battering-ram-door-close-end.asset|
+|assets/content/vehicles/siegeweapons/batteringram/sound/battering-ram-door-close-start.asset|
+|assets/content/vehicles/siegeweapons/batteringram/sound/battering-ram-door-open-end.asset|
+|assets/content/vehicles/siegeweapons/batteringram/sound/battering-ram-door-open-start.asset|
+|assets/content/vehicles/siegeweapons/batteringram/sound/battering-ram-engine.loop-definition.asset|
+|assets/content/vehicles/siegeweapons/batteringram/sound/battering-ram-engine-loop.asset|
+|assets/content/vehicles/siegeweapons/batteringram/sound/battering-ram-engine-start.asset|
+|assets/content/vehicles/siegeweapons/batteringram/sound/battering-ram-engine-start-fail.asset|
+|assets/content/vehicles/siegeweapons/batteringram/sound/battering-ram-engine-stop.asset|
+|assets/content/vehicles/siegeweapons/batteringram/sound/battering-ram-mount.asset|
+|assets/content/vehicles/siegeweapons/batteringram/sound/battering-ram-movement-loop.asset|
+|assets/content/vehicles/siegeweapons/batteringram/sound/battering-ram-repair.asset|
+|assets/content/vehicles/siegeweapons/catapult/sound/catapult-ammo-close.asset|
+|assets/content/vehicles/siegeweapons/catapult/sound/catapult-ammo-open.asset|
+|assets/content/vehicles/siegeweapons/catapult/sound/catapult-attack.asset|
+|assets/content/vehicles/siegeweapons/catapult/sound/catapult-boulder-fire-flight-loop.asset|
+|assets/content/vehicles/siegeweapons/catapult/sound/catapult-boulder-fire-impact.asset|
+|assets/content/vehicles/siegeweapons/catapult/sound/catapult-boulder-flight-loop.asset|
+|assets/content/vehicles/siegeweapons/catapult/sound/catapult-boulder-flight-loop-small.asset|
+|assets/content/vehicles/siegeweapons/catapult/sound/catapult-boulder-impact.asset|
+|assets/content/vehicles/siegeweapons/catapult/sound/catapult-boulder-impact-small.asset|
+|assets/content/vehicles/siegeweapons/catapult/sound/catapult-construct-01.asset|
+|assets/content/vehicles/siegeweapons/catapult/sound/catapult-construct-02.asset|
+|assets/content/vehicles/siegeweapons/catapult/sound/catapult-construct-03.asset|
+|assets/content/vehicles/siegeweapons/catapult/sound/catapult-construct-04.asset|
+|assets/content/vehicles/siegeweapons/catapult/sound/catapult-deploy.asset|
+|assets/content/vehicles/siegeweapons/catapult/sound/catapult-movement-loop.asset|
+|assets/content/vehicles/siegeweapons/catapult/sound/catapult-projectile-explosive-explode.asset|
+|assets/content/vehicles/siegeweapons/catapult/sound/catapult-projectile-explosive-explode-metal.asset|
+|assets/content/vehicles/siegeweapons/catapult/sound/catapult-projectile-explosive-flight-loop.asset|
+|assets/content/vehicles/siegeweapons/catapult/sound/catapult-reload-loop.asset|
+|assets/content/vehicles/siegeweapons/catapult/sound/catapult-reload-ratchet-click.asset|
+|assets/content/vehicles/siegeweapons/catapult/sound/catapult-reload-start.asset|
+|assets/content/vehicles/siegeweapons/catapult/sound/catapult-reload-stop.asset|
+|assets/content/vehicles/siegeweapons/catapult/sound/catapult-repair.asset|
+|assets/content/vehicles/siegeweapons/siegetower/sound/siege-tower-construct-01.asset|
+|assets/content/vehicles/siegeweapons/siegetower/sound/siege-tower-construct-02.asset|
+|assets/content/vehicles/siegeweapons/siegetower/sound/siege-tower-construct-03.asset|
+|assets/content/vehicles/siegeweapons/siegetower/sound/siege-tower-deploy.asset|
+|assets/content/vehicles/siegeweapons/siegetower/sound/siege-tower-door-chain-close-end.asset|
+|assets/content/vehicles/siegeweapons/siegetower/sound/siege-tower-door-chain-close-start.asset|
+|assets/content/vehicles/siegeweapons/siegetower/sound/siege-tower-door-chain-open-end.asset|
+|assets/content/vehicles/siegeweapons/siegetower/sound/siege-tower-door-chain-open-start.asset|
+|assets/content/vehicles/siegeweapons/siegetower/sound/siege-tower-door-close-end.asset|
+|assets/content/vehicles/siegeweapons/siegetower/sound/siege-tower-door-close-start.asset|
+|assets/content/vehicles/siegeweapons/siegetower/sound/siege-tower-door-open-end.asset|
+|assets/content/vehicles/siegeweapons/siegetower/sound/siege-tower-door-open-start.asset|
+|assets/content/vehicles/siegeweapons/siegetower/sound/siege-tower-movement-loop.asset|
+|assets/content/vehicles/siegeweapons/siegetower/sound/siege-tower-repair.asset|
 |assets/content/vehicles/snowmobiles/snowmobile.skinnable.asset|
 |assets/content/vehicles/snowmobiles/snowmobile.tomaha.skin.asset|
 |assets/content/vehicles/snowmobiles/sound/snowmobile-close-fuel.asset|
@@ -5124,8 +5312,11 @@
 |assets/prefabs/clothes/hat.clatterhelmet/hat.clatter.sitem.asset|
 |assets/prefabs/clothes/hat.coffeecan/hat.coffeecan.skinnable.asset|
 |assets/prefabs/clothes/hat.deerskullmask/hat.deerskullmask.skinnable.asset|
+|assets/prefabs/clothes/hat.knightsarmour/hat.knightarmour.skin.asset|
 |assets/prefabs/clothes/hat.miner/hat.miner.skinnable.asset|
 |assets/prefabs/clothes/hat.riot/hat.riot.skinnable.asset|
+|assets/prefabs/clothes/hat.wellipets/cloth.wellipetshat.asset|
+|assets/prefabs/clothes/hat.wellipets/hat.wellipets.sitem.asset|
 |assets/prefabs/clothes/hoodie/black/hoodie.black.itemskin.asset|
 |assets/prefabs/clothes/hoodie/blue/hoodie.blue.itemskin.asset|
 |assets/prefabs/clothes/hoodie/green/hoodie.green.itemskin.asset|
@@ -5167,6 +5358,7 @@
 |assets/prefabs/clothes/ninja_suit/ninja_suit.sitem.asset|
 |assets/prefabs/clothes/pants.burlap/pants.burlap.skinnable.asset|
 |assets/prefabs/clothes/pants.hide/pants.hide.skinnable.asset|
+|assets/prefabs/clothes/pants.knightsarmour/pants.knightarmour.skin.asset|
 |assets/prefabs/clothes/pants.roadsign/pants.roadsign.skinnable.asset|
 |assets/prefabs/clothes/pants.shorts/pants.shorts.skinnable.asset|
 |assets/prefabs/clothes/pants/forestcamo/pants.forestcamo.itemskin.asset|
@@ -5225,10 +5417,14 @@
 |assets/prefabs/clothes/tshirt/red/tshirt.red.itemskin.asset|
 |assets/prefabs/clothes/tshirt/tshirt.skinnable.asset|
 |assets/prefabs/clothes/tshirt/urbancamo/tshirt.urbancamo.itemskin.asset|
+|assets/prefabs/clothes/vest.knightsarmour/cloth.knightarmour.asset|
+|assets/prefabs/clothes/vest.knightsarmour/player_skeleton.knightarmour.asset|
+|assets/prefabs/clothes/vest.knightsarmour/vest.knightarmour.skin.asset|
 |assets/prefabs/clothes/vest.metal/vest.metal.skinnable.asset|
 |assets/prefabs/clothes/vest.metal/vest.metal_ice/metal.plate.torso.icevest.skin.asset|
 |assets/prefabs/clothes/vest.roadsign/vest.roadsign.skinnable.asset|
 |assets/prefabs/deployable/barricades/barricade.concrete.skinnable.asset|
+|assets/prefabs/deployable/barricades/barricade.medieval.sitem.asset|
 |assets/prefabs/deployable/barricades/barricade.sandbags.skinnable.asset|
 |assets/prefabs/deployable/barricades/sound/barricade-concrete-deploy.asset|
 |assets/prefabs/deployable/barricades/sound/barricade-metal-deploy.asset|
@@ -5355,6 +5551,8 @@
 |assets/prefabs/deployable/lantern/sound/lantern-loop.asset|
 |assets/prefabs/deployable/lantern/sound/lantern-open.asset|
 |assets/prefabs/deployable/large wood storage/box.wooden.large.skinnable.asset|
+|assets/prefabs/deployable/large wood storage/skins/medieval_large_wood_box/box.wooden.large.medieval.box.wooden.large.skin.asset|
+|assets/prefabs/deployable/large wood storage/skins/medieval_large_wood_box/medieval.pack.sitem.asset|
 |assets/prefabs/deployable/large wood storage/sound/large-wood-box-close.asset|
 |assets/prefabs/deployable/large wood storage/sound/large-wood-box-deploy.asset|
 |assets/prefabs/deployable/large wood storage/sound/large-wood-box-open.asset|
@@ -5503,6 +5701,11 @@
 |assets/prefabs/deployable/rug/sound/rug-deploy.asset|
 |assets/prefabs/deployable/sculptures/icesculpture/materials/ice_sculpture_pedestal.asset|
 |assets/prefabs/deployable/sculptures/icesculpture/sculpture.ice.sitem.asset|
+|assets/prefabs/deployable/sculptures/icesculpture/sound/ice-sculpture-deploy.asset|
+|assets/prefabs/deployable/sculptures/icesculpture/sound/ice-sculpture-destroyed.asset|
+|assets/prefabs/deployable/sculptures/icesculpture/sound/ice-sculpture-drop.asset|
+|assets/prefabs/deployable/sculptures/icesculpture/sound/ice-sculpture-impact.asset|
+|assets/prefabs/deployable/sculptures/icesculpture/sound/ice-sculpture-pickup.asset|
 |assets/prefabs/deployable/search light/sound/search-light-active-loop.ambience-def.asset|
 |assets/prefabs/deployable/search light/sound/search-light-active-loop.ambience-list.asset|
 |assets/prefabs/deployable/search light/sound/search-light-active-loop.asset|
@@ -5612,11 +5815,13 @@
 |assets/prefabs/deployable/vendingmachine/npcsellorders/stables.asset|
 |assets/prefabs/deployable/vendingmachine/npcsellorders/tools.asset|
 |assets/prefabs/deployable/vendingmachine/npcsellorders/travellingvendor.asset|
+|assets/prefabs/deployable/vendingmachine/npcsellorders/travellingvendor_primitive.asset|
 |assets/prefabs/deployable/vendingmachine/npcsellorders/travellingvendorlite.asset|
 |assets/prefabs/deployable/vendingmachine/npcsellorders/vehicles.asset|
 |assets/prefabs/deployable/vendingmachine/npcsellorders/vehicles2.asset|
 |assets/prefabs/deployable/vendingmachine/npcsellorders/vmomanifest.asset|
 |assets/prefabs/deployable/vendingmachine/npcsellorders/waterwell.asset|
+|assets/prefabs/deployable/vendingmachine/npcsellorders/waterwell_primitive.asset|
 |assets/prefabs/deployable/vendingmachine/npcsellorders/weapons.asset|
 |assets/prefabs/deployable/vendingmachine/npcsellorders/weapons_bandit.asset|
 |assets/prefabs/deployable/vendingmachine/sound/ambient_loop.asset|
@@ -5890,6 +6095,8 @@
 |assets/prefabs/misc/marketplace/sound/marketplace-close.asset|
 |assets/prefabs/misc/marketplace/sound/marketplace-open.asset|
 |assets/prefabs/misc/marketplace/sound/marketplace-place-order.asset|
+|assets/prefabs/misc/medieval door skin/medieval.door.double.hinged.skin.asset|
+|assets/prefabs/misc/medieval door skin/medieval.door.hinged.metal.skin.asset|
 |assets/prefabs/misc/movember/movember_moustache_style01/movember_moustache_style01.sitem.asset|
 |assets/prefabs/misc/orebonus/sound/bonus_fail.asset|
 |assets/prefabs/misc/orebonus/sound/bonus_finish.asset|
@@ -5902,6 +6109,9 @@
 |assets/prefabs/misc/parachute/sound/parachute-steer.asset|
 |assets/prefabs/misc/permstore/factorydoor/door.hinged.metal.industrial.d.skin.asset|
 |assets/prefabs/misc/permstore/industriallight/industrial.lights.sitem.asset|
+|assets/prefabs/misc/permstore/industriallight/industrial.wall.lamp.green.skin.asset|
+|assets/prefabs/misc/permstore/industriallight/industrial.wall.lamp.red.skin.asset|
+|assets/prefabs/misc/permstore/industriallight/industrial.wall.lamp.skinnable.asset|
 |assets/prefabs/misc/pinata/sound/pinata-deploy.asset|
 |assets/prefabs/misc/pinata/sound/pinata-destroy.asset|
 |assets/prefabs/misc/pinata/sound/pinata-impact.asset|
@@ -6758,6 +6968,7 @@
 |assets/prefabs/weapons/ak47u/diver/ak47u_diver.skin.asset|
 |assets/prefabs/weapons/ak47u/diver/clothmat_diverak_vm.asset|
 |assets/prefabs/weapons/ak47u/iceskin/ak47ice.skin.asset|
+|assets/prefabs/weapons/ak47u/medieval skin/ak47u_med.item.skin.asset|
 |assets/prefabs/weapons/ak47u/sound/ak47-gunshot-body.asset|
 |assets/prefabs/weapons/ak47u/sound/ak47-gunshot-body-suppressed.asset|
 |assets/prefabs/weapons/ak47u/sound/ak47-gunshot-lfe.asset|
@@ -7153,6 +7364,10 @@
 |assets/prefabs/weapons/machete/sounds/machete-strike.asset|
 |assets/prefabs/weapons/machete/sounds/machete-strike-muted.asset|
 |assets/prefabs/weapons/machete/sounds/machete-strike-soft.asset|
+|assets/prefabs/weapons/metal_shield/sound/metal-shield-deploy.asset|
+|assets/prefabs/weapons/metal_shield/sound/metal-shield-impact.asset|
+|assets/prefabs/weapons/metal_shield/sound/metal-shield-lower.asset|
+|assets/prefabs/weapons/metal_shield/sound/metal-shield-raise.asset|
 |assets/prefabs/weapons/military flamethrower/sound/military-flamethrower-admire-01.asset|
 |assets/prefabs/weapons/military flamethrower/sound/military-flamethrower-admire-02.asset|
 |assets/prefabs/weapons/military flamethrower/sound/military-flamethrower-admire-03.asset|
@@ -7164,6 +7379,20 @@
 |assets/prefabs/weapons/military flamethrower/sound/military-flamethrower-reload-finish.asset|
 |assets/prefabs/weapons/military flamethrower/sound/military-flamethrower-reload-remove-canister.asset|
 |assets/prefabs/weapons/military flamethrower/sound/military-flamethrower-reload-start.asset|
+|assets/prefabs/weapons/mini crossbow/sound/mini-crossbow-admire-01.asset|
+|assets/prefabs/weapons/mini crossbow/sound/mini-crossbow-admire-02.asset|
+|assets/prefabs/weapons/mini crossbow/sound/mini-crossbow-admire-03.asset|
+|assets/prefabs/weapons/mini crossbow/sound/mini-crossbow-admire-04.asset|
+|assets/prefabs/weapons/mini crossbow/sound/mini-crossbow-admire-05.asset|
+|assets/prefabs/weapons/mini crossbow/sound/mini-crossbow-admire-06.asset|
+|assets/prefabs/weapons/mini crossbow/sound/mini-crossbow-attack.asset|
+|assets/prefabs/weapons/mini crossbow/sound/mini-crossbow-attack-spin.asset|
+|assets/prefabs/weapons/mini crossbow/sound/mini-crossbow-deploy.asset|
+|assets/prefabs/weapons/mini crossbow/sound/mini-crossbow-insert-bolt.asset|
+|assets/prefabs/weapons/mini crossbow/sound/mini-crossbow-reload-end.asset|
+|assets/prefabs/weapons/mini crossbow/sound/mini-crossbow-reload-lower-for-bolt.asset|
+|assets/prefabs/weapons/mini crossbow/sound/mini-crossbow-reload-pull-back.asset|
+|assets/prefabs/weapons/mini crossbow/sound/mini-crossbow-reload-start.asset|
 |assets/prefabs/weapons/minigun/sound/minigun-admire-01.asset|
 |assets/prefabs/weapons/minigun/sound/minigun-admire-02.asset|
 |assets/prefabs/weapons/minigun/sound/minigun-admire-03.asset|
@@ -7522,7 +7751,12 @@
 |assets/prefabs/weapons/waterbucket/sound/waterbucket-throw-3p.asset|
 |assets/prefabs/weapons/waterbucket/sound/waterspill.asset|
 |assets/prefabs/weapons/waterbucket/sound/well-waterproduction.asset|
+|assets/prefabs/weapons/wooden shield/sound/wooden-shield-deploy.asset|
+|assets/prefabs/weapons/wooden shield/sound/wooden-shield-impact.asset|
+|assets/prefabs/weapons/wooden shield/sound/wooden-shield-lower.asset|
+|assets/prefabs/weapons/wooden shield/sound/wooden-shield-raise.asset|
 |assets/prefabs/weapons/wooden spear/spear_wooden.skinnable.asset|
+|assets/prefabs/worldconfig/resources/primitive_world.asset|
 |assets/resources/train wagon loot data.asset|
 |assets/resources/worldspline prefab shared data.asset|
 |assets/rust.ai/agents/animal/animal.aidesign.asset|
@@ -7594,38 +7828,6 @@
 |assets/rust.ai/agents/fish/shark/sharkskeletondefinition.asset|
 |assets/rust.ai/agents/fish/shark/sound/shark_bite.asset|
 |assets/rust.ai/agents/fish/shark/sound/shark_movement.asset|
-|assets/rust.ai/agents/horse/footsteps/horse-footstep-concrete.asset|
-|assets/rust.ai/agents/horse/footsteps/horse-footstep-dirt.asset|
-|assets/rust.ai/agents/horse/footsteps/horse-footstep-grass.asset|
-|assets/rust.ai/agents/horse/footsteps/horse-footstep-sand.asset|
-|assets/rust.ai/agents/horse/footsteps/horse-footstep-snow.asset|
-|assets/rust.ai/agents/horse/footsteps/horse-footstep-water.asset|
-|assets/rust.ai/agents/horse/footsteps/horse-footstep-water-deep.asset|
-|assets/rust.ai/agents/horse/footsteps/horse-footstep-water-deep-slosh.asset|
-|assets/rust.ai/agents/horse/footsteps/horse-footstep-wood.asset|
-|assets/rust.ai/agents/horse/horse.footsteps.asset|
-|assets/rust.ai/agents/horse/horse.population.asset|
-|assets/rust.ai/agents/horse/horse.skeleton.asset|
-|assets/rust.ai/agents/horse/sound/attack.asset|
-|assets/rust.ai/agents/horse/sound/breathing.asset|
-|assets/rust.ai/agents/horse/sound/eat.asset|
-|assets/rust.ai/agents/horse/sound/flinch-1.asset|
-|assets/rust.ai/agents/horse/sound/flinch-2.asset|
-|assets/rust.ai/agents/horse/sound/footscrape.asset|
-|assets/rust.ai/agents/horse/sound/heavy-breath.asset|
-|assets/rust.ai/agents/horse/sound/horse-dismount.asset|
-|assets/rust.ai/agents/horse/sound/horse-eat.asset|
-|assets/rust.ai/agents/horse/sound/horse-mount.asset|
-|assets/rust.ai/agents/horse/sound/horse-movement-grunt.asset|
-|assets/rust.ai/agents/horse/sound/horse-pain.asset|
-|assets/rust.ai/agents/horse/sound/horse-saddle-movement.asset|
-|assets/rust.ai/agents/horse/sound/horse-saddle-movement-metal.asset|
-|assets/rust.ai/agents/horse/sound/horse-saddle-movement-wood.asset|
-|assets/rust.ai/agents/horse/sound/horse-snort.asset|
-|assets/rust.ai/agents/horse/sound/horse-whinny-large.asset|
-|assets/rust.ai/agents/horse/sound/snort.asset|
-|assets/rust.ai/agents/horse/sound/whinny.asset|
-|assets/rust.ai/agents/horse/sound/whinny-large.asset|
 |assets/rust.ai/agents/npcplayer/gingerbread/gingerbread.aidesign.asset|
 |assets/rust.ai/agents/npcplayer/gingerbread/gingerbreadmelee.aidesign.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/bandit_guard.aidesign.asset|
@@ -7766,22 +7968,6 @@
 |assets/rust.ai/agents/wolf/wolf.population.asset|
 |assets/rust.ai/agents/wolf/wolf.skeleton.asset|
 |assets/rust.ai/agents/zombie/zombie.population.asset|
-|assets/rust.ai/nextai/ridablehorse.population.asset|
-|assets/rust.ai/nextai/ridablehorse/breeds/appaloosa.asset|
-|assets/rust.ai/nextai/ridablehorse/breeds/bay.asset|
-|assets/rust.ai/nextai/ridablehorse/breeds/black.asset|
-|assets/rust.ai/nextai/ridablehorse/breeds/bucksin.asset|
-|assets/rust.ai/nextai/ridablehorse/breeds/chestnut.asset|
-|assets/rust.ai/nextai/ridablehorse/breeds/dapplegrey.asset|
-|assets/rust.ai/nextai/ridablehorse/breeds/piebald.asset|
-|assets/rust.ai/nextai/ridablehorse/breeds/pinto.asset|
-|assets/rust.ai/nextai/ridablehorse/breeds/redroan.asset|
-|assets/rust.ai/nextai/ridablehorse/breeds/white.asset|
-|assets/rust.ai/nextai/ridablehorse/items/roadsign.horse.protection.asset|
-|assets/rust.ai/nextai/ridablehorse/items/roadsign.horse.rider.protection.asset|
-|assets/rust.ai/nextai/ridablehorse/items/wood.horse.protection.asset|
-|assets/rust.ai/nextai/ridablehorse/items/wood.horse.rider.protection.asset|
-|assets/rust.ai/nextai/sound/horse-eat.asset|
 |assets/scenes/prefabs/trainyard/sound/coaling-tower-arm-movement-lower.asset|
 |assets/scenes/prefabs/trainyard/sound/coaling-tower-arm-movement-raise.asset|
 |assets/scenes/prefabs/trainyard/sound/coaling-tower-liquid-tank-fill-loop.asset|
@@ -7809,13 +7995,37 @@
 |assets/scripts/entity/misc/f15/sound/f15e-fly-by.asset|
 |assets/scripts/game/techtree/techtree.asset|
 |assets/scripts/game/techtree/techtreet0.asset|
+|assets/scripts/game/techtree/techtreet0_primitive.asset|
 |assets/scripts/game/techtree/techtreet1.asset|
 |assets/scripts/game/techtree/techtreet2.asset|
+|assets/scripts/game/techtree/techtreet2_primitive.asset|
 |assets/scripts/game/techtree/techtreet3.asset|
 |assets/scripts/postprocessing/customposteffects/resources/custom post effects resources.asset|
 |assets/scripts/postprocessing/postprocessing/postprocessresources.asset|
 |assets/skins.asset|
 |assets/textmesh pro/resources/tmp settings.asset|
+|assets/third party/fimpossible creations/plugins - animating/legs animator/modules - community/custom ik example/ik algorithm switch - axis lock ik.asset|
+|assets/third party/fimpossible creations/plugins - animating/legs animator/presets directory/leg custom module presets/extra_hard glue on stop.asset|
+|assets/third party/fimpossible creations/plugins - animating/legs animator/presets directory/leg custom module presets/extra_height stabilizer.asset|
+|assets/third party/fimpossible creations/plugins - animating/legs animator/presets directory/leg custom module presets/extra_rotation stability.asset|
+|assets/third party/fimpossible creations/plugins - animating/legs animator/presets directory/leg custom module presets/humanoid_slope pusher.asset|
+|assets/third party/fimpossible creations/plugins - animating/legs animator/presets directory/leg custom module presets/humanoid_stabilize pose on idle.asset|
+|assets/third party/fimpossible creations/plugins - animating/legs animator/presets directory/leg custom module presets/ik 360 movement.asset|
+|assets/third party/fimpossible creations/plugins - animating/legs animator/presets directory/leg custom module presets/impulses on stop on land on move.asset|
+|assets/third party/fimpossible creations/plugins - animating/legs animator/presets directory/leg custom module presets/multi leg_body elevate helper.asset|
+|assets/third party/fimpossible creations/plugins - animating/legs animator/presets directory/leg custom module presets/multi leg_legs helper.asset|
+|assets/third party/fimpossible creations/plugins - animating/legs animator/presets directory/leg custom module presets/utility_animator curves glue.asset|
+|assets/third party/fimpossible creations/plugins - animating/legs animator/presets directory/leg custom module presets/utility_auto align body matrix.asset|
+|assets/third party/fimpossible creations/plugins - animating/legs animator/presets directory/leg custom module presets/utility_basic pose adjust.asset|
+|assets/third party/fimpossible creations/plugins - animating/legs animator/presets directory/leg custom module presets/utility_desired direction from transform.asset|
+|assets/third party/fimpossible creations/plugins - animating/legs animator/presets directory/leg custom module presets/utility_edge step detector.asset|
+|assets/third party/fimpossible creations/plugins - animating/legs animator/presets directory/leg custom module presets/utility_fade leg on animator.asset|
+|assets/third party/fimpossible creations/plugins - animating/legs animator/presets directory/leg custom module presets/utility_parameters_fade gluing on animator param.asset|
+|assets/third party/fimpossible creations/plugins - animating/legs animator/presets directory/leg custom module presets/utility_parameters_fade gluing on animator.asset|
+|assets/third party/fimpossible creations/plugins - animating/legs animator/presets directory/leg custom module presets/utility_parameters_fade legs system on.asset|
+|assets/third party/fimpossible creations/plugins - animating/legs animator/presets directory/leg custom module presets/utility_parameters_unglue on - ismoving.asset|
+|assets/third party/fimpossible creations/plugins - animating/legs animator/presets directory/leg custom module presets/utility_redirect raycasting.asset|
+|assets/third party/fimpossible creations/plugins - animating/legs animator/presets directory/leg custom module presets/utility_step further with velocity.asset|
 |assets/third party/volumetriclightbeam/resources/config.asset|
 |assets/workshop/rustslider.workshopblue.asset|
 |assets/workshop/rustslider.workshopcutoff.asset|
