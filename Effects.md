@@ -596,6 +596,7 @@
 |assets/bundled/prefabs/fx/vehicle/vehicle_glass_fx_1modtaxi_back_rear.prefab|
 |assets/bundled/prefabs/fx/vehicle/vehicle_glass_fx_1modtaxi_mid_rear.prefab|
 |assets/bundled/prefabs/fx/vehicle/vehicle_glass_fx_1modtaxi_side.prefab|
+|assets/bundled/prefabs/fx/vehicle/wheel_effects.prefab|
 |assets/bundled/prefabs/fx/water/groundsplash.prefab|
 |assets/bundled/prefabs/fx/water/midair_splash.prefab|
 |assets/bundled/prefabs/fx/water/playerjumpinwater.prefab|
@@ -638,25 +639,37 @@
 |assets/content/effects/cars/pfx_wheel_trail_sand.prefab|
 |assets/content/effects/cars/pfx_wheel_trail_snow.prefab|
 |assets/content/effects/cars/pfx_wheel_trail_water.prefab|
+|assets/content/effects/cinema/shield impact metal.prefab|
+|assets/content/effects/cinema/shield impact wood.prefab|
 |assets/content/effects/crossbreed/pfx crossbreed blue.prefab|
 |assets/content/effects/crossbreed/pfx crossbreed plain.prefab|
 |assets/content/effects/crossbreed/pfx crossbreed yellow.prefab|
 |assets/content/effects/electrical/fx-fusebox-sparks.prefab|
 |assets/content/effects/explosions/effects - explosion.prefab|
+|assets/content/effects/explosions/explosion flame ballista incendiary.prefab|
+|assets/content/effects/explosions/explosion flame.prefab|
+|assets/content/effects/explosions/explosion hammerhead.prefab|
+|assets/content/effects/explosions/explosion large catapult canisters.prefab|
 |assets/content/effects/explosions/explosion large.prefab|
 |assets/content/effects/explosions/explosion medium.prefab|
+|assets/content/effects/explosions/explosion piercing nopen.prefab|
+|assets/content/effects/explosions/explosion piercing.prefab|
+|assets/content/effects/explosions/explosion pitchfork.prefab|
 |assets/content/effects/explosions/explosion small.prefab|
 |assets/content/effects/explosions/explosion/prefebs/explosion_3.prefab|
 |assets/content/effects/explosions/explosion/prefebs/explosion_6.prefab|
 |assets/content/effects/explosions/explosion/prefebs/explosion_7.prefab|
 |assets/content/effects/explosions/explosion/prefebs/explosion_8.prefab|
+|assets/content/effects/explosions/fx orientator.prefab|
 |assets/content/effects/explosions/tests/fire/pfx_campfire.prefab|
+|assets/content/effects/explosions/tests/rfo debug particle.prefab|
 |assets/content/effects/explosions/underwater/explosion_underwater_large.prefab|
 |assets/content/effects/explosions/underwater/explosion_underwater_medium.prefab|
 |assets/content/effects/explosions/underwater/explosion_underwater_small.prefab|
 |assets/content/effects/explosions/underwater/explosion_underwater_surface_large.prefab|
 |assets/content/effects/explosions/underwater/explosion_underwater_surface_medium.prefab|
 |assets/content/effects/explosions/underwater/explosion_underwater_surface_small.prefab|
+|assets/content/effects/fire/fire arrow flame.prefab|
 |assets/content/effects/fire/pfx_ground_flame_v2.prefab|
 |assets/content/effects/fire/pfx_ground_flame_v2_small.prefab|
 |assets/content/effects/fireworks/pfx fireworks boomer blue v2.prefab|
@@ -792,6 +805,26 @@
 |assets/content/vehicles/crane_magnet/effects/magnetdust.prefab|
 |assets/content/vehicles/crane_magnet/effects/refract.prefab|
 |assets/content/vehicles/dpv/effects/dpv-deploy.prefab|
+|assets/content/vehicles/horse/effects/dusttrail.prefab|
+|assets/content/vehicles/horse/effects/footsteps/decal_footprint_horse.prefab|
+|assets/content/vehicles/horse/effects/footsteps/decal_footprint_horse_forest.prefab|
+|assets/content/vehicles/horse/effects/footsteps/decal_footprint_horse_grawss.prefab|
+|assets/content/vehicles/horse/effects/footsteps/decal_footprint_horse_sand.prefab|
+|assets/content/vehicles/horse/effects/footsteps/decal_footprint_horse_snow.prefab|
+|assets/content/vehicles/horse/effects/footsteps/decal_footprint_horse_tundre.prefab|
+|assets/content/vehicles/horse/effects/footsteps/horse-footstep-concrete.prefab|
+|assets/content/vehicles/horse/effects/footsteps/horse-footstep-dirt.prefab|
+|assets/content/vehicles/horse/effects/footsteps/horse-footstep-grass.prefab|
+|assets/content/vehicles/horse/effects/footsteps/horse-footstep-sand.prefab|
+|assets/content/vehicles/horse/effects/footsteps/horse-footstep-snow.prefab|
+|assets/content/vehicles/horse/effects/footsteps/horse-footstep-water.prefab|
+|assets/content/vehicles/horse/effects/footsteps/horse-footstep-water-deep.prefab|
+|assets/content/vehicles/horse/effects/footsteps/horse-footstep-water-deep-slosh.prefab|
+|assets/content/vehicles/horse/effects/footsteps/horse-footstep-water-swimming.prefab|
+|assets/content/vehicles/horse/effects/footsteps/horse-footstep-wood.prefab|
+|assets/content/vehicles/horse/effects/horse-attach.prefab|
+|assets/content/vehicles/horse/effects/horsecollisioneffect.prefab|
+|assets/content/vehicles/horse/effects/horse-detach.prefab|
 |assets/content/vehicles/minicopter/effects/mincopter_explosion.prefab|
 |assets/content/vehicles/minicopter/effects/minicopter-wheel-impact.prefab|
 |assets/content/vehicles/mlrs/effects/cabinlighting.prefab|
@@ -806,6 +839,53 @@
 |assets/content/vehicles/scrap heli carrier/effects/debris_effect.prefab|
 |assets/content/vehicles/scrap heli carrier/effects/scrap-transport-heli-explosion.prefab|
 |assets/content/vehicles/scrap heli carrier/effects/wheel-impact.prefab|
+|assets/content/vehicles/siegeweapons/ballista/effects/ballista.bolt_impact.prefab|
+|assets/content/vehicles/siegeweapons/ballista/effects/ballista_debris_effect.prefab|
+|assets/content/vehicles/siegeweapons/ballista/effects/ballista_fire.prefab|
+|assets/content/vehicles/siegeweapons/ballista/effects/ballista-construction-finish.prefab|
+|assets/content/vehicles/siegeweapons/ballista/effects/ballista-construction-repair.prefab|
+|assets/content/vehicles/siegeweapons/ballista/effects/ballista-deploy.prefab|
+|assets/content/vehicles/siegeweapons/ballista/effects/flame ammo ballista.prefab|
+|assets/content/vehicles/siegeweapons/batteringram/effects/battering ram arm damageeffects.prefab|
+|assets/content/vehicles/siegeweapons/batteringram/effects/battering ram damageeffects.prefab|
+|assets/content/vehicles/siegeweapons/batteringram/effects/battering ram door dirt.prefab|
+|assets/content/vehicles/siegeweapons/batteringram/effects/battering ram door sparks.prefab|
+|assets/content/vehicles/siegeweapons/batteringram/effects/battering ram exhaust.prefab|
+|assets/content/vehicles/siegeweapons/batteringram/effects/battering ram fire.prefab|
+|assets/content/vehicles/siegeweapons/batteringram/effects/battering ram lights on.prefab|
+|assets/content/vehicles/siegeweapons/batteringram/effects/batteringram_debris_effect.prefab|
+|assets/content/vehicles/siegeweapons/batteringram/effects/batteringram_hit_metal.prefab|
+|assets/content/vehicles/siegeweapons/batteringram/effects/batteringram_hit_stone.prefab|
+|assets/content/vehicles/siegeweapons/batteringram/effects/batteringram_hit_wood.prefab|
+|assets/content/vehicles/siegeweapons/batteringram/effects/battering-ram-construction-finish.prefab|
+|assets/content/vehicles/siegeweapons/batteringram/effects/battering-ram-construction-repair.prefab|
+|assets/content/vehicles/siegeweapons/batteringram/effects/battering-ram-deploy.prefab|
+|assets/content/vehicles/siegeweapons/batteringram/effects/battering-ram-door-close-end.prefab|
+|assets/content/vehicles/siegeweapons/batteringram/effects/battering-ram-door-close-start.prefab|
+|assets/content/vehicles/siegeweapons/batteringram/effects/battering-ram-door-open-end.prefab|
+|assets/content/vehicles/siegeweapons/batteringram/effects/battering-ram-door-open-start.prefab|
+|assets/content/vehicles/siegeweapons/catapult/effects/boulder_explosion.prefab|
+|assets/content/vehicles/siegeweapons/catapult/effects/boulder_explosion_mid.prefab|
+|assets/content/vehicles/siegeweapons/catapult/effects/boulder_explosion_small.prefab|
+|assets/content/vehicles/siegeweapons/catapult/effects/catapult fire.prefab|
+|assets/content/vehicles/siegeweapons/catapult/effects/catapult_debris_effect.prefab|
+|assets/content/vehicles/siegeweapons/catapult/effects/catapult-construction-finish.prefab|
+|assets/content/vehicles/siegeweapons/catapult/effects/catapult-construction-repair.prefab|
+|assets/content/vehicles/siegeweapons/catapult/effects/catapult-deploy.prefab|
+|assets/content/vehicles/siegeweapons/catapult/effects/flame ammo catapult airtime.prefab|
+|assets/content/vehicles/siegeweapons/catapult/effects/flame ammo catapult.prefab|
+|assets/content/vehicles/siegeweapons/siegetower/effects/siegetower_debris_effect.prefab|
+|assets/content/vehicles/siegeweapons/siegetower/effects/siege-tower-chain-door-close-end.prefab|
+|assets/content/vehicles/siegeweapons/siegetower/effects/siege-tower-chain-door-close-start.prefab|
+|assets/content/vehicles/siegeweapons/siegetower/effects/siege-tower-chain-door-open-end.prefab|
+|assets/content/vehicles/siegeweapons/siegetower/effects/siege-tower-chain-door-open-start.prefab|
+|assets/content/vehicles/siegeweapons/siegetower/effects/siege-tower-construction-finish.prefab|
+|assets/content/vehicles/siegeweapons/siegetower/effects/siege-tower-construction-repair.prefab|
+|assets/content/vehicles/siegeweapons/siegetower/effects/siege-tower-deploy.prefab|
+|assets/content/vehicles/siegeweapons/siegetower/effects/siege-tower-door-close-end.prefab|
+|assets/content/vehicles/siegeweapons/siegetower/effects/siege-tower-door-close-start.prefab|
+|assets/content/vehicles/siegeweapons/siegetower/effects/siege-tower-door-open-end.prefab|
+|assets/content/vehicles/siegeweapons/siegetower/effects/siege-tower-door-open-start.prefab|
 |assets/content/vehicles/snowmobiles/effects/pfx_wheel_spin_dirt_tread v2.prefab|
 |assets/content/vehicles/snowmobiles/effects/pfx_wheel_trail_dirt_r v2.prefab|
 |assets/content/vehicles/snowmobiles/effects/pfx_wheel_trail_dirt_tread.prefab|
@@ -988,6 +1068,9 @@
 |assets/prefabs/deployable/research table/effects/research-success.prefab|
 |assets/prefabs/deployable/research table/effects/research-table-deploy.prefab|
 |assets/prefabs/deployable/rug/effects/rug-deploy.prefab|
+|assets/prefabs/deployable/sculptures/icesculpture/effects/ice-sculpture-deploy.prefab|
+|assets/prefabs/deployable/sculptures/icesculpture/effects/ice-sculpture-destroyed.prefab|
+|assets/prefabs/deployable/sculptures/icesculpture/effects/lightcolors.prefab|
 |assets/prefabs/deployable/sculptures/icesculpture/effects/sculpture fumes.prefab|
 |assets/prefabs/deployable/sculptures/icesculpture/effects/sculpture impact.prefab|
 |assets/prefabs/deployable/search light/effects/search-light-deploy.prefab|
@@ -1342,6 +1425,7 @@
 |assets/prefabs/weapons/ak47u/effects/reload_start.prefab|
 |assets/prefabs/weapons/ak47u/effects/w_drop_diver_magazine.prefab|
 |assets/prefabs/weapons/ak47u/effects/w_drop_magazine.prefab|
+|assets/prefabs/weapons/ak47u/effects/w_drop_med_magazine.prefab|
 |assets/prefabs/weapons/ak47u/effects/w_eject_rifle_shell.prefab|
 |assets/prefabs/weapons/arms/effects/drop_item.prefab|
 |assets/prefabs/weapons/arms/effects/hook_hit-1.prefab|
@@ -1432,6 +1516,9 @@
 |assets/prefabs/weapons/crossbow/effects/deploy.prefab|
 |assets/prefabs/weapons/crossbow/effects/dryfire.prefab|
 |assets/prefabs/weapons/crossbow/effects/reload.prefab|
+|assets/prefabs/weapons/deployablesiegeexplosives/effects/explosion canister deployed.prefab|
+|assets/prefabs/weapons/deployablesiegeexplosives/effects/explosion flame deployed.prefab|
+|assets/prefabs/weapons/deployablesiegeexplosives/effects/gas tank damage.prefab|
 |assets/prefabs/weapons/diverhatchet/effects/attack_shake.prefab|
 |assets/prefabs/weapons/diverhatchet/effects/deploy.prefab|
 |assets/prefabs/weapons/diverhatchet/effects/fx_drip_hatchet.prefab|
@@ -1725,9 +1812,15 @@
 |assets/prefabs/weapons/machete/effects/hit-soft.prefab|
 |assets/prefabs/weapons/machete/effects/swing_thirdperson.prefab|
 |assets/prefabs/weapons/machete/effects/throw.prefab|
+|assets/prefabs/weapons/metal_shield/effects/melee_local_screenshake.prefab|
+|assets/prefabs/weapons/metal_shield/effects/metal-shield-impact.prefab|
 |assets/prefabs/weapons/military flamethrower/effects/flamethrower_military_fire.prefab|
 |assets/prefabs/weapons/military flamethrower/effects/flamethrower_military_fire_12range.prefab|
 |assets/prefabs/weapons/military flamethrower/effects/flamethrower_military_pilotflames.prefab|
+|assets/prefabs/weapons/mini crossbow/effects/attack.prefab|
+|assets/prefabs/weapons/mini crossbow/effects/deploy.prefab|
+|assets/prefabs/weapons/mini crossbow/effects/dryfire.prefab|
+|assets/prefabs/weapons/mini crossbow/effects/reload.prefab|
 |assets/prefabs/weapons/minigun/effects/attack.prefab|
 |assets/prefabs/weapons/minigun/effects/attack_shake_ads.prefab|
 |assets/prefabs/weapons/minigun/effects/cinematic_minigun_constantattack.prefab|
@@ -2062,6 +2155,7 @@
 |assets/prefabs/weapons/waterbucket/effects/waterimpact_explosion.prefab|
 |assets/prefabs/weapons/waterbucket/effects/waterthrow.prefab|
 |assets/prefabs/weapons/waterbucket/effects/waterthrow3p.prefab|
+|assets/prefabs/weapons/wooden shield/effects/wooden-shield-impact.prefab|
 |assets/prefabs/weapons/wooden spear/effects/2hand_deploy.prefab|
 |assets/prefabs/weapons/wooden spear/effects/attack.prefab|
 |assets/prefabs/weapons/wooden spear/effects/deploy.prefab|
@@ -2074,5 +2168,4 @@
 |assets/prefabs/weapons/wooden spear/effects/throw.prefab|
 |assets/rust.ai/agents/fish/shark/effects/bloodcloud.prefab|
 |assets/rust.ai/agents/fish/shark/effects/sharkmovement.prefab|
-|assets/rust.ai/nextai/effects/dusttrail.prefab|
 |assets/scripts/entity/misc/f15/effects/pfx_flares_f15.prefab|
