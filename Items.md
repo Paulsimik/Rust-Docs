@@ -13,11 +13,32 @@
 |<img src="https://czechrust.eu/img/textures2D/rowboat.png" width="100" height="80">|Rowboat|rowboat|1878053256|ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/tugboat.png" width="100" height="80">|Tugboat|tugboat|-561148628|ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/skidoo.png" width="100" height="80">|Diver propulsion vehicle|skidoo|-1056824343|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|<img src="https://czechrust.eu/img/textures2D/horse.armor.roadsign.png" width="100" height="80">|Roadsign Horse Armor|horse.armor.roadsign|60528587|ItemBlueprint<br>ItemModAnimalEquipment<br>|
+|<img src="https://czechrust.eu/img/textures2D/horse.armor.wood.png" width="100" height="80">|Wooden Horse Armor|horse.armor.wood|1659447559|ItemBlueprint<br>ItemModAnimalEquipment<br>|
+|<img src="https://czechrust.eu/img/textures2D/horse.saddle.double.png" width="100" height="80">|Double Horse Saddle|horse.saddle.double|-1323101799|ItemBlueprint<br>ItemModAnimalEquipment<br>|
+|<img src="https://czechrust.eu/img/textures2D/horse.saddle.png" width="100" height="80">|Horse Saddle|horse.saddle|-1997543660|ItemBlueprint<br>|
+|<img src="https://czechrust.eu/img/textures2D/horse.saddle.single.png" width="100" height="80">|Single Horse Saddle|horse.saddle.single|1559915778|ItemBlueprint<br>ItemModAnimalEquipment<br>|
+|<img src="https://czechrust.eu/img/textures2D/horse.saddlebag.png" width="100" height="80">|Saddle bag|horse.saddlebag|1400460850|ItemBlueprint<br>ItemModAnimalEquipment<br>|
+|<img src="https://czechrust.eu/img/textures2D/horse.shoes.advanced.png" width="100" height="80">|High Quality Horse Shoes|horse.shoes.advanced|1989785143|ItemBlueprint<br>ItemModAnimalEquipment<br>|
+|<img src="https://czechrust.eu/img/textures2D/horse.shoes.basic.png" width="100" height="80">|Basic Horse Shoes|horse.shoes.basic|-1211268013|ItemBlueprint<br>ItemModAnimalEquipment<br>|
 |<img src="https://czechrust.eu/img/textures2D/minihelicopter.repair.png" width="100" height="80">|Minicopter|minihelicopter.repair|1426574435|ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/aiming.module.mlrs.png" width="100" height="80">|MLRS Aiming Module|aiming.module.mlrs|343045591|ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/mlrs.png" width="100" height="80">|MLRS|mlrs|-1449152644|ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/ammo.rocket.mlrs.png" width="100" height="80">|MLRS Rocket|ammo.rocket.mlrs|-1843426638|ItemModProjectile<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/scraptransportheli.repair.png" width="100" height="80">|Scrap Transport Helicopter|scraptransportheli.repair|-1884328185|ItemBlueprint<br>|
+|<img src="https://czechrust.eu/img/textures2D/ballista.bolt.hammerhead.png" width="100" height="80">|Hammerhead Bolt|ballista.bolt.hammerhead|-19318653|ItemModProjectile<br>ItemBlueprint<br>ItemModProjectileRadialDamage<br>ItemModProjectileRagdoll<br>|
+|<img src="https://czechrust.eu/img/textures2D/ballista.bolt.incendiary.png" width="100" height="80">|Incendiary Bolt|ballista.bolt.incendiary|-1987565603|ItemBlueprint<br>ItemModProjectileSpawn<br>ItemModProjectileRadialDamage<br>|
+|<img src="https://czechrust.eu/img/textures2D/ballista.bolt.piercer.png" width="100" height="80">|Piercer Bolt|ballista.bolt.piercer|-1127003365|ItemModProjectile<br>ItemBlueprint<br>|
+|<img src="https://czechrust.eu/img/textures2D/ballista.bolt.pitchfork.png" width="100" height="80">|Pitchfork Bolt|ballista.bolt.pitchfork|-357442017|ItemModProjectile<br>ItemModProjectileRadialDamage<br>ItemBlueprint<br>|
+|<img src="https://czechrust.eu/img/textures2D/ballista.mounted.png" width="100" height="80">|Mounted Ballista|ballista.mounted|-759279626|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|<img src="https://czechrust.eu/img/textures2D/ballista.static.png" width="100" height="80">|Ballista|ballista.static|1714509152|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|<img src="https://czechrust.eu/img/textures2D/batteringram.png" width="100" height="80">|Battering Ram|batteringram|-187304968|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|<img src="https://czechrust.eu/img/textures2D/batteringram.head.repair.png" width="100" height="80">|Battering Ram Head|batteringram.head.repair|-479314201|ItemBlueprint<br>|
+|<img src="https://czechrust.eu/img/textures2D/catapult.ammo.explosive.png" width="100" height="80">|Propane Explosive Bomb|catapult.ammo.explosive|-1827561369|ItemModProjectile<br>ItemBlueprint<br>ItemModEntity<br>ItemModDeployable<br>|
+|<img src="https://czechrust.eu/img/textures2D/catapult.ammo.incendiary.png" width="100" height="80">|Firebomb|catapult.ammo.incendiary|-484006286|ItemModProjectile<br>ItemBlueprint<br>ItemModEntity<br>ItemModDeployable<br>|
+|<img src="https://czechrust.eu/img/textures2D/catapult.ammo.boulder.png" width="100" height="80">|Scattershot|catapult.ammo.boulder|1831249347|ItemModCatapultBoulder<br>ItemBlueprint<br>ItemModProjectile<br>ItemModProjectile<br>ItemModProjectile<br>|
+|<img src="https://czechrust.eu/img/textures2D/catapult.png" width="100" height="80">|Catapult|catapult|1145722690|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|<img src="https://czechrust.eu/img/textures2D/siegetower.png" width="100" height="80">|Siege Tower|siegetower|-1290278434|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/snowmobile.png" width="100" height="80">|Snowmobile|snowmobile|-1364246987|ItemBlueprint<br>ItemModEntityReference<br>|
 |<img src="https://czechrust.eu/img/textures2D/snowmobiletomaha.png" width="100" height="80">|Tomaha Snowmobile|snowmobiletomaha|1768112091|ItemBlueprint<br>ItemModEntityReference<br>|
 |<img src="https://czechrust.eu/img/textures2D/submarineduo.png" width="100" height="80">|Duo Submarine|submarineduo|1015352446|ItemBlueprint<br>|
@@ -32,6 +53,7 @@
 |<img src="https://czechrust.eu/img/textures2D/arrow.wooden.png" width="100" height="80">|Wooden Arrow|arrow.wooden|-1234735557|ItemModProjectile<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/arrow.bone.png" width="100" height="80">|Bone Arrow|arrow.bone|215754713|ItemModProjectile<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/arrow.fire.png" width="100" height="80">|Fire Arrow|arrow.fire|14241751|ItemModProjectileSpawn<br>ItemModProjectileRadialDamage<br>ItemBlueprint<br>|
+|<img src="https://czechrust.eu/img/textures2D/dart.bone.png" width="100" height="80">|Bone Dart|dart.bone|-361911645|ItemModProjectile<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/ammo.handmade.shell.png" width="100" height="80">|Handmade Shell|ammo.handmade.shell|588596902|ItemModProjectile<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/ammo.nailgun.nails.png" width="100" height="80">|Nailgun Nails|ammo.nailgun.nails|-2097376851|ItemModProjectile<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/ammo.pistol.png" width="100" height="80">|Pistol Bullet|ammo.pistol|785728077|ItemModProjectile<br>ItemBlueprint<br>|
@@ -115,10 +137,12 @@
 |<img src="https://czechrust.eu/img/textures2D/coffeecan.helmet.png" width="100" height="80">|Coffee Can Helmet|coffeecan.helmet|-803263829|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/deer.skull.mask.png" width="100" height="80">|Bone Helmet|deer.skull.mask|-1903165497|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/heavy.plate.helmet.png" width="100" height="80">|Heavy Plate Helmet|heavy.plate.helmet|1181207482|ItemModWearable<br>ItemBlueprint<br>|
+|<img src="https://czechrust.eu/img/textures2D/knightsarmour.helmet.png" width="100" height="80">|Knights armour helmet|knightsarmour.helmet|-427072335|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/hat.miner.png" width="100" height="80">|Miners Hat|hat.miner|-1539025626|ItemModWearable<br>ItemBlueprint<br>ItemModContainer<br>|
 |<img src="https://czechrust.eu/img/textures2D/partyhat.png" width="100" height="80">|Party Hat|partyhat|-575744869|ItemModWearable<br>|
 |<img src="https://czechrust.eu/img/textures2D/prisonerhood.png" width="100" height="80">|Prisoner Hood|prisonerhood|-892718768|ItemModWearable<br>ItemBlueprint<br>ItemModForceWearFromBelt<br>|
 |<img src="https://czechrust.eu/img/textures2D/riot.helmet.png" width="100" height="80">|Riot Helmet|riot.helmet|671063303|ItemModWearable<br>ItemBlueprint<br>|
+|<img src="https://czechrust.eu/img/textures2D/hat.wellipets.png" width="100" height="80">|Wellipets Hat|hat.wellipets|-507248640|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/wood.armor.helmet.png" width="100" height="80">|Wood Armor Helmet|wood.armor.helmet|-2094954543|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/hoodie.png" width="100" height="80">|Hoodie|hoodie|1751045826|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/bone.armor.suit.png" width="100" height="80">|Bone Armor|bone.armor.suit|1746956556|ItemModWearable<br>ItemBlueprint<br>|
@@ -137,6 +161,7 @@
 |<img src="https://czechrust.eu/img/textures2D/burlap.trousers.png" width="100" height="80">|Burlap Trousers|burlap.trousers|1992974553|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/heavy.plate.pants.png" width="100" height="80">|Heavy Plate Pants|heavy.plate.pants|-1778159885|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/attire.hide.pants.png" width="100" height="80">|Hide Pants|attire.hide.pants|1722154847|ItemModWearable<br>ItemBlueprint<br>|
+|<img src="https://czechrust.eu/img/textures2D/knightsarmour.skirt.png" width="100" height="80">|Knights armour skirt plates|knightsarmour.skirt|-945708533|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/roadsign.kilt.png" width="100" height="80">|Road Sign Kilt|roadsign.kilt|1850456855|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/pants.shorts.png" width="100" height="80">|Shorts|pants.shorts|-1695367501|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/wood.armor.pants.png" width="100" height="80">|Wood Armor Pants|wood.armor.pants|832133926|ItemModWearable<br>ItemBlueprint<br>|
@@ -169,6 +194,7 @@
 |<img src="https://czechrust.eu/img/textures2D/jumpsuit.waterwellnpc.png" width="100" height="80">|Waterwell NPC Jumpsuit|jumpsuit.waterwellnpc|-874908751|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/tshirt.long.png" width="100" height="80">|Longsleeve T-Shirt|tshirt.long|935692442|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/tshirt.png" width="100" height="80">|T-Shirt|tshirt|223891266|ItemModWearable<br>ItemBlueprint<br>|
+|<img src="https://czechrust.eu/img/textures2D/knighttorso.armour.png" width="100" height="80">|Knights armour cuirass|knighttorso.armour|547862680|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/metal.plate.torso.png" width="100" height="80">|Metal Chest Plate|metal.plate.torso|1110385766|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/metal.plate.torso.icevest.png" width="100" height="80">|Ice Metal Chest Plate|metal.plate.torso.icevest|-1478855279|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/roadsign.jacket.png" width="100" height="80">|Road Sign Jacket|roadsign.jacket|-2002277461|ItemModWearable<br>ItemBlueprint<br>|
@@ -208,6 +234,7 @@
 |<img src="https://czechrust.eu/img/textures2D/smgbody.png" width="100" height="80">|SMG Body|smgbody|1230323789|ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/barricade.concrete.png" width="100" height="80">|Concrete Barricade|barricade.concrete|-1950721390|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/barricade.wood.cover.png" width="100" height="80">|Wooden Barricade Cover|barricade.wood.cover|1373240771|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|<img src="https://czechrust.eu/img/textures2D/barricade.medieval.png" width="100" height="80">|Medieval Barricade|barricade.medieval|-424687710|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/barricade.metal.png" width="100" height="80">|Metal Barricade|barricade.metal|1655650836|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/barricade.sandbags.png" width="100" height="80">|Sandbag Barricade|barricade.sandbags|-559599960|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/barricade.stone.png" width="100" height="80">|Stone Barricade|barricade.stone|15388698|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
@@ -258,6 +285,7 @@
 |<img src="https://czechrust.eu/img/textures2D/trap.landmine.png" width="100" height="80">|Homemade Landmine|trap.landmine|-1663759755|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/lantern.png" width="100" height="80">|Lantern|lantern|1658229558|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>ItemModContainer<br>|
 |<img src="https://czechrust.eu/img/textures2D/box.wooden.large.png" width="100" height="80">|Large Wood Box|box.wooden.large|833533164|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|<img src="https://czechrust.eu/img/textures2D/medieval.box.wooden.large.png" width="100" height="80">|Medieval Large Wood Box|medieval.box.wooden.large|814297925|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/legacyfurnace.png" width="100" height="80">|Legacy Furnace|legacyfurnace|-1310391395|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/water.barrel.png" width="100" height="80">|Water Barrel|water.barrel|-1863559151|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/locker.png" width="100" height="80">|Locker|locker|-110921842|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
@@ -554,6 +582,8 @@
 |<img src="https://czechrust.eu/img/textures2D/whiteidtag.png" width="100" height="80">|White ID Tag|whiteidtag|22947882||
 |<img src="https://czechrust.eu/img/textures2D/yellowidtag.png" width="100" height="80">|Yellow ID Tag|yellowidtag|81423963||
 |<img src="https://czechrust.eu/img/textures2D/largebackpack.png" width="100" height="80">|Large Backpack|largebackpack|-907422733|ItemModWearable<br>ItemModContainerRads<br>ItemMod<br>ItemModBackpack<br>ItemBlueprint<br>|
+|<img src="https://czechrust.eu/img/textures2D/medieval.door.double.hinged.metal.png" width="100" height="80">|Medieval Sheet Metal Double Door|medieval.door.double.hinged.metal|-380502678|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|<img src="https://czechrust.eu/img/textures2D/medieval.door.hinged.metal.png" width="100" height="80">|Medieval Sheet Metal Door|medieval.door.hinged.metal|-1654401345|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/frontiermirror.large.png" width="100" height="80">|Frontier Mirror Large|frontiermirror.large|242933621|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
 |<img src="https://czechrust.eu/img/textures2D/frontiermirror.medium.png" width="100" height="80">|Frontier Mirror Medium|frontiermirror.medium|2055695285|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
 |<img src="https://czechrust.eu/img/textures2D/frontiermirror.small.png" width="100" height="80">|Frontier Mirror Small|frontiermirror.small|340210699|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
@@ -859,7 +889,8 @@
 |<img src="https://czechrust.eu/img/textures2D/weapon.mod.small.scope.png" width="100" height="80">|8x Zoom Scope|weapon.mod.small.scope|567235583|ItemBlueprint<br>ItemModEntity<br>ItemModSound<br>|
 |<img src="https://czechrust.eu/img/textures2D/rifle.ak.png" width="100" height="80">|Assault Rifle|rifle.ak|1545779598|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>ItemModRackMountable<br>|
 |<img src="https://czechrust.eu/img/textures2D/rifle.ak.diver.png" width="100" height="80">|Abyss Assault Rifle|rifle.ak.diver|-139037392|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>ItemModRackMountable<br>|
-|<img src="https://czechrust.eu/img/textures2D/rifle.ak.ice.png" width="100" height="80">|Assault Rifle - ICE|rifle.ak.ice|-1335497659|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
+|<img src="https://czechrust.eu/img/textures2D/rifle.ak.ice.png" width="100" height="80">|Ice Assault Rifle|rifle.ak.ice|-1335497659|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
+|<img src="https://czechrust.eu/img/textures2D/rifle.ak.med.png" width="100" height="80">|Medieval Assault Rifle|rifle.ak.med|472505338|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>ItemModRackMountable<br>|
 |<img src="https://czechrust.eu/img/textures2D/bandage.png" width="100" height="80">|Bandage|bandage|-2072273936|ItemModEntity<br>ItemBlueprint<br>ItemModConsumable<br>|
 |<img src="https://czechrust.eu/img/textures2D/grenade.beancan.png" width="100" height="80">|Beancan Grenade|grenade.beancan|1840822026|ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/blunderbuss.png" width="100" height="80">|Blunderbuss|blunderbuss|-880412831|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
@@ -896,6 +927,7 @@
 |<img src="https://czechrust.eu/img/textures2D/revolver.hc.png" width="100" height="80">|High Caliber Revolver|revolver.hc|-92315244|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |<img src="https://czechrust.eu/img/textures2D/hmlmg.png" width="100" height="80">|HMLMG|hmlmg|-1214542497|ItemModEntity<br>ItemModContainer<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/homingmissile.launcher.png" width="100" height="80">|Homing Missile Launcher|homingmissile.launcher|-218009552|ItemModEntity<br>ItemBlueprint<br>|
+|<img src="https://czechrust.eu/img/textures2D/improvised.shield.png" width="100" height="80">|Improvised Shield|improvised.shield|196784377|ItemBlueprint<br>ItemModWearable<br>ItemModShield<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/knife.combat.png" width="100" height="80">|Combat Knife|knife.combat|2040726127|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |<img src="https://czechrust.eu/img/textures2D/rifle.l96.png" width="100" height="80">|L96 Rifle|rifle.l96|-778367295|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |<img src="https://czechrust.eu/img/textures2D/legacy bow.png" width="100" height="80">|Legacy bow|legacy bow|-73195037|ItemModEntity<br>ItemBlueprint<br>|
@@ -906,7 +938,9 @@
 |<img src="https://czechrust.eu/img/textures2D/pistol.m92.png" width="100" height="80">|M92 Pistol|pistol.m92|-852563019|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |<img src="https://czechrust.eu/img/textures2D/mace.png" width="100" height="80">|Mace|mace|-1966748496|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |<img src="https://czechrust.eu/img/textures2D/machete.png" width="100" height="80">|Machete|machete|-1137865085|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
+|<img src="https://czechrust.eu/img/textures2D/metal.shield.png" width="100" height="80">|Metal Shield|metal.shield|625599716|ItemBlueprint<br>ItemModWearable<br>ItemModShield<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/military flamethrower.png" width="100" height="80">|Military Flame Thrower|military flamethrower|703057617|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
+|<img src="https://czechrust.eu/img/textures2D/minicrossbow.png" width="100" height="80">|Mini Crossbow|minicrossbow|-482348853|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |<img src="https://czechrust.eu/img/textures2D/minigun.png" width="100" height="80">|Minigun|minigun|935606207|ItemModEntity<br>ItemBlueprint<br>ItemModReload<br>|
 |<img src="https://czechrust.eu/img/textures2D/grenade.molotov.png" width="100" height="80">|Molotov Cocktail|grenade.molotov|1556365900|ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/smg.mp5.png" width="100" height="80">|MP5A4|smg.mp5|1318558775|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
@@ -915,6 +949,7 @@
 |<img src="https://czechrust.eu/img/textures2D/pickaxe.png" width="100" height="80">|Pickaxe|pickaxe|-1302129395|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |<img src="https://czechrust.eu/img/textures2D/shotgun.waterpipe.png" width="100" height="80">|Waterpipe Shotgun|shotgun.waterpipe|-1367281941|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |<img src="https://czechrust.eu/img/textures2D/pistol.python.png" width="100" height="80">|Python Revolver|pistol.python|1373971859|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
+|<img src="https://czechrust.eu/img/textures2D/reinforced.wooden.shield.png" width="100" height="80">|Reinforced Wooden Shield|reinforced.wooden.shield|969768382|ItemBlueprint<br>ItemModWearable<br>ItemModShield<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/pistol.revolver.png" width="100" height="80">|Revolver|pistol.revolver|649912614|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |<img src="https://czechrust.eu/img/textures2D/rock.png" width="100" height="80">|Rock|rock|963906841|ItemModEntity<br>ItemModProjectile<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/rocket.launcher.dragon.png" width="100" height="80">|Dragon Rocket Launcher|rocket.launcher.dragon|-1315992997|ItemModEntity<br>ItemBlueprint<br>|
@@ -940,12 +975,5 @@
 |<img src="https://czechrust.eu/img/textures2D/toolgun.png" width="100" height="80">|Garry's Mod Tool Gun|toolgun|1803831286|ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/torch.png" width="100" height="80">|Torch|torch|795236088|ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/bucket.water.png" width="100" height="80">|Water Bucket|bucket.water|1424075905|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>ItemModMenuOption<br>ItemModConsumeContents<br>ItemModFishable<br>|
+|<img src="https://czechrust.eu/img/textures2D/wooden.shield.png" width="100" height="80">|Wooden Shield|wooden.shield|1604837581|ItemBlueprint<br>ItemModWearable<br>ItemModShield<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/spear.wooden.png" width="100" height="80">|Wooden Spear|spear.wooden|1540934679|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
-|<img src="https://czechrust.eu/img/textures2D/horse.armor.roadsign.png" width="100" height="80">|Roadsign Horse Armor|horse.armor.roadsign|60528587|ItemBlueprint<br>ItemModAnimalEquipment<br>|
-|<img src="https://czechrust.eu/img/textures2D/horse.armor.wood.png" width="100" height="80">|Wooden Horse Armor|horse.armor.wood|1659447559|ItemBlueprint<br>ItemModAnimalEquipment<br>|
-|<img src="https://czechrust.eu/img/textures2D/horse.saddle.double.png" width="100" height="80">|Double Horse Saddle|horse.saddle.double|-1323101799|ItemBlueprint<br>ItemModAnimalEquipment<br>|
-|<img src="https://czechrust.eu/img/textures2D/horse.saddle.png" width="100" height="80">|Horse Saddle|horse.saddle|-1997543660|ItemBlueprint<br>|
-|<img src="https://czechrust.eu/img/textures2D/horse.saddle.single.png" width="100" height="80">|Single Horse Saddle|horse.saddle.single|1559915778|ItemBlueprint<br>ItemModAnimalEquipment<br>|
-|<img src="https://czechrust.eu/img/textures2D/horse.saddlebag.png" width="100" height="80">|Saddle bag|horse.saddlebag|1400460850|ItemBlueprint<br>ItemModAnimalEquipment<br>|
-|<img src="https://czechrust.eu/img/textures2D/horse.shoes.advanced.png" width="100" height="80">|High Quality Horse Shoes|horse.shoes.advanced|1989785143|ItemBlueprint<br>ItemModAnimalEquipment<br>|
-|<img src="https://czechrust.eu/img/textures2D/horse.shoes.basic.png" width="100" height="80">|Basic Horse Shoes|horse.shoes.basic|-1211268013|ItemBlueprint<br>ItemModAnimalEquipment<br>|
