@@ -10,8 +10,10 @@
 |Hemp-Collectable|3006540952|CollectibleEntity<br>Spawnable<br>|assets/bundled/prefabs/autospawn/collectable/hemp/hemp-collectable.prefab|
 |Mushroom-Cluster-5|2697239269|CollectibleEntity<br>Spawnable<br>|assets/bundled/prefabs/autospawn/collectable/mushrooms/mushroom-cluster-5.prefab|
 |Mushroom-Cluster-6|178882626|CollectibleEntity<br>Spawnable<br>|assets/bundled/prefabs/autospawn/collectable/mushrooms/mushroom-cluster-6.prefab|
+|Orchid-Collectable|3761096005|CollectibleEntity<br>Spawnable<br>|assets/bundled/prefabs/autospawn/collectable/orchid/orchid-collectable.prefab|
 |Potato-Collectable|726972295|CollectibleEntity<br>Spawnable<br>|assets/bundled/prefabs/autospawn/collectable/potato/potato-collectable.prefab|
 |Pumpkin-Collectable|2251957318|CollectibleEntity<br>Spawnable<br>|assets/bundled/prefabs/autospawn/collectable/pumpkin/pumpkin-collectable.prefab|
+|Rose-Collectable|1163739525|CollectibleEntity<br>Spawnable<br>|assets/bundled/prefabs/autospawn/collectable/rose/rose-collectable.prefab|
 |Halloween-Bone-Collectable|3927243187|CollectibleEntity<br>Spawnable<br>|assets/bundled/prefabs/autospawn/collectable/stone/halloween/halloween-bone-collectable.prefab|
 |Halloween-Metal-Collectable|3781241805|CollectibleEntity<br>Spawnable<br>|assets/bundled/prefabs/autospawn/collectable/stone/halloween/halloween-metal-collectable.prefab|
 |Halloween-Stone-Collectable|672070572|CollectibleEntity<br>Spawnable<br>|assets/bundled/prefabs/autospawn/collectable/stone/halloween/halloween-stone-collectable.prefab|
@@ -20,6 +22,8 @@
 |Metal-Collectable|4060169083|CollectibleEntity<br>Spawnable<br>|assets/bundled/prefabs/autospawn/collectable/stone/metal-collectable.prefab|
 |Stone-Collectable|2422310333|CollectibleEntity<br>Spawnable<br>|assets/bundled/prefabs/autospawn/collectable/stone/stone-collectable.prefab|
 |Sulfur-Collectable|2972237931|CollectibleEntity<br>Spawnable<br>|assets/bundled/prefabs/autospawn/collectable/stone/sulfur-collectable.prefab|
+|Sunflower-Collectable|3484218346|CollectibleEntity<br>Spawnable<br>|assets/bundled/prefabs/autospawn/collectable/sunflower/sunflower-collectable.prefab|
+|Wheat-Collectable|1947671023|CollectibleEntity<br>Spawnable<br>|assets/bundled/prefabs/autospawn/collectable/wheat/wheat-collectable.prefab|
 |Wood-Collectable|2107058515|CollectibleEntity<br>Spawnable<br>|assets/bundled/prefabs/autospawn/collectable/wood/wood-collectable.prefab|
 |powerline_a|3101594928|PowerLineWireConnectionHelper<br>PowerlineNode<br>PrefabParameters<br>|assets/bundled/prefabs/autospawn/decor/powerline/powerline_a.prefab|
 |PowerlinePlatform_A|2701343650|PowerLineWireConnectionHelper<br>PowerlineNode<br>PrefabParameters<br>|assets/bundled/prefabs/autospawn/decor/powerline/powerlineplatform_a.prefab|
@@ -453,6 +457,7 @@
 |workbench1.static|1899388596|Workbench<br>BaseCombatEntity<br>DecayEntity<br>Model<br>|assets/bundled/prefabs/static/workbench1.static.prefab|
 |workbench2.static|1457273871|MeshCollider<br>Workbench<br>BaseCombatEntity<br>DecayEntity<br>|assets/bundled/prefabs/static/workbench2.static.prefab|
 |xylophone.deployed.static|3224878175|StaticInstrument<br>BaseCombatEntity<br>Model<br>InstrumentKeyController<br>InstrumentIKController<br>|assets/bundled/prefabs/static/xylophone.deployed.static.prefab|
+|copy_paste|4074202028|CopyPasteEntity<br>|assets/bundled/prefabs/system/copy_paste.prefab|
 |net_env|3134327264|EnvSync<br>|assets/bundled/prefabs/system/net_env.prefab|
 |net_global|3337594668|GlobalNetworkHandler<br>|assets/bundled/prefabs/system/net_global.prefab|
 |clan_manager|1817273498|ClanManager<br>|assets/bundled/prefabs/system/server/clan_manager.prefab|
@@ -571,7 +576,7 @@
 |TestRidableHorse|2421246458|RidableHorse<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>CapsuleCollider<br>Rigidbody<br>Spawnable<br>|assets/content/vehicles/horse/_old/testridablehorse.prefab|
 |Horse.Corpse|3153252488|HorseCorpse<br>BaseCombatEntity<br>BaseCorpse<br>ResourceDispenser<br>HeadDispenser<br>Buoyancy<br>|assets/content/vehicles/horse/horse.corpse.prefab|
 |Horse.Ragdoll.Temp|3199307480|BaseAnimalRagdoll<br>Ragdoll<br>Model<br>ArticulatedOccludee<br>Rigidbody<br>FixedJoint<br>Skeleton<br>|assets/content/vehicles/horse/horse.ragdoll.temp.prefab|
-|RidableHorse2|1239439581|Rigidbody<br>RidableHorse2<br>BaseCombatEntity<br>BaseMountable<br>Spawnable<br>|assets/content/vehicles/horse/ridablehorse2.prefab|
+|RidableHorse2|1239439581|Rigidbody<br>RidableHorse2<br>BaseCombatEntity<br>BaseMountable<br>Spawnable<br>HorseModifiers<br>|assets/content/vehicles/horse/ridablehorse2.prefab|
 |minicopter.entity|2278499844|Minicopter<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>BaseHelicopter<br>Rigidbody<br>Spawnable<br>PhysicsEffects<br>MagnetLiftable<br>|assets/content/vehicles/minicopter/minicopter.entity.prefab|
 |fuel_storage|1950679400|StorageContainer<br>BaseCombatEntity<br>BoxCollider<br>|assets/content/vehicles/minicopter/subents/fuel_storage.prefab|
 |mlrs.entity|223554808|MLRS<br>BaseCombatEntity<br>Spawnable<br>Model<br>|assets/content/vehicles/mlrs/mlrs.entity.prefab|
@@ -803,6 +808,7 @@
 |BBQ.Deployed|2409469892|BaseOven<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>EntityFlag_Toggle<br>Model<br>EntityFlag_Toggle<br>|assets/prefabs/deployable/bbq/bbq.deployed.prefab|
 |beartrap|922529517|BearTrap<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/bear trap/beartrap.prefab|
 |bed_deployed|3928883189|BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>SleepingBag<br>BaseCombatEntity<br>Model<br>|assets/prefabs/deployable/bed/bed_deployed.prefab|
+|beehive.deployed|3773792636|Beehive<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>EntityFlag_Toggle<br>BoxCollider<br>|assets/prefabs/deployable/beehive/beehive.deployed.prefab|
 |campfire|4160694184|BaseOven<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>EntityFlag_Toggle<br>Model<br>MeshCollider<br>|assets/prefabs/deployable/campfire/campfire.prefab|
 |_cardtable_base|1708930778|CardTable<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Model<br>|assets/prefabs/deployable/card table/_cardtable_base.prefab|
 |cardtable.deployed|1845856065|CardTable<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Model<br>DestroyOnGroundMissing<br>GroundWatch<br>|assets/prefabs/deployable/card table/cardtable.deployed.prefab|
@@ -819,6 +825,8 @@
 |ceilinglight.deployed|3953213470|CeilingLight<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/ceiling light/ceilinglight.deployed.prefab|
 |chair.deployed|1992774774|BaseChair<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/chair/chair.deployed.prefab|
 |chair.icethrone|3579302978|BaseChair<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/chair/ice_throne/chair.icethrone.prefab|
+|ChickenCoop.deployed|1393130608|ChickenCoop<br>BaseCombatEntity<br>DecayEntity<br>Model<br>DestroyOnGroundMissing<br>GroundWatch<br>|assets/prefabs/deployable/chickencoop/chickencoop.deployed.prefab|
+|simplechicken.entity|1404456901|FarmableAnimal<br>SphereCollider<br>|assets/prefabs/deployable/chickencoop/simplechicken.entity.prefab|
 |CodelockedHackableCrate|209286362|HackableLockedCrate<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>Rigidbody<br>NavMeshObstacle<br>|assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate.prefab|
 |CodelockedHackableCrate_Oilrig|2043434947|HackableLockedCrate<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>Rigidbody<br>NavMeshObstacle<br>|assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate_oilrig.prefab|
 |clan.table|319712039|ClanTable<br>|assets/prefabs/deployable/clan table/clan.table.prefab|
@@ -827,6 +835,8 @@
 |composter|1921897480|Composter<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>MeshCollider<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/composter/composter.prefab|
 |computerstation.deployed|2493676858|ComputerStation<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/computerstation/computerstation.deployed.prefab|
 |computerstation.static|3814928951|ComputerStation<br>BaseCombatEntity<br>Model<br>|assets/prefabs/deployable/computerstation/computerstation.static.prefab|
+|CookingWorkbench.bbq|431357582|CookingWorkbenchBbq<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>EntityFlag_Toggle<br>|assets/prefabs/deployable/cookingworkbench/cookingworkbench.bbq.prefab|
+|CookingWorkbench.deployed|1604022909|CookingWorkbench<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/cookingworkbench/cookingworkbench.deployed.prefab|
 |door_barricade_a|931526157|MeshCollider<br>Barricade<br>BaseCombatEntity<br>|assets/prefabs/deployable/door barricades/door_barricade_a.prefab|
 |door_barricade_a_large|382418191|MeshCollider<br>Barricade<br>BaseCombatEntity<br>|assets/prefabs/deployable/door barricades/door_barricade_a_large.prefab|
 |door_barricade_b|2483166070|MeshCollider<br>Barricade<br>BaseCombatEntity<br>|assets/prefabs/deployable/door barricades/door_barricade_b.prefab|
@@ -860,17 +870,19 @@
 |VolcanoFirework|4042905807|BaseFirework<br>MeshCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/fireworks/volcanofirework.prefab|
 |spikes.floor|976279966|Barricade<br>BaseCombatEntity<br>MeshCollider<br>|assets/prefabs/deployable/floor spikes/spikes.floor.prefab|
 |FrankensteinTable.deployed|1178330157|FrankensteinTable<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/frankensteintable/frankensteintable.deployed.prefab|
-|fridge.deployed|1844023509|BoxStorage<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/fridge/fridge.deployed.prefab|
+|fridge.deployed|1844023509|Fridge<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/fridge/fridge.deployed.prefab|
 |furnace|2931042549|BaseOven<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>MeshCollider<br>MeshCollider<br>DestroyOnGroundMissing<br>EntityFlag_Toggle<br>|assets/prefabs/deployable/furnace/furnace.prefab|
 |furnace.large|1374462671|BaseOven<br>BaseCombatEntity<br>DecayEntity<br>EntityFlag_Toggle<br>MeshCollider<br>Model<br>|assets/prefabs/deployable/furnace.large/furnace.large.prefab|
 |WeaponRackLight|107031364|SimpleLight<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/gun_rack/weaponracklight.prefab|
 |WeaponRackLightDouble|3489283376|SimpleLight<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/gun_rack/weaponracklightdouble.prefab|
 |HazmatPlushy_deployed|2953997641|BaseCombatEntity<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/hazmatplushy/hazmatplushy_deployed.prefab|
 |HitchTrough.deployed|3238272924|HitchTrough<br>BaseCombatEntity<br>DecayEntity<br>Model<br>DestroyOnGroundMissing<br>GroundWatch<br>|assets/prefabs/deployable/hitch & trough/hitchtrough.deployed.prefab|
+|Hopper.deployed|3932476457|Hopper<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>BoxCollider<br>EntityFlag_Toggle<br>EntityFlag_Toggle<br>|assets/prefabs/deployable/hopper/hopper.deployed.prefab|
 |door.hinged.HAB_T1|1684527864|Door<br>BaseCombatEntity<br>StabilityEntity<br>DecayEntity<br>Model<br>|assets/prefabs/deployable/hot air balloon/door.hinged.hab_t1.prefab|
 |HotAirBalloon|3111236903|HotAirBalloon<br>Rigidbody<br>Spawnable<br>|assets/prefabs/deployable/hot air balloon/hotairballoon.prefab|
 |HotAirBalloon_armor_T1|1186772083|HotAirBalloonArmor<br>BaseCombatEntity<br>|assets/prefabs/deployable/hot air balloon/hotairballoon_armor_t1.prefab|
 |hab_storage|675927205|StorageContainer<br>BaseCombatEntity<br>BoxCollider<br>|assets/prefabs/deployable/hot air balloon/subents/hab_storage.prefab|
+|io.table.deployed|3239470043|Workbench<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/io research table/io.table.deployed.prefab|
 |jackolantern.angry|1889323056|BaseOven<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>EntityFlag_Toggle<br>SphereCollider<br>|assets/prefabs/deployable/jack o lantern/jackolantern.angry.prefab|
 |jackolantern.happy|630866573|BaseOven<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>EntityFlag_Toggle<br>SphereCollider<br>|assets/prefabs/deployable/jack o lantern/jackolantern.happy.prefab|
 |landmine|1463807579|Landmine<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>GroundWatch<br>|assets/prefabs/deployable/landmine/landmine.prefab|
@@ -893,8 +905,10 @@
 |FuelStorage|4260630588|BoxCollider<br>ResourceExtractorFuelStorage<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/deployable/oil jack/fuelstorage.prefab|
 |mining.pumpjack|1599225199|MiningQuarry<br>BaseCombatEntity<br>|assets/prefabs/deployable/oil jack/mining.pumpjack.prefab|
 |refinery_small_deployed|1057236622|BaseOven<br>BaseCombatEntity<br>DecayEntity<br>EntityFlag_Toggle<br>|assets/prefabs/deployable/oil refinery/refinery_small_deployed.prefab|
+|plantpot.single.deployed|2685133268|PlanterBox<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/plant pots/plantpot.single.deployed.prefab|
 |planter.large.deployed|1162882237|PlanterBox<br>BaseCombatEntity<br>DecayEntity<br>MeshCollider<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/planters/planter.large.deployed.prefab|
 |planter.small.deployed|467313155|PlanterBox<br>BaseCombatEntity<br>DecayEntity<br>MeshCollider<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/planters/planter.small.deployed.prefab|
+|planter.triangle.deployed|375169930|PlanterBox<br>BaseCombatEntity<br>DecayEntity<br>MeshCollider<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/planters/planter.triangle.deployed.prefab|
 |AudioAlarm|1056621402|AudioAlarm<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/playerioents/alarms/audioalarm.prefab|
 |SmartAlarm|3788087038|SmartAlarm<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/playerioents/app/smartalarm/smartalarm.prefab|
 |SmartSwitch|457838080|SmartSwitch<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/playerioents/app/smartswitch/smartswitch.prefab|
@@ -924,7 +938,7 @@
 |ORSwitch.entity|1354328722|ORSwitch<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/playerioents/gates/orswitch/orswitch.entity.prefab|
 |electrical.random.switch.deployed|489282820|RANDSwitch<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/playerioents/gates/randswitch/electrical.random.switch.deployed.prefab|
 |RFBroadcaster|2880296175|RFBroadcaster<br>BaseCombatEntity<br>DecayEntity<br>MeshCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/playerioents/gates/rfbroadcaster/rfbroadcaster.prefab|
-|RFReceiver|525502317|RFReceiver<br>BaseCombatEntity<br>DecayEntity<br>MeshCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>EntityFlag_Toggle<br>|assets/prefabs/deployable/playerioents/gates/rfreceiver/rfreceiver.prefab|
+|RFReceiver|525502317|RFReceiver<br>BaseCombatEntity<br>DecayEntity<br>MeshCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/playerioents/gates/rfreceiver/rfreceiver.prefab|
 |XORSwitch.entity|1074446568|XORSwitch<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/playerioents/gates/xorswitch/xorswitch.entity.prefab|
 |small_fuel_generator.deployed|3518207786|FuelGenerator<br>BaseCombatEntity<br>IOEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/playerioents/generators/fuel generator/small_fuel_generator.deployed.prefab|
 |generator.small|1216081662|ElectricGenerator<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>MeshCollider<br>|assets/prefabs/deployable/playerioents/generators/generator.small.prefab|
@@ -1036,6 +1050,7 @@
 |Hazmat_Youtooz.deployed|1290959361|GroundWatch<br>DestroyOnGroundMissing<br>DeployedFigurine<br>EntityFlag_Toggle<br>BoxCollider<br>BoxCollider<br>|assets/prefabs/deployable/youtooz_figurines/hazmat_youtooz.deployed.prefab|
 |HeavyScientist_Youtooz.deployed|801665394|GroundWatch<br>DestroyOnGroundMissing<br>DeployedFigurine<br>BoxCollider<br>BoxCollider<br>EntityFlag_Toggle<br>|assets/prefabs/deployable/youtooz_figurines/heavyscientist_youtooz.deployed.prefab|
 |bota_bag.entity|1851422019|BaseLiquidVessel<br>HeldEntity<br>|assets/prefabs/food/bota bag/bota_bag.entity.prefab|
+|food_pie_generic.entity|797425204|Food<br>HeldEntity<br>AttackEntity<br>|assets/prefabs/food/pies/food_pie_generic.entity.prefab|
 |smallwaterbottle.entity|139849256|BaseLiquidVessel<br>HeldEntity<br>|assets/prefabs/food/small water bottle/smallwaterbottle.entity.prefab|
 |waterjug.entity|366999130|BaseLiquidVessel<br>HeldEntity<br>|assets/prefabs/food/water jug/waterjug.entity.prefab|
 |deathmatch|3323268180|BaseGameMode<br>|assets/prefabs/gamemodes/deathmatch.prefab|
@@ -1123,6 +1138,7 @@
 |huntingtrophysmall.deployed|1521270672|HuntingTrophy<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/misc/decor_dlc/huntingtrophy_small/huntingtrophysmall.deployed.prefab|
 |minecart.planter.deployed|47518702|PlanterBox<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/misc/decor_dlc/minecart planter/minecart.planter.deployed.prefab|
 |RailRoadPlanter.deployed|115096413|PlanterBox<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/misc/decor_dlc/rail road planter/railroadplanter.deployed.prefab|
+|Triangle_Railroad_Planter.deployed|3449130218|PlanterBox<br>BaseCombatEntity<br>DecayEntity<br>MeshCollider<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/misc/decor_dlc/rail road planter/triangle_railroad_planter.deployed.prefab|
 |rockingchair.deployed|1808651928|RockingChair<br>BaseCombatEntity<br>BaseMountable<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/misc/decor_dlc/rockingchair/rockingchair.deployed.prefab|
 |rockingchair.rockingchair2.deployed|720514301|RockingChair<br>BaseCombatEntity<br>BaseMountable<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/misc/decor_dlc/rockingchair/skins/rockingchair.rockingchair2.deployed.prefab|
 |rockingchair.rockingchair3.deployed|804668581|RockingChair<br>BaseCombatEntity<br>BaseMountable<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/misc/decor_dlc/rockingchair/skins/rockingchair.rockingchair3.deployed.prefab|
@@ -1458,6 +1474,8 @@
 |boat_shopkeeper|2913617060|VehicleVendor<br>BaseCombatEntity<br>BasePlayer<br>NPCShopKeeper<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>|assets/prefabs/npc/bandit/shopkeepers/boat_shopkeeper.prefab|
 |missionprovider_test|4115840942|NPCMissionProvider<br>BaseCombatEntity<br>BasePlayer<br>NPCShopKeeper<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>|assets/prefabs/npc/bandit/shopkeepers/missionprovider_test.prefab|
 |stables_shopkeeper|7488435|VehicleVendor<br>BaseCombatEntity<br>BasePlayer<br>NPCShopKeeper<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>|assets/prefabs/npc/bandit/shopkeepers/stables_shopkeeper.prefab|
+|BeeMasterSwarm|3827650729|BeeSwarmMaster<br>|assets/prefabs/npc/beeswarm/beemasterswarm.prefab|
+|BeeSwarm|4224371694|BeeSwarmAI<br>Rigidbody<br>|assets/prefabs/npc/beeswarm/beeswarm.prefab|
 |cargo_plane|2383782438|CargoPlane<br>|assets/prefabs/npc/cargo plane/cargo_plane.prefab|
 |AlarmSytstem|680397581|DummySwitch<br>BaseCombatEntity<br>DecayEntity<br>SphereCollider<br>|assets/prefabs/npc/ch47/alarmsytstem.prefab|
 |ch47.entity|1675349834|CH47Helicopter<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>Rigidbody<br>Model<br>|assets/prefabs/npc/ch47/ch47.entity.prefab|
@@ -1508,8 +1526,12 @@
 |yellow_berry.entity|2747504285|GrowableEntity<br>BoxCollider<br>|assets/prefabs/plants/berrry/yellow/yellow_berry.entity.prefab|
 |corn.entity|112964822|GrowableEntity<br>BoxCollider<br>|assets/prefabs/plants/corn/corn.entity.prefab|
 |hemp.entity|3587624038|GrowableEntity<br>BoxCollider<br>|assets/prefabs/plants/hemp/hemp.entity.prefab|
+|orchid.entity|2529869539|GrowableEntity<br>BoxCollider<br>|assets/prefabs/plants/orchid/orchid.entity.prefab|
 |potato.entity|451737085|GrowableEntity<br>BoxCollider<br>|assets/prefabs/plants/potato/potato.entity.prefab|
 |pumpkin.entity|1524652375|GrowableEntity<br>BoxCollider<br>|assets/prefabs/plants/pumpkin/pumpkin.entity.prefab|
+|rose.entity|773690139|GrowableEntity<br>BoxCollider<br>|assets/prefabs/plants/rose/rose.entity.prefab|
+|sunflower.entity|3882604163|GrowableEntity<br>BoxCollider<br>|assets/prefabs/plants/sunflower/sunflower.entity.prefab|
+|wheat.entity|1410137143|GrowableEntity<br>BoxCollider<br>|assets/prefabs/plants/wheat/wheat.entity.prefab|
 |player|4108440852|BasePlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>PlayerModifiers<br>|assets/prefabs/player/player.prefab|
 |player_corpse|2604534927|PlayerCorpse<br>BaseCombatEntity<br>BaseCorpse<br>HumanBodyResourceDispenser<br>Buoyancy<br>HeadDispenser<br>|assets/prefabs/player/player_corpse.prefab|
 |player_corpse_new|391715894|PlayerCorpse<br>BaseCombatEntity<br>BaseCorpse<br>HumanBodyResourceDispenser<br>SkinnedMultiMesh<br>Skeleton<br>PlayerModel<br>Model<br>Ragdoll<br>Rigidbody<br>DrawSkeleton<br>BoxCollider<br>Buoyancy<br>HeadDispenser<br>|assets/prefabs/player/player_corpse_new.prefab|
@@ -1517,6 +1539,7 @@
 |player_temp_ragdoll|886972632|BaseRagdoll<br>BaseCombatEntity<br>SkinnedMultiMesh<br>PlayerModel<br>Model<br>Ragdoll<br>Rigidbody<br>FixedJoint<br>Skeleton<br>Buoyancy<br>|assets/prefabs/player/player_temp_ragdoll.prefab|
 |diesel_barrel_world|4140706055|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/resource/diesel barrel/diesel_barrel_world.prefab|
 |horsedung.entity|2046937803|BaseMelee<br>HeldEntity<br>|assets/prefabs/resource/horsedung/horsedung.entity.prefab|
+|beehive.natural|1577933610|NaturalBeehive<br>BaseCombatEntity<br>StorageContainer<br>DecayEntity<br>|assets/prefabs/resource/natural beehive/beehive.natural.prefab|
 |binocular.entity|436023350|Binocular<br>HeldEntity<br>|assets/prefabs/tools/binoculars/binocular.entity.prefab|
 |explosive.timed.deployed|3898309212|BoxCollider<br>RFTimedExplosive<br>Rigidbody<br>|assets/prefabs/tools/c4/explosive.timed.deployed.prefab|
 |explosive.timed.entity|1915331115|ThrownWeapon<br>HeldEntity<br>|assets/prefabs/tools/c4/explosive.timed.entity.prefab|
@@ -1675,6 +1698,8 @@
 |bandage.entity|1383987667|MedicalTool<br>HeldEntity<br>|assets/prefabs/weapons/bandage/bandage.entity.prefab|
 |grenade.beancan.deployed|2144399804|DudTimedExplosive<br>Rigidbody<br>CapsuleCollider<br>|assets/prefabs/weapons/beancan grenade/grenade.beancan.deployed.prefab|
 |grenade.beancan.entity|3654150932|GrenadeWeapon<br>HeldEntity<br>AttackEntity<br>|assets/prefabs/weapons/beancan grenade/grenade.beancan.entity.prefab|
+|grenade.bee.deployed|4036845226|BeeGrenade<br>Rigidbody<br>CapsuleCollider<br>|assets/prefabs/weapons/bee grenade/grenade.bee.deployed.prefab|
+|grenade.bee.entity|3444797639|GrenadeWeapon<br>HeldEntity<br>AttackEntity<br>|assets/prefabs/weapons/bee grenade/grenade.bee.entity.prefab|
 |blunderbuss.entity|2557812813|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/blunderbuss/blunderbuss.entity.prefab|
 |bolt_rifle.entity|1665481300|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/bolt rifle/bolt_rifle.entity.prefab|
 |bone_club.entity|3097934597|BaseMelee<br>HeldEntity<br>|assets/prefabs/weapons/bone club/bone_club.entity.prefab|
@@ -1780,8 +1805,8 @@
 |Bottest|1784396605|BasePlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>DevDressPlayer<br>DevMovePlayer<br>|assets/rust.ai/agents/bottest/bottest.prefab|
 |Chicken.Corpse|345706504|BaseCorpse<br>ResourceDispenser<br>HeadDispenser<br>|assets/rust.ai/agents/chicken/chicken.corpse.prefab|
 |Chicken.Corpse.tutorial|1502667878|BaseCorpse<br>ResourceDispenser<br>HeadDispenser<br>|assets/rust.ai/agents/chicken/chicken.corpse.tutorial.prefab|
-|Chicken|152398164|Chicken<br>BaseCombatEntity<br>BaseNpc<br>NavMeshAgent<br>Spawnable<br>CapsuleCollider<br>AnimalBrain<br>NPCNavigator<br>|assets/rust.ai/agents/chicken/chicken.prefab|
-|Chicken.tutorial|2830011179|Chicken<br>BaseCombatEntity<br>BaseNpc<br>NavMeshAgent<br>Spawnable<br>CapsuleCollider<br>AnimalBrain<br>NPCNavigator<br>|assets/rust.ai/agents/chicken/chicken.tutorial.prefab|
+|Chicken|152398164|Chicken<br>BaseCombatEntity<br>BaseNpc<br>NavMeshAgent<br>Spawnable<br>CapsuleCollider<br>NPCNavigator<br>AnimalBrain<br>|assets/rust.ai/agents/chicken/chicken.prefab|
+|Chicken.tutorial|2830011179|Chicken<br>BaseCombatEntity<br>BaseNpc<br>NavMeshAgent<br>Spawnable<br>CapsuleCollider<br>NPCNavigator<br>AnimalBrain<br>|assets/rust.ai/agents/chicken/chicken.tutorial.prefab|
 |BloodCloud|2939690783|ScreenBounceFade<br>|assets/rust.ai/agents/fish/shark/effects/bloodcloud.prefab|
 |Shark.Corpse|3051190050|BaseCorpse<br>ResourceDispenser<br>Buoyancy<br>HeadDispenser<br>|assets/rust.ai/agents/fish/shark.corpse.prefab|
 |Shark_Unused|1738989765|BaseFishNPC<br>BaseCombatEntity<br>Spawnable<br>CapsuleCollider<br>FishBrain<br>FishNavigator<br>NavMeshAgent<br>|assets/rust.ai/agents/fish/shark_unused.prefab|
