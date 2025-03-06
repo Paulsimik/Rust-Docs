@@ -133,6 +133,7 @@
 |assets/bundled/prefabs/fx/displacement/player/grass/player_displacement.prefab|
 |assets/bundled/prefabs/fx/door/barricade_spawn.prefab|
 |assets/bundled/prefabs/fx/elevator_arrive.prefab|
+|assets/bundled/prefabs/fx/entities/beehive.natural/beehive-natural-impact.prefab|
 |assets/bundled/prefabs/fx/entities/loot_barrel/gib.prefab|
 |assets/bundled/prefabs/fx/entities/loot_barrel/impact.prefab|
 |assets/bundled/prefabs/fx/entities/pumpkin/gib.prefab|
@@ -648,7 +649,9 @@
 |assets/content/effects/explosions/effects - explosion.prefab|
 |assets/content/effects/explosions/explosion flame ballista incendiary.prefab|
 |assets/content/effects/explosions/explosion flame.prefab|
+|assets/content/effects/explosions/explosion grenade.prefab|
 |assets/content/effects/explosions/explosion hammerhead.prefab|
+|assets/content/effects/explosions/explosion landmine.prefab|
 |assets/content/effects/explosions/explosion large catapult canisters.prefab|
 |assets/content/effects/explosions/explosion large.prefab|
 |assets/content/effects/explosions/explosion medium.prefab|
@@ -656,6 +659,8 @@
 |assets/content/effects/explosions/explosion piercing.prefab|
 |assets/content/effects/explosions/explosion pitchfork.prefab|
 |assets/content/effects/explosions/explosion small.prefab|
+|assets/content/effects/explosions/explosion wall large.prefab|
+|assets/content/effects/explosions/explosion wall medium.prefab|
 |assets/content/effects/explosions/explosion/prefebs/explosion_3.prefab|
 |assets/content/effects/explosions/explosion/prefebs/explosion_6.prefab|
 |assets/content/effects/explosions/explosion/prefebs/explosion_7.prefab|
@@ -1000,12 +1005,19 @@
 |assets/prefabs/deployable/bbq/effects/barbeque-deploy.prefab|
 |assets/prefabs/deployable/bear trap/effects/bear-trap-deploy.prefab|
 |assets/prefabs/deployable/bed/effects/bed-deploy.prefab|
+|assets/prefabs/deployable/beehive/effects/beehive-deploy.prefab|
 |assets/prefabs/deployable/campfire/effects/campfire-deploy.prefab|
 |assets/prefabs/deployable/ceiling light/effects/ceiling-light-deploy.prefab|
 |assets/prefabs/deployable/chair/effects/chair-deploy.prefab|
 |assets/prefabs/deployable/chair/ice_throne/effects/icethrone-deploy.prefab|
+|assets/prefabs/deployable/chickencoop/effects/chicken-coop-chicken-hatch.prefab|
+|assets/prefabs/deployable/chickencoop/effects/chicken-coop-deploy.prefab|
 |assets/prefabs/deployable/chinooklockedcrate/effects/landing.prefab|
 |assets/prefabs/deployable/computerstation/effects/computer-station-deploy.prefab|
+|assets/prefabs/deployable/cookingworkbench/effects/cookingfx.prefab|
+|assets/prefabs/deployable/cookingworkbench/effects/cookingtable.bbq.enabled.vfx.prefab|
+|assets/prefabs/deployable/cookingworkbench/effects/cookingtable.enabled.vfx.prefab|
+|assets/prefabs/deployable/cookingworkbench/effects/cooking-workbench-deploy.prefab|
 |assets/prefabs/deployable/drone/effects/drone-deploy.prefab|
 |assets/prefabs/deployable/drone/effects/drone-destroy.prefab|
 |assets/prefabs/deployable/drone/effects/drone-impact.prefab|
@@ -1024,6 +1036,9 @@
 |assets/prefabs/deployable/fridge/effects/fridge-deploy.prefab|
 |assets/prefabs/deployable/furnace.large/effects/enabled.prefab|
 |assets/prefabs/deployable/furnace/effects/furnace-deploy.prefab|
+|assets/prefabs/deployable/hopper/effects/hopper_bloodspurt.prefab|
+|assets/prefabs/deployable/hopper/effects/human corpse ingestion.prefab|
+|assets/prefabs/deployable/hopper/effects/other flesh ingestion.prefab|
 |assets/prefabs/deployable/lantern/effects/lantern-deploy.prefab|
 |assets/prefabs/deployable/large wood storage/effects/large-wood-box-deploy.prefab|
 |assets/prefabs/deployable/legacyfurnace/effects/small_furnace_particles.prefab|
@@ -1040,6 +1055,7 @@
 |assets/prefabs/deployable/modular car lift/effects/modular-car-lift-destroy.prefab|
 |assets/prefabs/deployable/modular car lift/effects/modular-car-lift-repair.prefab|
 |assets/prefabs/deployable/oil refinery/effects/oil-refinery-deploy.prefab|
+|assets/prefabs/deployable/plant pots/effects/plant-pot-deploy.prefab|
 |assets/prefabs/deployable/planters/effects/planter-deploy.prefab|
 |assets/prefabs/deployable/playerioents/detectors/hbhfsensor/effects/detect_down.prefab|
 |assets/prefabs/deployable/playerioents/detectors/hbhfsensor/effects/detect_up.prefab|
@@ -1124,6 +1140,9 @@
 |assets/prefabs/food/bota bag/effects/bota-bag-remove-cap.prefab|
 |assets/prefabs/food/bota bag/effects/bota-bag-slosh.prefab|
 |assets/prefabs/food/bota bag/effects/bota-bag-slosh-fast.prefab|
+|assets/prefabs/food/pies/effects/eat.prefab|
+|assets/prefabs/food/pies/effects/impact.prefab|
+|assets/prefabs/food/pies/effects/throw.prefab|
 |assets/prefabs/food/small water bottle/effects/water-bottle-deploy.prefab|
 |assets/prefabs/food/small water bottle/effects/water-bottle-fill-container.prefab|
 |assets/prefabs/food/small water bottle/effects/water-bottle-fill-world.prefab|
@@ -1389,6 +1408,7 @@
 |assets/prefabs/tools/smoke grenade/effects/ignite.prefab|
 |assets/prefabs/tools/smoke grenade/effects/smokegrenade.prefab|
 |assets/prefabs/tools/smoke grenade/effects/smokegrenade_small.prefab|
+|assets/prefabs/tools/smoke grenade/effects/smokegrenadev2.prefab|
 |assets/prefabs/tools/spraycan/effects/vfx_spray.prefab|
 |assets/prefabs/tools/supply signal/effects/bounce.prefab|
 |assets/prefabs/tools/supply signal/effects/deploy.prefab|
@@ -1448,7 +1468,13 @@
 |assets/prefabs/weapons/beancan grenade/effects/beancan_grenade_explosion.prefab|
 |assets/prefabs/weapons/beancan grenade/effects/bounce.prefab|
 |assets/prefabs/weapons/beancan grenade/effects/deploy.prefab|
+|assets/prefabs/weapons/beancan grenade/effects/fuse_extinguish_beancan.prefab|
 |assets/prefabs/weapons/beancan grenade/effects/light_fuse.prefab|
+|assets/prefabs/weapons/bee grenade/effects/bee-grenade-explode.prefab|
+|assets/prefabs/weapons/bee grenade/effects/bounce.prefab|
+|assets/prefabs/weapons/bee grenade/effects/deploy.prefab|
+|assets/prefabs/weapons/bee grenade/effects/vm jar bees.prefab|
+|assets/prefabs/weapons/bee grenade/effects/wm jar bees.prefab|
 |assets/prefabs/weapons/blunderbuss/effects/attack.prefab|
 |assets/prefabs/weapons/blunderbuss/effects/blunderbuss_3p_shell_eject_1_blue.prefab|
 |assets/prefabs/weapons/blunderbuss/effects/blunderbuss_3p_shell_eject_1_green.prefab|
@@ -1979,6 +2005,7 @@
 |assets/prefabs/weapons/salvaged_icepick/effects/tap.prefab|
 |assets/prefabs/weapons/salvaged_icepick/effects/throw.prefab|
 |assets/prefabs/weapons/satchelcharge/effects/deploy.prefab|
+|assets/prefabs/weapons/satchelcharge/effects/fuse_extinguish_satchel.prefab|
 |assets/prefabs/weapons/satchelcharge/effects/satchel-charge-explosion.prefab|
 |assets/prefabs/weapons/satchelcharge/effects/throw.prefab|
 |assets/prefabs/weapons/sawnoff_shotgun/effects/attack.prefab|
