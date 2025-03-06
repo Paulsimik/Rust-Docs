@@ -625,6 +625,10 @@
 |assets/content/properties/lootspawn/armor/armorrare.asset|
 |assets/content/properties/lootspawn/armor/diving/diving.asset|
 |assets/content/properties/lootspawn/armor/heavyarmorpieces.asset|
+|assets/content/properties/lootspawn/armor/inserts/asbestosinsert.asset|
+|assets/content/properties/lootspawn/armor/inserts/inserts.asset|
+|assets/content/properties/lootspawn/armor/inserts/leadinsert.asset|
+|assets/content/properties/lootspawn/armor/inserts/metalplateinsert.asset|
 |assets/content/properties/lootspawn/armor/radsuit.asset|
 |assets/content/properties/lootspawn/armor/woodarmorset.asset|
 |assets/content/properties/lootspawn/barreljunk/barreljunk.asset|
@@ -1048,6 +1052,7 @@
 |assets/content/properties/lootspawn/generated/items/construction/barricade.wood.asset|
 |assets/content/properties/lootspawn/generated/items/construction/barricade.wood.cover.asset|
 |assets/content/properties/lootspawn/generated/items/construction/barricade.woodwire.asset|
+|assets/content/properties/lootspawn/generated/items/construction/beehive.asset|
 |assets/content/properties/lootspawn/generated/items/construction/building.planner.asset|
 |assets/content/properties/lootspawn/generated/items/construction/cupboard.tool.asset|
 |assets/content/properties/lootspawn/generated/items/construction/door.closer.asset|
@@ -1139,6 +1144,7 @@
 |assets/content/properties/lootspawn/generated/items/electrical/fluid.splitter.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/fluid.switch.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/generator.wind.scrap.asset|
+|assets/content/properties/lootspawn/generated/items/electrical/hopper.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/hosetool.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/industrial.combiner.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/industrial.conveyor.asset|
@@ -1166,6 +1172,7 @@
 |assets/content/properties/lootspawn/generated/items/food/black.raspberries.asset|
 |assets/content/properties/lootspawn/generated/items/food/blue.berry.asset|
 |assets/content/properties/lootspawn/generated/items/food/blueberries.asset|
+|assets/content/properties/lootspawn/generated/items/food/bread.loaf.asset|
 |assets/content/properties/lootspawn/generated/items/food/cactusflesh.asset|
 |assets/content/properties/lootspawn/generated/items/food/can.beans.asset|
 |assets/content/properties/lootspawn/generated/items/food/can.tuna.asset|
@@ -1185,24 +1192,37 @@
 |assets/content/properties/lootspawn/generated/items/food/healingtea.asset|
 |assets/content/properties/lootspawn/generated/items/food/horsemeat.cooked.asset|
 |assets/content/properties/lootspawn/generated/items/food/horsemeat.raw.asset|
+|assets/content/properties/lootspawn/generated/items/food/horsemeat.spoiled.asset|
 |assets/content/properties/lootspawn/generated/items/food/jar.pickle.asset|
 |assets/content/properties/lootspawn/generated/items/food/maxhealthtea.asset|
 |assets/content/properties/lootspawn/generated/items/food/meat.boar.asset|
 |assets/content/properties/lootspawn/generated/items/food/meat.pork.cooked.asset|
+|assets/content/properties/lootspawn/generated/items/food/orchid.asset|
 |assets/content/properties/lootspawn/generated/items/food/oretea.asset|
+|assets/content/properties/lootspawn/generated/items/food/pie.apple.asset|
+|assets/content/properties/lootspawn/generated/items/food/pie.bear.asset|
+|assets/content/properties/lootspawn/generated/items/food/pie.chicken.asset|
+|assets/content/properties/lootspawn/generated/items/food/pie.fish.asset|
+|assets/content/properties/lootspawn/generated/items/food/pie.hunters.asset|
+|assets/content/properties/lootspawn/generated/items/food/pie.pork.asset|
+|assets/content/properties/lootspawn/generated/items/food/pie.pumpkin.asset|
+|assets/content/properties/lootspawn/generated/items/food/pie.survivors.asset|
 |assets/content/properties/lootspawn/generated/items/food/potato.asset|
 |assets/content/properties/lootspawn/generated/items/food/pumpkin.asset|
 |assets/content/properties/lootspawn/generated/items/food/radiationremovetea.asset|
 |assets/content/properties/lootspawn/generated/items/food/radiationresisttea.asset|
 |assets/content/properties/lootspawn/generated/items/food/radiationtea.asset|
 |assets/content/properties/lootspawn/generated/items/food/red.berry.asset|
+|assets/content/properties/lootspawn/generated/items/food/rose.asset|
 |assets/content/properties/lootspawn/generated/items/food/scraptea.asset|
 |assets/content/properties/lootspawn/generated/items/food/seed.corn.asset|
 |assets/content/properties/lootspawn/generated/items/food/seed.hemp.asset|
 |assets/content/properties/lootspawn/generated/items/food/seed.pumpkin.asset|
 |assets/content/properties/lootspawn/generated/items/food/smallwaterbottle.asset|
 |assets/content/properties/lootspawn/generated/items/food/stronghealingtea.asset|
+|assets/content/properties/lootspawn/generated/items/food/sunflower.asset|
 |assets/content/properties/lootspawn/generated/items/food/waterjug.asset|
+|assets/content/properties/lootspawn/generated/items/food/wheat.asset|
 |assets/content/properties/lootspawn/generated/items/food/white.berry.asset|
 |assets/content/properties/lootspawn/generated/items/food/wolfmeat.cooked.asset|
 |assets/content/properties/lootspawn/generated/items/food/wolfmeat.raw.asset|
@@ -1288,8 +1308,15 @@
 |assets/content/properties/lootspawn/generated/items/items/ceilinglight.asset|
 |assets/content/properties/lootspawn/generated/items/items/chair.asset|
 |assets/content/properties/lootspawn/generated/items/items/chair.icethrone.asset|
+|assets/content/properties/lootspawn/generated/items/items/chickencoop.asset|
 |assets/content/properties/lootspawn/generated/items/items/chineselantern.asset|
 |assets/content/properties/lootspawn/generated/items/items/chineselanternwhite.asset|
+|assets/content/properties/lootspawn/generated/items/items/clothing.mod.armorinsert_asbestos.asset|
+|assets/content/properties/lootspawn/generated/items/items/clothing.mod.armorinsert_lead.asset|
+|assets/content/properties/lootspawn/generated/items/items/clothing.mod.armorinsert_leather.asset|
+|assets/content/properties/lootspawn/generated/items/items/clothing.mod.armorinsert_metal.asset|
+|assets/content/properties/lootspawn/generated/items/items/clothing.mod.armorinsert_wood.asset|
+|assets/content/properties/lootspawn/generated/items/items/cookingworkbench.asset|
 |assets/content/properties/lootspawn/generated/items/items/drone.asset|
 |assets/content/properties/lootspawn/generated/items/items/dropbox.asset|
 |assets/content/properties/lootspawn/generated/items/items/fireplace.stone.asset|
@@ -1314,6 +1341,7 @@
 |assets/content/properties/lootspawn/generated/items/items/gunrack_tall.horizontal.asset|
 |assets/content/properties/lootspawn/generated/items/items/gunrack_wide.horizontal.asset|
 |assets/content/properties/lootspawn/generated/items/items/guntrap.asset|
+|assets/content/properties/lootspawn/generated/items/items/iotable.asset|
 |assets/content/properties/lootspawn/generated/items/items/jackolantern.angry.asset|
 |assets/content/properties/lootspawn/generated/items/items/jackolantern.happy.asset|
 |assets/content/properties/lootspawn/generated/items/items/kayak.asset|
@@ -1336,6 +1364,8 @@
 |assets/content/properties/lootspawn/generated/items/items/photoframe.portrait.asset|
 |assets/content/properties/lootspawn/generated/items/items/planter.large.asset|
 |assets/content/properties/lootspawn/generated/items/items/planter.small.asset|
+|assets/content/properties/lootspawn/generated/items/items/planter.triangle.asset|
+|assets/content/properties/lootspawn/generated/items/items/plantpot.single.asset|
 |assets/content/properties/lootspawn/generated/items/items/research.table.asset|
 |assets/content/properties/lootspawn/generated/items/items/rug.asset|
 |assets/content/properties/lootspawn/generated/items/items/rug.bear.asset|
@@ -1453,6 +1483,7 @@
 |assets/content/properties/lootspawn/generated/items/res/cloth.asset|
 |assets/content/properties/lootspawn/generated/items/res/explosives.asset|
 |assets/content/properties/lootspawn/generated/items/res/gunpowder.asset|
+|assets/content/properties/lootspawn/generated/items/res/honeycomb.asset|
 |assets/content/properties/lootspawn/generated/items/res/horsedung.asset|
 |assets/content/properties/lootspawn/generated/items/res/hq.metal.ore.asset|
 |assets/content/properties/lootspawn/generated/items/res/leather.asset|
@@ -1460,6 +1491,8 @@
 |assets/content/properties/lootspawn/generated/items/res/metal.fragments.asset|
 |assets/content/properties/lootspawn/generated/items/res/metal.ore.asset|
 |assets/content/properties/lootspawn/generated/items/res/metal.refined.asset|
+|assets/content/properties/lootspawn/generated/items/res/nuclei.asset|
+|assets/content/properties/lootspawn/generated/items/res/nucleus.asset|
 |assets/content/properties/lootspawn/generated/items/res/paper.asset|
 |assets/content/properties/lootspawn/generated/items/res/scrap.asset|
 |assets/content/properties/lootspawn/generated/items/res/sulfur.asset|
@@ -1520,6 +1553,7 @@
 |assets/content/properties/lootspawn/generated/items/weapon/crossbow.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/flamethrower.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/grenade.beancan.asset|
+|assets/content/properties/lootspawn/generated/items/weapon/grenade.bee.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/grenade.f1.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/grenade.flashbang.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/grenade.molotov.asset|
@@ -1645,6 +1679,7 @@
 |assets/content/properties/lootspawn/lootspawn.genericlessnothing.asset|
 |assets/content/properties/lootspawn/lootspawn.medicalcrate.asset|
 |assets/content/properties/lootspawn/lootspawn.minecrate.asset|
+|assets/content/properties/lootspawn/lootspawn.naturalbeehive.asset|
 |assets/content/properties/lootspawn/lootspawn.oilbarrel.asset|
 |assets/content/properties/lootspawn/lootspawn.radtown1.asset|
 |assets/content/properties/lootspawn/lootspawn.radtown2.asset|
@@ -1700,6 +1735,7 @@
 |assets/content/properties/playerinventory/draculaoutfit.asset|
 |assets/content/properties/playerinventory/editorinventory.asset|
 |assets/content/properties/playerinventory/electrician.asset|
+|assets/content/properties/playerinventory/farming.asset|
 |assets/content/properties/playerinventory/fisherman.asset|
 |assets/content/properties/playerinventory/fishing.asset|
 |assets/content/properties/playerinventory/garry.asset|
@@ -1754,6 +1790,10 @@
 |assets/content/properties/protection/carpassengerarmoured.asset|
 |assets/content/properties/protection/carprotection.asset|
 |assets/content/properties/protection/clothing/arctichazmat_fullsuit.asset|
+|assets/content/properties/protection/clothing/armor_insert_asbestos.asset|
+|assets/content/properties/protection/clothing/armor_insert_lead.asset|
+|assets/content/properties/protection/clothing/armor_insert_metal.asset|
+|assets/content/properties/protection/clothing/armor_insert_wood.asset|
 |assets/content/properties/protection/clothing/balaclava.asset|
 |assets/content/properties/protection/clothing/bandana.asset|
 |assets/content/properties/protection/clothing/basic_hat.asset|
@@ -1871,8 +1911,10 @@
 |assets/content/properties/recipes/frankensteintable.recipelist.asset|
 |assets/content/properties/recipes/frankensteintable/frankenstein02.recipe.asset|
 |assets/content/properties/recipes/mixingtable.recipelist.asset|
+|assets/content/properties/recipes/mixingtable/craftingtea/craftingtea.recipe.asset|
 |assets/content/properties/recipes/mixingtable/fertilizerexplosives.recipe.asset|
 |assets/content/properties/recipes/mixingtable/gunpowderrecipe.asset|
+|assets/content/properties/recipes/mixingtable/harvestingtea/harvestingtea.recipe.asset|
 |assets/content/properties/recipes/mixingtable/healingtea/healingtea.advanced.recipe.asset|
 |assets/content/properties/recipes/mixingtable/healingtea/healingtea.basic.recipe.asset|
 |assets/content/properties/recipes/mixingtable/healingtea/healingtea.pure.recipe.asset|
@@ -1898,6 +1940,8 @@
 |assets/content/properties/recipes/mixingtable/scraptea/scraptea.advanced.recipe.asset|
 |assets/content/properties/recipes/mixingtable/scraptea/scraptea.basic.recipe.asset|
 |assets/content/properties/recipes/mixingtable/scraptea/scraptea.pure.recipe.asset|
+|assets/content/properties/recipes/mixingtable/temperaturetea/cooling/coolingtea.recipe.asset|
+|assets/content/properties/recipes/mixingtable/temperaturetea/warming/warmingtea.recipe.asset|
 |assets/content/properties/recipes/mixingtable/woodtea/woodtea.advanced.recipe.asset|
 |assets/content/properties/recipes/mixingtable/woodtea/woodtea.basic.recipe.asset|
 |assets/content/properties/recipes/mixingtable/woodtea/woodtea.pure.recipe.asset|
@@ -1973,8 +2017,12 @@
 |assets/content/properties/spawnpopulation/plant-berry-white.asset|
 |assets/content/properties/spawnpopulation/plant-berry-yellow.asset|
 |assets/content/properties/spawnpopulation/plant-corn.asset|
+|assets/content/properties/spawnpopulation/plant-orchid.asset|
 |assets/content/properties/spawnpopulation/plant-potato.asset|
 |assets/content/properties/spawnpopulation/plant-pumpkin.asset|
+|assets/content/properties/spawnpopulation/plant-rose.asset|
+|assets/content/properties/spawnpopulation/plant-sunflower.asset|
+|assets/content/properties/spawnpopulation/plant-wheat.asset|
 |assets/content/properties/spawnpopulation/procmap_v3_arctic_forest.asset|
 |assets/content/properties/spawnpopulation/procmap_v3_arctic_forest_saplings.asset|
 |assets/content/properties/spawnpopulation/procmap_v3_arctic_forest_snow.asset|
@@ -4269,12 +4317,12 @@
 |assets/content/ui/fonts/_nonenglish/notosanscjksc-bold sdf.asset|
 |assets/content/ui/fonts/_robotocondensed/bootstrap robotocondensed-bold sdf.asset|
 |assets/content/ui/fonts/_robotocondensed/bootstrap robotocondensed-regular sdf.asset|
-|assets/content/ui/fonts/_robotocondensed/robotocondensed-bold sdf - hotkey.asset|
 |assets/content/ui/fonts/_robotocondensed/robotocondensed-bold sdf.asset|
 |assets/content/ui/fonts/_robotocondensed/robotocondensed-regular sdf.asset|
 |assets/content/ui/fonts/droidsansmono/droidsansmono sdf.asset|
 |assets/content/ui/fonts/lcd sdf.asset|
-|assets/content/ui/fonts/localizationfontsettings.asset|
+|assets/content/ui/fonts/localization font fallback settings.asset|
+|assets/content/ui/fonts/localization font generation settings.asset|
 |assets/content/ui/fonts/permanentmarker/permanentmarker sdf.asset|
 |assets/content/ui/fonts/poxel/poxel sdf.asset|
 |assets/content/ui/fonts/pressstart2p/pressstart2p-regular sdf.asset|
@@ -5199,6 +5247,9 @@
 |assets/plugins/rust.ui/controls/rustbutton.normal.asset|
 |assets/plugins/rust.ui/controls/rustbutton.serverbrowser.asset|
 |assets/plugins/rust.ui/controls/rustbutton.servertag.asset|
+|assets/plugins/rust.ui/controls/rustbutton.servertag.black.asset|
+|assets/plugins/rust.ui/controls/rustbutton.servertag.premium.asset|
+|assets/plugins/rust.ui/controls/rustbutton.servertag.tutorial.asset|
 |assets/plugins/rust.ui/controls/rustbutton.sleepingbagdelete.asset|
 |assets/plugins/rust.ui/controls/rustbutton.success.asset|
 |assets/plugins/rust.ui/controls/rustbutton.success.toggle.asset|
@@ -5437,6 +5488,12 @@
 |assets/prefabs/deployable/bbq/sound/barbeque-ignite.asset|
 |assets/prefabs/deployable/bear trap/sound/bear-trap-deploy.asset|
 |assets/prefabs/deployable/bed/sound/bed-deploy.asset|
+|assets/prefabs/deployable/beehive/sound/bee-hive-bees-active-loop-01.asset|
+|assets/prefabs/deployable/beehive/sound/bee-hive-close.asset|
+|assets/prefabs/deployable/beehive/sound/bee-hive-deploy.asset|
+|assets/prefabs/deployable/beehive/sound/bee-hive-natural-bees-active-loop-01.asset|
+|assets/prefabs/deployable/beehive/sound/bee-hive-natural-impact.asset|
+|assets/prefabs/deployable/beehive/sound/bee-hive-open.asset|
 |assets/prefabs/deployable/campfire/sound/campfire-burning.ambience-def.asset|
 |assets/prefabs/deployable/campfire/sound/campfire-burning.ambience-list.asset|
 |assets/prefabs/deployable/campfire/sound/campfire-burning.asset|
@@ -5466,6 +5523,10 @@
 |assets/prefabs/deployable/chair/sound/chair-deploy.asset|
 |assets/prefabs/deployable/chair/sound/chair-dismount.asset|
 |assets/prefabs/deployable/chair/sound/chair-mount.asset|
+|assets/prefabs/deployable/chickencoop/sound/chicken-coop-chicken-hatch.asset|
+|assets/prefabs/deployable/chickencoop/sound/chicken-coop-close.asset|
+|assets/prefabs/deployable/chickencoop/sound/chicken-coop-deploy.asset|
+|assets/prefabs/deployable/chickencoop/sound/chicken-coop-open.asset|
 |assets/prefabs/deployable/chinooklockedcrate/hack_progress_beep.asset|
 |assets/prefabs/deployable/chinooklockedcrate/laptoploop.asset|
 |assets/prefabs/deployable/chinooklockedcrate/unlocked.asset|
@@ -5474,6 +5535,37 @@
 |assets/prefabs/deployable/computerstation/computer-station-turn-off.asset|
 |assets/prefabs/deployable/computerstation/computer-station-turn-on.asset|
 |assets/prefabs/deployable/computerstation/sound/computer-station-deploy.asset|
+|assets/prefabs/deployable/cookingworkbench/cookingworkbench.recipelist.asset|
+|assets/prefabs/deployable/cookingworkbench/recipes/applepie.asset|
+|assets/prefabs/deployable/cookingworkbench/recipes/bearpie.asset|
+|assets/prefabs/deployable/cookingworkbench/recipes/bread.asset|
+|assets/prefabs/deployable/cookingworkbench/recipes/chickenpie.asset|
+|assets/prefabs/deployable/cookingworkbench/recipes/cookedbear.asset|
+|assets/prefabs/deployable/cookingworkbench/recipes/cookedchicken.asset|
+|assets/prefabs/deployable/cookingworkbench/recipes/cookeddeer.asset|
+|assets/prefabs/deployable/cookingworkbench/recipes/cookedfish.asset|
+|assets/prefabs/deployable/cookingworkbench/recipes/cookedhorse.asset|
+|assets/prefabs/deployable/cookingworkbench/recipes/cookedhuman.asset|
+|assets/prefabs/deployable/cookingworkbench/recipes/cookedpork.asset|
+|assets/prefabs/deployable/cookingworkbench/recipes/cookedwolf.asset|
+|assets/prefabs/deployable/cookingworkbench/recipes/fishpie.asset|
+|assets/prefabs/deployable/cookingworkbench/recipes/hunterspie.asset|
+|assets/prefabs/deployable/cookingworkbench/recipes/porkpie.asset|
+|assets/prefabs/deployable/cookingworkbench/recipes/pumpkinpie.asset|
+|assets/prefabs/deployable/cookingworkbench/recipes/survivorspie.asset|
+|assets/prefabs/deployable/cookingworkbench/sound/cooking-workbench-cook-finish.asset|
+|assets/prefabs/deployable/cookingworkbench/sound/cooking-workbench-cooking-close.asset|
+|assets/prefabs/deployable/cookingworkbench/sound/cooking-workbench-cooking-open.asset|
+|assets/prefabs/deployable/cookingworkbench/sound/cooking-workbench-cook-loop.asset|
+|assets/prefabs/deployable/cookingworkbench/sound/cooking-workbench-cook-start.asset|
+|assets/prefabs/deployable/cookingworkbench/sound/cooking-workbench-deploy.asset|
+|assets/prefabs/deployable/cookingworkbench/sound/cooking-workbench-oven-active-loop.asset|
+|assets/prefabs/deployable/cookingworkbench/sound/cooking-workbench-oven-close.asset|
+|assets/prefabs/deployable/cookingworkbench/sound/cooking-workbench-oven-extinguish.asset|
+|assets/prefabs/deployable/cookingworkbench/sound/cooking-workbench-oven-ignite.asset|
+|assets/prefabs/deployable/cookingworkbench/sound/cooking-workbench-oven-open.asset|
+|assets/prefabs/deployable/cookingworkbench/sound/visual-cooking-kettle-boil-loop-01.asset|
+|assets/prefabs/deployable/cookingworkbench/sound/visual-cooking-meat-sizzle-loop-01.asset|
 |assets/prefabs/deployable/drone/sound/drone-deploy.asset|
 |assets/prefabs/deployable/drone/sound/drone-destroy.asset|
 |assets/prefabs/deployable/drone/sound/drone-ground-land.asset|
@@ -5517,6 +5609,7 @@
 |assets/prefabs/deployable/frankensteintable/sound/frankenstein-table-switch-flip.asset|
 |assets/prefabs/deployable/frankensteintable/sound/frankenstein-table-wake.asset|
 |assets/prefabs/deployable/fridge/fridge.deployed.skinnable.asset|
+|assets/prefabs/deployable/fridge/sound/fridge-active-loop.asset|
 |assets/prefabs/deployable/fridge/sound/fridge-close.asset|
 |assets/prefabs/deployable/fridge/sound/fridge-deploy.asset|
 |assets/prefabs/deployable/fridge/sound/fridge-open.asset|
@@ -5533,6 +5626,10 @@
 |assets/prefabs/deployable/furnace/sound/furnace-ignite.asset|
 |assets/prefabs/deployable/furnace/sound/furnace-loop.asset|
 |assets/prefabs/deployable/furnace/sound/furnace-open.asset|
+|assets/prefabs/deployable/hazmatplushy/hazmatplushy.sitem.asset|
+|assets/prefabs/deployable/hopper/sound/hopper-active-loop-01.asset|
+|assets/prefabs/deployable/hopper/sound/hopper-start-01.asset|
+|assets/prefabs/deployable/hopper/sound/hopper-stop-01.asset|
 |assets/prefabs/deployable/hot air balloon/hab.population.asset|
 |assets/prefabs/deployable/hot air balloon/sound/blast_loop.asset|
 |assets/prefabs/deployable/hot air balloon/sound/burner-loop.asset|
@@ -5591,6 +5688,12 @@
 |assets/prefabs/deployable/oil refinery/sound/oil-refinery-extinguish.asset|
 |assets/prefabs/deployable/oil refinery/sound/oil-refinery-ignite.asset|
 |assets/prefabs/deployable/oil refinery/sound/oil-refinery-open.asset|
+|assets/prefabs/deployable/plant pots/sound/plant-pot-deploy.asset|
+|assets/prefabs/deployable/plant pots/sound/plant-pot-ui-drop.asset|
+|assets/prefabs/deployable/plant pots/sound/plant-pot-ui-pick-up.asset|
+|assets/prefabs/deployable/planters/allplanters.asset|
+|assets/prefabs/deployable/planters/planter.large.skinnable.asset|
+|assets/prefabs/deployable/planters/planter.triangle.skinnable.asset|
 |assets/prefabs/deployable/planters/sound/planter-deploy.asset|
 |assets/prefabs/deployable/playerioents/alarms/sound/3beep.asset|
 |assets/prefabs/deployable/playerioents/app/smartalarm/sound/smart-alarm-activate.asset|
@@ -5864,6 +5967,22 @@
 |assets/prefabs/food/bota bag/sound/bota-bag-slosh.asset|
 |assets/prefabs/food/bota bag/sound/bota-bag-slosh-fast.asset|
 |assets/prefabs/food/bota bag/sound/bota-bag-throw-3p.asset|
+|assets/prefabs/food/eggs/sound/egg-ui-drop.asset|
+|assets/prefabs/food/eggs/sound/egg-ui-pick-up.asset|
+|assets/prefabs/food/meat/materials/meat_spoiled_sss.asset|
+|assets/prefabs/food/meat/materials/meat_sss.asset|
+|assets/prefabs/food/pies/sound/pie-admire-01.asset|
+|assets/prefabs/food/pies/sound/pie-admire-02.asset|
+|assets/prefabs/food/pies/sound/pie-admire-03.asset|
+|assets/prefabs/food/pies/sound/pie-admire-04.asset|
+|assets/prefabs/food/pies/sound/pie-aim.asset|
+|assets/prefabs/food/pies/sound/pie-aim-cancel.asset|
+|assets/prefabs/food/pies/sound/pie-deploy.asset|
+|assets/prefabs/food/pies/sound/pie-eat-chew.asset|
+|assets/prefabs/food/pies/sound/pie-eat-swallow.asset|
+|assets/prefabs/food/pies/sound/pie-eat-wipe.asset|
+|assets/prefabs/food/pies/sound/pie-impact.asset|
+|assets/prefabs/food/pies/sound/pie-throw.asset|
 |assets/prefabs/food/small water bottle/sounds/water-bottle-deploy.asset|
 |assets/prefabs/food/small water bottle/sounds/water-bottle-deploy-3p.asset|
 |assets/prefabs/food/small water bottle/sounds/water-bottle-fill-container.asset|
@@ -5977,7 +6096,9 @@
 |assets/prefabs/misc/decor_dlc/huntingtrophy_large/sound/hunting-trophy-large-deploy.asset|
 |assets/prefabs/misc/decor_dlc/huntingtrophy_small/sound/hunting-trophy-small-deploy.asset|
 |assets/prefabs/misc/decor_dlc/minecart planter/sound/minecart-planter-deploy.asset|
+|assets/prefabs/misc/decor_dlc/rail road planter/railroadplanter.sitem.asset|
 |assets/prefabs/misc/decor_dlc/rail road planter/sound/rail-road-planter-deploy.asset|
+|assets/prefabs/misc/decor_dlc/rail road planter/triangle_railroad_planter.sitem.asset|
 |assets/prefabs/misc/decor_dlc/rockingchair/rockingchair.skinnable.asset|
 |assets/prefabs/misc/decor_dlc/rockingchair/skins/rockingchair.rockingchair2.skin.asset|
 |assets/prefabs/misc/decor_dlc/rockingchair/skins/rockingchair.rockingchair3.skin.asset|
@@ -6570,6 +6691,8 @@
 |assets/prefabs/npc/bear/sound/roar_short.asset|
 |assets/prefabs/npc/bear/sound/sleeping.asset|
 |assets/prefabs/npc/bear/sound/sniff.asset|
+|assets/prefabs/npc/beeswarm/beeswarmprotection.asset|
+|assets/prefabs/npc/beeswarm/sound/bee-swarm-angry-loop.asset|
 |assets/prefabs/npc/birds/sound/flap_fly_away.asset|
 |assets/prefabs/npc/cargo plane/sound/cargo-plane-loop.asset|
 |assets/prefabs/npc/ch47/sound/ch47-engine-loop.asset|
@@ -6651,11 +6774,15 @@
 |assets/prefabs/plants/hemp/textures/hemp.skin.3.mature_lod2.asset|
 |assets/prefabs/plants/hemp/textures/hemp.skin.4.fruiting_lod2.asset|
 |assets/prefabs/plants/hemp/textures/hemp.skin.5.dying_lod2.asset|
+|assets/prefabs/plants/orchid/orchid.plantproperty.asset|
 |assets/prefabs/plants/plantharvest.sound.asset|
 |assets/prefabs/plants/plant-remove-dying.sound.asset|
 |assets/prefabs/plants/plantseed.sound.asset|
 |assets/prefabs/plants/potato/potato.plantproperty.asset|
 |assets/prefabs/plants/pumpkin/pumpkin.plantproperty.asset|
+|assets/prefabs/plants/rose/rose.plantproperty.asset|
+|assets/prefabs/plants/sunflower/sunflower.plantproperty.asset|
+|assets/prefabs/plants/wheat/wheat.plantproperty.asset|
 |assets/prefabs/player/gestures/cinematic/gesture.cinematic.chicken.asset|
 |assets/prefabs/player/gestures/cinematic/gesture.cinematic.drink.asset|
 |assets/prefabs/player/gestures/cinematic/gesture.cinematic.exclaim_01.asset|
@@ -6690,6 +6817,7 @@
 |assets/prefabs/player/gestures/gesture.kick.asset|
 |assets/prefabs/player/gestures/gesture.ok.asset|
 |assets/prefabs/player/gestures/gesture.parachuteland.asset|
+|assets/prefabs/player/gestures/gesture.petting.asset|
 |assets/prefabs/player/gestures/gesture.point.asset|
 |assets/prefabs/player/gestures/gesture.push.asset|
 |assets/prefabs/player/gestures/gesture.raiseroof.asset|
@@ -6709,6 +6837,7 @@
 |assets/prefabs/player/gestures/sound/gesture-anim-nono.asset|
 |assets/prefabs/player/gestures/sound/gesture-anim-okay-end.asset|
 |assets/prefabs/player/gestures/sound/gesture-anim-okay-start.asset|
+|assets/prefabs/player/gestures/sound/gesture-anim-pet.asset|
 |assets/prefabs/player/gestures/sound/gesture-anim-point-end.asset|
 |assets/prefabs/player/gestures/sound/gesture-anim-point-start.asset|
 |assets/prefabs/player/gestures/sound/gesture-anim-rps-lose.asset|
@@ -6724,6 +6853,8 @@
 |assets/prefabs/player/gestures/sound/gesture-anim-victory.asset|
 |assets/prefabs/player/gestures/sound/gesture-anim-wave.asset|
 |assets/prefabs/player/player_skeleton.asset|
+|assets/prefabs/resource/natural beehive/materials/beehive sss.asset|
+|assets/prefabs/resource/natural beehive/materials/honey sss.asset|
 |assets/prefabs/tea/sound/tea-sip.asset|
 |assets/prefabs/tea/sound/ui-tea-drop.asset|
 |assets/prefabs/tea/sound/ui-tea-pick-up.asset|
@@ -7000,6 +7131,17 @@
 |assets/prefabs/weapons/beancan grenade/sound/beancan-grenade-explosion.asset|
 |assets/prefabs/weapons/beancan grenade/sound/beancan-light-fuse.asset|
 |assets/prefabs/weapons/beancan grenade/sound/bounce.asset|
+|assets/prefabs/weapons/bee grenade/sound/bee-grenade-admire-01.asset|
+|assets/prefabs/weapons/bee grenade/sound/bee-grenade-admire-02.asset|
+|assets/prefabs/weapons/bee grenade/sound/bee-grenade-admire-03.asset|
+|assets/prefabs/weapons/bee grenade/sound/bee-grenade-bee-active-loop.asset|
+|assets/prefabs/weapons/bee grenade/sound/bee-grenade-bee-angry-loop.asset|
+|assets/prefabs/weapons/bee grenade/sound/bee-grenade-bee-angry-loop-doppler.asset|
+|assets/prefabs/weapons/bee grenade/sound/bee-grenade-bounce.asset|
+|assets/prefabs/weapons/bee grenade/sound/bee-grenade-deploy.asset|
+|assets/prefabs/weapons/bee grenade/sound/bee-grenade-explosion.asset|
+|assets/prefabs/weapons/bee grenade/sound/bee-grenade-shake.asset|
+|assets/prefabs/weapons/bee grenade/sound/bee-grenade-throw.asset|
 |assets/prefabs/weapons/blunderbuss/blunderbuss.skin.asset|
 |assets/prefabs/weapons/blunderbuss/sound/blunderbuss-admire-01.asset|
 |assets/prefabs/weapons/blunderbuss/sound/blunderbuss-admire-02.asset|
@@ -7817,7 +7959,9 @@
 |assets/rust.ai/agents/boar/sound/sleeping.asset|
 |assets/rust.ai/agents/chicken/chicken.population.asset|
 |assets/rust.ai/agents/chicken/chicken.skeleton.asset|
+|assets/rust.ai/agents/chicken/chicken_update.skeleton.asset|
 |assets/rust.ai/agents/chicken/sound/attack.asset|
+|assets/rust.ai/agents/chicken/sound/chicken-anim-react-happy.asset|
 |assets/rust.ai/agents/chicken/sound/cluck.asset|
 |assets/rust.ai/agents/chicken/sound/flap-wings-idle.asset|
 |assets/rust.ai/agents/chicken/sound/flap-wings-running.asset|
@@ -7994,6 +8138,7 @@
 |assets/scripts/entity/misc/f15/sound/f15e-flight-loop.asset|
 |assets/scripts/entity/misc/f15/sound/f15e-fly-by.asset|
 |assets/scripts/game/techtree/techtree.asset|
+|assets/scripts/game/techtree/techtreeio.asset|
 |assets/scripts/game/techtree/techtreet0.asset|
 |assets/scripts/game/techtree/techtreet0_primitive.asset|
 |assets/scripts/game/techtree/techtreet1.asset|
