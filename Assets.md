@@ -5245,6 +5245,7 @@
 |assets/plugins/rust.ui/controls/rustbutton.menu-right-alert.asset|
 |assets/plugins/rust.ui/controls/rustbutton.missiontoggle.asset|
 |assets/plugins/rust.ui/controls/rustbutton.normal.asset|
+|assets/plugins/rust.ui/controls/rustbutton.refresh.blue.asset|
 |assets/plugins/rust.ui/controls/rustbutton.serverbrowser.asset|
 |assets/plugins/rust.ui/controls/rustbutton.servertag.asset|
 |assets/plugins/rust.ui/controls/rustbutton.servertag.black.asset|
