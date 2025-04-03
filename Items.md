@@ -1,6 +1,7 @@
 |Image|Name|Shortname|ID|Components|
 |:---:|:---:|:---:|:---:|:---:|
 |<img src="https://czechrust.eu/img/textures2D/hat.wolf.png" width="100" height="80">|Wolf Headdress|hat.wolf|-1478212975|ItemModWearable<br>ItemBlueprint<br>|
+|<img src="https://czechrust.eu/img/textures2D/discord.trophy.png" width="100" height="80">|Discord Trophy|discord.trophy|1494014226|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/fogmachine.png" width="100" height="80">|Fogger-3000|fogmachine|-1973785141|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>ItemModContainer<br>|
 |<img src="https://czechrust.eu/img/textures2D/strobelight.png" width="100" height="80">|Strobe Light|strobelight|2104517339|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/attackhelicopter.png" width="100" height="80">|Attack Helicopter|attackhelicopter|1113514903|ItemBlueprint<br>|
@@ -83,10 +84,14 @@
 |<img src="https://czechrust.eu/img/textures2D/floor.ladder.hatch.png" width="100" height="80">|Ladder Hatch|floor.ladder.hatch|1948067030|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/floor.triangle.grill.png" width="100" height="80">|Floor triangle grill|floor.triangle.grill|1983621560|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/floor.triangle.ladder.hatch.png" width="100" height="80">|Triangle Ladder Hatch|floor.triangle.ladder.hatch|2041899972|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|<img src="https://czechrust.eu/img/textures2D/gates.external.high.adobe.png" width="100" height="80">|High External Adobe Gate|gates.external.high.adobe|-401905610|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|<img src="https://czechrust.eu/img/textures2D/gates.external.high.frontier.png" width="100" height="80">|High External Frontier Gate|gates.external.high.frontier|2137338174|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/gates.external.high.stone.png" width="100" height="80">|High External Stone Gate|gates.external.high.stone|-691113464|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/gates.external.high.wood.png" width="100" height="80">|High External Wooden Gate|gates.external.high.wood|-335089230|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/ladder.wooden.wall.png" width="100" height="80">|Wooden Ladder|ladder.wooden.wall|-316250604|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/legacy.shelter.wood.png" width="100" height="80">|Legacy Wood Shelter|legacy.shelter.wood|607400343|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|<img src="https://czechrust.eu/img/textures2D/wall.external.high.adobe.png" width="100" height="80">|High External Adobe Wall|wall.external.high.adobe|756890702|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|<img src="https://czechrust.eu/img/textures2D/wall.external.high.frontier.png" width="100" height="80">|High External Frontier Wall|wall.external.high.frontier|63265850|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/wall.external.high.stone.png" width="100" height="80">|High External Stone Wall|wall.external.high.stone|-967648160|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/wall.external.high.png" width="100" height="80">|High External Wooden Wall|wall.external.high|99588025|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/wall.frame.cell.gate.png" width="100" height="80">|Prison Cell Gate|wall.frame.cell.gate|-956706906|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
@@ -444,7 +449,7 @@
 |<img src="https://czechrust.eu/img/textures2D/fish.yellowperch.png" width="100" height="80">|Yellow Perch|fish.yellowperch|680234026|ItemModSwap<br>ItemModMenuOption<br>ItemModCompostable<br>ItemModFishable<br>|
 |<img src="https://czechrust.eu/img/textures2D/granolabar.png" width="100" height="80">|Granola Bar|granolabar|-746030907|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>ItemModCompostable<br>|
 |<img src="https://czechrust.eu/img/textures2D/honey.png" width="100" height="80">|Jar of Honey|honey|1601800933|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>ItemModCompostable<br>|
-|<img src="https://czechrust.eu/img/textures2D/nucleus.png" width="100" height="80">|Beehive Nucleus|nucleus|-1811234677|ItemModBeehiveNucleus<br>|
+|<img src="https://czechrust.eu/img/textures2D/nucleus.png" width="100" height="80">|Beehive Nucleus|nucleus|-1811234677|ItemModBeehiveNucleus<br>ItemModCompostable<br>|
 |<img src="https://czechrust.eu/img/textures2D/bearmeat.burned.png" width="100" height="80">|Burnt Bear Meat|bearmeat.burned|-989755543|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>ItemModCompostable<br>|
 |<img src="https://czechrust.eu/img/textures2D/bearmeat.cooked.png" width="100" height="80">|Cooked Bear Meat|bearmeat.cooked|1873897110|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>ItemModCookable<br>ItemModCompostable<br>ItemModFoodSpoiling<br>|
 |<img src="https://czechrust.eu/img/textures2D/bearmeat.png" width="100" height="80">|Raw Bear Meat|bearmeat|-1520560807|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>ItemModCookable<br>ItemModCompostable<br>ItemModFoodSpoiling<br>|
@@ -559,6 +564,8 @@
 |<img src="https://czechrust.eu/img/textures2D/rustige_egg_d.png" width="100" height="80">|Rustigé Egg - Ivory|rustige_egg_d|-173268126|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/rustige_egg_e.png" width="100" height="80">|Rustigé Egg - Green|rustige_egg_e|-173268125|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/rustige_egg_f.png" width="100" height="80">|Rustigé Egg - White|rustige_egg_f|-173268128|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
+|<img src="https://czechrust.eu/img/textures2D/rustige_egg_g.png" width="100" height="80">|Rustigé Egg - Cerulean|rustige_egg_g|-173268127|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
+|<img src="https://czechrust.eu/img/textures2D/horse.costume.png" width="100" height="80">|Horse Costume|horse.costume|1420547167|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
 |<img src="https://czechrust.eu/img/textures2D/attire.nesthat.png" width="100" height="80">|Nest Hat|attire.nesthat|1081315464|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/easter.bronzeegg.png" width="100" height="80">|Bronze Egg|easter.bronzeegg|844440409|ItemModUpgrade<br>ItemModCrackOpen<br>ItemMod<br>|
 |<img src="https://czechrust.eu/img/textures2D/easter.goldegg.png" width="100" height="80">|Gold Egg|easter.goldegg|-1002156085|ItemModCrackOpen<br>ItemMod<br>|
@@ -976,6 +983,7 @@
 |<img src="https://czechrust.eu/img/textures2D/homingmissile.launcher.png" width="100" height="80">|Homing Missile Launcher|homingmissile.launcher|-218009552|ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/improvised.shield.png" width="100" height="80">|Improvised Shield|improvised.shield|196784377|ItemBlueprint<br>ItemModWearable<br>ItemModShield<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/knife.combat.png" width="100" height="80">|Combat Knife|knife.combat|2040726127|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
+|<img src="https://czechrust.eu/img/textures2D/sunken.knife.png" width="100" height="80">|Sunken Combat Knife|sunken.knife|789333045|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |<img src="https://czechrust.eu/img/textures2D/rifle.l96.png" width="100" height="80">|L96 Rifle|rifle.l96|-778367295|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |<img src="https://czechrust.eu/img/textures2D/legacy bow.png" width="100" height="80">|Legacy bow|legacy bow|-73195037|ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/rifle.lr300.png" width="100" height="80">|LR-300 Assault Rifle|rifle.lr300|-1812555177|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
