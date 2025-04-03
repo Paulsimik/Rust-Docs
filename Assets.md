@@ -361,6 +361,7 @@
 |assets/content/properties/damage/damage.slug.asset|
 |assets/content/properties/damage/damage.throwable.asset|
 |assets/content/properties/entitylist/door_deploy_blacklist.asset|
+|assets/content/properties/entitylist/rug_deploy_blacklist.asset|
 |assets/content/properties/entitylist/vending_deploy_blacklist.asset|
 |assets/content/properties/entitylist/wooden.signs_entitylist.asset|
 |assets/content/properties/foliage_procmap_v3/all/underwater-coral_red_big.asset|
@@ -1853,6 +1854,7 @@
 |assets/content/properties/protection/clothing/wood_armor_helmet.asset|
 |assets/content/properties/protection/corpse_protection.asset|
 |assets/content/properties/protection/debrisbuildingblocker.asset|
+|assets/content/properties/protection/deployablecorpse.asset|
 |assets/content/properties/protection/deployablegeneric.asset|
 |assets/content/properties/protection/deployablegenericdense.asset|
 |assets/content/properties/protection/deployablelighting.asset|
@@ -2252,6 +2254,7 @@
 |assets/content/props/cassetterecorder/sound/cassette-recorder-rewind.asset|
 |assets/content/props/cassetterecorder/sound/cassette-recorder-start.asset|
 |assets/content/props/cassetterecorder/sound/cassette-recorder-stop.asset|
+|assets/content/props/discord trophy/discordtrophy.sitem.asset|
 |assets/content/props/fog machine/fogmachine.sitem.asset|
 |assets/content/props/fog machine/sound/fogblast.asset|
 |assets/content/props/megaphone/sound/megaphone-active-loop.asset|
@@ -5298,6 +5301,10 @@
 |assets/prefabs/building/door.hinged/sound/wood-door-deploy.asset|
 |assets/prefabs/building/floor.grill/sound/floor-grill-deploy.asset|
 |assets/prefabs/building/floor.ladder.hatch/sound/ladder-hatch-deploy.asset|
+|assets/prefabs/building/gates.external.high.adobe/gates.external.high.adobe.sitem.asset|
+|assets/prefabs/building/gates.external.high.frontier/gates.external.high.frontier.sitem.asset|
+|assets/prefabs/building/gates.external.high/gates.external.high.stone/gates.external.high.stone.skinnable.asset|
+|assets/prefabs/building/gates.external.high/gates.external.high.wood/gates.external.high.wood.skinnable.asset|
 |assets/prefabs/building/ladder.wall.wood/sound/wood-ladder-deploy.asset|
 |assets/prefabs/building/legacy.shelter.wood/sound/legacy-shelter-deploy.asset|
 |assets/prefabs/building/powerline.zipline/sound/zipline-dismount.asset|
@@ -5305,8 +5312,13 @@
 |assets/prefabs/building/powerline.zipline/sound/zipline-mount.asset|
 |assets/prefabs/building/powerline.zipline/sound/zipline-movement-loop.asset|
 |assets/prefabs/building/powerline.zipline/sound/zipline-sparks-loop.asset|
+|assets/prefabs/building/wall.external.high.adobe/adobe.gate.pack.sitem.asset|
+|assets/prefabs/building/wall.external.high.adobe/wall.external.high.adobe.sitem.asset|
+|assets/prefabs/building/wall.external.high.frontier/wall.external.high.frontier.sitem.asset|
 |assets/prefabs/building/wall.external.high.stone/sound/wall-external-stone-deploy.asset|
+|assets/prefabs/building/wall.external.high.stone/wall.external.high.stone.skinnable.asset|
 |assets/prefabs/building/wall.external.high.wood/sound/wall-external-wood-deploy.asset|
+|assets/prefabs/building/wall.external.high.wood/wall.external.high.wood.skinnable.asset|
 |assets/prefabs/building/wall.frame.cell/sound/cell-wall-door-deploy.asset|
 |assets/prefabs/building/wall.frame.fence/sound/chain-link-fence-deploy.asset|
 |assets/prefabs/building/wall.frame.garagedoor/sound/garagedoor-begin-movement.asset|
@@ -6122,6 +6134,7 @@
 |assets/prefabs/misc/easter/bunny_hat/bunnyhat.sitem.asset|
 |assets/prefabs/misc/easter/bunny_hat/sbmat_bunnyhat_ears.asset|
 |assets/prefabs/misc/easter/chickencostume/chicken.costume.sitem.asset|
+|assets/prefabs/misc/easter/chickencostume/chickencostume.skeleton.asset|
 |assets/prefabs/misc/easter/chickencostume/sound/chicken-costume-footstep-accent.asset|
 |assets/prefabs/misc/easter/door_wreath/easterwreath.sitem.asset|
 |assets/prefabs/misc/easter/easter basket/sound/easter-basket-add-egg.asset|
@@ -6142,6 +6155,11 @@
 |assets/prefabs/misc/easter/faberge_egg_d/rustige_egg_d.sitem.asset|
 |assets/prefabs/misc/easter/faberge_egg_e/rustige_egg_e.sitem.asset|
 |assets/prefabs/misc/easter/faberge_egg_f/rustige_egg_f.sitem.asset|
+|assets/prefabs/misc/easter/faberge_egg_g/rustige_egg_g.sitem.asset|
+|assets/prefabs/misc/easter/faberge_egg_g/rustigeegg_g_sss.asset|
+|assets/prefabs/misc/easter/horsecostume/cloth.horsecostume.asset|
+|assets/prefabs/misc/easter/horsecostume/horse.costume.sitem.asset|
+|assets/prefabs/misc/easter/horsecostume/horsecostume.skeleton.asset|
 |assets/prefabs/misc/easter/loottables/bronzeegg-contents.asset|
 |assets/prefabs/misc/easter/loottables/bunnyears.asset|
 |assets/prefabs/misc/easter/loottables/bunnyonesie.asset|
@@ -6152,6 +6170,7 @@
 |assets/prefabs/misc/easter/sound/egg_pickup.asset|
 |assets/prefabs/misc/easter/sound/egg_upgrade.asset|
 |assets/prefabs/misc/easter/sound/goldegg_open.asset|
+|assets/prefabs/misc/easter/sound/music-box-cargo-ship-loop.asset|
 |assets/prefabs/misc/easter/sound/music-box-classic-loop.asset|
 |assets/prefabs/misc/easter/sound/music-box-descent-loop.asset|
 |assets/prefabs/misc/easter/sound/music-box-dust-loop.asset|
@@ -7395,6 +7414,8 @@
 |assets/prefabs/weapons/homingmissilelauncher/sound/homing-missile-launcher-reload-insert-rocket.asset|
 |assets/prefabs/weapons/homingmissilelauncher/sound/homing-missile-launcher-reload-start.asset|
 |assets/prefabs/weapons/knife/knife.combat.skinnable.asset|
+|assets/prefabs/weapons/knife/skins/sunkenknife/sound/combat.knife.deploy.asset|
+|assets/prefabs/weapons/knife/skins/sunkenknife/sunkenknife.combat.skin.asset|
 |assets/prefabs/weapons/knife/sound/combat.knife.deploy.asset|
 |assets/prefabs/weapons/l96/l96.skinnable.asset|
 |assets/prefabs/weapons/l96/sound/l96-attack.asset|
