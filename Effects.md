@@ -763,6 +763,10 @@
 |assets/content/effects/weather/sandstorm/pfx_sandstorm2.prefab|
 |assets/content/effects/wip/frosty_breath_fx.prefab|
 |assets/content/effects/wip/muzzle_smoke.prefab|
+|assets/content/effects/zones/zonegeneric.prefab|
+|assets/content/effects/zones/zonegenericsphere.prefab|
+|assets/content/effects/zones/zoneheat.prefab|
+|assets/content/effects/zones/zonewater.prefab|
 |assets/content/nature/treesprefabs/trees/effects/tree_bonus_effect.prefab|
 |assets/content/nature/treesprefabs/trees/effects/tree_fall.prefab|
 |assets/content/nature/treesprefabs/trees/effects/tree_fall_impact.prefab|
@@ -1731,6 +1735,15 @@
 |assets/prefabs/weapons/knife/effects/strike_screenshake.prefab|
 |assets/prefabs/weapons/knife/effects/strike-soft.prefab|
 |assets/prefabs/weapons/knife/effects/throw.prefab|
+|assets/prefabs/weapons/knife/skins/sunkenknife/effects/attack-1.prefab|
+|assets/prefabs/weapons/knife/skins/sunkenknife/effects/attack-2.prefab|
+|assets/prefabs/weapons/knife/skins/sunkenknife/effects/deploy.prefab|
+|assets/prefabs/weapons/knife/skins/sunkenknife/effects/hit.prefab|
+|assets/prefabs/weapons/knife/skins/sunkenknife/effects/holster.prefab|
+|assets/prefabs/weapons/knife/skins/sunkenknife/effects/strike.prefab|
+|assets/prefabs/weapons/knife/skins/sunkenknife/effects/strike_screenshake.prefab|
+|assets/prefabs/weapons/knife/skins/sunkenknife/effects/strike-soft.prefab|
+|assets/prefabs/weapons/knife/skins/sunkenknife/effects/throw.prefab|
 |assets/prefabs/weapons/l96/effects/attack.prefab|
 |assets/prefabs/weapons/l96/effects/attack_muzzlebrake.prefab|
 |assets/prefabs/weapons/l96/effects/attack_shake.prefab|
