@@ -49,6 +49,7 @@
 |assets/content/image effects/postfx_volumes/main_base.asset|
 |assets/content/image effects/postfx_volumes/main_biome_arctic.asset|
 |assets/content/image effects/postfx_volumes/main_biome_arid.asset|
+|assets/content/image effects/postfx_volumes/main_biome_jungle.asset|
 |assets/content/image effects/postfx_volumes/main_biome_temperate.asset|
 |assets/content/image effects/postfx_volumes/main_biome_tundra.asset|
 |assets/content/image effects/postfx_volumes/main_underground_monument_softened.asset|
@@ -111,6 +112,15 @@
 |assets/content/nature/treessource/bush_creosote/models/billboards/creosote_bush_d_lod2.asset|
 |assets/content/nature/treessource/bush_creosote/models/billboards/creosote_bush_dry_a_lod2.asset|
 |assets/content/nature/treessource/bush_creosote/models/billboards/creosote_bush_dry_b_lod2.asset|
+|assets/content/nature/treessource/bush_heliconia_rostrata/billboards/heliconia_rostrata_l.asset|
+|assets/content/nature/treessource/bush_heliconia_rostrata/billboards/heliconia_rostrata_m.asset|
+|assets/content/nature/treessource/bush_heliconia_rostrata/billboards/heliconia_rostrata_s.asset|
+|assets/content/nature/treessource/bush_heliconia_rostrata/billboards/heliconia_rostrata_s_short.asset|
+|assets/content/nature/treessource/bush_heliconia_rostrata/billboards/heliconia_rostrata_xs.asset|
+|assets/content/nature/treessource/bush_monstera_deliciosa/billboards/monstera_deliciosa_l.asset|
+|assets/content/nature/treessource/bush_monstera_deliciosa/billboards/monstera_deliciosa_m.asset|
+|assets/content/nature/treessource/bush_monstera_deliciosa/billboards/monstera_deliciosa_s.asset|
+|assets/content/nature/treessource/bush_monstera_deliciosa/billboards/monstera_deliciosa_xl.asset|
 |assets/content/nature/treessource/bush_mormon_tea/billboards/mormon_tea_a_lod3.asset|
 |assets/content/nature/treessource/bush_mormon_tea/billboards/mormon_tea_b_lod3.asset|
 |assets/content/nature/treessource/bush_mormon_tea/billboards/mormon_tea_c_lod3.asset|
@@ -147,6 +157,18 @@
 |assets/content/nature/treessource/douglas_fir/models/billboards/douglas_fir_c_snow_lod3.asset|
 |assets/content/nature/treessource/douglas_fir/models/billboards/douglas_fir_d_lod3.asset|
 |assets/content/nature/treessource/douglas_fir/models/billboards/douglas_fir_d_snow_lod3.asset|
+|assets/content/nature/treessource/hura_crepitans/models/billboards/hura_crepitans_a_lod4.asset|
+|assets/content/nature/treessource/hura_crepitans/models/billboards/hura_crepitans_b_lod4.asset|
+|assets/content/nature/treessource/hura_crepitans/models/billboards/hura_crepitans_c_lod4.asset|
+|assets/content/nature/treessource/hura_crepitans/models/billboards/hura_crepitans_d_lod4.asset|
+|assets/content/nature/treessource/kapok_tree/billboards/kapok_a_lod4.asset|
+|assets/content/nature/treessource/kapok_tree/billboards/kapok_b_lod4.asset|
+|assets/content/nature/treessource/kapok_tree/billboards/kapok_c_lod4.asset|
+|assets/content/nature/treessource/mauritia_flexuosa/billboards/mauritia_flexuosa_l.asset|
+|assets/content/nature/treessource/mauritia_flexuosa/billboards/mauritia_flexuosa_m.asset|
+|assets/content/nature/treessource/mauritia_flexuosa/billboards/mauritia_flexuosa_s.asset|
+|assets/content/nature/treessource/mauritia_flexuosa/billboards/mauritia_flexuosa_sapling.asset|
+|assets/content/nature/treessource/mauritia_flexuosa/billboards/mauritia_flexuosa_xs.asset|
 |assets/content/nature/treessource/oak/models/billboards/oak_a_lod3.asset|
 |assets/content/nature/treessource/oak/models/billboards/oak_a_tundra_lod3.asset|
 |assets/content/nature/treessource/oak/models/billboards/oak_b_lod3.asset|
@@ -200,6 +222,30 @@
 |assets/content/nature/treessource/pine/models/billboards/pine_sapling_d_snow_lod3.asset|
 |assets/content/nature/treessource/pine/models/billboards/pine_sapling_e_lod3.asset|
 |assets/content/nature/treessource/pine/models/billboards/pine_sapling_e_snow_lod3.asset|
+|assets/content/nature/treessource/schizolobium/billboards/schizolobium_a_lod4.asset|
+|assets/content/nature/treessource/schizolobium/billboards/schizolobium_b_lod4.asset|
+|assets/content/nature/treessource/strangler_fig/billboards/strangler_fig_canopy_360_l.asset|
+|assets/content/nature/treessource/strangler_fig/billboards/strangler_fig_canopy_l.asset|
+|assets/content/nature/treessource/strangler_fig/billboards/strangler_fig_canopy_m.asset|
+|assets/content/nature/treessource/strangler_fig/billboards/strangler_fig_canopy_s.asset|
+|assets/content/nature/treessource/strangler_fig/billboards/strangler_fig_overhang_m.asset|
+|assets/content/nature/treessource/strangler_fig/billboards/strangler_fig_overhang_s.asset|
+|assets/content/nature/treessource/strangler_fig/billboards/strangler_fig_roots_m.asset|
+|assets/content/nature/treessource/strangler_fig/billboards/strangler_fig_roots_s.asset|
+|assets/content/nature/treessource/strangler_fig/billboards/strangler_fig_roots_xs.asset|
+|assets/content/nature/treessource/strangler_fig/billboards/strangler_fig_trunk_freestanding_l.asset|
+|assets/content/nature/treessource/strangler_fig/billboards/strangler_fig_trunk_l.asset|
+|assets/content/nature/treessource/strangler_fig/billboards/strangler_fig_trunk_l_l.asset|
+|assets/content/nature/treessource/strangler_fig/billboards/strangler_fig_trunk_l_r.asset|
+|assets/content/nature/treessource/strangler_fig/billboards/strangler_fig_trunk_m.asset|
+|assets/content/nature/treessource/strangler_fig/billboards/strangler_fig_trunk_over_wall_m.asset|
+|assets/content/nature/treessource/strangler_fig/billboards/strangler_fig_trunk_over_wall_s.asset|
+|assets/content/nature/treessource/strangler_fig/billboards/strangler_fig_trunk_overhang.asset|
+|assets/content/nature/treessource/strangler_fig/billboards/strangler_fig_trunk_s.asset|
+|assets/content/nature/treessource/strangler_fig/billboards/strangler_fig_trunk_sshape_l.asset|
+|assets/content/nature/treessource/strangler_fig/billboards/strangler_fig_trunk_sshape_r.asset|
+|assets/content/nature/treessource/strangler_fig/billboards/strangler_fig_trunk_straight_m.asset|
+|assets/content/nature/treessource/strangler_fig/billboards/strangler_fig_trunk_straight_s.asset|
 |assets/content/nature/treessource/swamp_trees/models/billboards/swamp_hero_tree_a_lod5.asset|
 |assets/content/nature/treessource/swamp_trees/models/billboards/swamp_hero_tree_b_lod5.asset|
 |assets/content/nature/treessource/swamp_trees/models/billboards/swamp_tree_a_lod3.asset|
@@ -208,6 +254,15 @@
 |assets/content/nature/treessource/swamp_trees/models/billboards/swamp_tree_d_lod3.asset|
 |assets/content/nature/treessource/swamp_trees/models/billboards/swamp_tree_e_lod3.asset|
 |assets/content/nature/treessource/swamp_trees/models/billboards/swamp_tree_f_lod3.asset|
+|assets/content/nature/treessource/trumpet_tree/billboards/trumpet_tree_a_lod4.asset|
+|assets/content/nature/treessource/trumpet_tree/billboards/trumpet_tree_b_lod4.asset|
+|assets/content/nature/treessource/trumpet_tree/billboards/trumpet_tree_c_lod4.asset|
+|assets/content/nature/treessource/trumpet_tree/billboards/trumpet_tree_d_lod4.asset|
+|assets/content/nature/treessource/trumpet_tree/billboards/trumpet_tree_sapling_a_lod3.asset|
+|assets/content/nature/treessource/trumpet_tree/billboards/trumpet_tree_sapling_b_lod3.asset|
+|assets/content/nature/treessource/trumpet_tree/billboards/trumpet_tree_sapling_c_lod3.asset|
+|assets/content/nature/treessource/trumpet_tree/billboards/trumpet_tree_sapling_d_lod3.asset|
+|assets/content/nature/treessource/trumpet_tree/billboards/trumpet_tree_sapling_e_lod3.asset|
 |assets/content/nature/water/content/beaufort_0.asset|
 |assets/content/nature/water/content/beaufort_10.asset|
 |assets/content/nature/water/content/beaufort_5.asset|
@@ -343,6 +398,7 @@
 |assets/content/properties/buildinggrade/brutalist.asset|
 |assets/content/properties/buildinggrade/frontier.asset|
 |assets/content/properties/buildinggrade/gingerbread.asset|
+|assets/content/properties/buildinggrade/jungle.asset|
 |assets/content/properties/buildinggrade/metal.asset|
 |assets/content/properties/buildinggrade/shipping_container.asset|
 |assets/content/properties/buildinggrade/stone.asset|
@@ -412,6 +468,26 @@
 |assets/content/properties/foliage_procmap_v3/beach/beach_grass_a.asset|
 |assets/content/properties/foliage_procmap_v3/beach/beach_grass_b.asset|
 |assets/content/properties/foliage_procmap_v3/beach/beach_grass_c.asset|
+|assets/content/properties/foliage_procmap_v3/jungle_forest/jungle_forest_arrowroot_a.asset|
+|assets/content/properties/foliage_procmap_v3/jungle_forest/jungle_forest_arrowroot_b.asset|
+|assets/content/properties/foliage_procmap_v3/jungle_forest/jungle_forest_arrowroot_c.asset|
+|assets/content/properties/foliage_procmap_v3/jungle_forest/jungle_forest_arrowroot_d.asset|
+|assets/content/properties/foliage_procmap_v3/jungle_forest/jungle_forest_calathea_a.asset|
+|assets/content/properties/foliage_procmap_v3/jungle_forest/jungle_forest_calathea_b.asset|
+|assets/content/properties/foliage_procmap_v3/jungle_forest/jungle_forest_calathea_c.asset|
+|assets/content/properties/foliage_procmap_v3/jungle_forest/jungle_forest_calathea_d.asset|
+|assets/content/properties/foliage_procmap_v3/jungle_forest/jungle_forest_mimosa_a.asset|
+|assets/content/properties/foliage_procmap_v3/jungle_forest/jungle_forest_mimosa_b.asset|
+|assets/content/properties/foliage_procmap_v3/jungle_forest/jungle_forest_mimosa_c.asset|
+|assets/content/properties/foliage_procmap_v3/jungle_forest/jungle_forest_mimosa_d.asset|
+|assets/content/properties/foliage_procmap_v3/jungle_forest/jungle_forest_nephrolepis_a.asset|
+|assets/content/properties/foliage_procmap_v3/jungle_forest/jungle_forest_nephrolepis_b.asset|
+|assets/content/properties/foliage_procmap_v3/jungle_forest/jungle_forest_nephrolepis_c.asset|
+|assets/content/properties/foliage_procmap_v3/jungle_forest/jungle_forest_nephrolepis_d.asset|
+|assets/content/properties/foliage_procmap_v3/jungle_forest/jungle_forest_peperomia_a.asset|
+|assets/content/properties/foliage_procmap_v3/jungle_forest/jungle_forest_peperomia_b.asset|
+|assets/content/properties/foliage_procmap_v3/jungle_forest/jungle_forest_peperomia_c.asset|
+|assets/content/properties/foliage_procmap_v3/jungle_forest/jungle_forest_peperomia_d.asset|
 |assets/content/properties/foliage_procmap_v3/stones/gravel-rocks-1-v3.asset|
 |assets/content/properties/foliage_procmap_v3/stones/gravel-rocks-2-v3.asset|
 |assets/content/properties/foliage_procmap_v3/stones/gravel-rocks-3-v3.asset|
@@ -637,6 +713,8 @@
 |assets/content/properties/lootspawn/barreljunk/metal.asset|
 |assets/content/properties/lootspawn/barreljunk/wood.asset|
 |assets/content/properties/lootspawn/basicweapons/basicweapons.asset|
+|assets/content/properties/lootspawn/blowpipespecialammo.asset|
+|assets/content/properties/lootspawn/blowpipewithammo.asset|
 |assets/content/properties/lootspawn/collection.ammo.asset|
 |assets/content/properties/lootspawn/collection.attire.asset|
 |assets/content/properties/lootspawn/collection.firearms.asset|
@@ -1044,7 +1122,6 @@
 |assets/content/properties/lootspawn/generated/items/component/vehicle.2mod.passengers.asset|
 |assets/content/properties/lootspawn/generated/items/component/vehicle.module.asset|
 |assets/content/properties/lootspawn/generated/items/component/weapon.mod.burstmodule.asset|
-|assets/content/properties/lootspawn/generated/items/component/weapon.mod.gascompressionovedrive.asset|
 |assets/content/properties/lootspawn/generated/items/construction/barricade.concrete.asset|
 |assets/content/properties/lootspawn/generated/items/construction/barricade.medieval.asset|
 |assets/content/properties/lootspawn/generated/items/construction/barricade.metal.asset|
@@ -1220,6 +1297,8 @@
 |assets/content/properties/lootspawn/generated/items/food/seed.hemp.asset|
 |assets/content/properties/lootspawn/generated/items/food/seed.pumpkin.asset|
 |assets/content/properties/lootspawn/generated/items/food/smallwaterbottle.asset|
+|assets/content/properties/lootspawn/generated/items/food/snakemeat.asset|
+|assets/content/properties/lootspawn/generated/items/food/snakemeat.cooked.asset|
 |assets/content/properties/lootspawn/generated/items/food/stronghealingtea.asset|
 |assets/content/properties/lootspawn/generated/items/food/sunflower.asset|
 |assets/content/properties/lootspawn/generated/items/food/waterjug.asset|
@@ -1407,6 +1486,7 @@
 |assets/content/properties/lootspawn/generated/items/items/twitchrivals2023desk.asset|
 |assets/content/properties/lootspawn/generated/items/items/twowaymirror.window.asset|
 |assets/content/properties/lootspawn/generated/items/items/vending.machine.asset|
+|assets/content/properties/lootspawn/generated/items/items/venom.snake.asset|
 |assets/content/properties/lootspawn/generated/items/items/walkietalkie.asset|
 |assets/content/properties/lootspawn/generated/items/items/water.barrel.asset|
 |assets/content/properties/lootspawn/generated/items/items/water.purifier.asset|
@@ -1545,8 +1625,10 @@
 |assets/content/properties/lootspawn/generated/items/weapon/ballista.static.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/batteringram.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/batteringram.head.repair.asset|
+|assets/content/properties/lootspawn/generated/items/weapon/blowpipe.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/blunderbuss.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/bone.club.asset|
+|assets/content/properties/lootspawn/generated/items/weapon/boomerang.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/bow.compound.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/bow.hunting.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/catapult.asset|
@@ -1572,6 +1654,7 @@
 |assets/content/properties/lootspawn/generated/items/weapon/minicrossbow.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/minigun.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/multiplegrenadelauncher.asset|
+|assets/content/properties/lootspawn/generated/items/weapon/obsidian.knife.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/paddle.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/pistol.eoka.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/pistol.m92.asset|
@@ -1672,6 +1755,7 @@
 |assets/content/properties/lootspawn/lootspawn.barrelgarbage.asset|
 |assets/content/properties/lootspawn/lootspawn.barreltutorial.asset|
 |assets/content/properties/lootspawn/lootspawn.blackbox.asset|
+|assets/content/properties/lootspawn/lootspawn.cratejungle.asset|
 |assets/content/properties/lootspawn/lootspawn.foodbox.asset|
 |assets/content/properties/lootspawn/lootspawn.foodcache.asset|
 |assets/content/properties/lootspawn/lootspawn.foodcache_food.asset|
@@ -1694,6 +1778,7 @@
 |assets/content/properties/lootspawn/nothing.asset|
 |assets/content/properties/lootspawn/pickles.asset|
 |assets/content/properties/lootspawn/radpills.asset|
+|assets/content/properties/lootspawn/radpills_large.asset|
 |assets/content/properties/lootspawn/rareparts/cctv_camera.asset|
 |assets/content/properties/lootspawn/rareparts/targeting_computer.asset|
 |assets/content/properties/lootspawn/rareparts/turretparts.asset|
@@ -1746,6 +1831,10 @@
 |assets/content/properties/playerinventory/hunter.asset|
 |assets/content/properties/playerinventory/industrial.asset|
 |assets/content/properties/playerinventory/instruments.asset|
+|assets/content/properties/playerinventory/loadout_t0.asset|
+|assets/content/properties/playerinventory/loadout_t1.asset|
+|assets/content/properties/playerinventory/loadout_t2.asset|
+|assets/content/properties/playerinventory/loadout_t3.asset|
 |assets/content/properties/playerinventory/lumberjack.asset|
 |assets/content/properties/playerinventory/melee weapons.asset|
 |assets/content/properties/playerinventory/miner.asset|
@@ -1852,6 +1941,7 @@
 |assets/content/properties/protection/clothing/wolf_headdress.asset|
 |assets/content/properties/protection/clothing/wood_armor.asset|
 |assets/content/properties/protection/clothing/wood_armor_helmet.asset|
+|assets/content/properties/protection/clothing/wood_gloves.asset|
 |assets/content/properties/protection/corpse_protection.asset|
 |assets/content/properties/protection/debrisbuildingblocker.asset|
 |assets/content/properties/protection/deployablecorpse.asset|
@@ -1871,15 +1961,19 @@
 |assets/content/properties/protection/helicopter_gib_protection.asset|
 |assets/content/properties/protection/helicopter_protection.asset|
 |assets/content/properties/protection/immortal.asset|
+|assets/content/properties/protection/immortallowdensity.asset|
 |assets/content/properties/protection/loot/genericlootcontainer.asset|
 |assets/content/properties/protection/no protection.asset|
+|assets/content/properties/protection/npcs/bear.protection.asset|
 |assets/content/properties/protection/npcs/boar_protection.asset|
 |assets/content/properties/protection/npcs/ch47_protection.asset|
 |assets/content/properties/protection/npcs/chicken_protection.asset|
+|assets/content/properties/protection/npcs/crocodile.protection.asset|
 |assets/content/properties/protection/npcs/heli_protection.asset|
 |assets/content/properties/protection/npcs/horse_base_protection.asset|
 |assets/content/properties/protection/npcs/rabbit_protection.asset|
 |assets/content/properties/protection/npcs/stag_protection.asset|
+|assets/content/properties/protection/npcs/tiger.protection.asset|
 |assets/content/properties/protection/npcs/wolf_protection.asset|
 |assets/content/properties/protection/ore_protection.asset|
 |assets/content/properties/protection/paddlingpool.asset|
@@ -1948,6 +2042,7 @@
 |assets/content/properties/recipes/mixingtable/woodtea/woodtea.basic.recipe.asset|
 |assets/content/properties/recipes/mixingtable/woodtea/woodtea.pure.recipe.asset|
 |assets/content/properties/recoil/ar.recoil.asset|
+|assets/content/properties/recoil/blowpiperecoil.asset|
 |assets/content/properties/recoil/boltaction.recoil.asset|
 |assets/content/properties/recoil/crossbowrecoil.asset|
 |assets/content/properties/recoil/doubleshotgunrecoil.asset|
@@ -2003,6 +2098,12 @@
 |assets/content/properties/spawnpopulation/hapisspecific/hapis_ores.asset|
 |assets/content/properties/spawnpopulation/hapisspecific/hapis_ores_sand.asset|
 |assets/content/properties/spawnpopulation/hapisspecific/hapis_ores_snow.asset|
+|assets/content/properties/spawnpopulation/jungle-collectable-resource-hemp.asset|
+|assets/content/properties/spawnpopulation/jungle-plant-berry-blue.asset|
+|assets/content/properties/spawnpopulation/jungle-plant-berry-green.asset|
+|assets/content/properties/spawnpopulation/jungle-plant-berry-red.asset|
+|assets/content/properties/spawnpopulation/jungle-plant-berry-white.asset|
+|assets/content/properties/spawnpopulation/jungle-plant-berry-yellow.asset|
 |assets/content/properties/spawnpopulation/junkpiles.asset|
 |assets/content/properties/spawnpopulation/junkpiles_water.asset|
 |assets/content/properties/spawnpopulation/logs_dry.asset|
@@ -2042,6 +2143,7 @@
 |assets/content/properties/spawnpopulation/procmap_v3_bushes_arid_dry_railside.asset|
 |assets/content/properties/spawnpopulation/procmap_v3_bushes_arid_grass.asset|
 |assets/content/properties/spawnpopulation/procmap_v3_bushes_arid_ocotillo.asset|
+|assets/content/properties/spawnpopulation/procmap_v3_bushes_jungle_forest.asset|
 |assets/content/properties/spawnpopulation/procmap_v3_bushes_temp_field.asset|
 |assets/content/properties/spawnpopulation/procmap_v3_bushes_temp_forest.asset|
 |assets/content/properties/spawnpopulation/procmap_v3_bushes_temp_forestside.asset|
@@ -2049,6 +2151,8 @@
 |assets/content/properties/spawnpopulation/procmap_v3_bushes_temp_waterside.asset|
 |assets/content/properties/spawnpopulation/procmap_v3_bushes_tundra_field.asset|
 |assets/content/properties/spawnpopulation/procmap_v3_bushes_tundra_railside.asset|
+|assets/content/properties/spawnpopulation/procmap_v3_jungle_forest.asset|
+|assets/content/properties/spawnpopulation/procmap_v3_jungle_forest_saplings.asset|
 |assets/content/properties/spawnpopulation/procmap_v3_temp_beachforest_small.asset|
 |assets/content/properties/spawnpopulation/procmap_v3_temp_field_large.asset|
 |assets/content/properties/spawnpopulation/procmap_v3_temp_field_small.asset|
@@ -2070,6 +2174,8 @@
 |assets/content/properties/spawnpopulation/v3_arid_forest.asset|
 |assets/content/properties/spawnpopulation/v3_arid_forestside.asset|
 |assets/content/properties/spawnpopulation/v3_ores.asset|
+|assets/content/properties/spawnpopulation/v3_ores_jungle.asset|
+|assets/content/properties/spawnpopulation/v3_ores_jungle_nocliff.asset|
 |assets/content/properties/spawnpopulation/v3_ores_nocliff.asset|
 |assets/content/properties/spawnpopulation/v3_ores_sand.asset|
 |assets/content/properties/spawnpopulation/v3_ores_sand_nocliff.asset|
@@ -2166,6 +2272,10 @@
 |assets/content/properties/steamcategories/limited-easter-2024.150.steam.asset|
 |assets/content/properties/steamcategories/limited-easter-2024.350.steam.asset|
 |assets/content/properties/steamcategories/limited-easter-2024.800.steam.asset|
+|assets/content/properties/steamcategories/limited-easter-2025.1000.steam.asset|
+|assets/content/properties/steamcategories/limited-easter-2025.150.steam.asset|
+|assets/content/properties/steamcategories/limited-easter-2025.350.steam.asset|
+|assets/content/properties/steamcategories/limited-easter-2025.800.steam.asset|
 |assets/content/properties/steamcategories/limited-halloween2015.steam.asset|
 |assets/content/properties/steamcategories/limited-halloween2017.steam.asset|
 |assets/content/properties/steamcategories/limited-halloween2018.steam.asset|
@@ -2378,6 +2488,58 @@
 |assets/content/sound/ambience/field/ambience-field-windy.asset|
 |assets/content/sound/ambience/flies/fly-swarm.asset|
 |assets/content/sound/ambience/flowers/ambience-flowers-base.ambience-list.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-base-loop-breeze.ambience-def.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-base-loop-breeze.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-base-loop-calm.ambience-def.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-base-loop-calm.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-base-loop-windy.ambience-def.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-base-loop-windy.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-birds-loop.ambience-def.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-birds-loop.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-insects-loop.ambience-def.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-insects-loop.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-sting-bird.ambience-def.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-sting-bird-a.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-sting-bird-b.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-sting-bird-c.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-sting-bird-d.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-sting-bird-e.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-sting-bird-f.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-sting-bird-g.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-sting-bird-h.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-sting-bird-i.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-sting-bird-j.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-sting-cockatoo-alarm.ambience-def.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-sting-cockatoo-alarm.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-sting-dart-frog.ambience-def.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-sting-dart-frog.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-sting-guttural-creature.ambience-def.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-sting-guttural-creature.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-sting-howler-monkey.ambience-def.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-sting-howler-monkey.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-sting-kookaburra-long.ambience-def.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-sting-kookaburra-long.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-sting-longing-creature.ambience-def.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-sting-longing-creature.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-sting-monkey-screaming.ambience-def.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-sting-monkey-screaming.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-sting-tiger.ambience-def.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-sting-tiger.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-sting-turaco.ambience-def.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-sting-turaco.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-sting-wind-gust.ambience-def.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-sting-wind-gust.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-tree-debris-fall-sting/jungle-tree-debris-fall-sting.ambience-def.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-tree-debris-fall-sting/jungle-tree-debris-fall-sting.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-tree-debris-fall-sting/jungle-tree-debris-fall-sting-dense.ambience-def.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-tree-loop.ambience-list.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-tree-loop-breeze.ambience-def.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-tree-loop-breeze.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-tree-loop-calm.ambience-def.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-tree-loop-calm.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-tree-loop-windy.ambience-def.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-tree-loop-windy.asset|
+|assets/content/sound/ambience/jungle/ambience-jungle-tree-stings.ambience-list.asset|
 |assets/content/sound/ambience/leaves/ambience-leaves-med-breeze.ambience-def.asset|
 |assets/content/sound/ambience/leaves/ambience-leaves-med-breeze.asset|
 |assets/content/sound/ambience/leaves/ambience-leaves-med-calm.ambience-def.asset|
@@ -2625,6 +2787,7 @@
 |assets/content/sound/footsteps/burlap/footstep-burlap-wood-jump-start.asset|
 |assets/content/sound/footsteps/burlap/footstep-burlap-wood-run.asset|
 |assets/content/sound/footsteps/burlap/footstep-burlap-wood-walk.asset|
+|assets/content/sound/footsteps/climb/footstep-climb-tree.asset|
 |assets/content/sound/footsteps/hide/footstep-hide-carpet-jump-land.asset|
 |assets/content/sound/footsteps/hide/footstep-hide-carpet-jump-start.asset|
 |assets/content/sound/footsteps/hide/footstep-hide-carpet-run.asset|
@@ -4303,6 +4466,10 @@
 |assets/content/structures/harbor/cranes/sound/harbor-crane-root-rotate-loop.asset|
 |assets/content/structures/harbor/cranes/sound/harbor-crane-root-rotate-start.asset|
 |assets/content/structures/harbor/cranes/sound/harbor-crane-root-rotate-stop.asset|
+|assets/content/structures/jungle_ziggurat/sound/ziggurat-door-close-end.asset|
+|assets/content/structures/jungle_ziggurat/sound/ziggurat-door-close-start.asset|
+|assets/content/structures/jungle_ziggurat/sound/ziggurat-door-open-end.asset|
+|assets/content/structures/jungle_ziggurat/sound/ziggurat-door-open-start.asset|
 |assets/content/structures/lifts/sound/lift-movement-loop.asset|
 |assets/content/structures/lifts/sound/lift-movement-start.asset|
 |assets/content/structures/lifts/sound/lift-movement-stop.asset|
@@ -4341,6 +4508,8 @@
 |assets/content/ui/gameui/emoji/coffeecan.emoji.asset|
 |assets/content/ui/gameui/emoji/cool.emoji.asset|
 |assets/content/ui/gameui/emoji/dance.emoji.asset|
+|assets/content/ui/gameui/emoji/dlc/jungledlc/jungle_bush.emoji.asset|
+|assets/content/ui/gameui/emoji/dlc/jungledlc/jungle_sick.emoji.asset|
 |assets/content/ui/gameui/emoji/exclamation.emoji.asset|
 |assets/content/ui/gameui/emoji/eyebrow.emoji.asset|
 |assets/content/ui/gameui/emoji/eyes.emoji.asset|
@@ -5312,6 +5481,10 @@
 |assets/prefabs/building/powerline.zipline/sound/zipline-mount.asset|
 |assets/prefabs/building/powerline.zipline/sound/zipline-movement-loop.asset|
 |assets/prefabs/building/powerline.zipline/sound/zipline-sparks-loop.asset|
+|assets/prefabs/building/swinging.vine/sound/vine-dismount.asset|
+|assets/prefabs/building/swinging.vine/sound/vine-mount-descend.asset|
+|assets/prefabs/building/swinging.vine/sound/vine-mount-swing.asset|
+|assets/prefabs/building/swinging.vine/sound/vine-swing-loop.asset|
 |assets/prefabs/building/wall.external.high.adobe/adobe.gate.pack.sitem.asset|
 |assets/prefabs/building/wall.external.high.adobe/wall.external.high.adobe.sitem.asset|
 |assets/prefabs/building/wall.external.high.frontier/wall.external.high.frontier.sitem.asset|
@@ -5340,12 +5513,17 @@
 |assets/prefabs/building/wall.window.shutter/sounds/shutter-wood-deploy.asset|
 |assets/prefabs/building/wall.window.shutter/sounds/shutter-wood-open-end.asset|
 |assets/prefabs/building/wall.window.shutter/sounds/shutter-wood-open-start.asset|
+|assets/prefabs/clothes/cocoknightarmor/gloves.cocoknightarmor/cocoknight.gloves.skin.asset|
+|assets/prefabs/clothes/cocoknightarmor/head.cocoknightarmor/cocoknight.head.skin.asset|
+|assets/prefabs/clothes/cocoknightarmor/legs.cocoknightarmor/cocoknight.pants.skin.asset|
+|assets/prefabs/clothes/cocoknightarmor/torso.cocoknightarmor/cocoknight.jacket.skin.asset|
 |assets/prefabs/clothes/diving.tank/sound/oxygen_tank_refill.asset|
 |assets/prefabs/clothes/diving.tank/sound/scuba_exhale.asset|
 |assets/prefabs/clothes/diving.tank/sound/scuba_inhale.asset|
 |assets/prefabs/clothes/frogboots/frogboots.sitem.asset|
 |assets/prefabs/clothes/gloves.leather/gloves.leather.skinnable.asset|
 |assets/prefabs/clothes/gloves.roadsign/gloves.roadsign.skinnable.asset|
+|assets/prefabs/clothes/gloves.woodarmor/gloves.woodarmor.skinnable.asset|
 |assets/prefabs/clothes/halloween.draculacape/cloth.draculacape.asset|
 |assets/prefabs/clothes/halloween.draculacape/draculacape.sitem.asset|
 |assets/prefabs/clothes/halloween.draculacape/player_skeleton.draculacape.asset|
@@ -5381,6 +5559,7 @@
 |assets/prefabs/clothes/hat.riot/hat.riot.skinnable.asset|
 |assets/prefabs/clothes/hat.wellipets/cloth.wellipetshat.asset|
 |assets/prefabs/clothes/hat.wellipets/hat.wellipets.sitem.asset|
+|assets/prefabs/clothes/hat.woodarmor/hat.woodarmor.skinnable.asset|
 |assets/prefabs/clothes/hoodie/black/hoodie.black.itemskin.asset|
 |assets/prefabs/clothes/hoodie/blue/hoodie.blue.itemskin.asset|
 |assets/prefabs/clothes/hoodie/green/hoodie.green.itemskin.asset|
@@ -5398,6 +5577,7 @@
 |assets/prefabs/clothes/jacket.vagabond/multicam/jacket.multicam.itemskin.asset|
 |assets/prefabs/clothes/jacket.vagabond/snowcamo/jacket.snowcamo.itemskin.asset|
 |assets/prefabs/clothes/jacket.vagabond/urbancamo/jacket.urbancamo.itemskin.asset|
+|assets/prefabs/clothes/jacket.woodarmor/jacket.woodarmor.skinnable.asset|
 |assets/prefabs/clothes/mask.balaclava/camo.desert/mask.balaclava.camo.desert.skin.asset|
 |assets/prefabs/clothes/mask.balaclava/camo.forest/mask.balaclava.camo.forest.skin.asset|
 |assets/prefabs/clothes/mask.balaclava/checkered.red/mask.balaclava.check.red.skin.asset|
@@ -5425,6 +5605,7 @@
 |assets/prefabs/clothes/pants.knightsarmour/pants.knightarmour.skin.asset|
 |assets/prefabs/clothes/pants.roadsign/pants.roadsign.skinnable.asset|
 |assets/prefabs/clothes/pants.shorts/pants.shorts.skinnable.asset|
+|assets/prefabs/clothes/pants.woodarmor/pants.woodarmor.skinnable.asset|
 |assets/prefabs/clothes/pants/forestcamo/pants.forestcamo.itemskin.asset|
 |assets/prefabs/clothes/pants/jeans/pants.jeans.itemskin.asset|
 |assets/prefabs/clothes/pants/pants.generic.skinnable.asset|
@@ -5551,6 +5732,7 @@
 |assets/prefabs/deployable/cookingworkbench/cookingworkbench.recipelist.asset|
 |assets/prefabs/deployable/cookingworkbench/recipes/applepie.asset|
 |assets/prefabs/deployable/cookingworkbench/recipes/bearpie.asset|
+|assets/prefabs/deployable/cookingworkbench/recipes/bigcatpie.asset|
 |assets/prefabs/deployable/cookingworkbench/recipes/bread.asset|
 |assets/prefabs/deployable/cookingworkbench/recipes/chickenpie.asset|
 |assets/prefabs/deployable/cookingworkbench/recipes/cookedbear.asset|
@@ -5561,6 +5743,7 @@
 |assets/prefabs/deployable/cookingworkbench/recipes/cookedhuman.asset|
 |assets/prefabs/deployable/cookingworkbench/recipes/cookedpork.asset|
 |assets/prefabs/deployable/cookingworkbench/recipes/cookedwolf.asset|
+|assets/prefabs/deployable/cookingworkbench/recipes/crocodilepie.asset|
 |assets/prefabs/deployable/cookingworkbench/recipes/fishpie.asset|
 |assets/prefabs/deployable/cookingworkbench/recipes/hunterspie.asset|
 |assets/prefabs/deployable/cookingworkbench/recipes/porkpie.asset|
@@ -5608,6 +5791,7 @@
 |assets/prefabs/deployable/fireworks/patternboomer.sitem.asset|
 |assets/prefabs/deployable/fireworks/smallfireworks.sitem.asset|
 |assets/prefabs/deployable/floor spikes/sound/floor-spikes-deploy.asset|
+|assets/prefabs/deployable/floor_half_shelves/halfheight_salvaged_bamboo_shelves.sitem.asset|
 |assets/prefabs/deployable/frankensteintable/sound/frankenstein-table-active-climber.ambience-def.asset|
 |assets/prefabs/deployable/frankensteintable/sound/frankenstein-table-active-climber.ambience-list.asset|
 |assets/prefabs/deployable/frankensteintable/sound/frankenstein-table-active-climber.asset|
@@ -5661,6 +5845,7 @@
 |assets/prefabs/deployable/lantern/sound/lantern-loop.asset|
 |assets/prefabs/deployable/lantern/sound/lantern-open.asset|
 |assets/prefabs/deployable/large wood storage/box.wooden.large.skinnable.asset|
+|assets/prefabs/deployable/large wood storage/skins/jungle_dlc_large_wood_box/jungle.dlc.sitem.asset|
 |assets/prefabs/deployable/large wood storage/skins/medieval_large_wood_box/box.wooden.large.medieval.box.wooden.large.skin.asset|
 |assets/prefabs/deployable/large wood storage/skins/medieval_large_wood_box/medieval.pack.sitem.asset|
 |assets/prefabs/deployable/large wood storage/sound/large-wood-box-close.asset|
@@ -5832,6 +6017,8 @@
 |assets/prefabs/deployable/search light/sound/search-light-turn-off.asset|
 |assets/prefabs/deployable/search light/sound/search-light-turn-on.asset|
 |assets/prefabs/deployable/secretlab chair/dlc.secretlabchair.asset|
+|assets/prefabs/deployable/shelves/shelves.skinnable.asset|
+|assets/prefabs/deployable/shelves/skins/salvaged_bamboo_shelves/salvaged_bamboo_shelves.skin.asset|
 |assets/prefabs/deployable/shelves/sound/shelves-deploy.asset|
 |assets/prefabs/deployable/signs/sign.hanging.banner.large.sitem.asset|
 |assets/prefabs/deployable/signs/sign.hanging.ornate.sitem.asset|
@@ -5948,6 +6135,7 @@
 |assets/prefabs/deployable/vendingmachine/sound/vending-machine-deploy.asset|
 |assets/prefabs/deployable/vendingmachine/sound/vending-machine-open.asset|
 |assets/prefabs/deployable/vendingmachine/vendingmachine.skinnable.asset|
+|assets/prefabs/deployable/wall_single_shallow_shelves/wall.single.shallow.shelves.sitem.asset|
 |assets/prefabs/deployable/water catcher/sound/water-catcher-close.asset|
 |assets/prefabs/deployable/water catcher/sound/water-catcher-deploy.asset|
 |assets/prefabs/deployable/water catcher/sound/water-catcher-large-close.asset|
@@ -6058,6 +6246,7 @@
 |assets/prefabs/misc/buildingskins/brick/brick.sitem.asset|
 |assets/prefabs/misc/buildingskins/brutalist/brutalist.sitem.asset|
 |assets/prefabs/misc/buildingskins/frontier/frontier.sitem.asset|
+|assets/prefabs/misc/buildingskins/jungle/jungle.sitem.asset|
 |assets/prefabs/misc/buildingskins/shippingcontainer/shippingcontainer.sitem.asset|
 |assets/prefabs/misc/burlap sack/sounds/burlap-sack-impact-hard.asset|
 |assets/prefabs/misc/burlap sack/sounds/burlap-sack-impact-med.asset|
@@ -6848,6 +7037,9 @@
 |assets/prefabs/player/gestures/gesture.victory.asset|
 |assets/prefabs/player/gestures/gesture.wave.asset|
 |assets/prefabs/player/gestures/gesturecollection.asset|
+|assets/prefabs/player/gestures/jungledlc/gesture.beatchest.asset|
+|assets/prefabs/player/gestures/sound/gesture-anim-beat-chest.asset|
+|assets/prefabs/player/gestures/sound/gesture-anim-beat-chest-thump.asset|
 |assets/prefabs/player/gestures/sound/gesture-anim-clap.asset|
 |assets/prefabs/player/gestures/sound/gesture-anim-clap-clap.asset|
 |assets/prefabs/player/gestures/sound/gesture-anim-friendly-end.asset|
@@ -7010,6 +7202,8 @@
 |assets/prefabs/tools/spraycan/sound/spraycan-spray-loop.asset|
 |assets/prefabs/tools/spraycan/sound/spraycan-spray-start.asset|
 |assets/prefabs/tools/spraycan/sound/spraycan-spray-stop.asset|
+|assets/prefabs/tools/spraycan/sprays/skins/jungledlc/spray.decal.jungledlc_skull.itemskin.asset|
+|assets/prefabs/tools/spraycan/sprays/skins/jungledlc/spray.decal.jungledlc_tiger.itemskin.asset|
 |assets/prefabs/tools/spraycan/sprays/spray.decal.beancan.itemskin.asset|
 |assets/prefabs/tools/spraycan/sprays/spray.decal.candlehat.itemskin.asset|
 |assets/prefabs/tools/spraycan/sprays/spray.decal.facepunch.itemskin.asset|
@@ -7068,6 +7262,9 @@
 |assets/prefabs/voiceaudio/telephone/sound/telephone-ring-loop-payphone.asset|
 |assets/prefabs/voiceaudio/telephone/sound/telephone-ring-mobile-loop.asset|
 |assets/prefabs/voiceaudio/telephone/sound/telephone-ring-remote.asset|
+|assets/prefabs/wallpaper/skins/jungledlc/wallpaper.jungledlc_jungle_animals.skin.asset|
+|assets/prefabs/wallpaper/skins/jungledlc/wallpaper.jungledlc_jungle_leaves.skin.asset|
+|assets/prefabs/wallpaper/skins/jungledlc/wallpaper.jungledlc_jungle_sigil.skin.asset|
 |assets/prefabs/wallpaper/skins/lny25/wallpaper.lny25_bamboo.skin.asset|
 |assets/prefabs/wallpaper/skins/lny25/wallpaper.lny25_cherry_blossoms.skin.asset|
 |assets/prefabs/wallpaper/skins/lny25/wallpaper.lny25_chinese_lanterns.skin.asset|
@@ -7119,6 +7316,7 @@
 |assets/prefabs/weapons/ak47u/diver/ak47u_diver.skin.asset|
 |assets/prefabs/weapons/ak47u/diver/clothmat_diverak_vm.asset|
 |assets/prefabs/weapons/ak47u/iceskin/ak47ice.skin.asset|
+|assets/prefabs/weapons/ak47u/jungle skin/ak47u_jungle.item.skin.asset|
 |assets/prefabs/weapons/ak47u/medieval skin/ak47u_med.item.skin.asset|
 |assets/prefabs/weapons/ak47u/sound/ak47-gunshot-body.asset|
 |assets/prefabs/weapons/ak47u/sound/ak47-gunshot-body-suppressed.asset|
@@ -7162,6 +7360,16 @@
 |assets/prefabs/weapons/bee grenade/sound/bee-grenade-explosion.asset|
 |assets/prefabs/weapons/bee grenade/sound/bee-grenade-shake.asset|
 |assets/prefabs/weapons/bee grenade/sound/bee-grenade-throw.asset|
+|assets/prefabs/weapons/blowpipe/crossbow.skinnable.asset|
+|assets/prefabs/weapons/blowpipe/sound/blowpipe-admire-01.asset|
+|assets/prefabs/weapons/blowpipe/sound/blowpipe-admire-02.asset|
+|assets/prefabs/weapons/blowpipe/sound/blowpipe-admire-03.asset|
+|assets/prefabs/weapons/blowpipe/sound/blowpipe-attack.asset|
+|assets/prefabs/weapons/blowpipe/sound/blowpipe-deploy.asset|
+|assets/prefabs/weapons/blowpipe/sound/blowpipe-dryfire.asset|
+|assets/prefabs/weapons/blowpipe/sound/blowpipe-reload-finish.asset|
+|assets/prefabs/weapons/blowpipe/sound/blowpipe-reload-insert-dart.asset|
+|assets/prefabs/weapons/blowpipe/sound/blowpipe-reload-start.asset|
 |assets/prefabs/weapons/blunderbuss/blunderbuss.skin.asset|
 |assets/prefabs/weapons/blunderbuss/sound/blunderbuss-admire-01.asset|
 |assets/prefabs/weapons/blunderbuss/sound/blunderbuss-admire-02.asset|
@@ -7200,12 +7408,26 @@
 |assets/prefabs/weapons/bone club/sound/bone-club-strike.asset|
 |assets/prefabs/weapons/bone club/sound/bone-club-tap.asset|
 |assets/prefabs/weapons/bone knife/knife_bone.skinnable.asset|
+|assets/prefabs/weapons/bone knife/skins/obsidian knife/bone.knife.obsidian.skin.asset|
 |assets/prefabs/weapons/bone knife/sound/bone-knife-attack.asset|
 |assets/prefabs/weapons/bone knife/sound/bone-knife-attack-3p.asset|
 |assets/prefabs/weapons/bone knife/sound/bone-knife-deploy.asset|
 |assets/prefabs/weapons/bone knife/sound/bone-knife-deploy-3p.asset|
 |assets/prefabs/weapons/bone knife/sound/bone-knife-strike.asset|
 |assets/prefabs/weapons/bone knife/sound/bone-knife-strike-soft.asset|
+|assets/prefabs/weapons/boomerang/sound/boomerang-admire-01.asset|
+|assets/prefabs/weapons/boomerang/sound/boomerang-admire-02.asset|
+|assets/prefabs/weapons/boomerang/sound/boomerang-admire-03.asset|
+|assets/prefabs/weapons/boomerang/sound/boomerang-aim.asset|
+|assets/prefabs/weapons/boomerang/sound/boomerang-aim-cancel.asset|
+|assets/prefabs/weapons/boomerang/sound/boomerang-attack.asset|
+|assets/prefabs/weapons/boomerang/sound/boomerang-attack-settle.asset|
+|assets/prefabs/weapons/boomerang/sound/boomerang-catch.asset|
+|assets/prefabs/weapons/boomerang/sound/boomerang-deploy.asset|
+|assets/prefabs/weapons/boomerang/sound/boomerang-flight-loop.asset|
+|assets/prefabs/weapons/boomerang/sound/boomerang-impact.asset|
+|assets/prefabs/weapons/boomerang/sound/boomerang-impact-soft.asset|
+|assets/prefabs/weapons/boomerang/sound/boomerang-throw.asset|
 |assets/prefabs/weapons/bow/bow.hunting.skinnable.asset|
 |assets/prefabs/weapons/bow/sound/bow-attack.asset|
 |assets/prefabs/weapons/bow/sound/bow-deploy.asset|
@@ -7683,6 +7905,7 @@
 |assets/prefabs/weapons/revolver/sound/revolver-prime-striker.asset|
 |assets/prefabs/weapons/revolver/sound/revolver-shut-cylinder.asset|
 |assets/prefabs/weapons/rock/rock.skinnable.asset|
+|assets/prefabs/weapons/rock/skins/rock_a_jungle/rock.a.jungle.skin.asset|
 |assets/prefabs/weapons/rock/sound/rock-deploy-3p.asset|
 |assets/prefabs/weapons/rocketlauncher/cny_dragonlauncher/rocket_launcher_dragon.skin.asset|
 |assets/prefabs/weapons/rocketlauncher/cny_dragonlauncher/sounds/dragon-rocket-launcher-attack.asset|
@@ -7940,7 +8163,6 @@
 |assets/rust.ai/agents/bear/footsteps/bear-footstep-snow.asset|
 |assets/rust.ai/agents/bear/footsteps/bear-footstep-water.asset|
 |assets/rust.ai/agents/bear/footsteps/bear-footstep-wood.asset|
-|assets/rust.ai/agents/bear/model/bear.protection.asset|
 |assets/rust.ai/agents/bear/polarbear.population.asset|
 |assets/rust.ai/agents/bear/polarbear.skeleton.asset|
 |assets/rust.ai/agents/bear/sound/attack.asset|
@@ -7988,6 +8210,41 @@
 |assets/rust.ai/agents/chicken/sound/flap-wings-idle.asset|
 |assets/rust.ai/agents/chicken/sound/flap-wings-running.asset|
 |assets/rust.ai/agents/chicken/sound/sleeping.asset|
+|assets/rust.ai/agents/crocodile/audio/hiss.asset|
+|assets/rust.ai/agents/crocodile/audio/swim.asset|
+|assets/rust.ai/agents/crocodile/audio/swimfast.asset|
+|assets/rust.ai/agents/crocodile/crocodile.population.asset|
+|assets/rust.ai/agents/crocodile/crocodile.skeleton.asset|
+|assets/rust.ai/agents/crocodile/materials/ssp_crocodile.asset|
+|assets/rust.ai/agents/crocodile/models/anims/crocodile_attack.asset|
+|assets/rust.ai/agents/crocodile/models/anims/crocodile_backpedal_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/crocodile/models/anims/crocodile_death_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/crocodile/models/anims/crocodile_intimidate_attack_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/crocodile/models/anims/crocodile_intimidate_snap_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/crocodile/models/anims/crocodile_intimidate_to_walk_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/crocodile/models/anims/crocodile_run_death_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/crocodile/models/anims/crocodile_sprint_attack_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/crocodile/models/anims/crocodile_swimsprint_attack_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/crocodile/models/anims/crocodile_turn_180_l_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/crocodile/models/anims/crocodile_turn_180_r_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/crocodile/models/anims/crocodile_turn_90_l_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/crocodile/models/anims/crocodile_turn_90_r_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/crocodile/sound/crocodile-anim-backpedal_rm-01.asset|
+|assets/rust.ai/agents/crocodile/sound/crocodile-anim-death_rm-01.asset|
+|assets/rust.ai/agents/crocodile/sound/crocodile-anim-intimidate_attack_rm.asset|
+|assets/rust.ai/agents/crocodile/sound/crocodile-anim-run_death_rm.asset|
+|assets/rust.ai/agents/crocodile/sound/crocodile-anim-standingstart.asset|
+|assets/rust.ai/agents/crocodile/sound/crocodile-anim-turn.asset|
+|assets/rust.ai/agents/crocodile/sound/crocodile-bodyfall.asset|
+|assets/rust.ai/agents/crocodile/sound/crocodile-footsteps/crocodile.footsteps.asset|
+|assets/rust.ai/agents/crocodile/sound/crocodile-footsteps/crocodile-footstep-generic.asset|
+|assets/rust.ai/agents/crocodile/sound/crocodile-jaw-snap.asset|
+|assets/rust.ai/agents/crocodile/sound/crocodile-swim.asset|
+|assets/rust.ai/agents/crocodile/sound/crocodile-swim-lunge.asset|
+|assets/rust.ai/agents/crocodile/sound/crocodile-vocal-alert.asset|
+|assets/rust.ai/agents/crocodile/sound/crocodile-vocal-attack.asset|
+|assets/rust.ai/agents/crocodile/sound/crocodile-vocal-intimidate-hiss.asset|
+|assets/rust.ai/agents/crocodile/sound/crocodile-vocal-pain.asset|
 |assets/rust.ai/agents/fish/fish.aidesign.asset|
 |assets/rust.ai/agents/fish/shark/shark.protection.asset|
 |assets/rust.ai/agents/fish/shark/sharkskeleton.asset|
@@ -8018,6 +8275,7 @@
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/scientist.nvg.roam.aidesign.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/scientist.nvgm.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/scientist.nvgm2.asset|
+|assets/rust.ai/agents/npcplayer/humannpc/scientist/scientist.outbreak.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/scientist.patrol.aidesign.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/scientist.peacekeeper.aidesign.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/scientist.roam.aidesign.asset|
@@ -8042,6 +8300,15 @@
 |assets/rust.ai/agents/npcplayer/pet/sound/frankenstein-monster-vocal-ordered.asset|
 |assets/rust.ai/agents/npcplayer/scarecrow.aidesign.asset|
 |assets/rust.ai/agents/npcplayer/scarecrow.dungeon.noroam.aidesign.asset|
+|assets/rust.ai/agents/panther/panther.population.asset|
+|assets/rust.ai/agents/snake/materials/ssp_snake.asset|
+|assets/rust.ai/agents/snake/skeleton.snake.asset|
+|assets/rust.ai/agents/snake/snake.population.asset|
+|assets/rust.ai/agents/snake/snake.skeleton.asset|
+|assets/rust.ai/agents/snake/sound/snake-attack.asset|
+|assets/rust.ai/agents/snake/sound/snake-death.asset|
+|assets/rust.ai/agents/snake/sound/snake-escape.asset|
+|assets/rust.ai/agents/snake/sound/snake-hiss.asset|
 |assets/rust.ai/agents/stag/footsteps/stag-footstep-concrete.asset|
 |assets/rust.ai/agents/stag/footsteps/stag-footstep-dirt.asset|
 |assets/rust.ai/agents/stag/footsteps/stag-footstep-grass.asset|
@@ -8060,6 +8327,65 @@
 |assets/rust.ai/agents/stag/stag.footsteps.asset|
 |assets/rust.ai/agents/stag/stag.population.asset|
 |assets/rust.ai/agents/stag/stag.skeleton.asset|
+|assets/rust.ai/agents/tiger/animation/tiger_atk_leap_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/tiger/animation/tiger_atk_ledge_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/tiger/animation/tiger_atk_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/tiger/animation/tiger_drag_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/tiger/animation/tiger_fire_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/tiger/animation/tiger_growl_rm_rootmotiondata.placeholder.asset|
+|assets/rust.ai/agents/tiger/animation/tiger_prowl_fire_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/tiger/animation/tiger_run_180_to_idle_l_rootmotiondata.asset|
+|assets/rust.ai/agents/tiger/animation/tiger_run_180_to_idle_r_rootmotiondata.asset|
+|assets/rust.ai/agents/tiger/animation/tiger_run_180_to_run_l_rootmotiondata.asset|
+|assets/rust.ai/agents/tiger/animation/tiger_run_180_to_run_r_rootmotiondata.asset|
+|assets/rust.ai/agents/tiger/animation/tiger_run_atk_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/tiger/animation/tiger_run_fire_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/tiger/animation/tiger_run_hit_l_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/tiger/animation/tiger_run_hit_r_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/tiger/animation/tiger_run_hit_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/tiger/animation/tiger_tree_climb_left_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/tiger/animation/tiger_tree_climb_right_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/tiger/animation/tiger_tree_climb_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/tiger/animation/tiger_tree_finish_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/tiger/animation/tiger_tree_jump_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/tiger/footsteps/tiger.footsteps.asset|
+|assets/rust.ai/agents/tiger/npcteam_bigcat.asset|
+|assets/rust.ai/agents/tiger/skeleton.tiger.asset|
+|assets/rust.ai/agents/tiger/sound/attack_impact.asset|
+|assets/rust.ai/agents/tiger/sound/growl.asset|
+|assets/rust.ai/agents/tiger/sound/tiger-anim-drag-long.asset|
+|assets/rust.ai/agents/tiger/sound/tiger-anim-drag-short.asset|
+|assets/rust.ai/agents/tiger/sound/tiger-anim-eating.asset|
+|assets/rust.ai/agents/tiger/sound/tiger-anim-growl.asset|
+|assets/rust.ai/agents/tiger/sound/tiger-anim-idle_look-01.asset|
+|assets/rust.ai/agents/tiger/sound/tiger-anim-idle_sit_lick-01.asset|
+|assets/rust.ai/agents/tiger/sound/tiger-anim-idle_sit_lick-02.asset|
+|assets/rust.ai/agents/tiger/sound/tiger-anim-idle_sit-01.asset|
+|assets/rust.ai/agents/tiger/sound/tiger-anim-idle_sit-02.asset|
+|assets/rust.ai/agents/tiger/sound/tiger-anim-idle_stretch-01.asset|
+|assets/rust.ai/agents/tiger/sound/tiger-anim-idle_stretch-02.asset|
+|assets/rust.ai/agents/tiger/sound/tiger-anim-run_hit-01.asset|
+|assets/rust.ai/agents/tiger/sound/tiger-anim-run_hit-02.asset|
+|assets/rust.ai/agents/tiger/sound/tiger-anim-sleep_end-01.asset|
+|assets/rust.ai/agents/tiger/sound/tiger-anim-sleep_start-01.asset|
+|assets/rust.ai/agents/tiger/sound/tiger-anim-tree_finish_rm-01.asset|
+|assets/rust.ai/agents/tiger/sound/tiger-anim-tree_jump_rm-01.asset|
+|assets/rust.ai/agents/tiger/sound/tiger-attack-roar.asset|
+|assets/rust.ai/agents/tiger/sound/tiger-breath-exhale.asset|
+|assets/rust.ai/agents/tiger/sound/tiger-breath-inhale.asset|
+|assets/rust.ai/agents/tiger/sound/tiger-fire-growl.asset|
+|assets/rust.ai/agents/tiger/sound/tiger-fire-hiss.asset|
+|assets/rust.ai/agents/tiger/sound/tiger-footsteps/tiger-footstep-generic.asset|
+|assets/rust.ai/agents/tiger/sound/tiger-footsteps/tiger-footstep-grass.asset|
+|assets/rust.ai/agents/tiger/sound/tiger-footsteps/tiger-footstep-metal.asset|
+|assets/rust.ai/agents/tiger/sound/tiger-footsteps/tiger-footstep-rock.asset|
+|assets/rust.ai/agents/tiger/sound/tiger-footsteps/tiger-footstep-sand.asset|
+|assets/rust.ai/agents/tiger/sound/tiger-footsteps/tiger-footstep-snow.asset|
+|assets/rust.ai/agents/tiger/sound/tiger-footsteps/tiger-footstep-tree.asset|
+|assets/rust.ai/agents/tiger/sound/tiger-footsteps/tiger-footstep-wood.asset|
+|assets/rust.ai/agents/tiger/sound/tiger-hit-pain.asset|
+|assets/rust.ai/agents/tiger/tiger.population.asset|
+|assets/rust.ai/agents/tiger/tiger.skeleton.asset|
 |assets/rust.ai/agents/wolf/animation/anim2024_update/wolf_atk_1_rm_rootmotiondata.asset|
 |assets/rust.ai/agents/wolf/animation/anim2024_update/wolf_attack_ledge_rm_rootmotiondata.asset|
 |assets/rust.ai/agents/wolf/animation/anim2024_update/wolf_growlruntowalkback_rm_rootmotiondata.asset|
@@ -8134,6 +8460,7 @@
 |assets/rust.ai/agents/wolf/wolf.population.asset|
 |assets/rust.ai/agents/wolf/wolf.skeleton.asset|
 |assets/rust.ai/agents/zombie/zombie.population.asset|
+|assets/scenes/prefabs/jungle ziggurat/jungle_ziggurat_a.asset|
 |assets/scenes/prefabs/trainyard/sound/coaling-tower-arm-movement-lower.asset|
 |assets/scenes/prefabs/trainyard/sound/coaling-tower-arm-movement-raise.asset|
 |assets/scenes/prefabs/trainyard/sound/coaling-tower-liquid-tank-fill-loop.asset|
