@@ -1095,6 +1095,7 @@
 |assets/prefabs/deployable/sculptures/icesculpture/effects/sculpture impact.prefab|
 |assets/prefabs/deployable/search light/effects/search-light-deploy.prefab|
 |assets/prefabs/deployable/shelves/effects/shelves-deploy.prefab|
+|assets/prefabs/deployable/shelves/skins/salvaged_bamboo_shelves/effects/bamboo-salvaged-shelves-deploy.prefab|
 |assets/prefabs/deployable/signs/effects/large-banner-deploy.prefab|
 |assets/prefabs/deployable/signs/effects/metal-sign-deploy.prefab|
 |assets/prefabs/deployable/signs/effects/picture-frame-deploy.prefab|
@@ -1448,6 +1449,7 @@
 |assets/prefabs/weapons/ak47u/effects/reload_boltaction.prefab|
 |assets/prefabs/weapons/ak47u/effects/reload_start.prefab|
 |assets/prefabs/weapons/ak47u/effects/w_drop_diver_magazine.prefab|
+|assets/prefabs/weapons/ak47u/effects/w_drop_jungle_magazine.prefab|
 |assets/prefabs/weapons/ak47u/effects/w_drop_magazine.prefab|
 |assets/prefabs/weapons/ak47u/effects/w_drop_med_magazine.prefab|
 |assets/prefabs/weapons/ak47u/effects/w_eject_rifle_shell.prefab|
@@ -1479,6 +1481,8 @@
 |assets/prefabs/weapons/bee grenade/effects/deploy.prefab|
 |assets/prefabs/weapons/bee grenade/effects/vm jar bees.prefab|
 |assets/prefabs/weapons/bee grenade/effects/wm jar bees.prefab|
+|assets/prefabs/weapons/blowpipe/effects/attack.prefab|
+|assets/prefabs/weapons/blowpipe/effects/dryfire.prefab|
 |assets/prefabs/weapons/blunderbuss/effects/attack.prefab|
 |assets/prefabs/weapons/blunderbuss/effects/blunderbuss_3p_shell_eject_1_blue.prefab|
 |assets/prefabs/weapons/blunderbuss/effects/blunderbuss_3p_shell_eject_1_green.prefab|
@@ -1512,6 +1516,17 @@
 |assets/prefabs/weapons/bone knife/effects/strike_screenshake.prefab|
 |assets/prefabs/weapons/bone knife/effects/strike-soft.prefab|
 |assets/prefabs/weapons/bone knife/effects/throw.prefab|
+|assets/prefabs/weapons/bone knife/skins/obsidian knife/effects/attack-1.prefab|
+|assets/prefabs/weapons/bone knife/skins/obsidian knife/effects/attack-2.prefab|
+|assets/prefabs/weapons/bone knife/skins/obsidian knife/effects/deploy.prefab|
+|assets/prefabs/weapons/bone knife/skins/obsidian knife/effects/hit.prefab|
+|assets/prefabs/weapons/bone knife/skins/obsidian knife/effects/holster.prefab|
+|assets/prefabs/weapons/bone knife/skins/obsidian knife/effects/strike.prefab|
+|assets/prefabs/weapons/bone knife/skins/obsidian knife/effects/strike_screenshake.prefab|
+|assets/prefabs/weapons/bone knife/skins/obsidian knife/effects/strike-soft.prefab|
+|assets/prefabs/weapons/bone knife/skins/obsidian knife/effects/throw.prefab|
+|assets/prefabs/weapons/boomerang/effects/boomerang-strike.prefab|
+|assets/prefabs/weapons/boomerang/effects/boomerang-strike-soft.prefab|
 |assets/prefabs/weapons/bow/effects/attack.prefab|
 |assets/prefabs/weapons/bow/effects/deploy.prefab|
 |assets/prefabs/weapons/bow/effects/draw_arrow.prefab|
@@ -1950,6 +1965,11 @@
 |assets/prefabs/weapons/rock/effects/strike.prefab|
 |assets/prefabs/weapons/rock/effects/strike_screenshake.prefab|
 |assets/prefabs/weapons/rock/effects/throw.prefab|
+|assets/prefabs/weapons/rock/skins/rock_a_jungle/effects/attack.prefab|
+|assets/prefabs/weapons/rock/skins/rock_a_jungle/effects/deploy.prefab|
+|assets/prefabs/weapons/rock/skins/rock_a_jungle/effects/strike.prefab|
+|assets/prefabs/weapons/rock/skins/rock_a_jungle/effects/strike_screenshake.prefab|
+|assets/prefabs/weapons/rock/skins/rock_a_jungle/effects/throw.prefab|
 |assets/prefabs/weapons/rocketlauncher/cny_dragonlauncher/effects/attack.prefab|
 |assets/prefabs/weapons/rocketlauncher/cny_dragonlauncher/effects/attack_cny.prefab|
 |assets/prefabs/weapons/rocketlauncher/cny_dragonlauncher/effects/deploy.prefab|
@@ -2208,4 +2228,7 @@
 |assets/prefabs/weapons/wooden spear/effects/throw.prefab|
 |assets/rust.ai/agents/fish/shark/effects/bloodcloud.prefab|
 |assets/rust.ai/agents/fish/shark/effects/sharkmovement.prefab|
+|assets/rust.ai/agents/snake/effects/snake_hide_effect.prefab|
+|assets/rust.ai/agents/snake/effects/snake_hit.prefab|
+|assets/rust.ai/agents/snake/effects/snake_reveal effect.prefab|
 |assets/scripts/entity/misc/f15/effects/pfx_flares_f15.prefab|
