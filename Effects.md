@@ -27,6 +27,7 @@
 |assets/bundled/prefabs/fx/building/stone_gib.prefab|
 |assets/bundled/prefabs/fx/building/thatch_gib.prefab|
 |assets/bundled/prefabs/fx/building/wood_gib.prefab|
+|assets/bundled/prefabs/fx/camera_flash.prefab|
 |assets/bundled/prefabs/fx/collect/collect fuel barrel.prefab|
 |assets/bundled/prefabs/fx/collect/collect mushroom.prefab|
 |assets/bundled/prefabs/fx/collect/collect plant.prefab|
@@ -706,6 +707,8 @@
 |assets/content/effects/muzzleflashes/other/eoka_attack.prefab|
 |assets/content/effects/muzzleflashes/other/eoka_flint_spark.prefab|
 |assets/content/effects/muzzleflashes/other/muzzle_flash_minigun.prefab|
+|assets/content/effects/muzzleflashes/other/muzzle_flash_silencer_oilfilter.prefab|
+|assets/content/effects/muzzleflashes/other/muzzle_flash_silencer_sodacan.prefab|
 |assets/content/effects/muzzleflashes/other/muzzle_flash_snowballgun.prefab|
 |assets/content/effects/muzzleflashes/other/projectilefx_snowballgun.prefab|
 |assets/content/effects/muzzleflashes/other/projectilefx_snowballgun_impact.prefab|
@@ -874,6 +877,7 @@
 |assets/content/vehicles/siegeweapons/batteringram/effects/battering-ram-door-open-end.prefab|
 |assets/content/vehicles/siegeweapons/batteringram/effects/battering-ram-door-open-start.prefab|
 |assets/content/vehicles/siegeweapons/catapult/effects/boulder_explosion.prefab|
+|assets/content/vehicles/siegeweapons/catapult/effects/boulder_explosion_bees.prefab|
 |assets/content/vehicles/siegeweapons/catapult/effects/boulder_explosion_mid.prefab|
 |assets/content/vehicles/siegeweapons/catapult/effects/boulder_explosion_small.prefab|
 |assets/content/vehicles/siegeweapons/catapult/effects/catapult fire.prefab|
@@ -1069,6 +1073,7 @@
 |assets/prefabs/deployable/playerioents/industrialconveyor/effects/event lights.prefab|
 |assets/prefabs/deployable/playerioents/industrialconveyor/effects/industrial-conveyor-deploy.prefab|
 |assets/prefabs/deployable/playerioents/industrialcrafter/effects/industrial-crafter-deploy.prefab|
+|assets/prefabs/deployable/playerioents/teslacoil/effects/pfx tesla coil enabled.prefab|
 |assets/prefabs/deployable/playerioents/waterpump/effects/waterpump-deploy.prefab|
 |assets/prefabs/deployable/ptz security camera/effects/ptz-camera-deploy.prefab|
 |assets/prefabs/deployable/quarry/effects/mining-quarry-deploy.prefab|
@@ -1431,10 +1436,14 @@
 |assets/prefabs/wallpaper/effects/place.prefab|
 |assets/prefabs/weapon mods/silencers/effects/silencedshot_default.prefab|
 |assets/prefabs/weapon mods/silencers/effects/silencer_attach.fx.prefab|
+|assets/prefabs/weapon mods/silencers/effects/silencer-crafted-attack-layer.prefab|
+|assets/prefabs/weapon mods/silencers/effects/silencer-crafted-break.prefab|
 |assets/prefabs/weapons/ak47u/effects/attack.prefab|
 |assets/prefabs/weapons/ak47u/effects/attack_muzzlebrake.prefab|
 |assets/prefabs/weapons/ak47u/effects/attack_shake.prefab|
 |assets/prefabs/weapons/ak47u/effects/attack_silenced.prefab|
+|assets/prefabs/weapons/ak47u/effects/attack_silenced_oilfilter.prefab|
+|assets/prefabs/weapons/ak47u/effects/attack_silenced_sodacan.prefab|
 |assets/prefabs/weapons/ak47u/effects/bolt_back.prefab|
 |assets/prefabs/weapons/ak47u/effects/bolt_forward.prefab|
 |assets/prefabs/weapons/ak47u/effects/deploy.prefab|
@@ -1492,6 +1501,8 @@
 |assets/prefabs/weapons/bolt rifle/effects/attack_muzzlebrake.prefab|
 |assets/prefabs/weapons/bolt rifle/effects/attack_shake.prefab|
 |assets/prefabs/weapons/bolt rifle/effects/attack_silenced.prefab|
+|assets/prefabs/weapons/bolt rifle/effects/attack_silenced_oilfilter.prefab|
+|assets/prefabs/weapons/bolt rifle/effects/attack_silenced_sodacan.prefab|
 |assets/prefabs/weapons/bolt rifle/effects/boltback.prefab|
 |assets/prefabs/weapons/bolt rifle/effects/boltforward.prefab|
 |assets/prefabs/weapons/bolt rifle/effects/deploy.prefab|
@@ -1640,6 +1651,8 @@
 |assets/prefabs/weapons/glockskin/effects/attack_shake.prefab|
 |assets/prefabs/weapons/glockskin/effects/attack_shake_ads.prefab|
 |assets/prefabs/weapons/glockskin/effects/attack_silenced.prefab|
+|assets/prefabs/weapons/glockskin/effects/attack_silenced_oilfilter.prefab|
+|assets/prefabs/weapons/glockskin/effects/attack_silenced_sodacan.prefab|
 |assets/prefabs/weapons/glockskin/effects/deploy.prefab|
 |assets/prefabs/weapons/glockskin/effects/dryfire.prefab|
 |assets/prefabs/weapons/glockskin/effects/eject_pistol_shell.prefab|
@@ -1733,6 +1746,8 @@
 |assets/prefabs/weapons/hmlmg/effects/attack_muzzlebrake.prefab|
 |assets/prefabs/weapons/hmlmg/effects/attack_shake.prefab|
 |assets/prefabs/weapons/hmlmg/effects/attack_silenced.prefab|
+|assets/prefabs/weapons/hmlmg/effects/attack_silenced_oilfilter.prefab|
+|assets/prefabs/weapons/hmlmg/effects/attack_silenced_sodacan.prefab|
 |assets/prefabs/weapons/hmlmg/effects/dryfire.prefab|
 |assets/prefabs/weapons/hmlmg/effects/w_drop_magazine.prefab|
 |assets/prefabs/weapons/hmlmg/effects/w_eject_pistol_shell.prefab|
@@ -1763,6 +1778,8 @@
 |assets/prefabs/weapons/l96/effects/attack_muzzlebrake.prefab|
 |assets/prefabs/weapons/l96/effects/attack_shake.prefab|
 |assets/prefabs/weapons/l96/effects/attack_silenced.prefab|
+|assets/prefabs/weapons/l96/effects/attack_silenced_oilfilter.prefab|
+|assets/prefabs/weapons/l96/effects/attack_silenced_sodacan.prefab|
 |assets/prefabs/weapons/l96/effects/dryfire.prefab|
 |assets/prefabs/weapons/l96/effects/eject_rifle_shell.prefab|
 |assets/prefabs/weapons/l96/effects/l96_bolt_action.prefab|
@@ -1779,6 +1796,8 @@
 |assets/prefabs/weapons/lr300/effects/attack_shake.prefab|
 |assets/prefabs/weapons/lr300/effects/attack_shake_ads.prefab|
 |assets/prefabs/weapons/lr300/effects/attack_silenced.prefab|
+|assets/prefabs/weapons/lr300/effects/attack_silenced_oilfilter.prefab|
+|assets/prefabs/weapons/lr300/effects/attack_silenced_sodacan.prefab|
 |assets/prefabs/weapons/lr300/effects/bolt_catch.prefab|
 |assets/prefabs/weapons/lr300/effects/buttstock_extend.prefab|
 |assets/prefabs/weapons/lr300/effects/buttstock_swingback.prefab|
@@ -1801,6 +1820,8 @@
 |assets/prefabs/weapons/m249/effects/attack_shake.prefab|
 |assets/prefabs/weapons/m249/effects/attack_shake_ads.prefab|
 |assets/prefabs/weapons/m249/effects/attack_silenced.prefab|
+|assets/prefabs/weapons/m249/effects/attack_silenced_oilfilter.prefab|
+|assets/prefabs/weapons/m249/effects/attack_silenced_sodacan.prefab|
 |assets/prefabs/weapons/m249/effects/bolt_back.prefab|
 |assets/prefabs/weapons/m249/effects/bolt_forward.prefab|
 |assets/prefabs/weapons/m249/effects/chainbelt.prefab|
@@ -1819,6 +1840,8 @@
 |assets/prefabs/weapons/m39 emr/effects/attack_shake.prefab|
 |assets/prefabs/weapons/m39 emr/effects/attack_shake_ads.prefab|
 |assets/prefabs/weapons/m39 emr/effects/attack_silenced.prefab|
+|assets/prefabs/weapons/m39 emr/effects/attack_silenced_oilfilter.prefab|
+|assets/prefabs/weapons/m39 emr/effects/attack_silenced_sodacan.prefab|
 |assets/prefabs/weapons/m39 emr/effects/bolt_action.prefab|
 |assets/prefabs/weapons/m39 emr/effects/clip_in.prefab|
 |assets/prefabs/weapons/m39 emr/effects/clip_out.prefab|
@@ -1833,6 +1856,8 @@
 |assets/prefabs/weapons/m4 shotgun/effects/attack.prefab|
 |assets/prefabs/weapons/m4 shotgun/effects/attack_muzzlebrake.prefab|
 |assets/prefabs/weapons/m4 shotgun/effects/attack_silenced.prefab|
+|assets/prefabs/weapons/m4 shotgun/effects/attack_silenced_oilfilter.prefab|
+|assets/prefabs/weapons/m4 shotgun/effects/attack_silenced_sodacan.prefab|
 |assets/prefabs/weapons/m4 shotgun/effects/dryfire.prefab|
 |assets/prefabs/weapons/m4 shotgun/effects/eject_shell.prefab|
 |assets/prefabs/weapons/m4 shotgun/effects/w_eject_shotgun_shell.prefab|
@@ -1841,6 +1866,8 @@
 |assets/prefabs/weapons/m92/effects/attack_shake.prefab|
 |assets/prefabs/weapons/m92/effects/attack_shake_ads.prefab|
 |assets/prefabs/weapons/m92/effects/attack_silenced.prefab|
+|assets/prefabs/weapons/m92/effects/attack_silenced_oilfilter.prefab|
+|assets/prefabs/weapons/m92/effects/attack_silenced_sodacan.prefab|
 |assets/prefabs/weapons/m92/effects/clipin.prefab|
 |assets/prefabs/weapons/m92/effects/clipout.prefab|
 |assets/prefabs/weapons/m92/effects/deploy.prefab|
@@ -1899,6 +1926,8 @@
 |assets/prefabs/weapons/mp5/effects/attack_shake.prefab|
 |assets/prefabs/weapons/mp5/effects/attack_shake_ads.prefab|
 |assets/prefabs/weapons/mp5/effects/attack_silenced.prefab|
+|assets/prefabs/weapons/mp5/effects/attack_silenced_oilfilter.prefab|
+|assets/prefabs/weapons/mp5/effects/attack_silenced_sodacan.prefab|
 |assets/prefabs/weapons/mp5/effects/bolt_back.prefab|
 |assets/prefabs/weapons/mp5/effects/bolt_shut.prefab|
 |assets/prefabs/weapons/mp5/effects/bolt_slap.prefab|
@@ -1952,6 +1981,8 @@
 |assets/prefabs/weapons/revolver/effects/attack_shake.prefab|
 |assets/prefabs/weapons/revolver/effects/attack_shake_ads.prefab|
 |assets/prefabs/weapons/revolver/effects/attack_silenced.prefab|
+|assets/prefabs/weapons/revolver/effects/attack_silenced_oilfilter.prefab|
+|assets/prefabs/weapons/revolver/effects/attack_silenced_sodacan.prefab|
 |assets/prefabs/weapons/revolver/effects/deploy.prefab|
 |assets/prefabs/weapons/revolver/effects/dryfire.prefab|
 |assets/prefabs/weapons/revolver/effects/eject_shells.prefab|
@@ -2046,6 +2077,8 @@
 |assets/prefabs/weapons/sawnoff_shotgun/effects/attack_pumpaction.prefab|
 |assets/prefabs/weapons/sawnoff_shotgun/effects/attack_shake.prefab|
 |assets/prefabs/weapons/sawnoff_shotgun/effects/attack_silenced.prefab|
+|assets/prefabs/weapons/sawnoff_shotgun/effects/attack_silenced_oilfilter.prefab|
+|assets/prefabs/weapons/sawnoff_shotgun/effects/attack_silenced_sodacan.prefab|
 |assets/prefabs/weapons/sawnoff_shotgun/effects/deploy.prefab|
 |assets/prefabs/weapons/sawnoff_shotgun/effects/deploy2.prefab|
 |assets/prefabs/weapons/sawnoff_shotgun/effects/dryfire.prefab|
@@ -2060,6 +2093,8 @@
 |assets/prefabs/weapons/semi auto pistol/effects/attack_shake.prefab|
 |assets/prefabs/weapons/semi auto pistol/effects/attack_shake_ads.prefab|
 |assets/prefabs/weapons/semi auto pistol/effects/attack_silenced.prefab|
+|assets/prefabs/weapons/semi auto pistol/effects/attack_silenced_oilfilter.prefab|
+|assets/prefabs/weapons/semi auto pistol/effects/attack_silenced_sodacan.prefab|
 |assets/prefabs/weapons/semi auto pistol/effects/deploy.prefab|
 |assets/prefabs/weapons/semi auto pistol/effects/dryfire.prefab|
 |assets/prefabs/weapons/semi auto pistol/effects/eject_clip.prefab|
@@ -2075,6 +2110,8 @@
 |assets/prefabs/weapons/semi auto rifle/effects/attack_shake.prefab|
 |assets/prefabs/weapons/semi auto rifle/effects/attack_shake_ads.prefab|
 |assets/prefabs/weapons/semi auto rifle/effects/attack_silenced.prefab|
+|assets/prefabs/weapons/semi auto rifle/effects/attack_silenced_oilfilter.prefab|
+|assets/prefabs/weapons/semi auto rifle/effects/attack_silenced_sodacan.prefab|
 |assets/prefabs/weapons/semi auto rifle/effects/bolt_back.prefab|
 |assets/prefabs/weapons/semi auto rifle/effects/bolt_forward.prefab|
 |assets/prefabs/weapons/semi auto rifle/effects/clip_in.prefab|
@@ -2091,6 +2128,8 @@
 |assets/prefabs/weapons/sks/effects/attack_shake.prefab|
 |assets/prefabs/weapons/sks/effects/attack_shake_ads.prefab|
 |assets/prefabs/weapons/sks/effects/attack_silenced.prefab|
+|assets/prefabs/weapons/sks/effects/attack_silenced_oilfilter.prefab|
+|assets/prefabs/weapons/sks/effects/attack_silenced_sodacan.prefab|
 |assets/prefabs/weapons/sks/effects/bolt_back.prefab|
 |assets/prefabs/weapons/sks/effects/bolt_forward.prefab|
 |assets/prefabs/weapons/sks/effects/clip_in.prefab|
@@ -2106,6 +2145,8 @@
 |assets/prefabs/weapons/smg/effects/attack_shake.prefab|
 |assets/prefabs/weapons/smg/effects/attack_shake_ads.prefab|
 |assets/prefabs/weapons/smg/effects/attack_silenced.prefab|
+|assets/prefabs/weapons/smg/effects/attack_silenced_oilfilter.prefab|
+|assets/prefabs/weapons/smg/effects/attack_silenced_sodacan.prefab|
 |assets/prefabs/weapons/smg/effects/bolt_back.prefab|
 |assets/prefabs/weapons/smg/effects/bolt_shut.prefab|
 |assets/prefabs/weapons/smg/effects/clip_in.prefab|
@@ -2120,6 +2161,8 @@
 |assets/prefabs/weapons/spas12/effects/attack_muzzlebrake.prefab|
 |assets/prefabs/weapons/spas12/effects/attack_shake.prefab|
 |assets/prefabs/weapons/spas12/effects/attack_silenced.prefab|
+|assets/prefabs/weapons/spas12/effects/attack_silenced_oilfilter.prefab|
+|assets/prefabs/weapons/spas12/effects/attack_silenced_sodacan.prefab|
 |assets/prefabs/weapons/spas12/effects/deploy.prefab|
 |assets/prefabs/weapons/spas12/effects/dryfire.prefab|
 |assets/prefabs/weapons/spas12/effects/eject_shell.prefab|
@@ -2175,6 +2218,8 @@
 |assets/prefabs/weapons/t1 smg/effects/attack.prefab|
 |assets/prefabs/weapons/t1 smg/effects/attack_muzzlebrake.prefab|
 |assets/prefabs/weapons/t1 smg/effects/attack_silenced.prefab|
+|assets/prefabs/weapons/t1 smg/effects/attack_silenced_oilfilter.prefab|
+|assets/prefabs/weapons/t1 smg/effects/attack_silenced_sodacan.prefab|
 |assets/prefabs/weapons/t1 smg/effects/eject_shell.prefab|
 |assets/prefabs/weapons/t1 smg/effects/w_drop_magazine.prefab|
 |assets/prefabs/weapons/thompson/effects/attack.prefab|
@@ -2182,6 +2227,8 @@
 |assets/prefabs/weapons/thompson/effects/attack_shake.prefab|
 |assets/prefabs/weapons/thompson/effects/attack_shake_ads.prefab|
 |assets/prefabs/weapons/thompson/effects/attack_silenced.prefab|
+|assets/prefabs/weapons/thompson/effects/attack_silenced_oilfilter.prefab|
+|assets/prefabs/weapons/thompson/effects/attack_silenced_sodacan.prefab|
 |assets/prefabs/weapons/thompson/effects/bolt_action.prefab|
 |assets/prefabs/weapons/thompson/effects/deploy.prefab|
 |assets/prefabs/weapons/thompson/effects/dryfire.prefab|
@@ -2227,6 +2274,7 @@
 |assets/prefabs/weapons/wooden spear/effects/strike_wood-soft.prefab|
 |assets/prefabs/weapons/wooden spear/effects/throw.prefab|
 |assets/rust.ai/agents/fish/shark/effects/bloodcloud.prefab|
+|assets/rust.ai/agents/fish/shark/effects/bloodcloud.soundonly.prefab|
 |assets/rust.ai/agents/fish/shark/effects/sharkmovement.prefab|
 |assets/rust.ai/agents/snake/effects/snake_hide_effect.prefab|
 |assets/rust.ai/agents/snake/effects/snake_hit.prefab|
