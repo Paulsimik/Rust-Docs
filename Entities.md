@@ -590,7 +590,7 @@
 |Excavator_Output_Pile|673116596|BoxCollider<br>ExcavatorOutputPile<br>BaseCombatEntity<br>DecayEntity<br>ColliderInfo<br>|assets/content/structures/excavator/prefabs/excavator_output_pile.prefab|
 |Excavator_Yaw|1700590233|ExcavatorArm<br>EntityFlag_Toggle<br>EntityFlag_Toggle<br>|assets/content/structures/excavator/prefabs/excavator_yaw.prefab|
 |ExcavatorSignalComputer|3268004142|ExcavatorSignalComputer<br>MeshCollider<br>|assets/content/structures/excavator/prefabs/excavatorsignalcomputer.prefab|
-|harbor_container_block|623539697|HarborProximityEntity<br>|assets/content/structures/harbor/cranes/harbor_container_block.prefab|
+|harbor_container_block|623539697|HarborProximityEntity<br>EntityFlag_Toggle<br>|assets/content/structures/harbor/cranes/harbor_container_block.prefab|
 |harbor_crane_dynamic_pickup|160486304|HarborCraneContainerPickup<br>HarborProximityEntity<br>Rigidbody<br>|assets/content/structures/harbor/cranes/harbor_crane_dynamic_pickup.prefab|
 |harbor_crane_dynamic_rotate|3355778296|HarborCraneStatic<br>HarborProximityEntity<br>EntityFlag_Toggle<br>|assets/content/structures/harbor/cranes/harbor_crane_dynamic_rotate.prefab|
 |harbor_swing_bridge|4289804847|HarborProximityEntity<br>|assets/content/structures/harbor/cranes/harbor_swing_bridge.prefab|
