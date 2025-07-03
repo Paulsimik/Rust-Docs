@@ -5451,6 +5451,7 @@
 |assets/plugins/rust.ui/controls/rustbutton.lootall.asset|
 |assets/plugins/rust.ui/controls/rustbutton.mapmarkerlistdelete.asset|
 |assets/plugins/rust.ui/controls/rustbutton.menu.asset|
+|assets/plugins/rust.ui/controls/rustbutton.menu-dark.asset|
 |assets/plugins/rust.ui/controls/rustbutton.menu-notice-banreport.asset|
 |assets/plugins/rust.ui/controls/rustbutton.menu-optionstoggle.asset|
 |assets/plugins/rust.ui/controls/rustbutton.menu-right.asset|
@@ -5511,7 +5512,7 @@
 |assets/prefabs/building/floor.grill/sound/floor-grill-deploy.asset|
 |assets/prefabs/building/floor.ladder.hatch/sound/ladder-hatch-deploy.asset|
 |assets/prefabs/building/gates.external.high.adobe/gates.external.high.adobe.sitem.asset|
-|assets/prefabs/building/gates.external.high.frontier/gates.external.high.frontier.sitem.asset|
+|assets/prefabs/building/gates.external.high.legacy/gates.external.high.frontier.sitem.asset|
 |assets/prefabs/building/gates.external.high/gates.external.high.stone/gates.external.high.stone.skinnable.asset|
 |assets/prefabs/building/gates.external.high/gates.external.high.wood/gates.external.high.wood.skinnable.asset|
 |assets/prefabs/building/ladder.wall.wood/sound/wood-ladder-deploy.asset|
@@ -5527,7 +5528,8 @@
 |assets/prefabs/building/swinging.vine/sound/vine-swing-loop.asset|
 |assets/prefabs/building/wall.external.high.adobe/adobe.gate.pack.sitem.asset|
 |assets/prefabs/building/wall.external.high.adobe/wall.external.high.adobe.sitem.asset|
-|assets/prefabs/building/wall.external.high.frontier/wall.external.high.frontier.sitem.asset|
+|assets/prefabs/building/wall.external.high.legacy/legacy.gate.pack.sitem.asset|
+|assets/prefabs/building/wall.external.high.legacy/wall.external.high.frontier.sitem.asset|
 |assets/prefabs/building/wall.external.high.stone/sound/wall-external-stone-deploy.asset|
 |assets/prefabs/building/wall.external.high.stone/wall.external.high.stone.skinnable.asset|
 |assets/prefabs/building/wall.external.high.wood/sound/wall-external-wood-deploy.asset|
@@ -5885,6 +5887,11 @@
 |assets/prefabs/deployable/lantern/sound/lantern-loop.asset|
 |assets/prefabs/deployable/lantern/sound/lantern-open.asset|
 |assets/prefabs/deployable/large wood storage/box.wooden.large.skinnable.asset|
+|assets/prefabs/deployable/large wood storage/skins/abyss_dlc_large_wood_box/abyss_dlc_storage_horizontal/abyss.horizontal.barrel.skin.asset|
+|assets/prefabs/deployable/large wood storage/skins/abyss_dlc_large_wood_box/abyss_dlc_storage_vertical/abyss.vertical.barrel.skin.asset|
+|assets/prefabs/deployable/large wood storage/skins/abyss_dlc_large_wood_box/sound/abyss-storage-close.asset|
+|assets/prefabs/deployable/large wood storage/skins/abyss_dlc_large_wood_box/sound/abyss-storage-deploy.asset|
+|assets/prefabs/deployable/large wood storage/skins/abyss_dlc_large_wood_box/sound/abyss-storage-open.asset|
 |assets/prefabs/deployable/large wood storage/skins/jungle_dlc_large_wood_box/jungle.dlc.sitem.asset|
 |assets/prefabs/deployable/large wood storage/skins/medieval_large_wood_box/box.wooden.large.medieval.box.wooden.large.skin.asset|
 |assets/prefabs/deployable/large wood storage/skins/medieval_large_wood_box/medieval.pack.sitem.asset|
@@ -6714,7 +6721,9 @@
 |assets/prefabs/misc/xmas/windowgarland/windowgardland.sitem.asset|
 |assets/prefabs/misc/xmas/wreath/wreath.sitem.asset|
 |assets/prefabs/misc/xmas/xmas2020.asset|
+|assets/prefabs/missions/activatesensor.asset|
 |assets/prefabs/missions/basictreasuremission.asset|
+|assets/prefabs/missions/batteryhunt.asset|
 |assets/prefabs/missions/boarhunt_1.asset|
 |assets/prefabs/missions/boarhunt_basic.asset|
 |assets/prefabs/missions/deerhunt_basic.asset|
@@ -6767,6 +6776,8 @@
 |assets/prefabs/missions/positiongenerator/rivergen.asset|
 |assets/prefabs/missions/positiongenerator/testgen.asset|
 |assets/prefabs/missions/resources/missionmanifest.asset|
+|assets/prefabs/missions/returntoprovider_noitems.asset|
+|assets/prefabs/missions/safezonespawnunlock.asset|
 |assets/prefabs/missions/sound/mission-accepted.asset|
 |assets/prefabs/missions/sound/mission-failed.asset|
 |assets/prefabs/missions/sound/mission-objective-complete.asset|
@@ -6915,6 +6926,7 @@
 |assets/prefabs/npc/bandit/divemasterconversation.asset|
 |assets/prefabs/npc/bandit/dungeonmissiontestconversation.asset|
 |assets/prefabs/npc/bandit/fishermanconversation.asset|
+|assets/prefabs/npc/bandit/genericmissionproviderconversation.asset|
 |assets/prefabs/npc/bandit/hunterconversation.asset|
 |assets/prefabs/npc/bandit/hunterconversationfull.asset|
 |assets/prefabs/npc/bandit/lumberjackconversation.asset|
