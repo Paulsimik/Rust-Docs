@@ -1049,6 +1049,7 @@
 |assets/prefabs/deployable/hopper/effects/other flesh ingestion.prefab|
 |assets/prefabs/deployable/lantern/effects/lantern-deploy.prefab|
 |assets/prefabs/deployable/large wood storage/effects/large-wood-box-deploy.prefab|
+|assets/prefabs/deployable/large wood storage/skins/abyss_dlc_large_wood_box/effects/abyss-storage-deploy.prefab|
 |assets/prefabs/deployable/legacyfurnace/effects/small_furnace_particles.prefab|
 |assets/prefabs/deployable/liquidbarrel/effects/liquid-barrel-deploy.prefab|
 |assets/prefabs/deployable/liquidbarrel/effects/splashloop.prefab|
@@ -2242,6 +2243,7 @@
 |assets/prefabs/weapons/thompson/effects/w_drop_magazine.prefab|
 |assets/prefabs/weapons/thompson/effects/w_eject_pistol_shell.prefab|
 |assets/prefabs/weapons/toolgun/effects/attack.prefab|
+|assets/prefabs/weapons/toolgun/effects/deploy.prefab|
 |assets/prefabs/weapons/toolgun/effects/lineeffect.prefab|
 |assets/prefabs/weapons/toolgun/effects/lineeffect_realistic.prefab|
 |assets/prefabs/weapons/toolgun/effects/repairerror.prefab|
