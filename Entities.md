@@ -819,7 +819,7 @@
 |gates.external.high.stone|4211374971|Gate<br>BaseCombatEntity<br>DecayEntity<br>AnimatedBuildingBlock<br>StabilityEntity<br>Model<br>|assets/prefabs/building/gates.external.high/gates.external.high.stone/gates.external.high.stone.prefab|
 |gates.external.high.wood|95147612|Gate<br>BaseCombatEntity<br>DecayEntity<br>AnimatedBuildingBlock<br>StabilityEntity<br>Model<br>|assets/prefabs/building/gates.external.high/gates.external.high.wood/gates.external.high.wood.prefab|
 |gates.external.high.adobe|1587209110|Gate<br>BaseCombatEntity<br>DecayEntity<br>AnimatedBuildingBlock<br>StabilityEntity<br>Model<br>|assets/prefabs/building/gates.external.high.adobe/gates.external.high.adobe.prefab|
-|gates.external.high.frontier|798296829|Gate<br>BaseCombatEntity<br>DecayEntity<br>AnimatedBuildingBlock<br>StabilityEntity<br>Model<br>|assets/prefabs/building/gates.external.high.frontier/gates.external.high.frontier.prefab|
+|gates.external.high.legacy|907778990|Gate<br>BaseCombatEntity<br>DecayEntity<br>AnimatedBuildingBlock<br>StabilityEntity<br>Model<br>|assets/prefabs/building/gates.external.high.legacy/gates.external.high.legacy.prefab|
 |ladder.wooden.wall|2150203378|GroundWatch<br>DestroyOnGroundMissing<br>BaseLadder<br>BoxCollider<br>|assets/prefabs/building/ladder.wall.wood/ladder.wooden.wall.prefab|
 |legacy.shelter.wood.deployed|2243018404|LegacyShelter<br>BaseCombatEntity<br>NavMeshObstacle<br>|assets/prefabs/building/legacy.shelter.wood/legacy.shelter.wood.deployed.prefab|
 |legacy.shelter.wood.door|1286050339|LegacyShelterDoor<br>BaseCombatEntity<br>DecayEntity<br>AnimatedBuildingBlock<br>StabilityEntity<br>Model<br>|assets/prefabs/building/legacy.shelter.wood/legacy.shelter.wood.door.prefab|
@@ -831,7 +831,7 @@
 |VineLaunchPoint|206890149|VineLaunchPoint<br>|assets/prefabs/building/swinging.vine/vinelaunchpoint.prefab|
 |VineSwingMountable|3723401517|VineMountable<br>BaseCombatEntity<br>CapsuleCollider<br>EntityCollisionMessage<br>|assets/prefabs/building/swinging.vine/vineswingmountable.prefab|
 |wall.external.high.adobe|542454407|SimpleBuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>NavMeshObstacle<br>|assets/prefabs/building/wall.external.high.adobe/wall.external.high.adobe.prefab|
-|wall.external.high.frontier|4026344599|SimpleBuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>NavMeshObstacle<br>|assets/prefabs/building/wall.external.high.frontier/wall.external.high.frontier.prefab|
+|wall.external.high.legacy|2378789174|SimpleBuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>NavMeshObstacle<br>|assets/prefabs/building/wall.external.high.legacy/wall.external.high.legacy.prefab|
 |wall.external.high.stone|1585379529|SimpleBuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>NavMeshObstacle<br>|assets/prefabs/building/wall.external.high.stone/wall.external.high.stone.prefab|
 |wall.external.high.wood|1745077396|SimpleBuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>NavMeshObstacle<br>|assets/prefabs/building/wall.external.high.wood/wall.external.high.wood.prefab|
 |wall.frame.cell.gate|3272196131|Door<br>BaseCombatEntity<br>DecayEntity<br>StabilityEntity<br>Model<br>|assets/prefabs/building/wall.frame.cell/wall.frame.cell.gate.prefab|
@@ -906,8 +906,8 @@
 |chair.icethrone|3579302978|BaseChair<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/chair/ice_throne/chair.icethrone.prefab|
 |ChickenCoop.deployed|1393130608|ChickenCoop<br>BaseCombatEntity<br>DecayEntity<br>Model<br>DestroyOnGroundMissing<br>GroundWatch<br>|assets/prefabs/deployable/chickencoop/chickencoop.deployed.prefab|
 |simplechicken.entity|1404456901|FarmableAnimal<br>SphereCollider<br>|assets/prefabs/deployable/chickencoop/simplechicken.entity.prefab|
-|CodelockedHackableCrate|209286362|HackableLockedCrate<br>BaseCombatEntity<br>DecayEntity<br>StorageContainer<br>Model<br>Rigidbody<br>NavMeshObstacle<br>|assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate.prefab|
-|CodelockedHackableCrate_Oilrig|2043434947|HackableLockedCrate<br>BaseCombatEntity<br>DecayEntity<br>StorageContainer<br>Model<br>Rigidbody<br>NavMeshObstacle<br>|assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate_oilrig.prefab|
+|CodelockedHackableCrate|209286362|HackableLockedCrate<br>BaseCombatEntity<br>DecayEntity<br>StorageContainer<br>Model<br>Rigidbody<br>NavMeshObstacle<br>EntityFlag_Toggle<br>|assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate.prefab|
+|CodelockedHackableCrate_Oilrig|2043434947|HackableLockedCrate<br>BaseCombatEntity<br>DecayEntity<br>StorageContainer<br>Model<br>Rigidbody<br>NavMeshObstacle<br>EntityFlag_Toggle<br>|assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate_oilrig.prefab|
 |clan.table|319712039|ClanTable<br>|assets/prefabs/deployable/clan table/clan.table.prefab|
 |clantable.deployed|1545936318|ClanTable<br>Model<br>DestroyOnGroundMissing<br>GroundWatch<br>|assets/prefabs/deployable/clan table/clantable.deployed.prefab|
 |clantable.static|1091538011|ClanTable<br>Model<br>|assets/prefabs/deployable/clan table/clantable.static.prefab|
@@ -971,6 +971,10 @@
 |lantern.deployed|4027991414|BaseFuelLightSource<br>BaseCombatEntity<br>DecayEntity<br>StorageContainer<br>MeshCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>EntityFlag_Toggle<br>|assets/prefabs/deployable/lantern/lantern.deployed.prefab|
 |box.wooden.large.corpse|2785194784|ContainerCorpse<br>BaseCombatEntity<br>DecayEntity<br>StorageContainer<br>BoxCollider<br>GroundWatch<br>RepositionOnGroundMissing<br>|assets/prefabs/deployable/large wood storage/box.wooden.large.corpse.prefab|
 |box.wooden.large|2206646561|BoxStorage<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>BoxCollider<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/large wood storage/box.wooden.large.prefab|
+|abyss_barrel_horizontal.corpse|3252334872|GroundWatch<br>ContainerCorpse<br>BaseCombatEntity<br>DecayEntity<br>StorageContainer<br>RepositionOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/large wood storage/skins/abyss_dlc_large_wood_box/abyss_dlc_storage_horizontal/abyss_barrel_horizontal.corpse.prefab|
+|abyss_barrel_horizontal|339191443|BoxStorage<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/large wood storage/skins/abyss_dlc_large_wood_box/abyss_dlc_storage_horizontal/abyss_barrel_horizontal.prefab|
+|abyss_barrel_vertical.corpse|1768548626|GroundWatch<br>ContainerCorpse<br>BaseCombatEntity<br>DecayEntity<br>StorageContainer<br>RepositionOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/large wood storage/skins/abyss_dlc_large_wood_box/abyss_dlc_storage_vertical/abyss_barrel_vertical.corpse.prefab|
+|abyss_barrel_vertical|2794435815|BoxStorage<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/large wood storage/skins/abyss_dlc_large_wood_box/abyss_dlc_storage_vertical/abyss_barrel_vertical.prefab|
 |wicker_barrel.corpse|1634507366|GroundWatch<br>ContainerCorpse<br>BaseCombatEntity<br>DecayEntity<br>StorageContainer<br>RepositionOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/large wood storage/skins/jungle_dlc_large_wood_box/jungle_dlc_storage_horizontal/wicker_barrel.corpse.prefab|
 |wicker_barrel|496929911|BoxStorage<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/large wood storage/skins/jungle_dlc_large_wood_box/jungle_dlc_storage_horizontal/wicker_barrel.prefab|
 |bamboo_barrel.corpse|3097167028|GroundWatch<br>ContainerCorpse<br>BaseCombatEntity<br>DecayEntity<br>StorageContainer<br>RepositionOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/large wood storage/skins/jungle_dlc_large_wood_box/jungle_dlc_storage_vertical/bamboo_barrel.corpse.prefab|
@@ -1246,11 +1250,11 @@
 |rockingchair.rockingchair2.deployed|720514301|RockingChair<br>BaseCombatEntity<br>BaseMountable<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/misc/decor_dlc/rockingchair/skins/rockingchair.rockingchair2.deployed.prefab|
 |rockingchair.rockingchair3.deployed|804668581|RockingChair<br>BaseCombatEntity<br>BaseMountable<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/misc/decor_dlc/rockingchair/skins/rockingchair.rockingchair3.deployed.prefab|
 |skinningknife.entity|995189561|BaseMelee<br>HeldEntity<br>|assets/prefabs/misc/decor_dlc/skinning knife/skinningknife.entity.prefab|
-|storage_barrel_a|1982227630|BoxStorage<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/misc/decor_dlc/storagebarrel/storage_barrel_a.prefab|
 |storage_barrel_b.corpse|1186322904|GroundWatch<br>ContainerCorpse<br>BaseCombatEntity<br>DecayEntity<br>StorageContainer<br>RepositionOnGroundMissing<br>BoxCollider<br>|assets/prefabs/misc/decor_dlc/storagebarrel/storage_barrel_b.corpse.prefab|
 |storage_barrel_b|1502013593|BoxStorage<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/misc/decor_dlc/storagebarrel/storage_barrel_b.prefab|
 |storage_barrel_c.corpse|632015332|GroundWatch<br>ContainerCorpse<br>BaseCombatEntity<br>DecayEntity<br>StorageContainer<br>RepositionOnGroundMissing<br>BoxCollider<br>|assets/prefabs/misc/decor_dlc/storagebarrel/storage_barrel_c.corpse.prefab|
 |storage_barrel_c|2261122309|BoxStorage<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/misc/decor_dlc/storagebarrel/storage_barrel_c.prefab|
+|unused_storage_barrel_a|1429074576|BoxStorage<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/misc/decor_dlc/storagebarrel/unused_storage_barrel_a.prefab|
 |torchholder.deployed|39066900|TorchDeployableLightSource<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/misc/decor_dlc/torchholder/torchholder.deployed.prefab|
 |wantedposter.wantedposter2|18924473|WantedPoster<br>BaseCombatEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/misc/decor_dlc/wantedposter/skins/wantedposter.wantedposter2.prefab|
 |wantedposter.wantedposter3|1570465433|WantedPoster<br>BaseCombatEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/misc/decor_dlc/wantedposter/skins/wantedposter.wantedposter3.prefab|
@@ -1412,6 +1416,7 @@
 |platform.entity|2101896921|PlatformEntity<br>|assets/prefabs/misc/platform/platform.entity.prefab|
 |platform.exclusion.entity|2065397772|PlatformEntity<br>|assets/prefabs/misc/platform/platform.exclusion.entity.prefab|
 |platform.force.entity|1224573690|PlatformEntity<br>|assets/prefabs/misc/platform/platform.force.entity.prefab|
+|StaticRespawnZoneCompound_Vanilla|948487089|StaticRespawnArea<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/misc/playerspawn/staticrespawnzonecompound_vanilla.prefab|
 |planter.small.respawning.static|4258681299|PlanterBoxStatic<br>BaseCombatEntity<br>DecayEntity<br>StorageContainer<br>MeshCollider<br>Model<br>|assets/prefabs/misc/respawningplanters/planter.small.respawning.static.prefab|
 |SimpleLootBox|2187258018|BoxStorage<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/prefabs/misc/simplelootbox.prefab|
 |abovegroundpool.deployed|2030353082|PaddlingPool<br>BaseCombatEntity<br>ContainerIOEntity<br>DecayEntity<br>IOEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/misc/summer_dlc/abovegroundpool/abovegroundpool.deployed.prefab|
@@ -1545,6 +1550,9 @@
 |XMasRefill|2750850993|XMasRefill<br>|assets/prefabs/misc/xmas/xmasrefill.prefab|
 |xmas_tree.deployed|1181698029|ChristmasTree<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/misc/xmas/xmastree/xmas_tree.deployed.prefab|
 |xmas_tree_a.deployed|3520045458|MeshCollider<br>DecorDeployable<br>BaseCombatEntity<br>|assets/prefabs/misc/xmas/xmastree/xmas_tree_a.deployed.prefab|
+|DynamicMissionStash|3416881577|WhitelistLootContainer<br>BaseCombatEntity<br>DecayEntity<br>StorageContainer<br>BoxCollider<br>|assets/prefabs/missions/entities/dynamicmissionstash.prefab|
+|GenericMissionLootContainerReusable|3294618459|StaticMissionItemDispenser<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/missions/entities/genericmissionlootcontainerreusable.prefab|
+|HoldMissionEntity|2898645756|BoxCollider<br>MissionSlowUseObject<br>|assets/prefabs/missions/entities/holdmissionentity.prefab|
 |LogStash|1943082497|WhitelistLootContainer<br>BaseCombatEntity<br>DecayEntity<br>StorageContainer<br>BoxCollider<br>|assets/prefabs/missions/entities/logstash.prefab|
 |MissionLootBox_Basic|3128236346|WhitelistLootContainer<br>BaseCombatEntity<br>DecayEntity<br>StorageContainer<br>BoxCollider<br>|assets/prefabs/missions/entities/missionlootbox_basic.prefab|
 |MissionStash|3490516309|WhitelistLootContainer<br>BaseCombatEntity<br>DecayEntity<br>StorageContainer<br>BoxCollider<br>|assets/prefabs/missions/entities/missionstash.prefab|
@@ -1566,7 +1574,7 @@
 |Loot-Barrel-Tutorial|1380255172|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/missions/tutorialisland/loot-barrel-tutorial.prefab|
 |TutorialIsland|3290961355|TutorialIsland<br>MonumentNavMesh<br>|assets/prefabs/missions/tutorialisland/tutorialisland.prefab|
 |TutorialMapMarker|3719689594|TutorialIsland_MapMarker<br>|assets/prefabs/missions/tutorialisland/tutorialmapmarker.prefab|
-|autoturret_deployed|3312510084|AutoTurret<br>BaseCombatEntity<br>DecayEntity<br>IOEntity<br>Model<br>DestroyOnGroundMissing<br>GroundWatch<br>CapsuleCollider<br>|assets/prefabs/npc/autoturret/autoturret_deployed.prefab|
+|autoturret_deployed|3312510084|AutoTurret<br>BaseCombatEntity<br>DecayEntity<br>IOEntity<br>Model<br>DestroyOnGroundMissing<br>GroundWatch<br>CapsuleCollider<br>EntityFlag_Toggle<br>|assets/prefabs/npc/autoturret/autoturret_deployed.prefab|
 |AirWolfSpawner|3960558419|VehicleSpawner<br>BoxCollider<br>|assets/prefabs/npc/bandit/airwolfspawner.prefab|
 |BoatSpawner|2609911909|VehicleSpawner<br>BoxCollider<br>|assets/prefabs/npc/bandit/boatspawner.prefab|
 |HorseSpawner|4058311563|HorseSpawner<br>BoxCollider<br>|assets/prefabs/npc/bandit/horsespawner.prefab|
@@ -1574,7 +1582,8 @@
 |MissionProvider_Bandit_B|322083179|NPCMissionProvider<br>BaseCombatEntity<br>BasePlayer<br>NPCShopKeeper<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>|assets/prefabs/npc/bandit/missionproviders/missionprovider_bandit_b.prefab|
 |MissionProvider_Fishing_A|350957926|NPCMissionProvider<br>BaseCombatEntity<br>BasePlayer<br>NPCShopKeeper<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>|assets/prefabs/npc/bandit/missionproviders/missionprovider_fishing_a.prefab|
 |MissionProvider_Fishing_B|3694999410|NPCMissionProvider<br>BaseCombatEntity<br>BasePlayer<br>NPCShopKeeper<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>|assets/prefabs/npc/bandit/missionproviders/missionprovider_fishing_b.prefab|
-|MissionProvider_Outpost_A|3928572443|NPCMissionProvider<br>BaseCombatEntity<br>BasePlayer<br>NPCShopKeeper<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>|assets/prefabs/npc/bandit/missionproviders/missionprovider_outpost_a.prefab|
+|MissionProvider_Generic_A|4018233975|NPCSimpleMissionProvider<br>BaseCombatEntity<br>BasePlayer<br>NPCShopKeeper<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>|assets/prefabs/npc/bandit/missionproviders/missionprovider_generic_a.prefab|
+|MissionProvider_Outpost_A|3928572443|NPCSimpleMissionProvider<br>BaseCombatEntity<br>BasePlayer<br>NPCShopKeeper<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>|assets/prefabs/npc/bandit/missionproviders/missionprovider_outpost_a.prefab|
 |MissionProvider_Outpost_B|1091655158|NPCMissionProvider<br>BaseCombatEntity<br>BasePlayer<br>NPCShopKeeper<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>|assets/prefabs/npc/bandit/missionproviders/missionprovider_outpost_b.prefab|
 |MissionProvider_Stables_A|930153435|NPCMissionProvider<br>BaseCombatEntity<br>BasePlayer<br>NPCShopKeeper<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>|assets/prefabs/npc/bandit/missionproviders/missionprovider_stables_a.prefab|
 |MissionProvider_Stables_B|3892089538|NPCMissionProvider<br>BaseCombatEntity<br>BasePlayer<br>NPCShopKeeper<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>|assets/prefabs/npc/bandit/missionproviders/missionprovider_stables_b.prefab|
@@ -1605,6 +1614,7 @@
 |murderer_corpse|2400390439|NPCPlayerCorpse<br>BaseCombatEntity<br>LootableCorpse<br>BaseCorpse<br>HumanBodyResourceDispenser<br>Buoyancy<br>HeadDispenser<br>|assets/prefabs/npc/murderer/murderer_corpse.prefab|
 |heli_crate|1314849795|LockedByEntCrate<br>BaseCombatEntity<br>DecayEntity<br>StorageContainer<br>BoxCollider<br>|assets/prefabs/npc/patrol helicopter/heli_crate.prefab|
 |PatrolHelicopter|3029415845|PatrolHelicopter<br>PatrolHelicopterAI<br>AIHelicopterAnimation<br>Rigidbody<br>Model<br>MusicChangeIntensity<br>|assets/prefabs/npc/patrol helicopter/patrolhelicopter.prefab|
+|PatrolHelicopterFleeMarker|2618904203|MapMarkerHelicopterFlee<br>|assets/prefabs/npc/patrol helicopter/patrolhelicopterfleemarker.prefab|
 |PatrolHelicopterMarker|3212876472|MapMarkerCH47<br>|assets/prefabs/npc/patrol helicopter/patrolhelicoptermarker.prefab|
 |rocket_heli|129320027|TimedExplosive<br>ServerProjectile<br>|assets/prefabs/npc/patrol helicopter/rocket_heli.prefab|
 |rocket_heli_airburst|3253859536|TimedExplosive<br>ServerProjectile<br>|assets/prefabs/npc/patrol helicopter/rocket_heli_airburst.prefab|
