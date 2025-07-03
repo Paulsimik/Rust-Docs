@@ -1,6 +1,7 @@
 |Name|
 |:---:|
 |assets/prefabs/missions/items/captain_log.png|
+|assets/prefabs/missions/items/documents.iconrenderer.icon.png|
 |assets/prefabs/missions/items/fishing.tackle.icon.png|
 |assets/prefabs/missions/items/vodka_bottle.icon.png|
 |assets/prefabs/missions/portal/proceduraldungeon/effects/bunker_door_haunted_fx.tga|
@@ -887,6 +888,15 @@
 |assets/scenes/release/oasis/splattexture0.png|
 |assets/scenes/release/oasis/splattexture1.png|
 |assets/scenes/release/oasis/topologytexture.png|
+|assets/scenes/release/qaisland/alphatexture.png|
+|assets/scenes/release/qaisland/biometexture.png|
+|assets/scenes/release/qaisland/distancetexture.png|
+|assets/scenes/release/qaisland/heighttexture.png|
+|assets/scenes/release/qaisland/normaltexture.png|
+|assets/scenes/release/qaisland/splattexture0.png|
+|assets/scenes/release/qaisland/splattexture1.png|
+|assets/scenes/release/qaisland/topologytexture.png|
+|assets/scenes/release/qaisland/watertexture.png|
 |assets/scenes/release/range/biometexture.png|
 |assets/scenes/release/range/heighttexture.png|
 |assets/scenes/release/range/normaltexture.png|
