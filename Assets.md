@@ -5887,8 +5887,6 @@
 |assets/prefabs/deployable/lantern/sound/lantern-loop.asset|
 |assets/prefabs/deployable/lantern/sound/lantern-open.asset|
 |assets/prefabs/deployable/large wood storage/box.wooden.large.skinnable.asset|
-|assets/prefabs/deployable/large wood storage/skins/abyss_dlc_large_wood_box/abyss_dlc_storage_horizontal/abyss.horizontal.barrel.skin.asset|
-|assets/prefabs/deployable/large wood storage/skins/abyss_dlc_large_wood_box/abyss_dlc_storage_vertical/abyss.vertical.barrel.skin.asset|
 |assets/prefabs/deployable/large wood storage/skins/abyss_dlc_large_wood_box/sound/abyss-storage-close.asset|
 |assets/prefabs/deployable/large wood storage/skins/abyss_dlc_large_wood_box/sound/abyss-storage-deploy.asset|
 |assets/prefabs/deployable/large wood storage/skins/abyss_dlc_large_wood_box/sound/abyss-storage-open.asset|
