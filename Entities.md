@@ -324,6 +324,7 @@
 |grass_displace_large|1600431034|BoxCollider<br>BaseEntity<br>|assets/bundled/prefabs/modding/admin/grass_displace_large.prefab|
 |grass_displace_medium|641683255|BoxCollider<br>BaseEntity<br>|assets/bundled/prefabs/modding/admin/grass_displace_medium.prefab|
 |grass_displace_small|2337729470|BoxCollider<br>BaseEntity<br>|assets/bundled/prefabs/modding/admin/grass_displace_small.prefab|
+|AI_obstacle|1322793967|BaseEntity<br>|assets/bundled/prefabs/modding/ai/ai_obstacle.prefab|
 |door.vault.static|3595032872|Door<br>BaseCombatEntity<br>DecayEntity<br>StabilityEntity<br>Model<br>|assets/bundled/prefabs/modding/asset_store/bankheist_package/bankheist_vol03/prefabs/door.vault.static.prefab|
 |HiddenHackableCrate|3527151681|HackableLockedCrate<br>BaseCombatEntity<br>DecayEntity<br>StorageContainer<br>Model<br>|assets/bundled/prefabs/modding/asset_store/hiddenhackablecrate.prefab|
 |cinebg_black|2591728644|CinematicEntity<br>|assets/bundled/prefabs/modding/cinematic/backdrops/cinebg_black.prefab|
@@ -522,6 +523,7 @@
 |copy_paste|4074202028|CopyPasteEntity<br>|assets/bundled/prefabs/system/copy_paste.prefab|
 |net_env|3134327264|EnvSync<br>|assets/bundled/prefabs/system/net_env.prefab|
 |net_global|3337594668|GlobalNetworkHandler<br>|assets/bundled/prefabs/system/net_global.prefab|
+|buried_items|3717979024|BuriedItems<br>|assets/bundled/prefabs/system/server/buried_items.prefab|
 |clan_manager|1817273498|ClanManager<br>|assets/bundled/prefabs/system/server/clan_manager.prefab|
 |community|2528878115|CommunityEntity<br>|assets/bundled/prefabs/system/server/community.prefab|
 |relationship_manager|827927784|RelationshipManager<br>|assets/bundled/prefabs/system/server/relationship_manager.prefab|
@@ -608,14 +610,6 @@
 |rocket_crane_lift|175890379|Lift<br>BaseCombatEntity<br>DecayEntity<br>StabilityEntity<br>Model<br>|assets/content/structures/rocket_crane/rocket_crane_lift.prefab|
 |rocket_crane_lift_nd|93825801|Lift<br>BaseCombatEntity<br>DecayEntity<br>StabilityEntity<br>Model<br>|assets/content/structures/rocket_crane/rocket_crane_lift_nd.prefab|
 |rocket_crane_lift_trigger|2081743917|BaseEntity<br>|assets/content/structures/rocket_crane/rocket_crane_lift_trigger.prefab|
-|faberge_egg_g.deployed 1|2405462017|RustigeEgg<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>Model<br>|assets/content/ui/menuui/itemstore/misc/easter/_previews/2025/faberge_egg_g.deployed 1.prefab|
-|ItemPreview_Abyss_SunkenKnife|2934589089||assets/content/ui/menuui/itemstore/packs/abyss/_previews/itempreview_abyss_sunkenknife.prefab|
-|ItemPreview_Jungle_Cocoknight_Chest|1008751697||assets/content/ui/menuui/itemstore/packs/jungle/_previews/itempreview_jungle_cocoknight_chest.prefab|
-|ItemPreview_Jungle_Cocoknight_Gloves|503310907||assets/content/ui/menuui/itemstore/packs/jungle/_previews/itempreview_jungle_cocoknight_gloves.prefab|
-|ItemPreview_Jungle_Cocoknight_Helmet|220930319||assets/content/ui/menuui/itemstore/packs/jungle/_previews/itempreview_jungle_cocoknight_helmet.prefab|
-|ItemPreview_Jungle_Cocoknight_Legs|3059428076||assets/content/ui/menuui/itemstore/packs/jungle/_previews/itempreview_jungle_cocoknight_legs.prefab|
-|ItemPreview_Jungle_ObsidianBoneKnife|2625524667||assets/content/ui/menuui/itemstore/packs/jungle/_previews/itempreview_jungle_obsidianboneknife.prefab|
-|ItemPreview_TomahaSnowmobile|1794744859||assets/content/ui/menuui/itemstore/previews/itempreview_tomahasnowmobile.prefab|
 |AttackHelicopter.entity|3052610534|AttackHelicopter<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>BaseHelicopter<br>Rigidbody<br>Model<br>PhysicsEffects<br>MagnetLiftable<br>|assets/content/vehicles/attackhelicopter/attackhelicopter.entity.prefab|
 |fuel_storage_attackheli|1538952634|StorageContainer<br>BaseCombatEntity<br>|assets/content/vehicles/attackhelicopter/subents/fuel_storage_attackheli.prefab|
 |rockets_attackheli|2338617081|AttackHelicopterRockets<br>BaseCombatEntity<br>DecayEntity<br>Model<br>|assets/content/vehicles/attackhelicopter/subents/rockets_attackheli.prefab|
@@ -904,6 +898,7 @@
 |ceilinglight.deployed|3953213470|CeilingLight<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/ceiling light/ceilinglight.deployed.prefab|
 |chair.deployed|1992774774|BaseChair<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/chair/chair.deployed.prefab|
 |chair.icethrone|3579302978|BaseChair<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/chair/ice_throne/chair.icethrone.prefab|
+|chair.ejectorseat|454013157|BaseChair<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/chair/skins/pilot_hazmat_ejector_seat/chair.ejectorseat.prefab|
 |ChickenCoop.deployed|1393130608|ChickenCoop<br>BaseCombatEntity<br>DecayEntity<br>Model<br>DestroyOnGroundMissing<br>GroundWatch<br>|assets/prefabs/deployable/chickencoop/chickencoop.deployed.prefab|
 |simplechicken.entity|1404456901|FarmableAnimal<br>SphereCollider<br>|assets/prefabs/deployable/chickencoop/simplechicken.entity.prefab|
 |CodelockedHackableCrate|209286362|HackableLockedCrate<br>BaseCombatEntity<br>DecayEntity<br>StorageContainer<br>Model<br>Rigidbody<br>NavMeshObstacle<br>EntityFlag_Toggle<br>|assets/prefabs/deployable/chinooklockedcrate/codelockedhackablecrate.prefab|
@@ -1153,6 +1148,8 @@
 |weaponrack_wide.deployed|1633182403|WeaponRack<br>BaseCombatEntity<br>DecayEntity<br>DestroyOnGroundMissing<br>GroundWatch<br>BoxCollider<br>|assets/prefabs/deployable/weaponracks/weaponrack_wide.deployed.prefab|
 |electric.windmill.small|1192074893|ElectricWindmill<br>BaseCombatEntity<br>DecayEntity<br>MeshCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>Model<br>|assets/prefabs/deployable/windmill/electric.windmill.small.prefab|
 |generator.wind.scrap|3038465934|SimpleBuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/prefabs/deployable/windmill/generator.wind.scrap.prefab|
+|pilot_hazmat_woodbox_deployed.corpse|3758828704|GroundWatch<br>BoxCollider<br>ContainerCorpse<br>BaseCombatEntity<br>DecayEntity<br>StorageContainer<br>RepositionOnGroundMissing<br>|assets/prefabs/deployable/woodenbox/skins/pilot_hazmat_wooden_box/pilot_hazmat_woodbox_deployed.corpse.prefab|
+|pilot_hazmat_woodbox_deployed|2203540697|BoxStorage<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/woodenbox/skins/pilot_hazmat_wooden_box/pilot_hazmat_woodbox_deployed.prefab|
 |woodbox_deployed.corpse|2010632750|ContainerCorpse<br>BaseCombatEntity<br>DecayEntity<br>StorageContainer<br>GroundWatch<br>BoxCollider<br>RepositionOnGroundMissing<br>|assets/prefabs/deployable/woodenbox/woodbox_deployed.corpse.prefab|
 |woodbox_deployed|1560881570|BoxStorage<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/woodenbox/woodbox_deployed.prefab|
 |Hazmat_Youtooz.deployed|1290959361|GroundWatch<br>DestroyOnGroundMissing<br>DeployedFigurine<br>EntityFlag_Toggle<br>BoxCollider<br>BoxCollider<br>|assets/prefabs/deployable/youtooz_figurines/hazmat_youtooz.deployed.prefab|
@@ -1217,6 +1214,7 @@
 |WheelSwitch_wheel_only|3508954061|WheelSwitch<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/io/kinetic/wheelswitch_wheel_only.prefab|
 |lock.key|2106860026|KeyLock<br>|assets/prefabs/locks/keylock/lock.key.prefab|
 |lock.code|3518824735|CodeLock<br>|assets/prefabs/locks/keypad/lock.code.prefab|
+|lock.code.a.pilot|319071656|DigitSendCodeLock<br>BaseLock<br>|assets/prefabs/locks/keypad/skins/codelock_a_pilot/lock.code.a.pilot.prefab|
 |generic_world|3255145925|DroppedItem<br>PhysicsEffects<br>|assets/prefabs/misc/burlap sack/generic_world.prefab|
 |big_wheel|3690849383|BigWheelGame<br>BaseCombatEntity<br>DecayEntity<br>IOEntity<br>Signage<br>MeshCollider<br>Model<br>|assets/prefabs/misc/casino/bigwheel/big_wheel.prefab|
 |BigWheelBettingTerminal|2924713120|BigWheelBettingTerminal<br>BaseCombatEntity<br>DecayEntity<br>Model<br>|assets/prefabs/misc/casino/bigwheel/bigwheelbettingterminal.prefab|
@@ -1663,6 +1661,7 @@
 |explosive.timed.deployed|3898309212|BoxCollider<br>RFTimedExplosive<br>Rigidbody<br>|assets/prefabs/tools/c4/explosive.timed.deployed.prefab|
 |explosive.timed.entity|1915331115|ThrownWeapon<br>HeldEntity<br>|assets/prefabs/tools/c4/explosive.timed.entity.prefab|
 |tool_camera|1410597758|CameraTool<br>|assets/prefabs/tools/camera/tool_camera.prefab|
+|compass.entity|2757054139|Compass<br>Model<br>|assets/prefabs/tools/compass/compass.entity.prefab|
 |generic_deploy|2686008770|Deployer<br>|assets/prefabs/tools/deploy (obsolete)/generic_deploy.prefab|
 |detonator.entity|3503830994|Detonator<br>|assets/prefabs/tools/detonator/detonator.entity.prefab|
 |bobber.entity|2984848657|FishingBobber<br>Model<br>Rigidbody<br>SphereCollider<br>|assets/prefabs/tools/fishing rod/bobber/bobber.entity.prefab|
@@ -1911,6 +1910,7 @@
 |explosive.satchel.entity|2671523489|ThrownWeapon<br>HeldEntity<br>|assets/prefabs/weapons/satchelcharge/explosive.satchel.entity.prefab|
 |shotgun_pump.entity|554582418|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/sawnoff_shotgun/shotgun_pump.entity.prefab|
 |pistol_semiauto.entity|563371667|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/semi auto pistol/pistol_semiauto.entity.prefab|
+|pistol_semiauto.a.m15.entity|2343718176|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/semi auto pistol/skins/pistol_a_m15/pistol_semiauto.a.m15.entity.prefab|
 |semi_auto_rifle.entity|4231282088|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/semi auto rifle/semi_auto_rifle.entity.prefab|
 |sks.entity|4228529517|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/sks/sks.entity.prefab|
 |smg.entity|3759841439|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/smg/smg.entity.prefab|
