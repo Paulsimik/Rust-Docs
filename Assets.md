@@ -15,6 +15,91 @@
 |assets/bundled/prefabs/radtown/sound/vehicle-parts-close.asset|
 |assets/bundled/prefabs/radtown/sound/vehicle-parts-open.asset|
 |assets/bundled/prefabs/ui/dialogs/ioconfig/rustbutton.iotoggle.asset|
+|assets/bundled/prefabs/ui/menu2/_components/header/menuui2_navbar_main_button.asset|
+|assets/bundled/prefabs/ui/menu2/_components/header/menuui2_navbar_optionsbtn_grey.asset|
+|assets/bundled/prefabs/ui/menu2/_components/header/menuui2_navbar_optionsbtn_warning.asset|
+|assets/bundled/prefabs/ui/menu2/_modals/demos/buttonrow_demolist.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/home/_styles/menuui2_chat_collapse_button.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/home/_styles/menuui2_chat_inputfield.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/home/_styles/menuui2_hero_changelog.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/home/_styles/menuui2_hero_readmore.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/home/_styles/menuui2_home_quickjoin_row.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/home/_styles/menuui2_notification.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/home/_styles/menuui2_notification_seen.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/home/_styles/menuui2_quitmodal_cancel_button.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/home/_styles/menuui2_quitmodal_exit_button.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/home/_styles/menuui2_searchbar.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/home/_styles/menuui2_small_rounded_button.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/home/social/menuui2_social_dmpicker.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/loading screen/_styles/menuui2_loadingscreen_cancel.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/play/_styles/menuui2_serverbrowser_button.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/play/_styles/menuui2_serverbrowser_calltoaction.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/play/_styles/menuui2_serverbrowser_checkbox.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/play/_styles/menuui2_serverbrowser_connecttoserver.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/play/_styles/menuui2_serverbrowser_entry.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/play/_styles/menuui2_serverbrowser_entry_favourites.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/play/_styles/menuui2_serverbrowser_entry_odd.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/play/_styles/menuui2_serverbrowser_general.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/play/_styles/menuui2_serverbrowser_header.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/play/_styles/menuui2_serverbrowser_needspremium.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/play/_styles/menuui2_serverbrowser_quitserver.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/play/_styles/menuui2_serverbrowser_searchbar.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/play/_styles/menuui2_serverbrowser_tag_premium.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/play/_styles/menuui2_serverbrowser_tag_regular.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/session/_styles/menuui2_button_rustplus_disabled.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/session/_styles/menuui2_button_rustplus_paired.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/session/_styles/menuui2_button_rustplus_unpaired.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/settings/_styles/menuui2_settings_option_applychangesbutton.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/settings/_styles/menuui2_settings_option_bindkey_off.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/settings/_styles/menuui2_settings_option_bindkey_on.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/settings/_styles/menuui2_settings_option_bindresetbutton.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/settings/_styles/menuui2_settings_option_dropdownitem.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/settings/_styles/menuui2_settings_option_dropdownitemselected.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/settings/_styles/menuui2_settings_option_resetbutton.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/settings/_styles/menuui2_settings_option_safemodebutton.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/settings/_styles/menuui2_settings_optionstyle.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/settings/_styles/menuui2_settings_optionstyle_nopress.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/settings/_styles/menuui2_settings_optionstyle_slider.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/settings/_styles/menuui2_settings_searchbar.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/settings/_styles/menuui2_settings_searchbar_cancelbutton.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/settings/_styles/menuui2_settings_tabstyle.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/settings/gestures/_styles/menuui2_settings_gesturelistbutton_locked.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/settings/gestures/_styles/menuui2_settings_gesturelistbutton_unlocked.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/settings/gestures/_styles/menuui2_settings_gesturereset.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/settings/gestures/_styles/menuui2_settings_gesturewidget.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/settings/gestures/_styles/menuui2_settings_gesturewidgetempty.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/steam inventory/_styles/menuui2_steaminventory_cratebutton.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/steam inventory/_styles/menuui2_steaminventory_deletebutton.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/steam inventory/_styles/menuui2_steaminventory_itembutton.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/store/_styles/cart/menuui2_popup_cartbutton.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/store/_styles/cart/menuui2_popup_cartbutton_dark.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/store/_styles/cart/menuui2_popup_cartbutton_incart.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/store/_styles/menuui2_popup_buttoncart.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/store/_styles/menuui2_popup_buttongray.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/store/_styles/menuui2_popup_buttongreen.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/store/_styles/menuui2_store_cartrow.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/store/_styles/menuui2_store_searchbar.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/store/checkout/menuui2_store_inventorybutton_red.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/store/dlc/_dlc/soundtrack/dlc.soundtrack.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/store/dlc/menuui2_store_steambutton.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/store/general/menuui2_store_backbutton.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/store/limited/styles/menuui2_store_skinitem.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/store/navigation/styles/menuui2_store_tabbutton.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/store/navigation/styles/menuui2_store_tabstyle.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/store/navigation/styles/menuui2_store_tabsubbutton.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/store/skinviewer/postfx/main_base_skinviewer.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/store/skinviewer/postfx/main_biome_skinviewer.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/store/skinviewer/postfx/sharpen_vignette_skinviewer.asset|
+|assets/bundled/prefabs/ui/menu2/_styles/menuui2_button_blacktransparent.asset|
+|assets/bundled/prefabs/ui/menu2/_styles/menuui2_button_closeicon.asset|
+|assets/bundled/prefabs/ui/menu2/_styles/menuui2_button_default_grey.asset|
+|assets/bundled/prefabs/ui/menu2/_styles/menuui2_button_default_grey_alt.asset|
+|assets/bundled/prefabs/ui/menu2/_styles/menuui2_button_default_grey_light.asset|
+|assets/bundled/prefabs/ui/menu2/_styles/menuui2_button_map.asset|
+|assets/bundled/prefabs/ui/menu2/_styles/menuui2_button_primary_blue.asset|
+|assets/bundled/prefabs/ui/menu2/_styles/menuui2_button_primary_green.asset|
+|assets/bundled/prefabs/ui/menu2/_styles/menuui2_button_warning_grey.asset|
+|assets/bundled/prefabs/ui/menu2/_styles/menuui2_button_warning_red.asset|
 |assets/content/accessibility/buildingblockedzone.asset|
 |assets/content/accessibility/healthvitals.asset|
 |assets/content/accessibility/holosightmaterials.asset|
@@ -2378,13 +2463,28 @@
 |assets/content/properties/steamcategories/weapon-normal.steam.asset|
 |assets/content/properties/steamcategories/weapon-rare.steam.asset|
 |assets/content/properties/steamcategories/workshop-default.steam.asset|
+|assets/content/properties/volumetriccloudconfigs/config1.asset|
+|assets/content/properties/volumetriccloudconfigs/config2.asset|
+|assets/content/properties/volumetriccloudconfigs/config3.asset|
+|assets/content/properties/volumetriccloudconfigs/config4.asset|
+|assets/content/properties/volumetriccloudconfigs/config5.asset|
+|assets/content/properties/volumetriccloudconfigs/config-cirrus1.asset|
+|assets/content/properties/volumetriccloudconfigs/stormlayer1.asset|
+|assets/content/properties/volumetriccloudconfigs/stormlayer-overcast.asset|
+|assets/content/properties/volumetriccloudconfigs/stormlayer-small.asset|
 |assets/content/properties/weather/clear.asset|
+|assets/content/properties/weather/clear_vclouds.asset|
 |assets/content/properties/weather/dust.asset|
 |assets/content/properties/weather/fog.asset|
+|assets/content/properties/weather/fog_vclouds.asset|
 |assets/content/properties/weather/overcast.asset|
+|assets/content/properties/weather/overcast_vclouds.asset|
 |assets/content/properties/weather/rainheavy.asset|
+|assets/content/properties/weather/rainheavy_vclouds.asset|
 |assets/content/properties/weather/rainmild.asset|
+|assets/content/properties/weather/rainmild_vclouds.asset|
 |assets/content/properties/weather/storm.asset|
+|assets/content/properties/weather/storm_vclouds.asset|
 |assets/content/props/boomboxportable/sound/boombox-portable-deploy.asset|
 |assets/content/props/boomboxportable/sound/boombox-portable-start.asset|
 |assets/content/props/boomboxportable/sound/boombox-portable-stop.asset|
@@ -2419,6 +2519,7 @@
 |assets/content/props/strobe light/sound/slow.asset|
 |assets/content/props/strobe light/strobelight.sitem.asset|
 |assets/content/props/train_tunnels/barricade-damage.asset|
+|assets/content/renderpipelinesettings/rust render pipeline asset.asset|
 |assets/content/shaders/subsurfaceprofiles/ssp_skindefault.asset|
 |assets/content/sound/ambience/ambience-none.ambience-def.asset|
 |assets/content/sound/ambience/animals/sting-coyote/sting-coyote.ambience-def.asset|
@@ -4524,6 +4625,8 @@
 |assets/content/ui/fonts/_nonenglish/korean/notosanscjksc-bold korean dynamic sdf.asset|
 |assets/content/ui/fonts/_nonenglish/korean/notosanscjksc-bold korean sdf.asset|
 |assets/content/ui/fonts/_nonenglish/notosanscjksc-bold sdf.asset|
+|assets/content/ui/fonts/_roboto/bootstrap roboto-regular.asset|
+|assets/content/ui/fonts/_roboto/roboto-regular sdf.asset|
 |assets/content/ui/fonts/_robotocondensed/bootstrap robotocondensed-bold sdf.asset|
 |assets/content/ui/fonts/_robotocondensed/bootstrap robotocondensed-regular sdf.asset|
 |assets/content/ui/fonts/_robotocondensed/robotocondensed-bold sdf.asset|
@@ -4725,6 +4828,9 @@
 |assets/content/vehicles/boats/tugboat/sound/tugboat-engine-start-bridge.asset|
 |assets/content/vehicles/boats/tugboat/sound/tugboat-engine-stop.asset|
 |assets/content/vehicles/boats/tugboat/sound/tugboat-engine-stop-bridge.asset|
+|assets/content/vehicles/boats/tugboat/sound/tugboat-horn-loop.asset|
+|assets/content/vehicles/boats/tugboat/sound/tugboat-horn-start.asset|
+|assets/content/vehicles/boats/tugboat/sound/tugboat-horn-stop.asset|
 |assets/content/vehicles/boats/tugboat/sound/tugboat-hull-groan.asset|
 |assets/content/vehicles/boats/tugboat/sound/tugboat-impact.asset|
 |assets/content/vehicles/boats/tugboat/sound/tugboat-mount.asset|
@@ -5414,6 +5520,7 @@
 |assets/content/workshop/skin/unknown/rasta beenie/skin.beenie.rastabeenie.itemskin.asset|
 |assets/content/workshop/skin/unknown/rorschach skull/skin.balaclava.rorschachskull.itemskin.asset|
 |assets/content/workshop/skin/unknown/rorschach skull/skull.meta.asset|
+|assets/editor/rust/icongeneratormanifest.asset|
 |assets/editor/rust/tools/fsm/testfsm.asset|
 |assets/manifest.asset|
 |assets/plugins/ezsoftbone/tests/presets/sbmat_default_hard.asset|
@@ -5423,6 +5530,8 @@
 |assets/plugins/facepunch.burstcloth/materials/cm_defaultchain.asset|
 |assets/plugins/facepunch.burstcloth/materials/cm_defaultcloth.asset|
 |assets/plugins/facepunch.burstcloth/materials/cm_defaultspring.asset|
+|assets/plugins/le tai's asset/trueshadow/resources/true shadow project settings default.asset|
+|assets/plugins/le tai's asset/trueshadow/resources/true shadow project settings.asset|
 |assets/plugins/rust.ui/controls/aiuitoggle.asset|
 |assets/plugins/rust.ui/controls/clickableimage.asset|
 |assets/plugins/rust.ui/controls/container.popup.normal.asset|
@@ -5495,6 +5604,7 @@
 |assets/plugins/rust.ui/controls/tabcontrol.sidebar.asset|
 |assets/plugins/rust.ui/controls/timelinemarker.asset|
 |assets/plugins/rust.ui/controls/ui.tweaks.dropdown.item.asset|
+|assets/plugins/rust.ui/icons/materialdesignicons-webfont sdf.asset|
 |assets/plugins/rust.ui/icons/rusticon.asset|
 |assets/prefabs/ammo/torpedo/sound/torpedo-explosion.asset|
 |assets/prefabs/ammo/torpedo/sound/torpedo-explosion-splash.asset|
@@ -5689,6 +5799,10 @@
 |assets/prefabs/clothes/suit.hazmat/hazmat.skinnable.asset|
 |assets/prefabs/clothes/suit.hazmat/lumberjack/hazmat.lumberjack.skin.asset|
 |assets/prefabs/clothes/suit.hazmat/nomad/hazmat.nomad.skin.asset|
+|assets/prefabs/clothes/suit.hazmat/pilot/cloth.pilot_hazmat.asset|
+|assets/prefabs/clothes/suit.hazmat/pilot/hazmat.pilot.skin.asset|
+|assets/prefabs/clothes/suit.hazmat/pilot/pilot.pack.sitem.asset|
+|assets/prefabs/clothes/suit.hazmat/pilot/player_skeleton.pilot_hazmat.asset|
 |assets/prefabs/clothes/suit.hazmat/spacesuit/hazmat.spacesuit.skin.asset|
 |assets/prefabs/clothes/tshirt.long/black/tshirt.long.black.itemskin.asset|
 |assets/prefabs/clothes/tshirt.long/grey/tshirt.long.grey.itemskin.asset|
@@ -5756,6 +5870,7 @@
 |assets/prefabs/deployable/ceiling light/sound/ceiling-light-turn-on-quiet.asset|
 |assets/prefabs/deployable/chair/chair.deployed.skinnable.asset|
 |assets/prefabs/deployable/chair/ice_throne/chair.icethrone.skin.asset|
+|assets/prefabs/deployable/chair/skins/pilot_hazmat_ejector_seat/chair.ejector.seat.skin.asset|
 |assets/prefabs/deployable/chair/sound/chair-deploy.asset|
 |assets/prefabs/deployable/chair/sound/chair-dismount.asset|
 |assets/prefabs/deployable/chair/sound/chair-mount.asset|
@@ -6196,6 +6311,7 @@
 |assets/prefabs/deployable/weaponracks/weapon_racks.item.asset|
 |assets/prefabs/deployable/windmill/sound/windmill_mechanics_loop.asset|
 |assets/prefabs/deployable/windmill/sound/woosh.asset|
+|assets/prefabs/deployable/woodenbox/skins/pilot_hazmat_wooden_box/pilot.hazmat.box.wooden.skin.asset|
 |assets/prefabs/deployable/woodenbox/sound/small-wooden-box-close.asset|
 |assets/prefabs/deployable/woodenbox/sound/small-wooden-box-deploy.asset|
 |assets/prefabs/deployable/woodenbox/sound/small-wooden-box-open.asset|
@@ -6280,6 +6396,8 @@
 |assets/prefabs/instruments/trumpet/trumpet.weapon.asset|
 |assets/prefabs/instruments/tuba/tuba.weapon.asset|
 |assets/prefabs/instruments/xylophone/xylophone.deployed.asset|
+|assets/prefabs/locks/keypad/lock.code.skinnable.asset|
+|assets/prefabs/locks/keypad/skins/codelock_a_pilot/lock.code.a.pilot.skin.asset|
 |assets/prefabs/locks/keypad/sound/lock-code-denied.asset|
 |assets/prefabs/locks/keypad/sound/lock-code-deploy.asset|
 |assets/prefabs/locks/keypad/sound/lock-code-lock.asset|
@@ -6392,6 +6510,7 @@
 |assets/prefabs/misc/easter/faberge_egg_g/rustige_egg_g.sitem.asset|
 |assets/prefabs/misc/easter/faberge_egg_g/rustigeegg_g_sss.asset|
 |assets/prefabs/misc/easter/horsecostume/cloth.horsecostume.asset|
+|assets/prefabs/misc/easter/horsecostume/cloth.horsecostume.skinviewer.asset|
 |assets/prefabs/misc/easter/horsecostume/horse.costume.sitem.asset|
 |assets/prefabs/misc/easter/horsecostume/horsecostume.skeleton.asset|
 |assets/prefabs/misc/easter/loottables/bronzeegg-contents.asset|
@@ -7135,6 +7254,14 @@
 |assets/prefabs/tools/c4/sound/c4-deploy-3p.asset|
 |assets/prefabs/tools/c4/sound/c4-explosion.asset|
 |assets/prefabs/tools/c4/sound/c4-stick.asset|
+|assets/prefabs/tools/compass/sound/compass-admire-01.asset|
+|assets/prefabs/tools/compass/sound/compass-admire-02.asset|
+|assets/prefabs/tools/compass/sound/compass-admire-03.asset|
+|assets/prefabs/tools/compass/sound/compass-admire-04.asset|
+|assets/prefabs/tools/compass/sound/compass-admire-05.asset|
+|assets/prefabs/tools/compass/sound/compass-deploy-01.asset|
+|assets/prefabs/tools/compass/sound/compass-deploy-02.asset|
+|assets/prefabs/tools/compass/sound/compass-deploy-03.asset|
 |assets/prefabs/tools/detonator/sound/detonator-deploy.asset|
 |assets/prefabs/tools/detonator/sound/detonator-deploy-3p.asset|
 |assets/prefabs/tools/detonator/sound/detonator-interference-loop.asset|
@@ -8070,6 +8197,18 @@
 |assets/prefabs/weapons/seekerlauncher/sound/lock_solid.asset|
 |assets/prefabs/weapons/seekerlauncher/sound/seeker_thurster_engage.asset|
 |assets/prefabs/weapons/semi auto pistol/pistol_semiauto.skinnable.asset|
+|assets/prefabs/weapons/semi auto pistol/skins/pistol_a_m15/pistol_semiauto.a.m15.skin.asset|
+|assets/prefabs/weapons/semi auto pistol/skins/pistol_a_m15/sound/m15-pistol-admire-01.asset|
+|assets/prefabs/weapons/semi auto pistol/skins/pistol_a_m15/sound/m15-pistol-admire-02.asset|
+|assets/prefabs/weapons/semi auto pistol/skins/pistol_a_m15/sound/m15-pistol-admire-03.asset|
+|assets/prefabs/weapons/semi auto pistol/skins/pistol_a_m15/sound/m15-pistol-admire-04.asset|
+|assets/prefabs/weapons/semi auto pistol/skins/pistol_a_m15/sound/m15-pistol-deploy.asset|
+|assets/prefabs/weapons/semi auto pistol/skins/pistol_a_m15/sound/m15-pistol-dryfire.asset|
+|assets/prefabs/weapons/semi auto pistol/skins/pistol_a_m15/sound/m15-pistol-gunshot-mech.asset|
+|assets/prefabs/weapons/semi auto pistol/skins/pistol_a_m15/sound/m15-pistol-reload-finish.asset|
+|assets/prefabs/weapons/semi auto pistol/skins/pistol_a_m15/sound/m15-pistol-reload-insert-mag.asset|
+|assets/prefabs/weapons/semi auto pistol/skins/pistol_a_m15/sound/m15-pistol-reload-slap-mag.asset|
+|assets/prefabs/weapons/semi auto pistol/skins/pistol_a_m15/sound/m15-pistol-reload-start.asset|
 |assets/prefabs/weapons/semi auto pistol/sound/attack.asset|
 |assets/prefabs/weapons/semi auto pistol/sound/eject_clip.asset|
 |assets/prefabs/weapons/semi auto pistol/sound/grab_clip.asset|
@@ -8242,6 +8381,7 @@
 |assets/prefabs/weapons/wooden shield/sound/wooden-shield-raise.asset|
 |assets/prefabs/weapons/wooden spear/spear_wooden.skinnable.asset|
 |assets/prefabs/worldconfig/resources/primitive_world.asset|
+|assets/projectsettings/uiparticleprojectsettings.asset|
 |assets/resources/train wagon loot data.asset|
 |assets/resources/worldspline prefab shared data.asset|
 |assets/rust.ai/agents/animal/animal.aidesign.asset|
@@ -8576,6 +8716,10 @@
 |assets/scenes/prefabs/trainyard/sound/coaling-tower-suction-ore-loop-interior-pipe.asset|
 |assets/scenes/prefabs/trainyard/sound/coaling-tower-suction-ore-start.asset|
 |assets/scenes/prefabs/unique environments/ue_lake_a.asset|
+|assets/scenes/test/assetgallery/assetgallery interior.asset|
+|assets/scenes/test/assetgallery/assetgallery.asset|
+|assets/scenes/test/assetgallery/debug exterior.asset|
+|assets/scenes/test/assetgallery/debug interior.asset|
 |assets/scenes/test/billbtestmap/billbtestmap terrain.asset|
 |assets/scenes/test/burstcloth/burstclothmats/fabric_bcmat.asset|
 |assets/scenes/test/burstcloth/burstclothmats/rope_bcmat.asset|
@@ -8587,11 +8731,14 @@
 |assets/scripts/game/techtree/techtree.asset|
 |assets/scripts/game/techtree/techtreeio.asset|
 |assets/scripts/game/techtree/techtreet0.asset|
+|assets/scripts/game/techtree/techtreet0_hardcore.asset|
 |assets/scripts/game/techtree/techtreet0_primitive.asset|
 |assets/scripts/game/techtree/techtreet1.asset|
 |assets/scripts/game/techtree/techtreet2.asset|
+|assets/scripts/game/techtree/techtreet2_hardcore.asset|
 |assets/scripts/game/techtree/techtreet2_primitive.asset|
 |assets/scripts/game/techtree/techtreet3.asset|
+|assets/scripts/game/techtree/techtreet3_hardcore.asset|
 |assets/scripts/postprocessing/customposteffects/resources/custom post effects resources.asset|
 |assets/scripts/postprocessing/postprocessing/postprocessresources.asset|
 |assets/skins.asset|
