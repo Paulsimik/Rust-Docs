@@ -1129,7 +1129,9 @@
 |assets/prefabs/deployable/water catcher/effects/water-catcher-deploy.prefab|
 |assets/prefabs/deployable/water catcher/effects/water-catcher-large-deploy.prefab|
 |assets/prefabs/deployable/waterpurifier/effects/water-purifier-deploy.prefab|
+|assets/prefabs/deployable/woodenbox/effects/black-box-deploy.prefab|
 |assets/prefabs/deployable/woodenbox/effects/wooden-box-deploy.prefab|
+|assets/prefabs/deployable/woodenbox/skins/pilot_hazmat_wooden_box/effects/lighting.prefab|
 |assets/prefabs/effects/auroras/auroras_skychild.prefab|
 |assets/prefabs/effects/foliage/pfx_leaves.prefab|
 |assets/prefabs/effects/foliage/pfx_leaves_dead.prefab|
@@ -2106,6 +2108,23 @@
 |assets/prefabs/weapons/semi auto pistol/effects/slide_shut.prefab|
 |assets/prefabs/weapons/semi auto pistol/effects/w_drop_mag.prefab|
 |assets/prefabs/weapons/semi auto pistol/effects/w_eject_pistol_shell.prefab|
+|assets/prefabs/weapons/semi auto pistol/skins/pistol_a_m15/effects/attack.prefab|
+|assets/prefabs/weapons/semi auto pistol/skins/pistol_a_m15/effects/attack_muzzlebrake.prefab|
+|assets/prefabs/weapons/semi auto pistol/skins/pistol_a_m15/effects/attack_shake.prefab|
+|assets/prefabs/weapons/semi auto pistol/skins/pistol_a_m15/effects/attack_shake_ads.prefab|
+|assets/prefabs/weapons/semi auto pistol/skins/pistol_a_m15/effects/attack_silenced.prefab|
+|assets/prefabs/weapons/semi auto pistol/skins/pistol_a_m15/effects/attack_silenced_oilfilter.prefab|
+|assets/prefabs/weapons/semi auto pistol/skins/pistol_a_m15/effects/attack_silenced_sodacan.prefab|
+|assets/prefabs/weapons/semi auto pistol/skins/pistol_a_m15/effects/deploy.prefab|
+|assets/prefabs/weapons/semi auto pistol/skins/pistol_a_m15/effects/dryfire.prefab|
+|assets/prefabs/weapons/semi auto pistol/skins/pistol_a_m15/effects/eject_clip.prefab|
+|assets/prefabs/weapons/semi auto pistol/skins/pistol_a_m15/effects/eject_pistol_shell.prefab|
+|assets/prefabs/weapons/semi auto pistol/skins/pistol_a_m15/effects/grab_clip.prefab|
+|assets/prefabs/weapons/semi auto pistol/skins/pistol_a_m15/effects/insert_clip.prefab|
+|assets/prefabs/weapons/semi auto pistol/skins/pistol_a_m15/effects/slide_back.prefab|
+|assets/prefabs/weapons/semi auto pistol/skins/pistol_a_m15/effects/slide_shut.prefab|
+|assets/prefabs/weapons/semi auto pistol/skins/pistol_a_m15/effects/w_drop_mag.prefab|
+|assets/prefabs/weapons/semi auto pistol/skins/pistol_a_m15/effects/w_eject_pistol_shell.prefab|
 |assets/prefabs/weapons/semi auto rifle/effects/attack.prefab|
 |assets/prefabs/weapons/semi auto rifle/effects/attack_muzzlebrake.prefab|
 |assets/prefabs/weapons/semi auto rifle/effects/attack_shake.prefab|
