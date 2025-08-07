@@ -128,7 +128,7 @@
 |<img src="https://czechrust.eu/img/textures2D/hat.gas.mask.png" width="100" height="80">|Gas Mask|hat.gas.mask|1659114910|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/burlap.gloves.new.png" width="100" height="80">|Burlap Gloves|burlap.gloves.new|21402876|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/burlap.gloves.png" width="100" height="80">|Leather Gloves|burlap.gloves|1366282552|ItemModWearable<br>ItemBlueprint<br>|
-|<img src="https://czechrust.eu/img/textures2D/roadsign.gloves.png" width="100" height="80">|Roadsign Gloves|roadsign.gloves|-699558439|ItemModWearable<br>ItemBlueprint<br>|
+|<img src="https://czechrust.eu/img/textures2D/roadsign.gloves.png" width="100" height="80">|Road Sign Gloves|roadsign.gloves|-699558439|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/tactical.gloves.png" width="100" height="80">|Tactical Gloves|tactical.gloves|-1108136649|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/woodarmor.gloves.png" width="100" height="80">|Wood Armor Gloves|woodarmor.gloves|-459159118|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/draculacape.png" width="100" height="80">|Dracula Cape|draculacape|-258574361|ItemModWearable<br>ItemBlueprint<br>|
@@ -196,6 +196,7 @@
 |<img src="https://czechrust.eu/img/textures2D/hazmatsuit.png" width="100" height="80">|Hazmat Suit|hazmatsuit|1266491000|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>ItemModContainerArmorSlot<br>ItemMod<br>|
 |<img src="https://czechrust.eu/img/textures2D/hazmatsuit.lumberjack.png" width="100" height="80">|Lumberjack Suit|hazmatsuit.lumberjack|861513346|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>ItemModContainerArmorSlot<br>ItemMod<br>|
 |<img src="https://czechrust.eu/img/textures2D/hazmatsuit.nomadsuit.png" width="100" height="80">|Nomad Suit|hazmatsuit.nomadsuit|491263800|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>ItemModContainerArmorSlot<br>ItemMod<br>|
+|<img src="https://czechrust.eu/img/textures2D/hazmatsuit.pilot.png" width="100" height="80">|Pilot Hazmat Suit|hazmatsuit.pilot|1065594600|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>ItemModContainerArmorSlot<br>ItemMod<br>|
 |<img src="https://czechrust.eu/img/textures2D/hazmatsuit_scientist.png" width="100" height="80">|Scientist Suit|hazmatsuit_scientist|-253079493|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
 |<img src="https://czechrust.eu/img/textures2D/hazmatsuit_scientist_arctic.png" width="100" height="80">|Arctic Scientist Suit|hazmatsuit_scientist_arctic|1107575710|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
 |<img src="https://czechrust.eu/img/textures2D/hazmatsuit_scientist_nvgm.png" width="100" height="80">|NVGM Scientist Suit|hazmatsuit_scientist_nvgm|86840834|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
@@ -268,6 +269,7 @@
 |<img src="https://czechrust.eu/img/textures2D/ceilinglight.png" width="100" height="80">|Ceiling Light|ceilinglight|1142993169|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/chair.png" width="100" height="80">|Chair|chair|1534542921|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/chair.icethrone.png" width="100" height="80">|Ice Throne|chair.icethrone|-1944704288|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|<img src="https://czechrust.eu/img/textures2D/chair.ejector.seat.png" width="100" height="80">|Salvaged Ejector Seat|chair.ejector.seat|-463012608|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/chickencoop.png" width="100" height="80">|Chicken Coop|chickencoop|-2018158920|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/clantable.png" width="100" height="80">|Clan Table|clantable|486661382|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/composter.png" width="100" height="80">|Composter|composter|-1488398114|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
@@ -416,7 +418,7 @@
 |<img src="https://czechrust.eu/img/textures2D/stash.small.png" width="100" height="80">|Small Stash|stash.small|-369760990|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/sofa.png" width="100" height="80">|Sofa|sofa|-555122905|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/sofa.pattern.png" width="100" height="80">|Sofa - Pattern|sofa.pattern|782422285|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
-|<img src="https://czechrust.eu/img/textures2D/spinner.wheel.png" width="100" height="80">|Spinning wheel|spinner.wheel|-1100422738|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>ItemModSign<br>ItemMod<br>|
+|<img src="https://czechrust.eu/img/textures2D/spinner.wheel.png" width="100" height="80">|Spinning Wheel|spinner.wheel|-1100422738|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>ItemModSign<br>ItemMod<br>|
 |<img src="https://czechrust.eu/img/textures2D/fishtrap.small.png" width="100" height="80">|Survival Fish Trap|fishtrap.small|559147458|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/table.png" width="100" height="80">|Table|table|593465182|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/workbench1.png" width="100" height="80">|Workbench Level 1|workbench1|1524187186|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
@@ -440,6 +442,7 @@
 |<img src="https://czechrust.eu/img/textures2D/gunrack_wide.horizontal.png" width="100" height="80">|Wide Weapon Rack|gunrack_wide.horizontal|-96256997|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>ItemModChildIO<br>|
 |<img src="https://czechrust.eu/img/textures2D/generator.wind.scrap.png" width="100" height="80">|Wind Turbine|generator.wind.scrap|-1819763926|ItemModEntity<br>ItemModDeployable<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/box.wooden.png" width="100" height="80">|Wood Storage Box|box.wooden|-180129657|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|<img src="https://czechrust.eu/img/textures2D/pilot.hazmat.box.wooden.png" width="100" height="80">|Black Box|pilot.hazmat.box.wooden|537946062|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/hazmatyoutooz.png" width="100" height="80">|Hazmat Youtooz|hazmatyoutooz|-1696379844|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/heavyscientistyoutooz.png" width="100" height="80">|Heavy Scientist Youtooz|heavyscientistyoutooz|-722629980|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/apple.png" width="100" height="80">|Apple|apple|1548091822|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>ItemModCompostable<br>ItemModFoodSpoiling<br>|
@@ -537,6 +540,7 @@
 |<img src="https://czechrust.eu/img/textures2D/door.key.png" width="100" height="80">|Door Key|door.key|-1112793865|ItemBlueprint<br>ItemModBurnable<br>|
 |<img src="https://czechrust.eu/img/textures2D/lock.key.png" width="100" height="80">|Key Lock|lock.key|-850982208|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/lock.code.png" width="100" height="80">|Code Lock|lock.code|1159991980|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|<img src="https://czechrust.eu/img/textures2D/lock.code.a.pilot.png" width="100" height="80">|Flight Control Codelock|lock.code.a.pilot|1586884551|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/blueprintbase.png" width="100" height="80">|Blueprint|blueprintbase|-996920608|ItemModMenuOption<br>ItemModStudyBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/chineselantern.png" width="100" height="80">|Chinese Lantern|chineselantern|-1916473915|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |<img src="https://czechrust.eu/img/textures2D/chineselanternwhite.png" width="100" height="80">|Chinese Lantern White|chineselanternwhite|-770304148|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
@@ -903,6 +907,7 @@
 |<img src="https://czechrust.eu/img/textures2D/tool.binoculars.png" width="100" height="80">|Binoculars|tool.binoculars|-1262185308|ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/explosive.timed.png" width="100" height="80">|Timed Explosive Charge|explosive.timed|1248356124|ItemModEntity<br>ItemBlueprint<br>ItemModSetFrequency<br>|
 |<img src="https://czechrust.eu/img/textures2D/tool.camera.png" width="100" height="80">|Camera|tool.camera|-1316706473|ItemModEntity<br>|
+|<img src="https://czechrust.eu/img/textures2D/compass.png" width="100" height="80">|Compass|compass|594041190|ItemModEntity<br>ItemBlueprint<br>ItemModCompass<br>|
 |<img src="https://czechrust.eu/img/textures2D/rf.detonator.png" width="100" height="80">|RF Transmitter|rf.detonator|596469572|ItemModEntity<br>ItemBlueprint<br>ItemModSetFrequency<br>|
 |<img src="https://czechrust.eu/img/textures2D/fishingrod.handmade.png" width="100" height="80">|Handmade Fishing Rod|fishingrod.handmade|1569882109|ItemModEntity<br>ItemBlueprint<br>ItemModBaitContainer<br>ItemMod<br>|
 |<img src="https://czechrust.eu/img/textures2D/flare.png" width="100" height="80">|Flare|flare|304481038|ItemModEntity<br>ItemBlueprint<br>|
@@ -1068,6 +1073,7 @@
 |<img src="https://czechrust.eu/img/textures2D/explosive.satchel.png" width="100" height="80">|Satchel Charge|explosive.satchel|-1878475007|ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/shotgun.pump.png" width="100" height="80">|Pump Shotgun|shotgun.pump|795371088|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |<img src="https://czechrust.eu/img/textures2D/pistol.semiauto.png" width="100" height="80">|Semi-Automatic Pistol|pistol.semiauto|818877484|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
+|<img src="https://czechrust.eu/img/textures2D/pistol.semiauto.a.m15.png" width="100" height="80">|M15 Semi-Automatic Pistol|pistol.semiauto.a.m15|1673224590|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |<img src="https://czechrust.eu/img/textures2D/rifle.semiauto.png" width="100" height="80">|Semi-Automatic Rifle|rifle.semiauto|-904863145|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |<img src="https://czechrust.eu/img/textures2D/rifle.sks.png" width="100" height="80">|SKS|rifle.sks|-348232115|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |<img src="https://czechrust.eu/img/textures2D/smg.2.png" width="100" height="80">|Custom SMG|smg.2|1796682209|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
