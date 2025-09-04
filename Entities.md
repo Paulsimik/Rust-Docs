@@ -898,6 +898,8 @@
 |ceilinglight.deployed|3953213470|CeilingLight<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/ceiling light/ceilinglight.deployed.prefab|
 |chair.deployed|1992774774|BaseChair<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/chair/chair.deployed.prefab|
 |chair.icethrone|3579302978|BaseChair<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/chair/ice_throne/chair.icethrone.prefab|
+|beanbag.seat.fabric.deployed|3824051769|BaseChair<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/chair/skins/cozy_beanbag_seat/beanbag.seat.fabric.deployed.prefab|
+|beanbag.seat.leather.deployed|1742249447|BaseChair<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/chair/skins/cozy_beanbag_seat/beanbag.seat.leather.deployed.prefab|
 |chair.ejectorseat|454013157|BaseChair<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/chair/skins/pilot_hazmat_ejector_seat/chair.ejectorseat.prefab|
 |ChickenCoop.deployed|1393130608|ChickenCoop<br>BaseCombatEntity<br>DecayEntity<br>Model<br>DestroyOnGroundMissing<br>GroundWatch<br>|assets/prefabs/deployable/chickencoop/chickencoop.deployed.prefab|
 |simplechicken.entity|1404456901|FarmableAnimal<br>SphereCollider<br>|assets/prefabs/deployable/chickencoop/simplechicken.entity.prefab|
@@ -986,6 +988,8 @@
 |lunar_near_year_2025_wall_divider_B|594151811|SimpleBuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/deployable/lunar_new_year_2025_wall_divider/lunar_near_year_2025_wall_divider_b.prefab|
 |lunar_near_year_2025_wall_divider_C|3245461981|SimpleBuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/deployable/lunar_new_year_2025_wall_divider/lunar_near_year_2025_wall_divider_c.prefab|
 |mailbox.deployed|2697131904|Mailbox<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/mailbox/mailbox.deployed.prefab|
+|mannequin_deployed.corpse|2081428822|GroundWatch<br>BoxCollider<br>ContainerCorpse<br>BaseCombatEntity<br>DecayEntity<br>StorageContainer<br>RepositionOnGroundMissing<br>|assets/prefabs/deployable/mannequin/mannequin_deployed.corpse.prefab|
+|mannequin_deployed|91888137|Mannequin<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/mannequin/mannequin_deployed.prefab|
 |MixingTable.deployed|2330684337|MixingTable<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/mixingtable/mixingtable.deployed.prefab|
 |electrical.modularcarlift.deployed|428217161|ModularCarGarage<br>BaseCombatEntity<br>DecayEntity<br>IOEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/modular car lift/electrical.modularcarlift.deployed.prefab|
 |monument_CCTV_desk.static|656924125|ComputerStation<br>BaseCombatEntity<br>Model<br>|assets/prefabs/deployable/monument_cctv_desk/monument_cctv_desk.static.prefab|
@@ -1040,6 +1044,15 @@
 |industrialconveyor.deployed|3459531520|IndustrialConveyor<br>BaseCombatEntity<br>DecayEntity<br>IOEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/playerioents/industrialconveyor/industrialconveyor.deployed.prefab|
 |industrialcrafter.deployed|273687723|IndustrialCrafter<br>BaseCombatEntity<br>DecayEntity<br>IOEntity<br>|assets/prefabs/deployable/playerioents/industrialcrafter/industrialcrafter.deployed.prefab|
 |industrialsplitter.deployed|4142483135|Splitter<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>GroundWatch<br>GroundWatch<br>|assets/prefabs/deployable/playerioents/industrialsplitter/industrialsplitter.deployed.prefab|
+|electric.chandelier.deployed|2172878916|Chandelier<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/playerioents/lights/cozypack/chandelier/electric.chandelier.deployed.prefab|
+|electric.chandelier.worldmodel|3581872201|ColliderInfo<br>WorldModel<br>|assets/prefabs/deployable/playerioents/lights/cozypack/chandelier/electric.chandelier.worldmodel.prefab|
+|electric.tablelamp.deployed|951064|SimpleLight<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/playerioents/lights/cozypack/electrictablelamp/electric.tablelamp.deployed.prefab|
+|electric.fairylights.deployed|2715027079|StringLights<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/playerioents/lights/cozypack/fairylights/electric.fairylights.deployed.prefab|
+|electric.fluorescentlight.ceiling.deployed|3414812695|CeilingLight<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>ColliderInfo<br>|assets/prefabs/deployable/playerioents/lights/cozypack/fluorescentlights/ceiling/electric.fluorescentlight.ceiling.deployed.prefab|
+|electric.fluorescentlight.deployed|297156836|SimpleLight<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/playerioents/lights/cozypack/fluorescentlights/electric.fluorescentlight.deployed.prefab|
+|electric.bulbstringlights.deployed|790776081|StringLights<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/playerioents/lights/cozypack/hangingbulbs/electric.bulbstringlights.deployed.prefab|
+|electric.spotlight.deployed|13233315|OrientableLight<br>BaseCombatEntity<br>DecayEntity<br>IOEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/playerioents/lights/cozypack/orientablespotlight/electric.spotlight.deployed.prefab|
+|electric.spotlight.tripod.deployed|1179002613|OrientableLight<br>BaseCombatEntity<br>DecayEntity<br>IOEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/playerioents/lights/cozypack/orientablespotlight/tripod/electric.spotlight.tripod.deployed.prefab|
 |electric.flasherlight.deployed|3742301494|FlasherLight<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/playerioents/lights/flasherlight/electric.flasherlight.deployed.prefab|
 |SimpleLight|1797934483|SimpleLight<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/playerioents/lights/simplelight.prefab|
 |electric.sirenlight.deployed|2436926577|SirenLight<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/playerioents/lights/sirenlight/electric.sirenlight.deployed.prefab|
@@ -1133,6 +1146,8 @@
 |VendingFront|1107947433|Model<br>VendingMachineFront<br>|assets/prefabs/deployable/vendingmachine/vendingfront.prefab|
 |vendingmachine.deployed.corpse|2525285291|ContainerCorpse<br>BaseCombatEntity<br>DecayEntity<br>StorageContainer<br>GroundWatch<br>RepositionOnGroundMissing<br>BoxCollider<br>ColliderInfo<br>|assets/prefabs/deployable/vendingmachine/vendingmachine.deployed.corpse.prefab|
 |vendingmachine.deployed|186002280|VendingMachine<br>BaseCombatEntity<br>DecayEntity<br>IOEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/vendingmachine/vendingmachine.deployed.prefab|
+|electric.wallcabinet.corpse|3529359528|ContainerCorpse<br>BaseCombatEntity<br>DecayEntity<br>StorageContainer<br>GroundWatch<br>RepositionOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/wall cabinet/electric.wallcabinet.corpse.prefab|
+|electric.wallcabinet.deployed|3113345730|ContainerIOEntity<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/wall cabinet/electric.wallcabinet.deployed.prefab|
 |wall_single_shallow_shelf|4019546054|DecorDeployable<br>BaseCombatEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/wall_single_shallow_shelves/wall_single_shallow_shelf.prefab|
 |water_catcher_large|3418194637|WaterCatcher<br>BaseCombatEntity<br>ContainerIOEntity<br>DecayEntity<br>IOEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/water catcher/water_catcher_large.prefab|
 |water_catcher_small|3661185369|WaterCatcher<br>BaseCombatEntity<br>ContainerIOEntity<br>DecayEntity<br>IOEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>CapsuleCollider<br>|assets/prefabs/deployable/water catcher/water_catcher_small.prefab|
@@ -1527,8 +1542,7 @@
 |sign.neon.xl.animated|708840119|NeonSign<br>BaseCombatEntity<br>DecayEntity<br>IOEntity<br>DestroyOnGroundMissing<br>GroundWatch<br>BoxCollider<br>|assets/prefabs/misc/xmas/neon_sign/sign.neon.xl.animated.prefab|
 |sign.neon.xl|3168507223|NeonSign<br>BaseCombatEntity<br>DecayEntity<br>IOEntity<br>DestroyOnGroundMissing<br>GroundWatch<br>BoxCollider<br>|assets/prefabs/misc/xmas/neon_sign/sign.neon.xl.prefab|
 |pookie_deployed|1447082346|BaseCombatEntity<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/misc/xmas/pookie/pookie_deployed.prefab|
-|PoweredLightsDeployer|1403430371|PoweredLightsDeployer<br>|assets/prefabs/misc/xmas/poweredlights/poweredlightsdeployer.prefab|
-|xmas.advanced.lights.deployed|132493746|AdvancedChristmasLights<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/misc/xmas/poweredlights/xmas.advanced.lights.deployed.prefab|
+|xmas.advanced.lights.deployed|132493746|ChristmasLights<br>BaseCombatEntity<br>DecayEntity<br>IOEntity<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/misc/xmas/poweredlights/xmas.advanced.lights.deployed.prefab|
 |sled.deployed.xmas|3689934812|Sled<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>PhysicsEffects<br>|assets/prefabs/misc/xmas/sled/skins/sled.deployed.xmas.prefab|
 |sled.deployed|4063253222|Sled<br>BaseCombatEntity<br>BaseMountable<br>Rigidbody<br>PhysicsEffects<br>|assets/prefabs/misc/xmas/sled/sled.deployed.prefab|
 |presentdrop|1473303316|SupplyDrop<br>BaseCombatEntity<br>DecayEntity<br>StorageContainer<br>EntityTimedDestroy<br>Rigidbody<br>|assets/prefabs/misc/xmas/sleigh/presentdrop.prefab|
