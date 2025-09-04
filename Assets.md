@@ -473,8 +473,10 @@
 |assets/content/player/clothing/skin/player.male.light03.asset|
 |assets/content/player/clothing/skin/player.male.light04.asset|
 |assets/content/player/clothing/skin/player.male.light05.asset|
+|assets/content/player/clothing/skin/player.mannequin.asset|
 |assets/content/player/clothing/skin/player.skinset.female.asset|
 |assets/content/player/clothing/skin/player.skinset.male.asset|
+|assets/content/player/clothing/skin/player.skinset.mannequin.asset|
 |assets/content/player/server side ragdoll bone pos data.asset|
 |assets/content/properties/armor/armor.all.asset|
 |assets/content/properties/armor/armor.body.asset|
@@ -2519,7 +2521,10 @@
 |assets/content/props/strobe light/sound/slow.asset|
 |assets/content/props/strobe light/strobelight.sitem.asset|
 |assets/content/props/train_tunnels/barricade-damage.asset|
-|assets/content/renderpipelinesettings/rust render pipeline asset.asset|
+|assets/content/renderpipelinesettings/defaultrustrenderer.asset|
+|assets/content/renderpipelinesettings/rendererfeatures/decalsrendererfeature.asset|
+|assets/content/renderpipelinesettings/rendererfeatures/spatialenvironmentvolumerendererfeature.asset|
+|assets/content/renderpipelinesettings/rustrenderpipelineasset.asset|
 |assets/content/shaders/subsurfaceprofiles/ssp_skindefault.asset|
 |assets/content/sound/ambience/ambience-none.ambience-def.asset|
 |assets/content/sound/ambience/animals/sting-coyote/sting-coyote.ambience-def.asset|
@@ -4927,6 +4932,8 @@
 |assets/content/vehicles/minicopter/sound/engine-stop.asset|
 |assets/content/vehicles/minicopter/sound/minicopter-active-rattle-loop.asset|
 |assets/content/vehicles/minicopter/sound/minicopter-damaged.asset|
+|assets/content/vehicles/minicopter/sound/minicopter-damaged-heavy-loop.asset|
+|assets/content/vehicles/minicopter/sound/minicopter-damaged-medium-loop.asset|
 |assets/content/vehicles/minicopter/sound/minicopter-explosion.asset|
 |assets/content/vehicles/minicopter/sound/minicopter-explosion-debris.asset|
 |assets/content/vehicles/minicopter/sound/minicopter-phys-impact.asset|
@@ -5863,6 +5870,7 @@
 |assets/prefabs/deployable/cctvcamera/cctv-camera-viewing-loop.asset|
 |assets/prefabs/deployable/cctvcamera/cctv-camera-viewing-start.asset|
 |assets/prefabs/deployable/cctvcamera/cctv-camera-viewing-stop.asset|
+|assets/prefabs/deployable/ceiling light/ceilinglight.skinnable.asset|
 |assets/prefabs/deployable/ceiling light/sound/ceiling-light-deploy.asset|
 |assets/prefabs/deployable/ceiling light/sound/ceiling-light-turn-off.asset|
 |assets/prefabs/deployable/ceiling light/sound/ceiling-light-turn-off-quiet.asset|
@@ -5870,7 +5878,13 @@
 |assets/prefabs/deployable/ceiling light/sound/ceiling-light-turn-on-quiet.asset|
 |assets/prefabs/deployable/chair/chair.deployed.skinnable.asset|
 |assets/prefabs/deployable/chair/ice_throne/chair.icethrone.skin.asset|
+|assets/prefabs/deployable/chair/skins/cozy_beanbag_seat/beanbag.seat.fabric.skin.asset|
+|assets/prefabs/deployable/chair/skins/cozy_beanbag_seat/beanbag.seat.leather.skin.asset|
 |assets/prefabs/deployable/chair/skins/pilot_hazmat_ejector_seat/chair.ejector.seat.skin.asset|
+|assets/prefabs/deployable/chair/sound/beanbag-chair-deploy.asset|
+|assets/prefabs/deployable/chair/sound/beanbag-chair-destroy.asset|
+|assets/prefabs/deployable/chair/sound/beanbag-chair-dismount.asset|
+|assets/prefabs/deployable/chair/sound/beanbag-chair-mount.asset|
 |assets/prefabs/deployable/chair/sound/chair-deploy.asset|
 |assets/prefabs/deployable/chair/sound/chair-dismount.asset|
 |assets/prefabs/deployable/chair/sound/chair-mount.asset|
@@ -6028,6 +6042,26 @@
 |assets/prefabs/deployable/mailbox/sound/mailbox-close.asset|
 |assets/prefabs/deployable/mailbox/sound/mailbox-deploy.asset|
 |assets/prefabs/deployable/mailbox/sound/mailbox-open.asset|
+|assets/prefabs/deployable/mannequin/poses/clappose.asset|
+|assets/prefabs/deployable/mannequin/poses/comeonpose.asset|
+|assets/prefabs/deployable/mannequin/poses/coolpose.asset|
+|assets/prefabs/deployable/mannequin/poses/defaultpose.asset|
+|assets/prefabs/deployable/mannequin/poses/fistspose.asset|
+|assets/prefabs/deployable/mannequin/poses/handsonhipspose.asset|
+|assets/prefabs/deployable/mannequin/poses/idlepose.asset|
+|assets/prefabs/deployable/mannequin/poses/okpose.asset|
+|assets/prefabs/deployable/mannequin/poses/peacepose.asset|
+|assets/prefabs/deployable/mannequin/poses/pointpose.asset|
+|assets/prefabs/deployable/mannequin/poses/positivepose.asset|
+|assets/prefabs/deployable/mannequin/poses/shrugpose.asset|
+|assets/prefabs/deployable/mannequin/poses/strongmanpose.asset|
+|assets/prefabs/deployable/mannequin/poses/thumbsdownpose.asset|
+|assets/prefabs/deployable/mannequin/poses/thumbsuppose.asset|
+|assets/prefabs/deployable/mannequin/poses/wavepose.asset|
+|assets/prefabs/deployable/mannequin/sound/mannequin-change-pose.asset|
+|assets/prefabs/deployable/mannequin/sound/mannequin-close.asset|
+|assets/prefabs/deployable/mannequin/sound/mannequin-deploy.asset|
+|assets/prefabs/deployable/mannequin/sound/mannequin-open.asset|
 |assets/prefabs/deployable/mixingtable/sound/mixing-table-close.asset|
 |assets/prefabs/deployable/mixingtable/sound/mixing-table-deploy.asset|
 |assets/prefabs/deployable/mixingtable/sound/mixing-table-drop.asset|
@@ -6111,6 +6145,13 @@
 |assets/prefabs/deployable/playerioents/industrialcrafter/sound/industrial-crafter-open.asset|
 |assets/prefabs/deployable/playerioents/industrialcrafter/sound/industrial-crafter-start.asset|
 |assets/prefabs/deployable/playerioents/industrialcrafter/sound/industrial-crafter-stop.asset|
+|assets/prefabs/deployable/playerioents/lights/cozypack/chandelier/sound/chandelier-adjust-height.asset|
+|assets/prefabs/deployable/playerioents/lights/cozypack/chandelier/sound/chandelier-deploy.asset|
+|assets/prefabs/deployable/playerioents/lights/cozypack/electrictablelamp/sound/electric-table-lamp-deploy.asset|
+|assets/prefabs/deployable/playerioents/lights/cozypack/fluorescentlights/ceiling/electric.fluorescentlight.ceiling.skin.asset|
+|assets/prefabs/deployable/playerioents/lights/cozypack/orientablespotlight/sound/spot-light-deploy-mounted.asset|
+|assets/prefabs/deployable/playerioents/lights/cozypack/orientablespotlight/sound/spot-light-deploy-tripod.asset|
+|assets/prefabs/deployable/playerioents/lights/cozypack/orientablespotlight/sound/spot-light-reorient.asset|
 |assets/prefabs/deployable/playerioents/poweredwaterpurifier/sound/powered-water-purifier-loop.ambience-def.asset|
 |assets/prefabs/deployable/playerioents/poweredwaterpurifier/sound/powered-water-purifier-loop.ambience-list.asset|
 |assets/prefabs/deployable/playerioents/poweredwaterpurifier/sound/powered-water-purifier-loop.asset|
@@ -6295,6 +6336,9 @@
 |assets/prefabs/deployable/vendingmachine/sound/vending-machine-deploy.asset|
 |assets/prefabs/deployable/vendingmachine/sound/vending-machine-open.asset|
 |assets/prefabs/deployable/vendingmachine/vendingmachine.skinnable.asset|
+|assets/prefabs/deployable/wall cabinet/sound/wall-cabinet-close.asset|
+|assets/prefabs/deployable/wall cabinet/sound/wall-cabinet-deploy.asset|
+|assets/prefabs/deployable/wall cabinet/sound/wall-cabinet-open.asset|
 |assets/prefabs/deployable/wall_single_shallow_shelves/wall.single.shallow.shelves.sitem.asset|
 |assets/prefabs/deployable/water catcher/sound/water-catcher-close.asset|
 |assets/prefabs/deployable/water catcher/sound/water-catcher-deploy.asset|
@@ -6318,6 +6362,7 @@
 |assets/prefabs/deployable/woodenbox/woodbox_deployed.skinnable.asset|
 |assets/prefabs/deployable/youtooz_figurines/youtooz_hazmat.skin.asset|
 |assets/prefabs/deployable/youtooz_figurines/youtooz_heavy.skin.asset|
+|assets/prefabs/dlc/pack_sitems/decor_lighting_pack/decor.lighting.dlc.sitem.asset|
 |assets/prefabs/food/berries/sound/ui-berries-drop.asset|
 |assets/prefabs/food/berries/sound/ui-berries-pick-up.asset|
 |assets/prefabs/food/bota bag/sound/bota-bag-cork-squeak.asset|
@@ -7443,6 +7488,9 @@
 |assets/prefabs/voiceaudio/telephone/sound/telephone-ring-loop-payphone.asset|
 |assets/prefabs/voiceaudio/telephone/sound/telephone-ring-mobile-loop.asset|
 |assets/prefabs/voiceaudio/telephone/sound/telephone-ring-remote.asset|
+|assets/prefabs/wallpaper/skins/exhibit_decor_dlc/ceilingpaper.goldstars.hexagon.a.skin.asset|
+|assets/prefabs/wallpaper/skins/exhibit_decor_dlc/floorpaper.carpet.shaggy.a.skin.asset|
+|assets/prefabs/wallpaper/skins/exhibit_decor_dlc/wallpaper.tiles.hexagon.a.skin.asset|
 |assets/prefabs/wallpaper/skins/floor&ceiling_pack_dlc/ceilingpaper.metalsheet.a.skin.asset|
 |assets/prefabs/wallpaper/skins/floor&ceiling_pack_dlc/ceilingpaper.metalsheet.b.skin.asset|
 |assets/prefabs/wallpaper/skins/floor&ceiling_pack_dlc/ceilingpaper.metalsheet.c.skin.asset|
