@@ -1016,6 +1016,8 @@
 |assets/prefabs/deployable/beehive/effects/beehive-deploy.prefab|
 |assets/prefabs/deployable/campfire/effects/campfire-deploy.prefab|
 |assets/prefabs/deployable/ceiling light/effects/ceiling-light-deploy.prefab|
+|assets/prefabs/deployable/chair/effects/beanbag-chair-deploy.prefab|
+|assets/prefabs/deployable/chair/effects/beanbag-chair-destroy.prefab|
 |assets/prefabs/deployable/chair/effects/chair-deploy.prefab|
 |assets/prefabs/deployable/chair/ice_throne/effects/icethrone-deploy.prefab|
 |assets/prefabs/deployable/chickencoop/effects/chicken-coop-chicken-hatch.prefab|
@@ -1056,6 +1058,8 @@
 |assets/prefabs/deployable/liquidbarrel/effects/taploop.prefab|
 |assets/prefabs/deployable/locker/effects/locker-deploy.prefab|
 |assets/prefabs/deployable/mailbox/effects/mailbox-deploy.prefab|
+|assets/prefabs/deployable/mannequin/effects/mannequin-change-pose.prefab|
+|assets/prefabs/deployable/mannequin/effects/mannequin-deploy.prefab|
 |assets/prefabs/deployable/mixingtable/effects/mixingtable.enabled.vfx.prefab|
 |assets/prefabs/deployable/mixingtable/effects/mixing-table-deploy.prefab|
 |assets/prefabs/deployable/modular car lift/effects/modular-car-lift-addremovelock.prefab|
@@ -1074,6 +1078,12 @@
 |assets/prefabs/deployable/playerioents/industrialconveyor/effects/event lights.prefab|
 |assets/prefabs/deployable/playerioents/industrialconveyor/effects/industrial-conveyor-deploy.prefab|
 |assets/prefabs/deployable/playerioents/industrialcrafter/effects/industrial-crafter-deploy.prefab|
+|assets/prefabs/deployable/playerioents/lights/cozypack/chandelier/effects/chandelier-adjust-height.prefab|
+|assets/prefabs/deployable/playerioents/lights/cozypack/chandelier/effects/chandelier-deploy.prefab|
+|assets/prefabs/deployable/playerioents/lights/cozypack/electrictablelamp/effects/electric-table-lamp-deploy.prefab|
+|assets/prefabs/deployable/playerioents/lights/cozypack/orientablespotlight/effects/electric-spotlight-deploy.prefab|
+|assets/prefabs/deployable/playerioents/lights/cozypack/orientablespotlight/effects/electric-spotlight-reorient.prefab|
+|assets/prefabs/deployable/playerioents/lights/cozypack/orientablespotlight/effects/electric-spotlight-tripod-deploy.prefab|
 |assets/prefabs/deployable/playerioents/teslacoil/effects/pfx tesla coil enabled.prefab|
 |assets/prefabs/deployable/playerioents/waterpump/effects/waterpump-deploy.prefab|
 |assets/prefabs/deployable/ptz security camera/effects/ptz-camera-deploy.prefab|
@@ -1126,6 +1136,7 @@
 |assets/prefabs/deployable/tuna can wall lamp/effects/tuna-can-lamp-deploy.prefab|
 |assets/prefabs/deployable/vendingmachine/effects/vending-machine-deploy.prefab|
 |assets/prefabs/deployable/vendingmachine/effects/vending-machine-purchase-human.prefab|
+|assets/prefabs/deployable/wall cabinet/effects/wall-cabinet-deploy.prefab|
 |assets/prefabs/deployable/water catcher/effects/water-catcher-deploy.prefab|
 |assets/prefabs/deployable/water catcher/effects/water-catcher-large-deploy.prefab|
 |assets/prefabs/deployable/waterpurifier/effects/water-purifier-deploy.prefab|
