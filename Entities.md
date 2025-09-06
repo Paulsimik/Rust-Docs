@@ -649,10 +649,10 @@
 |rocket_mlrs|1467029527|MLRSRocket<br>MLRSServerProjectile<br>CapsuleCollider<br>Rigidbody<br>|assets/content/vehicles/mlrs/rocket_mlrs.prefab|
 |mlrs_dashboard_storage|3448345668|StorageContainer<br>BaseCombatEntity<br>|assets/content/vehicles/mlrs/subents/mlrs_dashboard_storage.prefab|
 |mlrs_rocket_storage|1219574627|StorageContainer<br>BaseCombatEntity<br>|assets/content/vehicles/mlrs/subents/mlrs_rocket_storage.prefab|
+|_base_car_chassis.entity|3561890772|Rigidbody<br>ModularCar<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>GroundVehicle<br>|assets/content/vehicles/modularcar/_base_car_chassis.entity.prefab|
 |2module_car_spawned.entity|3730875555|Rigidbody<br>ModularCar<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>GroundVehicle<br>MagnetLiftable<br>Spawnable<br>|assets/content/vehicles/modularcar/2module_car_spawned.entity.prefab|
 |3module_car_spawned.entity|3024716654|Rigidbody<br>ModularCar<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>GroundVehicle<br>MagnetLiftable<br>Spawnable<br>|assets/content/vehicles/modularcar/3module_car_spawned.entity.prefab|
 |4module_car_spawned.entity|1823731789|Rigidbody<br>ModularCar<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>GroundVehicle<br>MagnetLiftable<br>Spawnable<br>|assets/content/vehicles/modularcar/4module_car_spawned.entity.prefab|
-|_base_car_chassis.entity|3561890772|Rigidbody<br>ModularCar<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>GroundVehicle<br>|assets/content/vehicles/modularcar/_base_car_chassis.entity.prefab|
 |car_2mod_01|307768548|Rigidbody<br>ModularCar<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>GroundVehicle<br>MagnetLiftable<br>Spawnable<br>|assets/content/vehicles/modularcar/admin_prefabs/2_modules/car_2mod_01.prefab|
 |car_2mod_02|3161288810|Rigidbody<br>ModularCar<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>GroundVehicle<br>MagnetLiftable<br>Spawnable<br>|assets/content/vehicles/modularcar/admin_prefabs/2_modules/car_2mod_02.prefab|
 |car_2mod_03|931538067|Rigidbody<br>ModularCar<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>GroundVehicle<br>MagnetLiftable<br>Spawnable<br>|assets/content/vehicles/modularcar/admin_prefabs/2_modules/car_2mod_03.prefab|
@@ -687,6 +687,7 @@
 |car_chassis_2module.entity|3386615946|Rigidbody<br>ModularCar<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>GroundVehicle<br>MagnetLiftable<br>|assets/content/vehicles/modularcar/car_chassis_2module.entity.prefab|
 |car_chassis_3module.entity|4140947108|Rigidbody<br>ModularCar<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>GroundVehicle<br>MagnetLiftable<br>|assets/content/vehicles/modularcar/car_chassis_3module.entity.prefab|
 |car_chassis_4module.entity|1682477379|Rigidbody<br>ModularCar<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>GroundVehicle<br>MagnetLiftable<br>|assets/content/vehicles/modularcar/car_chassis_4module.entity.prefab|
+|_base_car_module|67955234||assets/content/vehicles/modularcar/module_entities/_base_car_module.prefab|
 |1module_cockpit|3119250179|VehicleModuleSeating<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>ModularCarCentralLockingSwitch<br>|assets/content/vehicles/modularcar/module_entities/1module_cockpit.prefab|
 |1module_cockpit_armored|2424796981|ModularCarCentralLockingSwitch<br>VehicleModuleSeating<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>|assets/content/vehicles/modularcar/module_entities/1module_cockpit_armored.prefab|
 |1module_cockpit_with_engine|3414464968|ModularCarCentralLockingSwitch<br>VehicleModuleEngine<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>BaseVehicleModule<br>VehicleModuleSeating<br>|assets/content/vehicles/modularcar/module_entities/1module_cockpit_with_engine.prefab|
@@ -700,7 +701,6 @@
 |2module_flatbed|2028363846|BaseVehicleModule<br>BaseCombatEntity<br>BaseMountable<br>|assets/content/vehicles/modularcar/module_entities/2module_flatbed.prefab|
 |2module_fuel_tank|4177081746|VehicleModuleStorage<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>BaseVehicleModule<br>|assets/content/vehicles/modularcar/module_entities/2module_fuel_tank.prefab|
 |2module_passengers|2510161370|VehicleModuleSeating<br>BaseCombatEntity<br>BaseMountable<br>BaseVehicle<br>|assets/content/vehicles/modularcar/module_entities/2module_passengers.prefab|
-|_base_car_module|67955234||assets/content/vehicles/modularcar/module_entities/_base_car_module.prefab|
 |modular_car_1mod_storage|3180664242|StorageContainer<br>BaseCombatEntity<br>|assets/content/vehicles/modularcar/subents/modular_car_1mod_storage.prefab|
 |modular_car_1mod_trade|4155258346|ModularVehicleShopFront<br>BaseCombatEntity<br>DecayEntity<br>StorageContainer<br>BoxCollider<br>|assets/content/vehicles/modularcar/subents/modular_car_1mod_trade.prefab|
 |modular_car_2mod_fuel_tank|1803881164|LiquidContainer<br>BaseCombatEntity<br>DecayEntity<br>IOEntity<br>IOEntityMovementChecker<br>|assets/content/vehicles/modularcar/subents/modular_car_2mod_fuel_tank.prefab|
@@ -800,6 +800,26 @@
 |rocket_hv|1217937936|TimedExplosive<br>ServerProjectile<br>|assets/prefabs/ammo/rocket/rocket_hv.prefab|
 |rocket_smoke|1790390506|TimedExplosive<br>ServerProjectile<br>|assets/prefabs/ammo/rocket/rocket_smoke.prefab|
 |TorpedoStraight|110435217|TimedExplosive<br>TorpedoServerProjectile<br>|assets/prefabs/ammo/torpedo/torpedostraight.prefab|
+|floor.frame|372561515|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building core/floor.frame/floor.frame.prefab|
+|floor.triangle.frame|995542180|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building core/floor.triangle.frame/floor.triangle.frame.prefab|
+|floor.triangle|2925153068|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building core/floor.triangle/floor.triangle.prefab|
+|floor|916411076|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building core/floor/floor.prefab|
+|foundation.steps|1886694238|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>NavMeshObstacle<br>|assets/prefabs/building core/foundation.steps/foundation.steps.prefab|
+|foundation.triangle|3234260181|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>NavMeshObstacle<br>|assets/prefabs/building core/foundation.triangle/foundation.triangle.prefab|
+|foundation|72949757|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>NavMeshObstacle<br>|assets/prefabs/building core/foundation/foundation.prefab|
+|ramp|623529040|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>NavMeshObstacle<br>|assets/prefabs/building core/ramp/ramp.prefab|
+|roof.triangle|870964632|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building core/roof.triangle/roof.triangle.prefab|
+|roof|3895720527|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building core/roof/roof.prefab|
+|block.stair.lshape|3250880722|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building core/stairs.l/block.stair.lshape.prefab|
+|block.stair.spiral.triangle|447548514|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building core/stairs.spiral.triangle/block.stair.spiral.triangle.prefab|
+|block.stair.spiral|2700861605|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building core/stairs.spiral/block.stair.spiral.prefab|
+|block.stair.ushape|1961464529|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building core/stairs.u/block.stair.ushape.prefab|
+|wall.doorway|803699375|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building core/wall.doorway/wall.doorway.prefab|
+|wall.frame|919059809|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building core/wall.frame/wall.frame.prefab|
+|wall.half|3531096400|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building core/wall.half/wall.half.prefab|
+|wall.low|310235277|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building core/wall.low/wall.low.prefab|
+|wall.window|2326657495|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building core/wall.window/wall.window.prefab|
+|wall|2194854973|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building core/wall/wall.prefab|
 |door.double.hinged.metal|1418678061|Door<br>BaseCombatEntity<br>DecayEntity<br>StabilityEntity<br>Model<br>|assets/prefabs/building/door.double.hinged/door.double.hinged.metal.prefab|
 |door.double.hinged.toptier|201071098|Door<br>BaseCombatEntity<br>DecayEntity<br>StabilityEntity<br>Model<br>EntityFlag_Toggle<br>|assets/prefabs/building/door.double.hinged/door.double.hinged.toptier.prefab|
 |door.double.hinged.wood|43442943|Door<br>BaseCombatEntity<br>DecayEntity<br>StabilityEntity<br>Model<br>|assets/prefabs/building/door.double.hinged/door.double.hinged.wood.prefab|
@@ -810,10 +830,10 @@
 |floor.ladder.hatch|1655365262|Door<br>BaseCombatEntity<br>DecayEntity<br>StabilityEntity<br>Model<br>EntityFlag_Toggle<br>|assets/prefabs/building/floor.ladder.hatch/floor.ladder.hatch.prefab|
 |floor.triangle.grill|2670383301|SimpleBuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building/floor.triangle.grill/floor.triangle.grill.prefab|
 |floor.triangle.ladder.hatch|707866529|Door<br>BaseCombatEntity<br>DecayEntity<br>StabilityEntity<br>Model<br>EntityFlag_Toggle<br>|assets/prefabs/building/floor.triangle.ladder.hatch/floor.triangle.ladder.hatch.prefab|
-|gates.external.high.stone|4211374971|Gate<br>BaseCombatEntity<br>DecayEntity<br>AnimatedBuildingBlock<br>StabilityEntity<br>Model<br>|assets/prefabs/building/gates.external.high/gates.external.high.stone/gates.external.high.stone.prefab|
-|gates.external.high.wood|95147612|Gate<br>BaseCombatEntity<br>DecayEntity<br>AnimatedBuildingBlock<br>StabilityEntity<br>Model<br>|assets/prefabs/building/gates.external.high/gates.external.high.wood/gates.external.high.wood.prefab|
 |gates.external.high.adobe|1587209110|Gate<br>BaseCombatEntity<br>DecayEntity<br>AnimatedBuildingBlock<br>StabilityEntity<br>Model<br>|assets/prefabs/building/gates.external.high.adobe/gates.external.high.adobe.prefab|
 |gates.external.high.legacy|907778990|Gate<br>BaseCombatEntity<br>DecayEntity<br>AnimatedBuildingBlock<br>StabilityEntity<br>Model<br>|assets/prefabs/building/gates.external.high.legacy/gates.external.high.legacy.prefab|
+|gates.external.high.stone|4211374971|Gate<br>BaseCombatEntity<br>DecayEntity<br>AnimatedBuildingBlock<br>StabilityEntity<br>Model<br>|assets/prefabs/building/gates.external.high/gates.external.high.stone/gates.external.high.stone.prefab|
+|gates.external.high.wood|95147612|Gate<br>BaseCombatEntity<br>DecayEntity<br>AnimatedBuildingBlock<br>StabilityEntity<br>Model<br>|assets/prefabs/building/gates.external.high/gates.external.high.wood/gates.external.high.wood.prefab|
 |ladder.wooden.wall|2150203378|GroundWatch<br>DestroyOnGroundMissing<br>BaseLadder<br>BoxCollider<br>|assets/prefabs/building/ladder.wall.wood/ladder.wooden.wall.prefab|
 |legacy.shelter.wood.deployed|2243018404|LegacyShelter<br>BaseCombatEntity<br>NavMeshObstacle<br>|assets/prefabs/building/legacy.shelter.wood/legacy.shelter.wood.deployed.prefab|
 |legacy.shelter.wood.door|1286050339|LegacyShelterDoor<br>BaseCombatEntity<br>DecayEntity<br>AnimatedBuildingBlock<br>StabilityEntity<br>Model<br>|assets/prefabs/building/legacy.shelter.wood/legacy.shelter.wood.door.prefab|
@@ -844,26 +864,6 @@
 |wall.window.glass.reinforced|2441557732|SimpleBuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building/wall.window.reinforcedglass/wall.window.glass.reinforced.prefab|
 |shutter.wood.a|2527588322|Door<br>BaseCombatEntity<br>DecayEntity<br>StabilityEntity<br>Model<br>|assets/prefabs/building/wall.window.shutter/shutter.wood.a.prefab|
 |watchtower.wood|2089327217|DecayEntity<br>GroundWatch<br>|assets/prefabs/building/watchtower.wood/watchtower.wood.prefab|
-|floor|916411076|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building core/floor/floor.prefab|
-|floor.frame|372561515|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building core/floor.frame/floor.frame.prefab|
-|floor.triangle|2925153068|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building core/floor.triangle/floor.triangle.prefab|
-|floor.triangle.frame|995542180|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building core/floor.triangle.frame/floor.triangle.frame.prefab|
-|foundation|72949757|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>NavMeshObstacle<br>|assets/prefabs/building core/foundation/foundation.prefab|
-|foundation.steps|1886694238|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>NavMeshObstacle<br>|assets/prefabs/building core/foundation.steps/foundation.steps.prefab|
-|foundation.triangle|3234260181|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>NavMeshObstacle<br>|assets/prefabs/building core/foundation.triangle/foundation.triangle.prefab|
-|ramp|623529040|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>NavMeshObstacle<br>|assets/prefabs/building core/ramp/ramp.prefab|
-|roof|3895720527|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building core/roof/roof.prefab|
-|roof.triangle|870964632|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building core/roof.triangle/roof.triangle.prefab|
-|block.stair.lshape|3250880722|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building core/stairs.l/block.stair.lshape.prefab|
-|block.stair.spiral|2700861605|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building core/stairs.spiral/block.stair.spiral.prefab|
-|block.stair.spiral.triangle|447548514|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building core/stairs.spiral.triangle/block.stair.spiral.triangle.prefab|
-|block.stair.ushape|1961464529|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building core/stairs.u/block.stair.ushape.prefab|
-|wall|2194854973|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building core/wall/wall.prefab|
-|wall.doorway|803699375|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building core/wall.doorway/wall.doorway.prefab|
-|wall.frame|919059809|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building core/wall.frame/wall.frame.prefab|
-|wall.half|3531096400|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building core/wall.half/wall.half.prefab|
-|wall.low|310235277|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building core/wall.low/wall.low.prefab|
-|wall.window|2326657495|BuildingBlock<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/building core/wall.window/wall.window.prefab|
 |debris.stone.external.wall|3573484548|GroundWatch<br>DebrisEntity<br>|assets/prefabs/debris/debris.stone.external.wall.prefab|
 |debris.wall|1424066995|GroundWatch<br>DestroyOnGroundMissing<br>DebrisEntity<br>BoxCollider<br>|assets/prefabs/debris/debris.wall.prefab|
 |debris.wood.external.wall|2304619954|GroundWatch<br>DebrisEntity<br>|assets/prefabs/debris/debris.wood.external.wall.prefab|
@@ -941,17 +941,17 @@
 |RomanCandleBlue|3989759960|PFXRepeatingFirework<br>BaseFirework<br>BaseCombatEntity<br>CapsuleCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/fireworks/romancandleblue.prefab|
 |RomanCandleGreen|1833523633|PFXRepeatingFirework<br>BaseFirework<br>BaseCombatEntity<br>CapsuleCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/fireworks/romancandlegreen.prefab|
 |RomanCandleViolet|4013199910|PFXRepeatingFirework<br>BaseFirework<br>BaseCombatEntity<br>CapsuleCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/fireworks/romancandleviolet.prefab|
+|VolcanoFirework|4042905807|BaseFirework<br>MeshCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/fireworks/volcanofirework.prefab|
 |VolcanoFirework-Red|1311124308|BaseFirework<br>MeshCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/fireworks/volcanofirework-red.prefab|
 |VolcanoFirework-Violet|2771932546|BaseFirework<br>MeshCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/fireworks/volcanofirework-violet.prefab|
-|VolcanoFirework|4042905807|BaseFirework<br>MeshCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/fireworks/volcanofirework.prefab|
 |spikes.floor|976279966|Barricade<br>BaseCombatEntity<br>MeshCollider<br>|assets/prefabs/deployable/floor spikes/spikes.floor.prefab|
 |halfheight_salvaged_bamboo_shelves|712007742|DecorDeployable<br>BaseCombatEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/floor_half_shelves/halfheight_salvaged_bamboo_shelves.prefab|
 |FrankensteinTable.deployed|1178330157|FrankensteinTable<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/frankensteintable/frankensteintable.deployed.prefab|
 |fridge.deployed.corpse|2800679511|ContainerCorpse<br>BaseCombatEntity<br>DecayEntity<br>StorageContainer<br>GroundWatch<br>BoxCollider<br>RepositionOnGroundMissing<br>|assets/prefabs/deployable/fridge/fridge.deployed.corpse.prefab|
 |fridge.deployed|1844023509|Fridge<br>BaseCombatEntity<br>DecayEntity<br>IOEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/fridge/fridge.deployed.prefab|
+|furnace.large|1374462671|BaseOven<br>BaseCombatEntity<br>DecayEntity<br>EntityFlag_Toggle<br>MeshCollider<br>Model<br>|assets/prefabs/deployable/furnace.large/furnace.large.prefab|
 |furnace.corpse|1839500069|ContainerCorpse<br>BaseCombatEntity<br>DecayEntity<br>StorageContainer<br>BoxCollider<br>GroundWatch<br>RepositionOnGroundMissing<br>|assets/prefabs/deployable/furnace/furnace.corpse.prefab|
 |furnace|2931042549|BaseOven<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>MeshCollider<br>MeshCollider<br>DestroyOnGroundMissing<br>EntityFlag_Toggle<br>|assets/prefabs/deployable/furnace/furnace.prefab|
-|furnace.large|1374462671|BaseOven<br>BaseCombatEntity<br>DecayEntity<br>EntityFlag_Toggle<br>MeshCollider<br>Model<br>|assets/prefabs/deployable/furnace.large/furnace.large.prefab|
 |WeaponRackLight|107031364|SimpleLight<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/gun_rack/weaponracklight.prefab|
 |WeaponRackLightDouble|3489283376|SimpleLight<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/gun_rack/weaponracklightdouble.prefab|
 |HazmatPlushy_deployed|2953997641|BaseCombatEntity<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/hazmatplushy/hazmatplushy_deployed.prefab|
@@ -1182,9 +1182,9 @@
 |ReclaimTerminal|2564311448|ReclaimTerminal<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/prefabs/gamemodes/objects/reclaim/reclaimterminal.prefab|
 |onedeath|3275115225|BaseGameMode<br>|assets/prefabs/gamemodes/onedeath.prefab|
 |primitive|2393539753|PrimitiveGameMode<br>BaseGameMode<br>|assets/prefabs/gamemodes/primitive.prefab|
+|softcore|1954920076|GameModeSoftcore<br>BaseGameMode<br>|assets/prefabs/gamemodes/softcore.prefab|
 |StaticRespawnZoneBandit|3810400291|StaticRespawnArea<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/gamemodes/softcore/staticrespawnzonebandit.prefab|
 |StaticRespawnZoneCompound|1919922518|StaticRespawnArea<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/gamemodes/softcore/staticrespawnzonecompound.prefab|
-|softcore|1954920076|GameModeSoftcore<br>BaseGameMode<br>|assets/prefabs/gamemodes/softcore.prefab|
 |teamdeathmatch|18701516|BaseGameMode<br>|assets/prefabs/gamemodes/teamdeathmatch.prefab|
 |vanilla|2957505463|BaseGameMode<br>|assets/prefabs/gamemodes/vanilla.prefab|
 |weapontest|798330873|BaseGameMode<br>|assets/prefabs/gamemodes/weapontest.prefab|
@@ -1893,10 +1893,10 @@
 |l96.entity|2620171289|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/l96/l96.entity.prefab|
 |legacybow.entity|1400027705|BowWeapon<br>HeldEntity<br>AttackEntity<br>|assets/prefabs/weapons/legacy bow/legacybow.entity.prefab|
 |lr300.entity|844375121|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/lr300/lr300.entity.prefab|
-|m4_shotgun.entity|2416998201|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/m4 shotgun/m4_shotgun.entity.prefab|
-|m39.entity|1517089664|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/m39 emr/m39.entity.prefab|
-|m92.entity|2293870814|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/m92/m92.entity.prefab|
 |m249.entity|1440914039|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/m249/m249.entity.prefab|
+|m39.entity|1517089664|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/m39 emr/m39.entity.prefab|
+|m4_shotgun.entity|2416998201|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/m4 shotgun/m4_shotgun.entity.prefab|
+|m92.entity|2293870814|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/m92/m92.entity.prefab|
 |mace.entity|2927698044|BaseMelee<br>HeldEntity<br>|assets/prefabs/weapons/mace/mace.entity.prefab|
 |machete.weapon|2942508801|BaseMelee<br>HeldEntity<br>|assets/prefabs/weapons/machete/machete.weapon.prefab|
 |metalshield.entity|3703020820|Shield<br>EntityFlag_Toggle<br>Model<br>|assets/prefabs/weapons/metal_shield/metalshield.entity.prefab|
@@ -1933,8 +1933,8 @@
 |stonehatchet.entity|3540736579|BaseMelee<br>HeldEntity<br>|assets/prefabs/weapons/stone hatchet/stonehatchet.entity.prefab|
 |stone_pickaxe.entity|1450582435|BaseMelee<br>HeldEntity<br>|assets/prefabs/weapons/stone pickaxe/stone_pickaxe.entity.prefab|
 |spear_stone.entity|1943636975|BaseMelee<br>HeldEntity<br>|assets/prefabs/weapons/stone spear/spear_stone.entity.prefab|
-|salvaged_sword.entity|1663991785|BaseMelee<br>HeldEntity<br>|assets/prefabs/weapons/sword/salvaged_sword.entity.prefab|
 |longsword.entity|3395979968|BaseMelee<br>HeldEntity<br>|assets/prefabs/weapons/sword big/longsword.entity.prefab|
+|salvaged_sword.entity|1663991785|BaseMelee<br>HeldEntity<br>|assets/prefabs/weapons/sword/salvaged_sword.entity.prefab|
 |t1_smg.entity|4251501342|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/t1 smg/t1_smg.entity.prefab|
 |thompson.entity|3243900999|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/thompson/thompson.entity.prefab|
 |toolgun.entity|417347909|Toolgun<br>BaseMelee<br>HeldEntity<br>AttackEntity<br>Model<br>|assets/prefabs/weapons/toolgun/toolgun.entity.prefab|
@@ -1958,9 +1958,9 @@
 |Chicken.tutorial|2830011179|Chicken<br>BaseCombatEntity<br>BaseNpc<br>NavMeshAgent<br>Spawnable<br>CapsuleCollider<br>NPCNavigator<br>AnimalBrain<br>|assets/rust.ai/agents/chicken/chicken.tutorial.prefab|
 |Crocodile.Corpse|2697812644|BaseCorpse<br>ResourceDispenser<br>HeadDispenser<br>|assets/rust.ai/agents/crocodile/crocodile.corpse.prefab|
 |Crocodile|43745372|Crocodile<br>BaseCombatEntity<br>CrocodileFSM<br>NavMeshAgent<br>Spawnable<br>CapsuleCollider<br>BindSubsurfaceProfile<br>LimitedTurnNavAgent<br>BlackboardComponent<br>NPCEncounterTimer<br>SenseComponent<br>RootMotionPlayer<br>|assets/rust.ai/agents/crocodile/crocodile.prefab|
+|Shark.Corpse|3051190050|BaseCorpse<br>ResourceDispenser<br>Buoyancy<br>HeadDispenser<br>|assets/rust.ai/agents/fish/shark.corpse.prefab|
 |BloodCloud|2939690783|ScreenBounceFade<br>|assets/rust.ai/agents/fish/shark/effects/bloodcloud.prefab|
 |BloodCloud.SoundOnly|264800193|ScreenBounceFade<br>|assets/rust.ai/agents/fish/shark/effects/bloodcloud.soundonly.prefab|
-|Shark.Corpse|3051190050|BaseCorpse<br>ResourceDispenser<br>Buoyancy<br>HeadDispenser<br>|assets/rust.ai/agents/fish/shark.corpse.prefab|
 |Shark_Unused|1738989765|BaseFishNPC<br>BaseCombatEntity<br>Spawnable<br>CapsuleCollider<br>FishBrain<br>FishNavigator<br>NavMeshAgent<br>|assets/rust.ai/agents/fish/shark_unused.prefab|
 |SimpleShark|947646353|SimpleShark<br>Spawnable<br>CapsuleCollider<br>|assets/rust.ai/agents/fish/simpleshark.prefab|
 |NPC_Bandit_Guard|412745708|BanditGuard<br>BaseCombatEntity<br>BasePlayer<br>NPCPlayer<br>PlayerMetabolism<br>PlayerInventory<br>PlayerEyes<br>PlayerInput<br>ItemCrafter<br>CapsuleCollider<br>PlayerBlueprints<br>Rigidbody<br>SteamInventory<br>NavMeshAgent<br>ScientistBrain<br>NPCPlayerNavigator<br>|assets/rust.ai/agents/npcplayer/humannpc/banditguard/npc_bandit_guard.prefab|
