@@ -612,6 +612,7 @@
 |assets/bundled/prefabs/modding/fx/fire_static_01.prefab|
 |assets/bundled/prefabs/modding/fx/fire_static_02.prefab|
 |assets/bundled/prefabs/modding/fx/fire_static_03.prefab|
+|assets/bundled/prefabs/modding/fx/smoke_volcano.prefab|
 |assets/content/effects/brzone/brzone.prefab|
 |assets/content/effects/candle.prefab|
 |assets/content/effects/cars/pfx_car_collision.prefab|
