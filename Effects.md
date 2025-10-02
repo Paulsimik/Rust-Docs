@@ -613,6 +613,7 @@
 |assets/bundled/prefabs/modding/fx/fire_static_02.prefab|
 |assets/bundled/prefabs/modding/fx/fire_static_03.prefab|
 |assets/bundled/prefabs/modding/fx/smoke_volcano.prefab|
+|assets/bundled/prefabs/modding/fx/smoke_volcano_taller.prefab|
 |assets/content/effects/brzone/brzone.prefab|
 |assets/content/effects/candle.prefab|
 |assets/content/effects/cars/pfx_car_collision.prefab|
@@ -1124,6 +1125,7 @@
 |assets/prefabs/deployable/small stash/effects/small-stash-deploy.prefab|
 |assets/prefabs/deployable/sofa/effects/sofa-deploy.prefab|
 |assets/prefabs/deployable/sofa/effects/sofa-destroy.prefab|
+|assets/prefabs/deployable/spike trap/effects/floor-spikes-deploy.prefab|
 |assets/prefabs/deployable/spinner_wheel/effects/spinner-wheel-deploy.prefab|
 |assets/prefabs/deployable/survivalfishtrap/effects/fish_caught.prefab|
 |assets/prefabs/deployable/survivalfishtrap/effects/fish-trap-deploy.prefab|
@@ -1145,6 +1147,9 @@
 |assets/prefabs/deployable/woodenbox/effects/wooden-box-deploy.prefab|
 |assets/prefabs/deployable/woodenbox/skins/pilot_hazmat_wooden_box/effects/lighting.prefab|
 |assets/prefabs/effects/auroras/auroras_skychild.prefab|
+|assets/prefabs/effects/bouncelighting/bouncelight.prefab|
+|assets/prefabs/effects/bouncelighting/light_bouncable.prefab|
+|assets/prefabs/effects/bouncelighttest.prefab|
 |assets/prefabs/effects/foliage/pfx_leaves.prefab|
 |assets/prefabs/effects/foliage/pfx_leaves_dead.prefab|
 |assets/prefabs/effects/foliage/pfx_leaves_reddish.prefab|
@@ -1569,6 +1574,7 @@
 |assets/prefabs/weapons/chainsaw/effects/deploy.prefab|
 |assets/prefabs/weapons/chainsaw/effects/fill-gas.prefab|
 |assets/prefabs/weapons/chainsaw/effects/ignition.prefab|
+|assets/prefabs/weapons/chainsaw/effects/strike.prefab|
 |assets/prefabs/weapons/chainsaw/effects/unscrew-cap.prefab|
 |assets/prefabs/weapons/cleaver big/effects/attack-1.prefab|
 |assets/prefabs/weapons/cleaver big/effects/attack-2.prefab|
