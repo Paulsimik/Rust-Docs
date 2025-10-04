@@ -766,7 +766,7 @@
 |<img src="https://czechrust.eu/img/textures2D/ammo.rocket.basic.png" width="100" height="80">|Rocket|ammo.rocket.basic|-742865266|ItemModProjectile<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/rocket.launcher.png" width="100" height="80">|Rocket Launcher|rocket.launcher|442886268|ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/rockingchair.png" width="100" height="80">|Rocking Chair|rockingchair|-1863063690|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
-|<img src="https://czechrust.eu/img/textures2D/charity.plushy.02.png" width="100" height="80">|Ronald McDonald House Plushie|charity.plushy.02|2130820933|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
+|<img src="https://czechrust.eu/img/textures2D/charity.plushy.02.png" width="100" height="80">|Ronald McDonald House UK Plushie|charity.plushy.02|2130820933|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/electrical.combiner.png" width="100" height="80">|Root Combiner|electrical.combiner|-458565393|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/rope.png" width="100" height="80">|Rope|rope|1414245522|ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/rose.png" width="100" height="80">|Rose|rose|1414245519|ItemModCompostable<br>|
