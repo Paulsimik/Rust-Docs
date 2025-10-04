@@ -829,6 +829,7 @@
 |assets/content/properties/lootspawn/collections/autoturretbp.asset|
 |assets/content/properties/lootspawn/collections/basic medical.asset|
 |assets/content/properties/lootspawn/collections/basicblueprintfragmentloot.asset|
+|assets/content/properties/lootspawn/collections/basicblueprintfragmentloot_single.asset|
 |assets/content/properties/lootspawn/collections/bolt rifle with ammo.asset|
 |assets/content/properties/lootspawn/collections/bow and arrow.asset|
 |assets/content/properties/lootspawn/collections/bradleyloot.asset|
