@@ -2351,6 +2351,7 @@
 |assets/content/properties/steamcategories/item-free-dropped.steam.asset|
 |assets/content/properties/steamcategories/item-normal.steam.asset|
 |assets/content/properties/steamcategories/limited-350.asset|
+|assets/content/properties/steamcategories/limited-charity-400.asset|
 |assets/content/properties/steamcategories/limited-chinese-newyear-2019.steam.asset|
 |assets/content/properties/steamcategories/limited-chinese-newyear-2019-cheap.steam.asset|
 |assets/content/properties/steamcategories/limited-chinese-newyear-2019-medium.steam.asset|
@@ -3420,6 +3421,7 @@
 |assets/content/sound/monuments/monument-event-notifications/monument-event-cargo-ship-spawn-01.asset|
 |assets/content/sound/monuments/monument-event-notifications/monument-event-excavator-start-01.asset|
 |assets/content/sound/monuments/monument-event-notifications/monument-event-oil-rig-reset-01.asset|
+|assets/content/sound/monuments/monumentnotificationsoundconfig.asset|
 |assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-ambience-base.ambience-def.asset|
 |assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-ambience-base.ambience-list.asset|
 |assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-ambience-base-loop.asset|
@@ -3453,7 +3455,6 @@
 |assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-large.reverb-settings.asset|
 |assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-small.reverb-settings.asset|
 |assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-stings.ambience-list.asset|
-|assets/content/sound/monuments/resources/monumentnotificationsoundconfig.asset|
 |assets/content/sound/music/themes/atrium-carceri-first-steps/atrium-carceri-first-steps.asset|
 |assets/content/sound/music/themes/atrium-carceri-first-steps/atrium-carceri-first-steps.music-theme.asset|
 |assets/content/sound/music/themes/classic/music-classic.asset|
