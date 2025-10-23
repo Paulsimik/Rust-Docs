@@ -489,6 +489,12 @@
 |<img src="https://czechrust.eu/img/textures2D/knighttorso.armour.png" width="100" height="80">|Knights armour cuirass|knighttorso.armour|547862680|ItemModWearable<br>ItemBlueprint<br>ItemModContainerArmorSlot<br>ItemMod<br>|
 |<img src="https://czechrust.eu/img/textures2D/knightsarmour.helmet.png" width="100" height="80">|Knights armour helmet|knightsarmour.helmet|-427072335|ItemModWearable<br>ItemBlueprint<br>ItemModContainerArmorSlot<br>ItemMod<br>|
 |<img src="https://czechrust.eu/img/textures2D/knightsarmour.skirt.png" width="100" height="80">|Knights armour skirt plates|knightsarmour.skirt|-945708533|ItemModWearable<br>ItemBlueprint<br>ItemModContainerArmorSlot<br>ItemMod<br>|
+|<img src="https://czechrust.eu/img/textures2D/krieg.chainsword.png" width="100" height="80">|Krieg chainsword|krieg.chainsword|-1770281406|ItemModEntity<br>ItemBlueprint<br>|
+|<img src="https://czechrust.eu/img/textures2D/hazmat.krieg.png" width="100" height="80">|Krieg Hazmat|hazmat.krieg|-902423513|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>ItemModContainerArmorSlot<br>ItemMod<br>|
+|<img src="https://czechrust.eu/img/textures2D/kriegbackpack.png" width="100" height="80">|Krieg Large Backpack|kriegbackpack|-874650016|ItemModWearable<br>ItemModContainerRads<br>ItemMod<br>ItemModBackpack<br>ItemBlueprint<br>|
+|<img src="https://czechrust.eu/img/textures2D/krieg.shotgun.png" width="100" height="80">|Krieg Shotgun|krieg.shotgun|-420889602|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
+|<img src="https://czechrust.eu/img/textures2D/krieg.storage.vertical.png" width="100" height="80">|Krieg Storage Barrel|krieg.storage.vertical|1305765685|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|<img src="https://czechrust.eu/img/textures2D/krieg.storage.horizontal.png" width="100" height="80">|Krieg Storage Crates|krieg.storage.horizontal|652793345|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/rifle.l96.png" width="100" height="80">|L96 Rifle|rifle.l96|-778367295|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |<img src="https://czechrust.eu/img/textures2D/floor.ladder.hatch.png" width="100" height="80">|Ladder Hatch|floor.ladder.hatch|1948067030|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/photoframe.landscape.png" width="100" height="80">|Landscape Photo Frame|photoframe.landscape|1697996440|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>ItemModSign<br>ItemMod<br>|
