@@ -985,6 +985,10 @@
 |bamboo_barrel|1496407812|BoxStorage<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/large wood storage/skins/jungle_dlc_large_wood_box/jungle_dlc_storage_vertical/bamboo_barrel.prefab|
 |medieval.box.wooden.large.corpse|2064794966|ContainerCorpse<br>BaseCombatEntity<br>DecayEntity<br>StorageContainer<br>GroundWatch<br>BoxCollider<br>RepositionOnGroundMissing<br>|assets/prefabs/deployable/large wood storage/skins/medieval_large_wood_box/medieval.box.wooden.large.corpse.prefab|
 |medieval.box.wooden.large|2142950612|BoxStorage<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>BoxCollider<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/large wood storage/skins/medieval_large_wood_box/medieval.box.wooden.large.prefab|
+|krieg_storage_horizontal.corpse|2755571140|GroundWatch<br>ContainerCorpse<br>BaseCombatEntity<br>DecayEntity<br>StorageContainer<br>RepositionOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/large wood storage/skins/warhammer_dlc_large_wood_box/krieg_storage_horizontal/krieg_storage_horizontal.corpse.prefab|
+|krieg_storage_horizontal|295691137|BoxStorage<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/large wood storage/skins/warhammer_dlc_large_wood_box/krieg_storage_horizontal/krieg_storage_horizontal.prefab|
+|krieg_storage_vertical.corpse|983075320|GroundWatch<br>ContainerCorpse<br>BaseCombatEntity<br>DecayEntity<br>StorageContainer<br>RepositionOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/large wood storage/skins/warhammer_dlc_large_wood_box/krieg_storage_vertical/krieg_storage_vertical.corpse.prefab|
+|krieg_storage_vertical|2980428674|BoxStorage<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/large wood storage/skins/warhammer_dlc_large_wood_box/krieg_storage_vertical/krieg_storage_vertical.prefab|
 |legacy_furnace.corpse|1538368754|ContainerCorpse<br>BaseCombatEntity<br>DecayEntity<br>StorageContainer<br>GroundWatch<br>RepositionOnGroundMissing<br>CapsuleCollider<br>|assets/prefabs/deployable/legacyfurnace/legacy_furnace.corpse.prefab|
 |legacy_furnace|2013224025|BaseOven<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>MeshCollider<br>DestroyOnGroundMissing<br>EntityFlag_Toggle<br>|assets/prefabs/deployable/legacyfurnace/legacy_furnace.prefab|
 |WaterBarrel|3746060889|LiquidContainer<br>BaseCombatEntity<br>DecayEntity<br>IOEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>MeshCollider<br>|assets/prefabs/deployable/liquidbarrel/waterbarrel.prefab|
@@ -1952,6 +1956,8 @@
 |thompson.entity|3243900999|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/thompson/thompson.entity.prefab|
 |toolgun.entity|417347909|Toolgun<br>BaseMelee<br>HeldEntity<br>AttackEntity<br>Model<br>|assets/prefabs/weapons/toolgun/toolgun.entity.prefab|
 |torch.entity|1543342082|TorchWeapon<br>HeldEntity<br>AttackEntity<br>|assets/prefabs/weapons/torch/torch.entity.prefab|
+|krieg_chainsword.entity|4148293472|Chainsaw<br>HeldEntity<br>AttackEntity<br>Model<br>|assets/prefabs/weapons/warhammer/krieg chainsword/krieg_chainsword.entity.prefab|
+|krieg_shotgun.entity|1896956209|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/warhammer/krieg shotgun/krieg_shotgun.entity.prefab|
 |waterball|556797242|WaterBall<br>Rigidbody<br>BoxCollider<br>|assets/prefabs/weapons/waterbucket/waterball.prefab|
 |waterbucket.entity|1182699531|BaseLiquidVessel<br>HeldEntity<br>|assets/prefabs/weapons/waterbucket/waterbucket.entity.prefab|
 |woodenshield.entity|3637711865|Shield<br>EntityFlag_Toggle<br>Model<br>|assets/prefabs/weapons/wooden shield/woodenshield.entity.prefab|
