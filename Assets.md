@@ -83,6 +83,7 @@
 |assets/bundled/prefabs/ui/menu2/_pages/store/checkout/menuui2_store_inventorybutton_red.asset|
 |assets/bundled/prefabs/ui/menu2/_pages/store/dlc/_dlc/soundtrack/dlc.soundtrack.asset|
 |assets/bundled/prefabs/ui/menu2/_pages/store/dlc/menuui2_store_steambutton.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/store/dlc/menuui2_store_steambutton2.asset|
 |assets/bundled/prefabs/ui/menu2/_pages/store/general/menuui2_store_backbutton.asset|
 |assets/bundled/prefabs/ui/menu2/_pages/store/limited/styles/menuui2_store_skinitem.asset|
 |assets/bundled/prefabs/ui/menu2/_pages/store/navigation/styles/menuui2_store_tabbutton.asset|
@@ -5702,6 +5703,9 @@
 |assets/prefabs/building/wall.window.shutter/sounds/shutter-wood-deploy.asset|
 |assets/prefabs/building/wall.window.shutter/sounds/shutter-wood-open-end.asset|
 |assets/prefabs/building/wall.window.shutter/sounds/shutter-wood-open-start.asset|
+|assets/prefabs/clothes/backpack.krieg/cloth.krieg_backpack.asset|
+|assets/prefabs/clothes/backpack.krieg/krieg.large.backpack.skin.asset|
+|assets/prefabs/clothes/backpack.krieg/skeleton.krieg_backpack.asset|
 |assets/prefabs/clothes/cocoknightarmor/gloves.cocoknightarmor/cocoknight.gloves.skin.asset|
 |assets/prefabs/clothes/cocoknightarmor/head.cocoknightarmor/cocoknight.head.skin.asset|
 |assets/prefabs/clothes/cocoknightarmor/legs.cocoknightarmor/cocoknight.pants.skin.asset|
@@ -5841,6 +5845,10 @@
 |assets/prefabs/clothes/suit.hazmat/pilot/pilot.pack.sitem.asset|
 |assets/prefabs/clothes/suit.hazmat/pilot/player_skeleton.pilot_hazmat.asset|
 |assets/prefabs/clothes/suit.hazmat/spacesuit/hazmat.spacesuit.skin.asset|
+|assets/prefabs/clothes/suit.hazmat/warhammer/cloth.krieg_hazmat.asset|
+|assets/prefabs/clothes/suit.hazmat/warhammer/cloth.krieg_hazmat_coat.asset|
+|assets/prefabs/clothes/suit.hazmat/warhammer/krieg.hazmat.skin.asset|
+|assets/prefabs/clothes/suit.hazmat/warhammer/skeleton.krieghazmat.asset|
 |assets/prefabs/clothes/tshirt.long/black/tshirt.long.black.itemskin.asset|
 |assets/prefabs/clothes/tshirt.long/grey/tshirt.long.grey.itemskin.asset|
 |assets/prefabs/clothes/tshirt.long/orange/tshirt.long.orange.itemskin.asset|
@@ -6055,6 +6063,16 @@
 |assets/prefabs/deployable/large wood storage/skins/jungle_dlc_large_wood_box/jungle.dlc.sitem.asset|
 |assets/prefabs/deployable/large wood storage/skins/medieval_large_wood_box/box.wooden.large.medieval.box.wooden.large.skin.asset|
 |assets/prefabs/deployable/large wood storage/skins/medieval_large_wood_box/medieval.pack.sitem.asset|
+|assets/prefabs/deployable/large wood storage/skins/warhammer_dlc_large_wood_box/krieg_storage_horizontal/sound/warhammer-storage-box-close.asset|
+|assets/prefabs/deployable/large wood storage/skins/warhammer_dlc_large_wood_box/krieg_storage_horizontal/sound/warhammer-storage-box-deploy.asset|
+|assets/prefabs/deployable/large wood storage/skins/warhammer_dlc_large_wood_box/krieg_storage_horizontal/sound/warhammer-storage-box-open.asset|
+|assets/prefabs/deployable/large wood storage/skins/warhammer_dlc_large_wood_box/krieg_storage_horizontal/sound/warhammer-storage-box-ui-drop.asset|
+|assets/prefabs/deployable/large wood storage/skins/warhammer_dlc_large_wood_box/krieg_storage_horizontal/sound/warhammer-storage-box-ui-grab.asset|
+|assets/prefabs/deployable/large wood storage/skins/warhammer_dlc_large_wood_box/krieg_storage_vertical/sound/warhammer-storage-barrel-close.asset|
+|assets/prefabs/deployable/large wood storage/skins/warhammer_dlc_large_wood_box/krieg_storage_vertical/sound/warhammer-storage-barrel-deploy.asset|
+|assets/prefabs/deployable/large wood storage/skins/warhammer_dlc_large_wood_box/krieg_storage_vertical/sound/warhammer-storage-barrel-open.asset|
+|assets/prefabs/deployable/large wood storage/skins/warhammer_dlc_large_wood_box/krieg_storage_vertical/sound/warhammer-storage-barrel-ui-drop.asset|
+|assets/prefabs/deployable/large wood storage/skins/warhammer_dlc_large_wood_box/krieg_storage_vertical/sound/warhammer-storage-barrel-ui-grab.asset|
 |assets/prefabs/deployable/large wood storage/sound/large-wood-box-close.asset|
 |assets/prefabs/deployable/large wood storage/sound/large-wood-box-deploy.asset|
 |assets/prefabs/deployable/large wood storage/sound/large-wood-box-open.asset|
@@ -6395,6 +6413,7 @@
 |assets/prefabs/deployable/woodenbox/woodbox_deployed.skinnable.asset|
 |assets/prefabs/deployable/youtooz_figurines/youtooz_hazmat.skin.asset|
 |assets/prefabs/deployable/youtooz_figurines/youtooz_heavy.skin.asset|
+|assets/prefabs/dlc.warhammer.asset|
 |assets/prefabs/dlc/pack_sitems/decor_lighting_pack/decor.lighting.dlc.sitem.asset|
 |assets/prefabs/food/berries/sound/ui-berries-drop.asset|
 |assets/prefabs/food/berries/sound/ui-berries-pick-up.asset|
@@ -7744,6 +7763,7 @@
 |assets/prefabs/weapons/bow/sound/bow-deploy-3p.asset|
 |assets/prefabs/weapons/bow/sound/bow-draw.asset|
 |assets/prefabs/weapons/bow/sound/bow-draw-cancel.asset|
+|assets/prefabs/weapons/chainsaw/chainsaw.skinnable.asset|
 |assets/prefabs/weapons/chainsaw/sound/chainsaw-active.asset|
 |assets/prefabs/weapons/chainsaw/sound/chainsaw-admire-01.asset|
 |assets/prefabs/weapons/chainsaw/sound/chainsaw-admire-02.asset|
@@ -8458,6 +8478,35 @@
 |assets/prefabs/weapons/torch/sound/torch-ignite.asset|
 |assets/prefabs/weapons/torch/sound/torch-strike.asset|
 |assets/prefabs/weapons/torch/torch.skinnable.asset|
+|assets/prefabs/weapons/warhammer/krieg chainsword/krieg.chainsword.skin.asset|
+|assets/prefabs/weapons/warhammer/krieg chainsword/sound/chainsword-active-loop-engine-steady.asset|
+|assets/prefabs/weapons/warhammer/krieg chainsword/sound/chainsword-active-loop-mechanics.asset|
+|assets/prefabs/weapons/warhammer/krieg chainsword/sound/chainsword-admire-01.asset|
+|assets/prefabs/weapons/warhammer/krieg chainsword/sound/chainsword-admire-02.asset|
+|assets/prefabs/weapons/warhammer/krieg chainsword/sound/chainsword-admire-03.asset|
+|assets/prefabs/weapons/warhammer/krieg chainsword/sound/chainsword-attack-start.asset|
+|assets/prefabs/weapons/warhammer/krieg chainsword/sound/chainsword-attack-stop.asset|
+|assets/prefabs/weapons/warhammer/krieg chainsword/sound/chainsword-deploy.asset|
+|assets/prefabs/weapons/warhammer/krieg chainsword/sound/chainsword-engine-start.asset|
+|assets/prefabs/weapons/warhammer/krieg chainsword/sound/chainsword-engine-stop.asset|
+|assets/prefabs/weapons/warhammer/krieg chainsword/sound/chainsword-idle-loop-engine-steady.asset|
+|assets/prefabs/weapons/warhammer/krieg chainsword/sound/chainsword-reload-finish.asset|
+|assets/prefabs/weapons/warhammer/krieg chainsword/sound/chainsword-reload-start.asset|
+|assets/prefabs/weapons/warhammer/krieg chainsword/sound/chainsword-start-engine.asset|
+|assets/prefabs/weapons/warhammer/krieg chainsword/sound/chainsword-start-engine-settle.asset|
+|assets/prefabs/weapons/warhammer/krieg shotgun/krieg.shotgun.skin.asset|
+|assets/prefabs/weapons/warhammer/krieg shotgun/sound/krieg-shotgun-admire-01.asset|
+|assets/prefabs/weapons/warhammer/krieg shotgun/sound/krieg-shotgun-admire-02.asset|
+|assets/prefabs/weapons/warhammer/krieg shotgun/sound/krieg-shotgun-admire-03.asset|
+|assets/prefabs/weapons/warhammer/krieg shotgun/sound/krieg-shotgun-deploy-01.asset|
+|assets/prefabs/weapons/warhammer/krieg shotgun/sound/krieg-shotgun-deploy-02.asset|
+|assets/prefabs/weapons/warhammer/krieg shotgun/sound/krieg-shotgun-deploy-02-hand-movement.asset|
+|assets/prefabs/weapons/warhammer/krieg shotgun/sound/krieg-shotgun-deploy-hand-movement.asset|
+|assets/prefabs/weapons/warhammer/krieg shotgun/sound/krieg-shotgun-dryfire.asset|
+|assets/prefabs/weapons/warhammer/krieg shotgun/sound/krieg-shotgun-gunshot-mech.asset|
+|assets/prefabs/weapons/warhammer/krieg shotgun/sound/krieg-shotgun-reload-finish.asset|
+|assets/prefabs/weapons/warhammer/krieg shotgun/sound/krieg-shotgun-reload-insert-shell.asset|
+|assets/prefabs/weapons/warhammer/krieg shotgun/sound/krieg-shotgun-reload-start.asset|
 |assets/prefabs/weapons/waterbucket/sound/waterbucket-deploy.asset|
 |assets/prefabs/weapons/waterbucket/sound/waterbucket-deploy-3p.asset|
 |assets/prefabs/weapons/waterbucket/sound/waterbucket-fill-container.asset|
