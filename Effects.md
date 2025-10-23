@@ -739,6 +739,7 @@
 |assets/content/effects/muzzleflashes/shotgun/muzzle_flash_shotgun_braked.prefab|
 |assets/content/effects/muzzleflashes/shotgun/muzzle_flash_shotgun_narrow.prefab|
 |assets/content/effects/muzzleflashes/shotgun/muzzle_flash_shotgun_powdery.prefab|
+|assets/content/effects/muzzleflashes/shotgun/muzzle_flash_shotgun_powerful.prefab|
 |assets/content/effects/muzzleflashes/shotgun/muzzle_flash_shotgun_silenced.prefab|
 |assets/content/effects/muzzleflashes/shotgun/muzzle_flash_shotgun_wide.prefab|
 |assets/content/effects/muzzleflashes/shotgun/shell_eject_shotgun.prefab|
@@ -1054,6 +1055,8 @@
 |assets/prefabs/deployable/lantern/effects/lantern-deploy.prefab|
 |assets/prefabs/deployable/large wood storage/effects/large-wood-box-deploy.prefab|
 |assets/prefabs/deployable/large wood storage/skins/abyss_dlc_large_wood_box/effects/abyss-storage-deploy.prefab|
+|assets/prefabs/deployable/large wood storage/skins/warhammer_dlc_large_wood_box/krieg_storage_horizontal/effects/krieg-box-storage-deploy.prefab|
+|assets/prefabs/deployable/large wood storage/skins/warhammer_dlc_large_wood_box/krieg_storage_vertical/effects/krieg-barrel-storage-deploy.prefab|
 |assets/prefabs/deployable/legacyfurnace/effects/small_furnace_particles.prefab|
 |assets/prefabs/deployable/liquidbarrel/effects/liquid-barrel-deploy.prefab|
 |assets/prefabs/deployable/liquidbarrel/effects/splashloop.prefab|
@@ -2294,6 +2297,16 @@
 |assets/prefabs/weapons/torch/effects/strike.prefab|
 |assets/prefabs/weapons/torch/effects/strike_screenshake.prefab|
 |assets/prefabs/weapons/torch/effects/torch_loop.prefab|
+|assets/prefabs/weapons/warhammer/krieg chainsword/effects/deploy.prefab|
+|assets/prefabs/weapons/warhammer/krieg shotgun/effects/attack.prefab|
+|assets/prefabs/weapons/warhammer/krieg shotgun/effects/attack_muzzlebrake.prefab|
+|assets/prefabs/weapons/warhammer/krieg shotgun/effects/attack_shake.prefab|
+|assets/prefabs/weapons/warhammer/krieg shotgun/effects/attack_silenced.prefab|
+|assets/prefabs/weapons/warhammer/krieg shotgun/effects/attack_silenced_oilfilter.prefab|
+|assets/prefabs/weapons/warhammer/krieg shotgun/effects/attack_silenced_sodacan.prefab|
+|assets/prefabs/weapons/warhammer/krieg shotgun/effects/dryfire.prefab|
+|assets/prefabs/weapons/warhammer/krieg shotgun/effects/eject_shell.prefab|
+|assets/prefabs/weapons/warhammer/krieg shotgun/effects/w_eject_shotgun_shell.prefab|
 |assets/prefabs/weapons/waterbucket/effects/deploy.prefab|
 |assets/prefabs/weapons/waterbucket/effects/fillbucket_fromcontainer.prefab|
 |assets/prefabs/weapons/waterbucket/effects/fillbucket_fromworld.prefab|
