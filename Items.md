@@ -4,6 +4,12 @@
 |<img src="https://czechrust.eu/img/textures2D/ammo.shotgun.png" width="100" height="80">|12 Gauge Buckshot|ammo.shotgun|-1685290200|ItemModProjectile<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/ammo.shotgun.fire.png" width="100" height="80">|12 Gauge Incendiary Shell|ammo.shotgun.fire|-1036635990|ItemModProjectileSpawn<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/ammo.shotgun.slug.png" width="100" height="80">|12 Gauge Slug|ammo.shotgun.slug|-727717969|ItemModProjectile<br>ItemBlueprint<br>|
+|<img src="https://czechrust.eu/img/textures2D/2module car.png" width="100" height="80">|2 Module Car|2module car|-866121090|ItemBlueprint<br>ItemModEntityReference<br>|
+|<img src="https://czechrust.eu/img/textures2D/2module car chassis.png" width="100" height="80">|2 Module Car Chassis|2module car chassis|-226151558|ItemBlueprint<br>ItemModEntityReference<br>|
+|<img src="https://czechrust.eu/img/textures2D/3module car.png" width="100" height="80">|3 Module Car|3module car|-831725027|ItemBlueprint<br>ItemModEntityReference<br>|
+|<img src="https://czechrust.eu/img/textures2D/3module car chassis.png" width="100" height="80">|3 Module Car Chassis|3module car chassis|1482871705|ItemBlueprint<br>ItemModEntityReference<br>|
+|<img src="https://czechrust.eu/img/textures2D/4module car.png" width="100" height="80">|4 Module Car|4module car|-935322684|ItemBlueprint<br>ItemModEntityReference<br>|
+|<img src="https://czechrust.eu/img/textures2D/4module car chassis.png" width="100" height="80">|4 Module Car Chassis|4module car chassis|385099196|ItemBlueprint<br>ItemModEntityReference<br>|
 |<img src="https://czechrust.eu/img/textures2D/ammo.grenadelauncher.he.png" width="100" height="80">|40mm HE Grenade|ammo.grenadelauncher.he|349762871|ItemModProjectile<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/ammo.grenadelauncher.buckshot.png" width="100" height="80">|40mm Shotgun Round|ammo.grenadelauncher.buckshot|1055319033|ItemModProjectile<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/ammo.grenadelauncher.smoke.png" width="100" height="80">|40mm Smoke Grenade|ammo.grenadelauncher.smoke|915408809|ItemModProjectile<br>ItemBlueprint<br>|
@@ -46,7 +52,7 @@
 |<img src="https://czechrust.eu/img/textures2D/vehicle.1mod.passengers.armored.png" width="100" height="80">|Armored Passenger Vehicle Module|vehicle.1mod.passengers.armored|-1615281216|ItemBlueprint<br>ItemModVehicleModule<br>|
 |<img src="https://czechrust.eu/img/textures2D/clothing.mod.armorinsert_asbestos.png" width="100" height="80">|Asbestos Armor Insert|clothing.mod.armorinsert_asbestos|-903796529|ItemBlueprint<br>ItemModSound<br>ItemModArmorInsert<br>|
 |<img src="https://czechrust.eu/img/textures2D/rifle.ak.png" width="100" height="80">|Assault Rifle|rifle.ak|1545779598|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>ItemModRackMountable<br>|
-|<img src="https://czechrust.eu/img/textures2D/attackhelicopter.png" width="100" height="80">|Attack Helicopter|attackhelicopter|1113514903|ItemBlueprint<br>|
+|<img src="https://czechrust.eu/img/textures2D/attackhelicopter.png" width="100" height="80">|Attack Helicopter|attackhelicopter|1113514903|ItemBlueprint<br>ItemModEntityReference<br>|
 |<img src="https://czechrust.eu/img/textures2D/electric.audioalarm.png" width="100" height="80">|Audio Alarm|electric.audioalarm|2100007442|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/autoturret.png" width="100" height="80">|Auto Turret|autoturret|-2139580305|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/ballista.static.png" width="100" height="80">|Ballista|ballista.static|1714509152|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
@@ -72,7 +78,7 @@
 |<img src="https://czechrust.eu/img/textures2D/warmingtea.png" width="100" height="80">|Basic Warming Tea|warmingtea|-1142222427|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>|
 |<img src="https://czechrust.eu/img/textures2D/woodtea.png" width="100" height="80">|Basic Wood Tea|woodtea|-649128577|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>|
 |<img src="https://czechrust.eu/img/textures2D/bathtub.planter.png" width="100" height="80">|Bath Tub Planter|bathtub.planter|-1274093662|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
-|<img src="https://czechrust.eu/img/textures2D/batteringram.png" width="100" height="80">|Battering Ram|batteringram|-187304968|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|<img src="https://czechrust.eu/img/textures2D/batteringram.png" width="100" height="80">|Battering Ram|batteringram|-187304968|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>ItemModEntityReference<br>|
 |<img src="https://czechrust.eu/img/textures2D/batteringram.head.repair.png" width="100" height="80">|Battering Ram Head|batteringram.head.repair|-479314201|ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/battery.small.png" width="100" height="80">|Battery - Small|battery.small|609049394||
 |<img src="https://czechrust.eu/img/textures2D/beachchair.png" width="100" height="80">|Beach Chair|beachchair|-321431890|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
@@ -149,6 +155,7 @@
 |<img src="https://czechrust.eu/img/textures2D/knife.butcher.png" width="100" height="80">|Butcher Knife|knife.butcher|-194509282|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |<img src="https://czechrust.eu/img/textures2D/electric.button.png" width="100" height="80">|Button|electric.button|-1778897469|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/electric.cabletunnel.png" width="100" height="80">|Cable Tunnel|electric.cabletunnel|1835946060|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|<img src="https://czechrust.eu/img/textures2D/caboose.png" width="100" height="80">|Caboose|caboose|1732236518|ItemBlueprint<br>ItemModEntityReference<br>|
 |<img src="https://czechrust.eu/img/textures2D/cactusflesh.png" width="100" height="80">|Cactus Flesh|cactusflesh|1783512007|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>ItemModCompostable<br>ItemModFoodSpoiling<br>|
 |<img src="https://czechrust.eu/img/textures2D/tool.camera.png" width="100" height="80">|Camera|tool.camera|-1316706473|ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/campfire.png" width="100" height="80">|Camp Fire|campfire|1946219319|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
@@ -169,7 +176,7 @@
 |<img src="https://czechrust.eu/img/textures2D/cassette.medium.png" width="100" height="80">|Cassette - Medium|cassette.medium|-912398867|ItemBlueprint<br>ItemModCassette<br>ItemMod<br>|
 |<img src="https://czechrust.eu/img/textures2D/cassette.short.png" width="100" height="80">|Cassette - Short|cassette.short|1523403414|ItemBlueprint<br>ItemModCassette<br>ItemMod<br>|
 |<img src="https://czechrust.eu/img/textures2D/fun.casetterecorder.png" width="100" height="80">|Cassette Recorder|fun.casetterecorder|-1530414568|ItemModEntity<br>ItemBlueprint<br>ItemModCassetteContainer<br>ItemMod<br>|
-|<img src="https://czechrust.eu/img/textures2D/catapult.png" width="100" height="80">|Catapult|catapult|1145722690|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|<img src="https://czechrust.eu/img/textures2D/catapult.png" width="100" height="80">|Catapult|catapult|1145722690|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>ItemModEntityReference<br>|
 |<img src="https://czechrust.eu/img/textures2D/fish.catfish.png" width="100" height="80">|Catfish|fish.catfish|-587989372|ItemModSwap<br>ItemModMenuOption<br>ItemModCompostable<br>ItemModFishable<br>|
 |<img src="https://czechrust.eu/img/textures2D/cctv.camera.png" width="100" height="80">|CCTV Camera|cctv.camera|634478325|ItemBlueprint<br>ItemModEntity<br>ItemModDeployable<br>|
 |<img src="https://czechrust.eu/img/textures2D/electric.fluorescentlight.ceiling.png" width="100" height="80">|Ceiling Fluorescent Light|electric.fluorescentlight.ceiling|640470230|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
@@ -252,7 +259,7 @@
 |<img src="https://czechrust.eu/img/textures2D/discofloor.png" width="100" height="80">|Disco Floor|discofloor|286648290|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/discofloor.largetiles.png" width="100" height="80">|Disco Floor|discofloor.largetiles|1735402444|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/discord.trophy.png" width="100" height="80">|Discord Trophy|discord.trophy|1494014226|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
-|<img src="https://czechrust.eu/img/textures2D/skidoo.png" width="100" height="80">|Diver propulsion vehicle|skidoo|-1056824343|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|<img src="https://czechrust.eu/img/textures2D/skidoo.png" width="100" height="80">|Diver propulsion vehicle|skidoo|-1056824343|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>ItemModEntityReference<br>|
 |<img src="https://czechrust.eu/img/textures2D/diving.fins.png" width="100" height="80">|Diving Fins|diving.fins|296519935|ItemModWearable<br>ItemBlueprint<br>ItemModFishable<br>|
 |<img src="https://czechrust.eu/img/textures2D/diving.mask.png" width="100" height="80">|Diving Mask|diving.mask|-113413047|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/diving.tank.png" width="100" height="80">|Diving Tank|diving.tank|-2022172587|ItemModWearable<br>ItemModRepair<br>ItemBlueprint<br>|
@@ -272,7 +279,7 @@
 |<img src="https://czechrust.eu/img/textures2D/drone.png" width="100" height="80">|Drone|drone|1588492232|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/dropbox.png" width="100" height="80">|Drop Box|dropbox|-1519126340|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/ducttape.png" width="100" height="80">|Duct Tape|ducttape|1401987718|ItemBlueprint<br>|
-|<img src="https://czechrust.eu/img/textures2D/submarineduo.png" width="100" height="80">|Duo Submarine|submarineduo|1015352446|ItemBlueprint<br>|
+|<img src="https://czechrust.eu/img/textures2D/submarineduo.png" width="100" height="80">|Duo Submarine|submarineduo|1015352446|ItemBlueprint<br>ItemModEntityReference<br>|
 |<img src="https://czechrust.eu/img/textures2D/easterdoorwreath.png" width="100" height="80">|Easter Door Wreath|easterdoorwreath|-979302481|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/egg.png" width="100" height="80">|Egg|egg|1858828593|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>ItemModCompostable<br>ItemModFoodSpoiling<br>|
 |<img src="https://czechrust.eu/img/textures2D/easterbasket.png" width="100" height="80">|Egg Basket|easterbasket|1856217390|ItemModEntity<br>ItemBlueprint<br>|
@@ -282,7 +289,7 @@
 |<img src="https://czechrust.eu/img/textures2D/electric.heater.png" width="100" height="80">|Electric Heater|electric.heater|-784870360|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/electric.tablelight.png" width="100" height="80">|Electric Table Lamp|electric.tablelight|1717250161|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/electrical.branch.png" width="100" height="80">|Electrical Branch|electrical.branch|-1448252298|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
-|<img src="https://czechrust.eu/img/textures2D/elevator.png" width="100" height="80">|Elevator|elevator|1177596584|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>ItemModChildIO<br>|
+|<img src="https://czechrust.eu/img/textures2D/elevator.png" width="100" height="80">|Elevator|elevator|1177596584|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/can.beans.empty.png" width="100" height="80">|Empty Can Of Beans|can.beans.empty|1655979682|ItemModCookable<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/propanetank.png" width="100" height="80">|Empty Propane Tank|propanetank|-1673693549|ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/can.tuna.empty.png" width="100" height="80">|Empty Tuna Can|can.tuna.empty|-1557377697|ItemModCookable<br>ItemBlueprint<br>|
@@ -439,11 +446,12 @@
 |<img src="https://czechrust.eu/img/textures2D/hoodie.png" width="100" height="80">|Hoodie|hoodie|1751045826|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/hopper.png" width="100" height="80">|Hopper|hopper|1428574144|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/gunrack.horizontal.png" width="100" height="80">|Horizontal Weapon Rack|gunrack.horizontal|-246672609|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>ItemModChildIO<br>|
+|<img src="https://czechrust.eu/img/textures2D/horse.png" width="100" height="80">|Horse|horse|82772055|ItemBlueprint<br>ItemModEntityReference<br>|
 |<img src="https://czechrust.eu/img/textures2D/horse.costume.png" width="100" height="80">|Horse Costume|horse.costume|1420547167|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>|
 |<img src="https://czechrust.eu/img/textures2D/horsedung.png" width="100" height="80">|Horse Dung|horsedung|-1579932985|ItemModCompostable<br>|
 |<img src="https://czechrust.eu/img/textures2D/horse.saddle.png" width="100" height="80">|Horse Saddle|horse.saddle|-1997543660|ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/hosetool.png" width="100" height="80">|Hose Tool|hosetool|363163265|ItemModEntity<br>ItemBlueprint<br>|
-|<img src="https://czechrust.eu/img/textures2D/habrepair.png" width="100" height="80">|Hot Air Balloon|habrepair|-1759188988|ItemBlueprint<br>|
+|<img src="https://czechrust.eu/img/textures2D/hab.png" width="100" height="80">|Hot Air Balloon|hab|696029539|ItemBlueprint<br>ItemModEntityReference<br>|
 |<img src="https://czechrust.eu/img/textures2D/hab.armor.png" width="100" height="80">|Hot Air Balloon Armor|hab.armor|-1989600732|ItemBlueprint<br>ItemModHABEquipment<br>|
 |<img src="https://czechrust.eu/img/textures2D/sign.wooden.huge.png" width="100" height="80">|Huge Wooden Sign|sign.wooden.huge|-143132326|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>ItemModSign<br>ItemMod<br>|
 |<img src="https://czechrust.eu/img/textures2D/skull.human.png" width="100" height="80">|Human Skull|skull.human|996293980|ItemModSwap<br>ItemModMenuOption<br>ItemModFishable<br>|
@@ -484,8 +492,9 @@
 |<img src="https://czechrust.eu/img/textures2D/rifle.ak.jungle.png" width="100" height="80">|Jungle Relic Assault Rifle|rifle.ak.jungle|2054929933|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>ItemModRackMountable<br>|
 |<img src="https://czechrust.eu/img/textures2D/jungle.rock.png" width="100" height="80">|Jungle Rock|jungle.rock|1350707894|ItemModEntity<br>ItemModProjectile<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/drumkit.png" width="100" height="80">|Junkyard Drum Kit|drumkit|-1330640246|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
-|<img src="https://czechrust.eu/img/textures2D/kayak.png" width="100" height="80">|Kayak|kayak|190184021|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|<img src="https://czechrust.eu/img/textures2D/kayak.png" width="100" height="80">|Kayak|kayak|190184021|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>ItemModEntityReference<br>|
 |<img src="https://czechrust.eu/img/textures2D/lock.key.png" width="100" height="80">|Key Lock|lock.key|-850982208|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|<img src="https://czechrust.eu/img/textures2D/hazmatsuit.kick.png" width="100" height="80">|Kick Hazmat|hazmatsuit.kick|972302244|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>ItemModContainerArmorSlot<br>ItemMod<br>|
 |<img src="https://czechrust.eu/img/textures2D/knighttorso.armour.png" width="100" height="80">|Knights armour cuirass|knighttorso.armour|547862680|ItemModWearable<br>ItemBlueprint<br>ItemModContainerArmorSlot<br>ItemMod<br>|
 |<img src="https://czechrust.eu/img/textures2D/knightsarmour.helmet.png" width="100" height="80">|Knights armour helmet|knightsarmour.helmet|-427072335|ItemModWearable<br>ItemBlueprint<br>ItemModContainerArmorSlot<br>ItemMod<br>|
 |<img src="https://czechrust.eu/img/textures2D/knightsarmour.skirt.png" width="100" height="80">|Knights armour skirt plates|knightsarmour.skirt|-945708533|ItemModWearable<br>ItemBlueprint<br>ItemModContainerArmorSlot<br>ItemMod<br>|
@@ -542,7 +551,7 @@
 |<img src="https://czechrust.eu/img/textures2D/lightupmirror.small.png" width="100" height="80">|Light-Up Mirror Small|lightupmirror.small|-389796733|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
 |<img src="https://czechrust.eu/img/textures2D/lightupmirror.standing.png" width="100" height="80">|Light-Up Mirror Standing|lightupmirror.standing|1916016738|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
 |<img src="https://czechrust.eu/img/textures2D/locker.png" width="100" height="80">|Locker|locker|-110921842|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
-|<img src="https://czechrust.eu/img/textures2D/locomotive.png" width="100" height="80">|Locomotive|locomotive|-2027988285|ItemBlueprint<br>|
+|<img src="https://czechrust.eu/img/textures2D/locomotive.png" width="100" height="80">|Locomotive|locomotive|-2027988285|ItemBlueprint<br>ItemModEntityReference<br>|
 |<img src="https://czechrust.eu/img/textures2D/tshirt.long.png" width="100" height="80">|Longsleeve T-Shirt|tshirt.long|935692442|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/longsword.png" width="100" height="80">|Longsword|longsword|-1469578201|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |<img src="https://czechrust.eu/img/textures2D/lowgradefuel.png" width="100" height="80">|Low Grade Fuel|lowgradefuel|-946369541|ItemBlueprint<br>ItemModBurnable<br>|
@@ -607,6 +616,8 @@
 |<img src="https://czechrust.eu/img/textures2D/minecart.planter.png" width="100" height="80">|Minecart Planter|minecart.planter|1361520181|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/hat.miner.png" width="100" height="80">|Miners Hat|hat.miner|-1539025626|ItemModWearable<br>ItemBlueprint<br>ItemModContainer<br>|
 |<img src="https://czechrust.eu/img/textures2D/minicrossbow.png" width="100" height="80">|Mini Crossbow|minicrossbow|-482348853|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
+|<img src="https://czechrust.eu/img/textures2D/mini fridge.png" width="100" height="80">|Mini Fridge|mini fridge|1174484438|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|<img src="https://czechrust.eu/img/textures2D/minicopter.png" width="100" height="80">|Minicopter|minicopter|-1334255764|ItemBlueprint<br>ItemModEntityReference<br>|
 |<img src="https://czechrust.eu/img/textures2D/minihelicopter.repair.png" width="100" height="80">|Minicopter|minihelicopter.repair|1426574435|ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/minigun.png" width="100" height="80">|Minigun|minigun|935606207|ItemModEntity<br>ItemBlueprint<br>ItemModReload<br>|
 |<img src="https://czechrust.eu/img/textures2D/minigunammopack.png" width="100" height="80">|Minigun Ammo Pack|minigunammopack|355877490|ItemModWearable<br>ItemModContainer<br>ItemModBackpack<br>ItemBlueprint<br>|
@@ -614,7 +625,7 @@
 |<img src="https://czechrust.eu/img/textures2D/fish.minnows.png" width="100" height="80">|Minnows|fish.minnows|-542577259|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>ItemModCompostable<br>|
 |<img src="https://czechrust.eu/img/textures2D/mintidtag.png" width="100" height="80">|Mint ID Tag|mintidtag|1572152877||
 |<img src="https://czechrust.eu/img/textures2D/mixingtable.png" width="100" height="80">|Mixing Table|mixingtable|1259919256|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
-|<img src="https://czechrust.eu/img/textures2D/mlrs.png" width="100" height="80">|MLRS|mlrs|-1449152644|ItemBlueprint<br>|
+|<img src="https://czechrust.eu/img/textures2D/mlrs.png" width="100" height="80">|MLRS|mlrs|-1449152644|ItemBlueprint<br>ItemModEntityReference<br>|
 |<img src="https://czechrust.eu/img/textures2D/aiming.module.mlrs.png" width="100" height="80">|MLRS Aiming Module|aiming.module.mlrs|343045591|ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/ammo.rocket.mlrs.png" width="100" height="80">|MLRS Rocket|ammo.rocket.mlrs|-1843426638|ItemModProjectile<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/mobilephone.png" width="100" height="80">|Mobile Phone|mobilephone|-20045316|ItemModEntity<br>ItemBlueprint<br>ItemModEntity<br>ItemModAssociatedEntityMobile<br>ItemMod<br>|
@@ -622,7 +633,7 @@
 |<img src="https://czechrust.eu/img/textures2D/grenade.molotov.png" width="100" height="80">|Molotov Cocktail|grenade.molotov|1556365900|ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/motorbike.png" width="100" height="80">|Motorbike|motorbike|-1417478274|ItemBlueprint<br>ItemModEntityReference<br>|
 |<img src="https://czechrust.eu/img/textures2D/motorbike_sidecar.png" width="100" height="80">|Motorbike With Sidecar|motorbike_sidecar|1869224826|ItemBlueprint<br>ItemModEntityReference<br>|
-|<img src="https://czechrust.eu/img/textures2D/ballista.mounted.png" width="100" height="80">|Mounted Ballista|ballista.mounted|-759279626|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|<img src="https://czechrust.eu/img/textures2D/ballista.mounted.png" width="100" height="80">|Mounted Ballista|ballista.mounted|-759279626|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>ItemModEntityReference<br>|
 |<img src="https://czechrust.eu/img/textures2D/movembermoustache.png" width="100" height="80">|Movember Moustache|movembermoustache|-2047081330|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/smg.mp5.png" width="100" height="80">|MP5A4|smg.mp5|1318558775|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
 |<img src="https://czechrust.eu/img/textures2D/multiplegrenadelauncher.png" width="100" height="80">|Multiple Grenade Launcher|multiplegrenadelauncher|-1123473824|ItemModEntity<br>ItemModContainer<br>ItemBlueprint<br>|
@@ -760,7 +771,7 @@
 |<img src="https://czechrust.eu/img/textures2D/rf_pager.png" width="100" height="80">|RF Pager|rf_pager|-566907190|ItemBlueprint<br>ItemModPager<br>ItemMod<br>|
 |<img src="https://czechrust.eu/img/textures2D/electric.rf.receiver.png" width="100" height="80">|RF Receiver|electric.rf.receiver|888415708|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/rf.detonator.png" width="100" height="80">|RF Transmitter|rf.detonator|596469572|ItemModEntity<br>ItemBlueprint<br>ItemModSetFrequency<br>|
-|<img src="https://czechrust.eu/img/textures2D/rhib.png" width="100" height="80">|RHIB|rhib|1394042569|ItemBlueprint<br>|
+|<img src="https://czechrust.eu/img/textures2D/rhib.png" width="100" height="80">|RHIB|rhib|1394042569|ItemBlueprint<br>ItemModEntityReference<br>|
 |<img src="https://czechrust.eu/img/textures2D/riflebody.png" width="100" height="80">|Rifle Body|riflebody|176787552|ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/riot.helmet.png" width="100" height="80">|Riot Helmet|riot.helmet|671063303|ItemModWearable<br>ItemBlueprint<br>ItemModContainerArmorSlot<br>ItemMod<br>|
 |<img src="https://czechrust.eu/img/textures2D/roadsign.gloves.png" width="100" height="80">|Road Sign Gloves|roadsign.gloves|-699558439|ItemModWearable<br>ItemBlueprint<br>|
@@ -779,7 +790,8 @@
 |<img src="https://czechrust.eu/img/textures2D/clone.rose.png" width="100" height="80">|Rose Clone|clone.rose|-19360132|ItemModDeployable<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/seed.rose.png" width="100" height="80">|Rose Seed|seed.rose|-1037472336|ItemModDeployable<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/apple.spoiled.png" width="100" height="80">|Rotten Apple|apple.spoiled|352130972|ItemModConsume<br>ItemModConsumable<br>ItemModMenuOption<br>ItemModCompostable<br>|
-|<img src="https://czechrust.eu/img/textures2D/rowboat.png" width="100" height="80">|Rowboat|rowboat|1878053256|ItemBlueprint<br>ItemModEntity<br>|
+|<img src="https://czechrust.eu/img/textures2D/rowboat.png" width="100" height="80">|Rowboat|rowboat|1878053256|ItemBlueprint<br>ItemModEntity<br>ItemModEntityReference<br>|
+|<img src="https://czechrust.eu/img/textures2D/rocket.launcher.rpg7.png" width="100" height="80">|RPG Launcher|rocket.launcher.rpg7|494161326|ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/rug.png" width="100" height="80">|Rug|rug|-1985799200|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/rug.bear.png" width="100" height="80">|Rug Bear Skin|rug.bear|-1104881824|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/rustige_egg_b.png" width="100" height="80">|Rustigé Egg - Blue|rustige_egg_b|-173268132|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
@@ -822,9 +834,10 @@
 |<img src="https://czechrust.eu/img/textures2D/scrapmirror.medium.png" width="100" height="80">|Scrap Mirror Medium|scrapmirror.medium|839738457|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
 |<img src="https://czechrust.eu/img/textures2D/scrapmirror.small.png" width="100" height="80">|Scrap Mirror Small|scrapmirror.small|-1050697733|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
 |<img src="https://czechrust.eu/img/textures2D/scrapmirror.standing.png" width="100" height="80">|Scrap Mirror Standing|scrapmirror.standing|-1380144986|ItemModEntity<br>ItemBlueprint<br>ItemModDeployable<br>|
-|<img src="https://czechrust.eu/img/textures2D/scraptransportheli.repair.png" width="100" height="80">|Scrap Transport Helicopter|scraptransportheli.repair|-1884328185|ItemBlueprint<br>|
+|<img src="https://czechrust.eu/img/textures2D/scraptransportheli.png" width="100" height="80">|Scrap Transport Helicopter|scraptransportheli|375473148|ItemBlueprint<br>ItemModEntityReference<br>|
 |<img src="https://czechrust.eu/img/textures2D/searchlight.png" width="100" height="80">|Search Light|searchlight|2087678962|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/secretlabchair.png" width="100" height="80">|Secretlab Chair|secretlabchair|567871954|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|<img src="https://czechrust.eu/img/textures2D/sedan.png" width="100" height="80">|Sedan|sedan|-374457631|ItemBlueprint<br>ItemModEntityReference<br>|
 |<img src="https://czechrust.eu/img/textures2D/electric.seismicsensor.png" width="100" height="80">|Seismic Sensor|electric.seismicsensor|-948291630|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/semibody.png" width="100" height="80">|Semi Automatic Body|semibody|573926264|ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/pistol.semiauto.png" width="100" height="80">|Semi-Automatic Pistol|pistol.semiauto|818877484|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
@@ -842,7 +855,7 @@
 |<img src="https://czechrust.eu/img/textures2D/shovel.png" width="100" height="80">|Shovel|shovel|-1536855921|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |<img src="https://czechrust.eu/img/textures2D/fun.bass.png" width="100" height="80">|Shovel Bass|fun.bass|-2107018088|ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/sickle.png" width="100" height="80">|Sickle|sickle|-1368584029|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
-|<img src="https://czechrust.eu/img/textures2D/siegetower.png" width="100" height="80">|Siege Tower|siegetower|-1290278434|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
+|<img src="https://czechrust.eu/img/textures2D/siegetower.png" width="100" height="80">|Siege Tower|siegetower|-1290278434|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>ItemModEntityReference<br>|
 |<img src="https://czechrust.eu/img/textures2D/easter.silveregg.png" width="100" height="80">|Silver Egg|easter.silveregg|1757265204|ItemModUpgrade<br>ItemModCrackOpen<br>ItemMod<br>|
 |<img src="https://czechrust.eu/img/textures2D/weapon.mod.simplesight.png" width="100" height="80">|Simple Handmade Sight|weapon.mod.simplesight|-855748505|ItemBlueprint<br>ItemModEntity<br>ItemModSound<br>|
 |<img src="https://czechrust.eu/img/textures2D/electric.simplelight.png" width="100" height="80">|Simple Light|electric.simplelight|-282113991|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
@@ -906,10 +919,11 @@
 |<img src="https://czechrust.eu/img/textures2D/snowman.png" width="100" height="80">|Snowman|snowman|1629293099|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/attire.snowman.helmet.png" width="100" height="80">|Snowman Helmet|attire.snowman.helmet|-842267147|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/snowmobile.png" width="100" height="80">|Snowmobile|snowmobile|-1364246987|ItemBlueprint<br>ItemModEntityReference<br>|
+|<img src="https://czechrust.eu/img/textures2D/ball.png" width="100" height="80">|Soccer Ball|ball|405904531|ItemBlueprint<br>ItemModEntityReference<br>|
 |<img src="https://czechrust.eu/img/textures2D/weapon.mod.sodacansilencer.png" width="100" height="80">|Soda Can Silencer|weapon.mod.sodacansilencer|-1659598760|ItemBlueprint<br>ItemModEntity<br>ItemModSound<br>|
 |<img src="https://czechrust.eu/img/textures2D/sofa.png" width="100" height="80">|Sofa|sofa|-555122905|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/sofa.pattern.png" width="100" height="80">|Sofa - Pattern|sofa.pattern|782422285|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
-|<img src="https://czechrust.eu/img/textures2D/submarinesolo.png" width="100" height="80">|Solo Submarine|submarinesolo|-187031121|ItemBlueprint<br>|
+|<img src="https://czechrust.eu/img/textures2D/submarinesolo.png" width="100" height="80">|Solo Submarine|submarinesolo|-187031121|ItemBlueprint<br>ItemModEntityReference<br>|
 |<img src="https://czechrust.eu/img/textures2D/soundlight.png" width="100" height="80">|Sound Light|soundlight|-343857907|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/fun.tuba.png" width="100" height="80">|Sousaphone|fun.tuba|1784406797|ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/hazmatsuit.spacesuit.png" width="100" height="80">|Space Suit|hazmatsuit.spacesuit|-560304835|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>ItemModContainerArmorSlot<br>ItemMod<br>|
@@ -1003,7 +1017,7 @@
 |<img src="https://czechrust.eu/img/textures2D/trike.png" width="100" height="80">|Trike|trike|1991794121|ItemBlueprint<br>ItemModEntityReference<br>|
 |<img src="https://czechrust.eu/img/textures2D/electric.spotlight.tripod.png" width="100" height="80">|Tripod Spot Light|electric.spotlight.tripod|-2134097299|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/tshirt.png" width="100" height="80">|T-Shirt|tshirt|223891266|ItemModWearable<br>ItemBlueprint<br>|
-|<img src="https://czechrust.eu/img/textures2D/tugboat.png" width="100" height="80">|Tugboat|tugboat|-561148628|ItemBlueprint<br>ItemModEntity<br>|
+|<img src="https://czechrust.eu/img/textures2D/tugboat.png" width="100" height="80">|Tugboat|tugboat|-561148628|ItemBlueprint<br>ItemModEntity<br>ItemModEntityReference<br>|
 |<img src="https://czechrust.eu/img/textures2D/tunalight.png" width="100" height="80">|Tuna Can Lamp|tunalight|-1478445584|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>ItemModContainer<br>|
 |<img src="https://czechrust.eu/img/textures2D/twitchrivals2023desk.png" width="100" height="80">|Twitch Rivals Desk|twitchrivals2023desk|-243540612|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/twitchrivalsflag.png" width="100" height="80">|Twitch Rivals Flag|twitchrivalsflag|-739993590|ItemModWearable<br>ItemModBackpack<br>|
@@ -1022,7 +1036,7 @@
 |<img src="https://czechrust.eu/img/textures2D/firework.romancandle.violet.png" width="100" height="80">|Violet Roman Candle|firework.romancandle.violet|-99886070|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/firework.volcano.violet.png" width="100" height="80">|Violet Volcano Firework|firework.volcano.violet|-1538109120|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/bottle.vodka.png" width="100" height="80">|Vodka Bottle|bottle.vodka|755224797||
-|<img src="https://czechrust.eu/img/textures2D/wagon.png" width="100" height="80">|Wagon|wagon|996757362|ItemBlueprint<br>|
+|<img src="https://czechrust.eu/img/textures2D/wagon.png" width="100" height="80">|Wagon|wagon|996757362|ItemBlueprint<br>ItemModEntityReference<br>|
 |<img src="https://czechrust.eu/img/textures2D/walkietalkie.png" width="100" height="80">|Walkie Talkie|walkietalkie|-1416322465|ItemBlueprint<br>ItemModConversation<br>|
 |<img src="https://czechrust.eu/img/textures2D/electric.wallcabinet.png" width="100" height="80">|Wall Cabinet|electric.wallcabinet|656829501|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/wall.frame.lunar2025_a.png" width="100" height="80">|Wall Divider Pack|wall.frame.lunar2025_a|1115193056|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
@@ -1099,7 +1113,7 @@
 |<img src="https://czechrust.eu/img/textures2D/wooden.shield.png" width="100" height="80">|Wooden Shield|wooden.shield|1604837581|ItemBlueprint<br>ItemModWearable<br>ItemModShield<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/spear.wooden.png" width="100" height="80">|Wooden Spear|spear.wooden|1540934679|ItemModEntity<br>ItemBlueprint<br>ItemModProjectile<br>|
 |<img src="https://czechrust.eu/img/textures2D/wall.window.bars.wood.png" width="100" height="80">|Wooden Window Bars|wall.window.bars.wood|-1183726687|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
-|<img src="https://czechrust.eu/img/textures2D/workcart.png" width="100" height="80">|Work Cart|workcart|-810326667|ItemBlueprint<br>|
+|<img src="https://czechrust.eu/img/textures2D/workcart.png" width="100" height="80">|Work Cart|workcart|-810326667|ItemBlueprint<br>ItemModEntityReference<br>|
 |<img src="https://czechrust.eu/img/textures2D/workbench1.png" width="100" height="80">|Workbench Level 1|workbench1|1524187186|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/workbench2.png" width="100" height="80">|Workbench Level 2|workbench2|-41896755|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
 |<img src="https://czechrust.eu/img/textures2D/workbench3.png" width="100" height="80">|Workbench Level 3|workbench3|-1607980696|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>|
