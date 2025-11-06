@@ -5636,6 +5636,8 @@
 |assets/plugins/rust.ui/controls/rustslider.white.asset|
 |assets/plugins/rust.ui/controls/rusttoggle.normal.off.asset|
 |assets/plugins/rust.ui/controls/rusttoggle.normal.on.asset|
+|assets/plugins/rust.ui/controls/rusttoggle.success.off.asset|
+|assets/plugins/rust.ui/controls/rusttoggle.success.on.asset|
 |assets/plugins/rust.ui/controls/tabcontrol.button.normal.asset|
 |assets/plugins/rust.ui/controls/tabcontrol.button.sidebar.asset|
 |assets/plugins/rust.ui/controls/tabcontrol.normal.asset|
@@ -7943,6 +7945,7 @@
 |assets/prefabs/weapons/high caliber revolver/sound/hc-revolver-reload-grab-speedloader.asset|
 |assets/prefabs/weapons/high caliber revolver/sound/hc-revolver-reload-insert-speedloader.asset|
 |assets/prefabs/weapons/high caliber revolver/sound/hc-revolver-reload-start.asset|
+|assets/prefabs/weapons/hmlmg/hmlmg.skinnable.asset|
 |assets/prefabs/weapons/hmlmg/sound/hmlmg-deoloy-01-close-top-01.asset|
 |assets/prefabs/weapons/hmlmg/sound/hmlmg-deploy-01-finish-01.asset|
 |assets/prefabs/weapons/hmlmg/sound/hmlmg-deploy-01-start-01.asset|
@@ -8244,9 +8247,21 @@
 |assets/prefabs/weapons/rock/rock.skinnable.asset|
 |assets/prefabs/weapons/rock/skins/rock_a_jungle/rock.a.jungle.skin.asset|
 |assets/prefabs/weapons/rock/sound/rock-deploy-3p.asset|
-|assets/prefabs/weapons/rocketlauncher/cny_dragonlauncher/rocket_launcher_dragon.skin.asset|
-|assets/prefabs/weapons/rocketlauncher/cny_dragonlauncher/sounds/dragon-rocket-launcher-attack.asset|
 |assets/prefabs/weapons/rocketlauncher/rocket_launcher.skinnable.asset|
+|assets/prefabs/weapons/rocketlauncher/skins/cny_dragonlauncher/rocket_launcher_dragon.skin.asset|
+|assets/prefabs/weapons/rocketlauncher/skins/cny_dragonlauncher/sounds/dragon-rocket-launcher-attack.asset|
+|assets/prefabs/weapons/rocketlauncher/skins/rpg7/rocket_launcher_rpg7.skin.asset|
+|assets/prefabs/weapons/rocketlauncher/skins/rpg7/sound/rpg7-admire-01.asset|
+|assets/prefabs/weapons/rocketlauncher/skins/rpg7/sound/rpg7-admire-02.asset|
+|assets/prefabs/weapons/rocketlauncher/skins/rpg7/sound/rpg7-admire-03.asset|
+|assets/prefabs/weapons/rocketlauncher/skins/rpg7/sound/rpg7-attack-mech.asset|
+|assets/prefabs/weapons/rocketlauncher/skins/rpg7/sound/rpg7-deploy-settle.asset|
+|assets/prefabs/weapons/rocketlauncher/skins/rpg7/sound/rpg7-deploy-start.asset|
+|assets/prefabs/weapons/rocketlauncher/skins/rpg7/sound/rpg7-dryfire.asset|
+|assets/prefabs/weapons/rocketlauncher/skins/rpg7/sound/rpg7-reload-finish.asset|
+|assets/prefabs/weapons/rocketlauncher/skins/rpg7/sound/rpg7-reload-flip-switch.asset|
+|assets/prefabs/weapons/rocketlauncher/skins/rpg7/sound/rpg7-reload-insert-rocket.asset|
+|assets/prefabs/weapons/rocketlauncher/skins/rpg7/sound/rpg7-reload-start.asset|
 |assets/prefabs/weapons/rocketlauncher/sound/rocket_explosion.asset|
 |assets/prefabs/weapons/rocketlauncher/sound/rocketlauncher_attack.asset|
 |assets/prefabs/weapons/rocketlauncher/sound/rocketlauncher_deploy-3p.asset|
@@ -8857,6 +8872,7 @@
 |assets/scenes/prefabs/trainyard/sound/coaling-tower-suction-ore-loop-interior-pipe.asset|
 |assets/scenes/prefabs/trainyard/sound/coaling-tower-suction-ore-start.asset|
 |assets/scenes/prefabs/unique environments/ue_lake_a.asset|
+|assets/scenes/release/qaisland.asset|
 |assets/scenes/test/assetgallery/assetgallery interior.asset|
 |assets/scenes/test/assetgallery/assetgallery.asset|
 |assets/scenes/test/assetgallery/debug exterior.asset|
