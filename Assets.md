@@ -5840,6 +5840,7 @@
 |assets/prefabs/clothes/suit.hazmat/frontier/frontierhazmat.skeleton.asset|
 |assets/prefabs/clothes/suit.hazmat/frontier/hazmat.frontier.skin.asset|
 |assets/prefabs/clothes/suit.hazmat/hazmat.skinnable.asset|
+|assets/prefabs/clothes/suit.hazmat/kick/kick.hazmat.skin.asset|
 |assets/prefabs/clothes/suit.hazmat/lumberjack/hazmat.lumberjack.skin.asset|
 |assets/prefabs/clothes/suit.hazmat/nomad/hazmat.nomad.skin.asset|
 |assets/prefabs/clothes/suit.hazmat/pilot/cloth.pilot_hazmat.asset|
