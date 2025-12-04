@@ -498,6 +498,7 @@
 |assets/content/properties/buildinggrade/jungle.asset|
 |assets/content/properties/buildinggrade/metal.asset|
 |assets/content/properties/buildinggrade/shipping_container.asset|
+|assets/content/properties/buildinggrade/space_station.asset|
 |assets/content/properties/buildinggrade/stone.asset|
 |assets/content/properties/buildinggrade/toptier.asset|
 |assets/content/properties/buildinggrade/twigs.asset|
@@ -4668,6 +4669,7 @@
 |assets/content/ui/fonts/_robotocondensed/robotocondensed-bold sdf.asset|
 |assets/content/ui/fonts/_robotocondensed/robotocondensed-regular sdf.asset|
 |assets/content/ui/fonts/droidsansmono/droidsansmono sdf.asset|
+|assets/content/ui/fonts/lcd sdf spacegun.asset|
 |assets/content/ui/fonts/lcd sdf.asset|
 |assets/content/ui/fonts/localization font fallback settings.asset|
 |assets/content/ui/fonts/localization font generation settings.asset|
@@ -4676,6 +4678,7 @@
 |assets/content/ui/fonts/pressstart2p/pressstart2p-regular sdf.asset|
 |assets/content/ui/fonts/robotomono/robotomono-regular sdf noztest.asset|
 |assets/content/ui/fonts/robotomono/robotomono-regular sdf.asset|
+|assets/content/ui/fonts/superchiby/super chiby sdf.asset|
 |assets/content/ui/gameui/achievements/item-complete.asset|
 |assets/content/ui/gameui/achievements/list-complete.asset|
 |assets/content/ui/gameui/achievements/popup.asset|
@@ -5718,6 +5721,7 @@
 |assets/prefabs/clothes/frogboots/frogboots.sitem.asset|
 |assets/prefabs/clothes/gloves.leather/gloves.leather.skinnable.asset|
 |assets/prefabs/clothes/gloves.roadsign/gloves.roadsign.skinnable.asset|
+|assets/prefabs/clothes/gloves.tactical/gloves.tactical.skinnable.asset|
 |assets/prefabs/clothes/gloves.woodarmor/gloves.woodarmor.skinnable.asset|
 |assets/prefabs/clothes/halloween.draculacape/cloth.draculacape.asset|
 |assets/prefabs/clothes/halloween.draculacape/draculacape.sitem.asset|
@@ -5740,6 +5744,10 @@
 |assets/prefabs/clothes/hat.boonie/hat.boonie.skinnable.asset|
 |assets/prefabs/clothes/hat.bucket/hat.bucket.skinnable.asset|
 |assets/prefabs/clothes/hat.burlap.wrap/hat.burlap.wrap.skinnable.asset|
+|assets/prefabs/clothes/hat.candle/candle.hat.skinnable.asset|
+|assets/prefabs/clothes/hat.candle/skins/birthday_candle_hat/hat.candle.birthday.skin.asset|
+|assets/prefabs/clothes/hat.candle/skins/birthday_candle_hat/materials/ssp_birthday_candle_hat_cherries.asset|
+|assets/prefabs/clothes/hat.candle/skins/birthday_candle_hat/materials/ssp_birthday_candle_hat_cream.asset|
 |assets/prefabs/clothes/hat.cap/blue/hat.cap.blue.itemskin.asset|
 |assets/prefabs/clothes/hat.cap/forestcamo/hat.cap.forestcamo.itemskin.asset|
 |assets/prefabs/clothes/hat.cap/green/hat.cap.green.itemskin.asset|
@@ -6124,6 +6132,7 @@
 |assets/prefabs/deployable/mixingtable/sound/mixing-table-mix-start.asset|
 |assets/prefabs/deployable/mixingtable/sound/mixing-table-open.asset|
 |assets/prefabs/deployable/mixingtable/sound/mixing-table-pick-up.asset|
+|assets/prefabs/deployable/neonsigntr/twitchrivals2025.neonsign.sitem.asset|
 |assets/prefabs/deployable/oil jack/sound/pumpjack-mechanics-loop.asset|
 |assets/prefabs/deployable/oil jack/sound/pumpjack-pump-down.asset|
 |assets/prefabs/deployable/oil jack/sound/pumpjack-pump-up.asset|
@@ -6311,6 +6320,7 @@
 |assets/prefabs/deployable/sofa/sound/sofa-destroy.asset|
 |assets/prefabs/deployable/sofa/sound/sofa-dismount.asset|
 |assets/prefabs/deployable/sofa/sound/sofa-mount.asset|
+|assets/prefabs/deployable/sofa/twitch_rivals/twitchrivals2025sofa.sitem.asset|
 |assets/prefabs/deployable/spinner_wheel/sound/spinner-wheel-deploy.asset|
 |assets/prefabs/deployable/spinner_wheel/sound/spinner-wheel-spin-accent.asset|
 |assets/prefabs/deployable/spinner_wheel/sound/spinner-wheel-spin-loop.asset|
@@ -6417,6 +6427,7 @@
 |assets/prefabs/deployable/youtooz_figurines/youtooz_hazmat.skin.asset|
 |assets/prefabs/deployable/youtooz_figurines/youtooz_heavy.skin.asset|
 |assets/prefabs/dlc.warhammer.asset|
+|assets/prefabs/dlc/pack_sitems/balloon_pack/balloon.pack.dlc.sitem.asset|
 |assets/prefabs/dlc/pack_sitems/decor_lighting_pack/decor.lighting.dlc.sitem.asset|
 |assets/prefabs/food/berries/sound/ui-berries-drop.asset|
 |assets/prefabs/food/berries/sound/ui-berries-pick-up.asset|
@@ -6504,6 +6515,14 @@
 |assets/prefabs/locks/keypad/sound/lock-code-shock.asset|
 |assets/prefabs/locks/keypad/sound/lock-code-unlock.asset|
 |assets/prefabs/locks/keypad/sound/lock-code-updated.asset|
+|assets/prefabs/misc/birthday_balloons_2025/materials/latex_balloon.asset|
+|assets/prefabs/misc/birthday_balloons_2025/sound/birthday-balloon-deploy-multiple.asset|
+|assets/prefabs/misc/birthday_balloons_2025/sound/birthday-balloon-deploy-single.asset|
+|assets/prefabs/misc/birthday_balloons_2025/sound/birthday-balloon-impact.asset|
+|assets/prefabs/misc/birthday_balloons_2025/sound/birthday-balloon-pop-multiple.asset|
+|assets/prefabs/misc/birthday_balloons_2025/sound/birthday-balloon-pop-single.asset|
+|assets/prefabs/misc/birthday_balloons_2025/sound/birthday-balloon-ui-drop.asset|
+|assets/prefabs/misc/birthday_balloons_2025/sound/birthday-balloon-ui-pickup.asset|
 |assets/prefabs/misc/blueprintbase/sound/blueprint_read.asset|
 |assets/prefabs/misc/buildingskins/adobe/adobe.sitem.asset|
 |assets/prefabs/misc/buildingskins/brick/brick.sitem.asset|
@@ -6511,6 +6530,7 @@
 |assets/prefabs/misc/buildingskins/frontier/frontier.sitem.asset|
 |assets/prefabs/misc/buildingskins/jungle/jungle.sitem.asset|
 |assets/prefabs/misc/buildingskins/shippingcontainer/shippingcontainer.sitem.asset|
+|assets/prefabs/misc/buildingskins/space_station/space_station.sitem.asset|
 |assets/prefabs/misc/burlap sack/sounds/burlap-sack-impact-hard.asset|
 |assets/prefabs/misc/burlap sack/sounds/burlap-sack-impact-med.asset|
 |assets/prefabs/misc/burlap sack/sounds/burlap-sack-impact-soft.asset|
@@ -7540,6 +7560,7 @@
 |assets/prefabs/voiceaudio/telephone/sound/telephone-handset-pick-up-remote.asset|
 |assets/prefabs/voiceaudio/telephone/sound/telephone-ring-incoming-while-active.asset|
 |assets/prefabs/voiceaudio/telephone/sound/telephone-ring-loop.asset|
+|assets/prefabs/voiceaudio/telephone/sound/telephone-ring-loop-loud.asset|
 |assets/prefabs/voiceaudio/telephone/sound/telephone-ring-loop-payphone.asset|
 |assets/prefabs/voiceaudio/telephone/sound/telephone-ring-mobile-loop.asset|
 |assets/prefabs/voiceaudio/telephone/sound/telephone-ring-remote.asset|
@@ -7628,6 +7649,8 @@
 |assets/prefabs/wallpaper/skins/2025-10_halloween/skin_assets/floorpaper.tree.roots.skin.asset|
 |assets/prefabs/wallpaper/skins/2025-10_halloween/skin_assets/wallpaper.halloween.bats.skin.asset|
 |assets/prefabs/wallpaper/skins/2025-10_halloween/skin_assets/wallpaper.muertos.a.skin.asset|
+|assets/prefabs/wallpaper/skins/2025-12_twitch_rivals/skin_assets/wallpaper.2025.twitch.rivals.black.skin.asset|
+|assets/prefabs/wallpaper/skins/2025-12_twitch_rivals/skin_assets/wallpaper.2025.twitch.rivals.purple.skin.asset|
 |assets/prefabs/wallpaper/sound/wallpaper-deploy.asset|
 |assets/prefabs/wallpaper/sound/wallpaper-place.asset|
 |assets/prefabs/wallpaper/sound/wallpaper-place-viewmodel.asset|
@@ -7789,6 +7812,8 @@
 |assets/prefabs/weapons/chainsaw/sound/chainsaw-settle.asset|
 |assets/prefabs/weapons/chocolate_cake/material/ssp_birthdaycake_10.asset|
 |assets/prefabs/weapons/chocolate_cake/material/ssp_birthdaycake_11.asset|
+|assets/prefabs/weapons/chocolate_cake/material/ssp_birthdaycake_12.asset|
+|assets/prefabs/weapons/chocolate_cake/material/ssp_birthdaycake_12_cherry_candle.asset|
 |assets/prefabs/weapons/cleaver big/sound/2handed-cleaver-attack.asset|
 |assets/prefabs/weapons/cleaver big/sound/2handed-cleaver-attack-3p.asset|
 |assets/prefabs/weapons/cleaver big/sound/2handed-cleaver-deploy.asset|
@@ -7999,6 +8024,21 @@
 |assets/prefabs/weapons/l96/sound/l96-remove-mag.asset|
 |assets/prefabs/weapons/legacy bow/legacybow.skin.asset|
 |assets/prefabs/weapons/lr300/lr300.skinnable.asset|
+|assets/prefabs/weapons/lr300/skins/space/lr330.space.skin.asset|
+|assets/prefabs/weapons/lr300/skins/space/sound/lr300-space-admire-01.asset|
+|assets/prefabs/weapons/lr300/skins/space/sound/lr300-space-admire-02.asset|
+|assets/prefabs/weapons/lr300/skins/space/sound/lr300-space-admire-03.asset|
+|assets/prefabs/weapons/lr300/skins/space/sound/lr300-space-admire-04.asset|
+|assets/prefabs/weapons/lr300/skins/space/sound/lr300-space-admire-05.asset|
+|assets/prefabs/weapons/lr300/skins/space/sound/lr300-space-deploy-finish.asset|
+|assets/prefabs/weapons/lr300/skins/space/sound/lr300-space-deploy-start.asset|
+|assets/prefabs/weapons/lr300/skins/space/sound/lr300-space-reload-finish.asset|
+|assets/prefabs/weapons/lr300/skins/space/sound/lr300-space-reload-grab-mag.asset|
+|assets/prefabs/weapons/lr300/skins/space/sound/lr300-space-reload-insert-mag.asset|
+|assets/prefabs/weapons/lr300/skins/space/sound/lr300-space-reload-mag-impact.asset|
+|assets/prefabs/weapons/lr300/skins/space/sound/lr300-space-reload-remove-mag.asset|
+|assets/prefabs/weapons/lr300/skins/space/sound/lr300-space-reload-start.asset|
+|assets/prefabs/weapons/lr300/skins/space/sound/lr300-space-reload-toss-mag.asset|
 |assets/prefabs/weapons/lr300/sound/lr300-attack.asset|
 |assets/prefabs/weapons/lr300/sound/lr300-attack-silenced.asset|
 |assets/prefabs/weapons/lr300/sound/lr300-bolt-catch.asset|
