@@ -1202,6 +1202,16 @@
 |assets/prefabs/locks/keypad/effects/lock.code.unlock.prefab|
 |assets/prefabs/locks/keypad/effects/lock.code.updated.prefab|
 |assets/prefabs/locks/keypad/effects/lock-code-deploy.prefab|
+|assets/prefabs/misc/birthday_balloons_2025/effects/balloonpop circle.prefab|
+|assets/prefabs/misc/birthday_balloons_2025/effects/balloonpop heart.prefab|
+|assets/prefabs/misc/birthday_balloons_2025/effects/balloonpop latex.prefab|
+|assets/prefabs/misc/birthday_balloons_2025/effects/balloonpop latexclump.prefab|
+|assets/prefabs/misc/birthday_balloons_2025/effects/balloonpop mixedclump.prefab|
+|assets/prefabs/misc/birthday_balloons_2025/effects/balloonpop speech.prefab|
+|assets/prefabs/misc/birthday_balloons_2025/effects/balloonpop star.prefab|
+|assets/prefabs/misc/birthday_balloons_2025/effects/birthday-balloon-deploy-multiple.prefab|
+|assets/prefabs/misc/birthday_balloons_2025/effects/birthday-balloon-deploy-single.prefab|
+|assets/prefabs/misc/birthday_balloons_2025/effects/birthday-balloon-impact.prefab|
 |assets/prefabs/misc/blueprintbase/effects/blueprint_read.prefab|
 |assets/prefabs/misc/burlap sack/effects/phys-impact-hard.prefab|
 |assets/prefabs/misc/burlap sack/effects/phys-impact-med.prefab|
