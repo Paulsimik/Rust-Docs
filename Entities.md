@@ -360,7 +360,12 @@
 |br_sphere_green|3453089031|SphereEntity<br>|assets/bundled/prefabs/modding/events/twitch/br_sphere_green.prefab|
 |br_sphere_purple|1440656070|SphereEntity<br>|assets/bundled/prefabs/modding/events/twitch/br_sphere_purple.prefab|
 |br_sphere_red|816064497|SphereEntity<br>|assets/bundled/prefabs/modding/events/twitch/br_sphere_red.prefab|
+|nuclear_warhead|451149401|BaseEntity<br>|assets/bundled/prefabs/modding/events/twitch/nuclear_warhead.prefab|
+|nuke_combined|1377346555|BaseEntity<br>|assets/bundled/prefabs/modding/events/twitch/nuke_combined.prefab|
 |twitch_dropbox.deployed|1572428470|DropBox<br>BaseCombatEntity<br>DecayEntity<br>StorageContainer<br>Model<br>|assets/bundled/prefabs/modding/events/twitch/twitch_dropbox.deployed.prefab|
+|warhead_cable_single|1989952626|BaseEntity<br>|assets/bundled/prefabs/modding/events/twitch/warhead_cable_single.prefab|
+|wipe_laptop|649313748|WipeLaptopEntity<br>|assets/bundled/prefabs/modding/events/twitch/wipe_laptop.prefab|
+|wooden_crate_a|1146661484|BaseEntity<br>|assets/bundled/prefabs/modding/events/twitch/wooden_crate_a.prefab|
 |NPCVendingMachine_building_hapis|2012620586|NPCVendingMachine<br>BaseCombatEntity<br>ContainerIOEntity<br>DecayEntity<br>IOEntity<br>Model<br>BoxCollider<br>|assets/bundled/prefabs/modding/hapis/npcvendingmachine_building_hapis.prefab|
 |NPCVendingMachine_Buyres_hapis|4240629323|NPCVendingMachine<br>BaseCombatEntity<br>ContainerIOEntity<br>DecayEntity<br>IOEntity<br>Model<br>BoxCollider<br>|assets/bundled/prefabs/modding/hapis/npcvendingmachine_buyres_hapis.prefab|
 |NPCVendingMachine_food_hapis|2259370323|NPCVendingMachine<br>BaseCombatEntity<br>ContainerIOEntity<br>DecayEntity<br>IOEntity<br>Model<br>BoxCollider<br>|assets/bundled/prefabs/modding/hapis/npcvendingmachine_food_hapis.prefab|
@@ -378,6 +383,9 @@
 |invisible_crate_tools|922765448|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/modding/lootables/invisible/invisible_lootable_prefabs/invisible_crate_tools.prefab|
 |invisible_foodbox|3009986025|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/modding/lootables/invisible/invisible_lootable_prefabs/invisible_foodbox.prefab|
 |invisible_vehicle_parts|2291464081|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/modding/lootables/invisible/invisible_lootable_prefabs/invisible_vehicle_parts.prefab|
+|loud.phonebooth.static|1581043470|Telephone<br>BaseCombatEntity<br>DecayEntity<br>IOEntity<br>PhoneController<br>MeshCollider<br>|assets/bundled/prefabs/modding/prefabs_static/loud.phonebooth.static.prefab|
+|TumblingBoulder.entity|995822742|PhysicsTumblingEntity<br>Rigidbody<br>EntityCollisionMessage<br>|assets/bundled/prefabs/modding/tumblingphysicsobjects/tumblingboulder.entity.prefab|
+|TumblingChassis.entity|4009911629|PhysicsTumblingEntity<br>Rigidbody<br>MagnetLiftable<br>EntityCollisionMessage<br>|assets/bundled/prefabs/modding/tumblingphysicsobjects/tumblingchassis.entity.prefab|
 |napalm|184893264|FireBall<br>Rigidbody<br>BoxCollider<br>|assets/bundled/prefabs/napalm.prefab|
 |oilFireballSmall|3550347674|FireBall<br>Rigidbody<br>BoxCollider<br>|assets/bundled/prefabs/oilfireballsmall.prefab|
 |crate_basic|1603759333|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>NavMeshObstacle<br>|assets/bundled/prefabs/radtown/crate_basic.prefab|
@@ -1008,6 +1016,8 @@
 |MixingTable.deployed|2330684337|MixingTable<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/mixingtable/mixingtable.deployed.prefab|
 |electrical.modularcarlift.deployed|428217161|ModularCarGarage<br>BaseCombatEntity<br>DecayEntity<br>IOEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/modular car lift/electrical.modularcarlift.deployed.prefab|
 |monument_CCTV_desk.static|656924125|ComputerStation<br>BaseCombatEntity<br>Model<br>|assets/prefabs/deployable/monument_cctv_desk/monument_cctv_desk.static.prefab|
+|NeonsignTR.deployed|3254452298|GroundWatch<br>DestroyOnGroundMissing<br>SimpleLight<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>Model<br>|assets/prefabs/deployable/neonsigntr/neonsigntr.deployed.prefab|
+|NeonsignTR.worldmodel|2952698610|BoxCollider<br>Model<br>WorldModel<br>ColliderInfo<br>|assets/prefabs/deployable/neonsigntr/neonsigntr.worldmodel.prefab|
 |crudeOutput|70163214|ResourceExtractorFuelStorage<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/prefabs/deployable/oil jack/crudeoutput.prefab|
 |EngineSwitch|336885727|EngineSwitch<br>MeshCollider<br>|assets/prefabs/deployable/oil jack/engineswitch.prefab|
 |FuelStorage|4260630588|BoxCollider<br>ResourceExtractorFuelStorage<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/deployable/oil jack/fuelstorage.prefab|
@@ -1123,6 +1133,7 @@
 |SofaSeat|2119696825|BaseChair<br>BaseCombatEntity<br>|assets/prefabs/deployable/sofa/seats/sofaseat.prefab|
 |sofa.deployed|51176708|BaseVehicle<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/sofa/sofa.deployed.prefab|
 |sofa.pattern.deployed|836629684|BaseVehicle<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/sofa/sofa.pattern.deployed.prefab|
+|twitch_rivals_sofa.deployed|3169453665|BaseVehicle<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/sofa/twitch_rivals/twitch_rivals_sofa.deployed.prefab|
 |spikes.trap|3006607439|Barricade<br>BaseCombatEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>Model<br>|assets/prefabs/deployable/spike trap/spikes.trap.prefab|
 |spinner.wheel.deployed|4006597758|SpinnerWheel<br>BaseCombatEntity<br>DecayEntity<br>IOEntity<br>DestroyOnGroundMissing<br>GroundWatch<br>MeshCollider<br>Model<br>CapsuleCollider<br>|assets/prefabs/deployable/spinner_wheel/spinner.wheel.deployed.prefab|
 |survivalfishtrap.deployed|3119617183|SurvivalFishTrap<br>BaseCombatEntity<br>DecayEntity<br>StorageContainer<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/survivalfishtrap/survivalfishtrap.deployed.prefab|
@@ -1247,6 +1258,13 @@
 |lock.key|2106860026|KeyLock<br>|assets/prefabs/locks/keylock/lock.key.prefab|
 |lock.code|3518824735|CodeLock<br>|assets/prefabs/locks/keypad/lock.code.prefab|
 |lock.code.a.pilot|319071656|DigitSendCodeLock<br>BaseLock<br>|assets/prefabs/locks/keypad/skins/codelock_a_pilot/lock.code.a.pilot.prefab|
+|circle_balloon.deployed|1020698817|PartyBalloon<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/misc/birthday_balloons_2025/circle_balloon.deployed.prefab|
+|heart_balloon.deployed|51953109|PartyBalloon<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/misc/birthday_balloons_2025/heart_balloon.deployed.prefab|
+|latex_balloon.deployed|1667260774|PartyBalloon<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/misc/birthday_balloons_2025/latex_balloon.deployed.prefab|
+|latexclump_balloon.deployed|2097023580|BaseCombatEntity<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/misc/birthday_balloons_2025/latexclump_balloon.deployed.prefab|
+|mixedclump_balloon.deployed|2723764296|BaseCombatEntity<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/misc/birthday_balloons_2025/mixedclump_balloon.deployed.prefab|
+|speechbubble_balloon.deployed|513939161|PartyBalloon<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/misc/birthday_balloons_2025/speechbubble_balloon.deployed.prefab|
+|star_balloon.deployed|1969418053|PartyBalloon<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/misc/birthday_balloons_2025/star_balloon.deployed.prefab|
 |generic_world|3255145925|DroppedItem<br>PhysicsEffects<br>|assets/prefabs/misc/burlap sack/generic_world.prefab|
 |big_wheel|3690849383|BigWheelGame<br>BaseCombatEntity<br>DecayEntity<br>IOEntity<br>Signage<br>MeshCollider<br>Model<br>|assets/prefabs/misc/casino/bigwheel/big_wheel.prefab|
 |BigWheelBettingTerminal|2924713120|BigWheelBettingTerminal<br>BaseCombatEntity<br>DecayEntity<br>Model<br>|assets/prefabs/misc/casino/bigwheel/bigwheelbettingterminal.prefab|
@@ -1916,6 +1934,7 @@
 |l96.entity|2620171289|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/l96/l96.entity.prefab|
 |legacybow.entity|1400027705|BowWeapon<br>HeldEntity<br>AttackEntity<br>|assets/prefabs/weapons/legacy bow/legacybow.entity.prefab|
 |lr300.entity|844375121|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/lr300/lr300.entity.prefab|
+|lr300_space.entity|1407888186|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/lr300/skins/space/lr300_space.entity.prefab|
 |m249.entity|1440914039|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/m249/m249.entity.prefab|
 |m39.entity|1517089664|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/m39 emr/m39.entity.prefab|
 |m4_shotgun.entity|2416998201|BaseProjectile<br>HeldEntity<br>Model<br>|assets/prefabs/weapons/m4 shotgun/m4_shotgun.entity.prefab|
