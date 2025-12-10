@@ -5728,11 +5728,9 @@
 |assets/prefabs/clothes/halloween.draculacape/player_skeleton.draculacape.asset|
 |assets/prefabs/clothes/halloween.draculamask/draculamask.sitem.asset|
 |assets/prefabs/clothes/halloween.draculamask/materials/ssp_draculamask.asset|
-|assets/prefabs/clothes/halloween.frankensteinmask/materials/ssp_frankensteinmask.asset|
 |assets/prefabs/clothes/halloween.ghostsheet/cloth.ghostsheet.asset|
 |assets/prefabs/clothes/halloween.ghostsheet/player_skeleton.ghostsheet.asset|
 |assets/prefabs/clothes/halloween.ghostsheet/sbmat_ghostsheet.asset|
-|assets/prefabs/clothes/halloween.mummymask/materials/mummymasksubsurfaceprofile.asset|
 |assets/prefabs/clothes/halloween.scarecrow/sound/soul_release.asset|
 |assets/prefabs/clothes/haloween.hockeymask/metal.facemask.hockey.skin.asset|
 |assets/prefabs/clothes/halterneck.hide/halterneck.hide.skinnable.asset|
@@ -6515,7 +6513,6 @@
 |assets/prefabs/locks/keypad/sound/lock-code-shock.asset|
 |assets/prefabs/locks/keypad/sound/lock-code-unlock.asset|
 |assets/prefabs/locks/keypad/sound/lock-code-updated.asset|
-|assets/prefabs/misc/birthday_balloons_2025/materials/latex_balloon.asset|
 |assets/prefabs/misc/birthday_balloons_2025/sound/birthday-balloon-deploy-multiple.asset|
 |assets/prefabs/misc/birthday_balloons_2025/sound/birthday-balloon-deploy-single.asset|
 |assets/prefabs/misc/birthday_balloons_2025/sound/birthday-balloon-impact.asset|
@@ -6628,7 +6625,6 @@
 |assets/prefabs/misc/easter/faberge_egg_e/rustige_egg_e.sitem.asset|
 |assets/prefabs/misc/easter/faberge_egg_f/rustige_egg_f.sitem.asset|
 |assets/prefabs/misc/easter/faberge_egg_g/rustige_egg_g.sitem.asset|
-|assets/prefabs/misc/easter/faberge_egg_g/rustigeegg_g_sss.asset|
 |assets/prefabs/misc/easter/horsecostume/cloth.horsecostume.asset|
 |assets/prefabs/misc/easter/horsecostume/cloth.horsecostume.skinviewer.asset|
 |assets/prefabs/misc/easter/horsecostume/horse.costume.sitem.asset|
@@ -7810,10 +7806,6 @@
 |assets/prefabs/weapons/chainsaw/sound/chainsaw-rev-down.asset|
 |assets/prefabs/weapons/chainsaw/sound/chainsaw-rev-up.asset|
 |assets/prefabs/weapons/chainsaw/sound/chainsaw-settle.asset|
-|assets/prefabs/weapons/chocolate_cake/material/ssp_birthdaycake_10.asset|
-|assets/prefabs/weapons/chocolate_cake/material/ssp_birthdaycake_11.asset|
-|assets/prefabs/weapons/chocolate_cake/material/ssp_birthdaycake_12.asset|
-|assets/prefabs/weapons/chocolate_cake/material/ssp_birthdaycake_12_cherry_candle.asset|
 |assets/prefabs/weapons/cleaver big/sound/2handed-cleaver-attack.asset|
 |assets/prefabs/weapons/cleaver big/sound/2handed-cleaver-attack-3p.asset|
 |assets/prefabs/weapons/cleaver big/sound/2handed-cleaver-deploy.asset|
