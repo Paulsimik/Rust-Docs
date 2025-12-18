@@ -7647,6 +7647,9 @@
 |assets/prefabs/wallpaper/skins/2025-10_halloween/skin_assets/wallpaper.muertos.a.skin.asset|
 |assets/prefabs/wallpaper/skins/2025-12_twitch_rivals/skin_assets/wallpaper.2025.twitch.rivals.black.skin.asset|
 |assets/prefabs/wallpaper/skins/2025-12_twitch_rivals/skin_assets/wallpaper.2025.twitch.rivals.purple.skin.asset|
+|assets/prefabs/wallpaper/skins/2025-12_xmas/skin_assets/ceilingpaper.xmas.plaster.moulded.skin.asset|
+|assets/prefabs/wallpaper/skins/2025-12_xmas/skin_assets/floorpaper.xmas.tiles.a.skin.asset|
+|assets/prefabs/wallpaper/skins/2025-12_xmas/skin_assets/wallpaper.assorted.giftwrap.skin.asset|
 |assets/prefabs/wallpaper/sound/wallpaper-deploy.asset|
 |assets/prefabs/wallpaper/sound/wallpaper-place.asset|
 |assets/prefabs/wallpaper/sound/wallpaper-place-viewmodel.asset|
