@@ -1,6 +1,8 @@
 |Image|Name|Shortname|ID|Components|
 |:---:|:---:|:---:|:---:|:---:|
 |<img src="https://czechrust.eu/img/textures2D/clothing.mannequin.png" width="100" height="80">|#clothingmannequin|clothing.mannequin|-606898372|ItemModWearable<br>ItemBlueprint<br>ItemFootstepSounds<br>ItemModContainerArmorSlot<br>ItemMod<br>|
+|<img src="https://czechrust.eu/img/textures2D/heavy.scientist.plushie.png" width="100" height="80">|#heavy.scientist.plushie.name|heavy.scientist.plushie|146221721|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
+|<img src="https://czechrust.eu/img/textures2D/scientist.plushie.png" width="100" height="80">|#scientist.plushie.name|scientist.plushie|445662288|ItemModDeployable<br>ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/ammo.shotgun.png" width="100" height="80">|12 Gauge Buckshot|ammo.shotgun|-1685290200|ItemModProjectile<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/ammo.shotgun.fire.png" width="100" height="80">|12 Gauge Incendiary Shell|ammo.shotgun.fire|-1036635990|ItemModProjectileSpawn<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/ammo.shotgun.slug.png" width="100" height="80">|12 Gauge Slug|ammo.shotgun.slug|-727717969|ItemModProjectile<br>ItemBlueprint<br>|
