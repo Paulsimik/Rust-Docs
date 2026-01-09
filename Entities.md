@@ -972,6 +972,7 @@
 |WeaponRackLight|107031364|SimpleLight<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/gun_rack/weaponracklight.prefab|
 |WeaponRackLightDouble|3489283376|SimpleLight<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/gun_rack/weaponracklightdouble.prefab|
 |HazmatPlushy_deployed|2953997641|BaseCombatEntity<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/hazmatplushy/hazmatplushy_deployed.prefab|
+|HeavyScientistPlushie_deployed|1085184301|BaseCombatEntity<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/heavyscientistplushie/heavyscientistplushie_deployed.prefab|
 |HitchTrough.deployed|3238272924|HitchTrough<br>BaseCombatEntity<br>DecayEntity<br>Model<br>DestroyOnGroundMissing<br>GroundWatch<br>|assets/prefabs/deployable/hitch & trough/hitchtrough.deployed.prefab|
 |Hopper.deployed|3932476457|Hopper<br>BaseCombatEntity<br>DecayEntity<br>IOEntity<br>BoxCollider<br>EntityFlag_Toggle<br>EntityFlag_Toggle<br>|assets/prefabs/deployable/hopper/hopper.deployed.prefab|
 |door.hinged.HAB_T1|1684527864|Door<br>BaseCombatEntity<br>DecayEntity<br>StabilityEntity<br>Model<br>|assets/prefabs/deployable/hot air balloon/door.hinged.hab_t1.prefab|
@@ -1102,6 +1103,7 @@
 |researchtable_deployed|146554961|ResearchTable<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/research table/researchtable_deployed.prefab|
 |rug.bear.deployed|3110378351|DecorDeployable<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/rug/rug.bear.deployed.prefab|
 |rug.deployed|4196580066|DecorDeployable<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/rug/rug.deployed.prefab|
+|ScientistPlushie_deployed|1982923662|BaseCombatEntity<br>BoxCollider<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/deployable/scientistplushie/scientistplushie_deployed.prefab|
 |sculpture.ice.deployed|2793055883|BaseSculpture<br>BaseCombatEntity<br>DecayEntity<br>DestroyOnGroundMissing<br>GroundWatch<br>MeshCollider<br>|assets/prefabs/deployable/sculptures/icesculpture/sculpture.ice.deployed.prefab|
 |AssociatedSculptureStorage|3422977757|AssociatedSculptureStorage<br>|assets/prefabs/deployable/sculptures/shared/associatedsculpturestorage.prefab|
 |searchlight.deployed|1427415412|SearchLight<br>BaseCombatEntity<br>DecayEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>BoxCollider<br>|assets/prefabs/deployable/search light/searchlight.deployed.prefab|
