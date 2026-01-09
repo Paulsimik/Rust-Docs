@@ -6045,6 +6045,7 @@
 |assets/prefabs/deployable/furnace/sound/furnace-loop.asset|
 |assets/prefabs/deployable/furnace/sound/furnace-open.asset|
 |assets/prefabs/deployable/hazmatplushy/hazmatplushy.sitem.asset|
+|assets/prefabs/deployable/heavyscientistplushie/heavyscientistplushie.skin.asset|
 |assets/prefabs/deployable/hopper/sound/hopper-active-loop-01.asset|
 |assets/prefabs/deployable/hopper/sound/hopper-start-01.asset|
 |assets/prefabs/deployable/hopper/sound/hopper-stop-01.asset|
@@ -6262,6 +6263,7 @@
 |assets/prefabs/deployable/rug/rug.bear.deployed.skinnable.asset|
 |assets/prefabs/deployable/rug/rug.deployed.skinnable.asset|
 |assets/prefabs/deployable/rug/sound/rug-deploy.asset|
+|assets/prefabs/deployable/scientistplushie/scientistplushie.skin.asset|
 |assets/prefabs/deployable/sculptures/icesculpture/materials/ice_sculpture_pedestal.asset|
 |assets/prefabs/deployable/sculptures/icesculpture/sculpture.ice.sitem.asset|
 |assets/prefabs/deployable/sculptures/icesculpture/sound/ice-sculpture-deploy.asset|
