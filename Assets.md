@@ -1,5 +1,40 @@
 |Name|
 |:---:|
+|assets/bundled/prefabs/deepsea/islands/sounds/day ambience/deepsea-island-bird-sting-type-a.asset|
+|assets/bundled/prefabs/deepsea/islands/sounds/day ambience/deepsea-island-bird-sting-type-b.asset|
+|assets/bundled/prefabs/deepsea/islands/sounds/day ambience/deepsea-island-bird-sting-type-c.asset|
+|assets/bundled/prefabs/deepsea/islands/sounds/day ambience/deepsea-island-bird-sting-type-d.asset|
+|assets/bundled/prefabs/deepsea/islands/sounds/day ambience/deepsea-island-seagul.ambience-def.asset|
+|assets/bundled/prefabs/deepsea/islands/sounds/day ambience/deepsea-island-seagul.ambience-list.asset|
+|assets/bundled/prefabs/deepsea/islands/sounds/day ambience/deepsea-island-seagul-ambience-sting.asset|
+|assets/bundled/prefabs/deepsea/islands/sounds/day ambience/deepsea-island-seagul-group.ambience-def.asset|
+|assets/bundled/prefabs/deepsea/islands/sounds/day ambience/deepsea-island-seagul-group.ambience-list.asset|
+|assets/bundled/prefabs/deepsea/islands/sounds/day ambience/deepsea-island-seagul-group-ambience-sting.asset|
+|assets/bundled/prefabs/deepsea/islands/sounds/deepsea-island-bird.ambience-list.asset|
+|assets/bundled/prefabs/deepsea/islands/sounds/deepsea-island-bird-day.ambience-def.asset|
+|assets/bundled/prefabs/deepsea/islands/sounds/deepsea-island-bird-night.ambience-def.asset|
+|assets/bundled/prefabs/deepsea/islands/sounds/deepsea-island-bird-tree.ambience-list.asset|
+|assets/bundled/prefabs/deepsea/islands/sounds/deepsea-island-bird-tree-day.ambience-def.asset|
+|assets/bundled/prefabs/deepsea/islands/sounds/deepsea-island-bird-tree-night.ambience-def.asset|
+|assets/bundled/prefabs/deepsea/islands/sounds/deepsea-island-crickets-night-loop.ambience-def.asset|
+|assets/bundled/prefabs/deepsea/islands/sounds/deepsea-island-crickets-night-loop.ambience-list.asset|
+|assets/bundled/prefabs/deepsea/islands/sounds/deepsea-island-cricket-tree-night.ambience-def.asset|
+|assets/bundled/prefabs/deepsea/islands/sounds/night ambience/deepsea-island-night-bird-sting-a.asset|
+|assets/bundled/prefabs/deepsea/islands/sounds/night ambience/deepsea-island-night-bird-sting-b.asset|
+|assets/bundled/prefabs/deepsea/islands/sounds/night ambience/deepsea-island-night-bird-sting-c.asset|
+|assets/bundled/prefabs/deepsea/islands/sounds/night ambience/deepsea-island-night-cricket-loop.asset|
+|assets/bundled/prefabs/deepsea/islands/sounds/night ambience/deepsea-island-night-cricket-sting-a.asset|
+|assets/bundled/prefabs/deepsea/islands/sounds/night ambience/deepsea-island-night-cricket-sting-b.asset|
+|assets/bundled/prefabs/deepsea/islands/sounds/night ambience/deepsea-island-night-mosquito-sting.asset|
+|assets/bundled/prefabs/deepsea/islands/sounds/wind/deepsea-island-base.ambience-list.asset|
+|assets/bundled/prefabs/deepsea/islands/sounds/wind/deepsea-island-calm.ambience-def.asset|
+|assets/bundled/prefabs/deepsea/islands/sounds/wind/deepsea-island-calm-loop.asset|
+|assets/bundled/prefabs/deepsea/islands/sounds/wind/deepsea-island-storm.ambience-def.asset|
+|assets/bundled/prefabs/deepsea/islands/sounds/wind/deepsea-island-storm-loop.asset|
+|assets/bundled/prefabs/deepsea/islands/sounds/wind/deepsea-island-windy.ambience-def.asset|
+|assets/bundled/prefabs/deepsea/islands/sounds/wind/deepsea-island-windy-loop.asset|
+|assets/bundled/prefabs/deepsea/sound/deepsea-wipe-alarm.asset|
+|assets/bundled/prefabs/deepsea/sound/deepsea-wipe-alarm-loop.asset|
 |assets/bundled/prefabs/radtown/sound/crate-ammunition-close.asset|
 |assets/bundled/prefabs/radtown/sound/crate-ammunition-open.asset|
 |assets/bundled/prefabs/radtown/sound/crate-food-close.asset|
@@ -118,6 +153,7 @@
 |assets/content/accessibility/nametagenemy.asset|
 |assets/content/accessibility/nametagteam.asset|
 |assets/content/accessibility/treemarkerdecalcollection.asset|
+|assets/content/building/parts/m_boat_wood/m_boat_door_colliders.asset|
 |assets/content/building/parts/shipping_container/shippingcontainercolourlookup.asset|
 |assets/content/image effects/postfx_volumes/building_exposure.asset|
 |assets/content/image effects/postfx_volumes/candyworld.asset|
@@ -136,6 +172,7 @@
 |assets/content/image effects/postfx_volumes/main_base.asset|
 |assets/content/image effects/postfx_volumes/main_biome_arctic.asset|
 |assets/content/image effects/postfx_volumes/main_biome_arid.asset|
+|assets/content/image effects/postfx_volumes/main_biome_deepsea.asset|
 |assets/content/image effects/postfx_volumes/main_biome_jungle.asset|
 |assets/content/image effects/postfx_volumes/main_biome_temperate.asset|
 |assets/content/image effects/postfx_volumes/main_biome_tundra.asset|
@@ -165,8 +202,10 @@
 |assets/content/nature/reeds/models/billboards/reeds_tall_dry_lod3.asset|
 |assets/content/nature/reeds/models/billboards/reeds_tall_lod3.asset|
 |assets/content/nature/terrain/atlas/terrain4_atlas_set.asset|
+|assets/content/nature/terrain/atlas/terrain4_tropical_atlas_set.asset|
 |assets/content/nature/terrain/config/terrain4.asset|
 |assets/content/nature/terrain/config/terrain4-hapis.asset|
+|assets/content/nature/terrain/config/terrain4-tropical.asset|
 |assets/content/nature/treesprefabs/trees/sound/tree_spray.asset|
 |assets/content/nature/treesprefabs/trees/sound/tree-bonus-damage.asset|
 |assets/content/nature/treesprefabs/trees/sound/tree-crack-med.asset|
@@ -284,6 +323,18 @@
 |assets/content/nature/treessource/palm_trees/models/billboards/palm_tree_small_c_lod4.asset|
 |assets/content/nature/treessource/palm_trees/models/billboards/palm_tree_tall_a_lod4.asset|
 |assets/content/nature/treessource/palm_trees/models/billboards/palm_tree_tall_b_lod4.asset|
+|assets/content/nature/treessource/palm_trees/models/billboards/palm_tree_tropical_med_a_lod4.asset|
+|assets/content/nature/treessource/palm_trees/models/billboards/palm_tree_tropical_med_b_lod4.asset|
+|assets/content/nature/treessource/palm_trees/models/billboards/palm_tree_tropical_short_a_lod4.asset|
+|assets/content/nature/treessource/palm_trees/models/billboards/palm_tree_tropical_short_b_lod4.asset|
+|assets/content/nature/treessource/palm_trees/models/billboards/palm_tree_tropical_short_c_lod4.asset|
+|assets/content/nature/treessource/palm_trees/models/billboards/palm_tree_tropical_short_d_lod4.asset|
+|assets/content/nature/treessource/palm_trees/models/billboards/palm_tree_tropical_short_e_lod4.asset|
+|assets/content/nature/treessource/palm_trees/models/billboards/palm_tree_tropical_small_a_lod4.asset|
+|assets/content/nature/treessource/palm_trees/models/billboards/palm_tree_tropical_small_b_lod4.asset|
+|assets/content/nature/treessource/palm_trees/models/billboards/palm_tree_tropical_small_c_lod4.asset|
+|assets/content/nature/treessource/palm_trees/models/billboards/palm_tree_tropical_tall_a_lod4.asset|
+|assets/content/nature/treessource/palm_trees/models/billboards/palm_tree_tropical_tall_b_lod4.asset|
 |assets/content/nature/treessource/pine/models/billboards/pine_a.asset|
 |assets/content/nature/treessource/pine/models/billboards/pine_a_lod3.asset|
 |assets/content/nature/treessource/pine/models/billboards/pine_a_snow_lod3.asset|
@@ -362,6 +413,7 @@
 |assets/content/nature/water/content/beaufort_10.asset|
 |assets/content/nature/water/content/beaufort_5.asset|
 |assets/content/nature/water/content/ocean_settings.asset|
+|assets/content/nature/water/content/ocean_tropical_shore.asset|
 |assets/content/nexus/ferry/sound/nexus-ferry-departure-horn.asset|
 |assets/content/nexus/ferry/sound/nexus-ferry-dock-arrive.asset|
 |assets/content/nexus/ferry/sound/nexus-ferry-dock-depart.asset|
@@ -503,6 +555,8 @@
 |assets/content/properties/buildinggrade/toptier.asset|
 |assets/content/properties/buildinggrade/twigs.asset|
 |assets/content/properties/buildinggrade/wood.asset|
+|assets/content/properties/buildinggrade/wood_boat.asset|
+|assets/content/properties/buildinggrade/wood_boat_hull.asset|
 |assets/content/properties/camera/environment properties.asset|
 |assets/content/properties/damage/damage.arrow.asset|
 |assets/content/properties/damage/damage.ballista.asset|
@@ -510,6 +564,7 @@
 |assets/content/properties/damage/damage.default.asset|
 |assets/content/properties/damage/damage.incendiary.shell.asset|
 |assets/content/properties/damage/damage.melee.asset|
+|assets/content/properties/damage/damage.paintball.asset|
 |assets/content/properties/damage/damage.pistol.asset|
 |assets/content/properties/damage/damage.rifle.asset|
 |assets/content/properties/damage/damage.slug.asset|
@@ -517,10 +572,11 @@
 |assets/content/properties/deployguidematerials/deploy-guide-bad.asset|
 |assets/content/properties/deployguidematerials/deploy-guide-good.asset|
 |assets/content/properties/deployguidematerials/deploy-guide-neutral.asset|
+|assets/content/properties/entitylist/alllists/alldoors.asset|
+|assets/content/properties/entitylist/alllists/wooden.signs_entitylist.asset|
 |assets/content/properties/entitylist/door_deploy_blacklist.asset|
 |assets/content/properties/entitylist/rug_deploy_blacklist.asset|
 |assets/content/properties/entitylist/vending_deploy_blacklist.asset|
-|assets/content/properties/entitylist/wooden.signs_entitylist.asset|
 |assets/content/properties/foliage_procmap_v3/all/underwater-coral_red_big.asset|
 |assets/content/properties/foliage_procmap_v3/all/underwater-coral_red_small.asset|
 |assets/content/properties/foliage_procmap_v3/all/underwater-coral_white_big.asset|
@@ -626,6 +682,37 @@
 |assets/content/properties/foliage_procmap_v3/temperate_forest/temperate_forest_gravel_b.asset|
 |assets/content/properties/foliage_procmap_v3/temperate_forest/temperate_forest_gravel_c.asset|
 |assets/content/properties/foliage_procmap_v3/temperate_forest/temperate_forest_moss.asset|
+|assets/content/properties/foliage_procmap_v3/tropical_forest/tropical_forest_grass_a.asset|
+|assets/content/properties/foliage_procmap_v3/tropical_forest/tropical_forest_grass_b.asset|
+|assets/content/properties/foliage_procmap_v3/tropical_forest/tropical_forest_grass_c.asset|
+|assets/content/properties/foliage_procmap_v3/tropical_forest/tropical_forest_grass_small_a.asset|
+|assets/content/properties/foliage_procmap_v3/tropical_forest/tropical_forest_grass_small_b.asset|
+|assets/content/properties/foliage_procmap_v3/tropical_forest/tropical-soil-sticks_1.asset|
+|assets/content/properties/foliage_procmap_v3/tropical_grass/tropical_grass_a.asset|
+|assets/content/properties/foliage_procmap_v3/tropical_grass/tropical_grass_b.asset|
+|assets/content/properties/foliage_procmap_v3/tropical_grass/tropical_grass_c.asset|
+|assets/content/properties/foliage_procmap_v3/tropical_grass/tropical_grass_d.asset|
+|assets/content/properties/foliage_procmap_v3/tropical_grass/tropical_grass_e.asset|
+|assets/content/properties/foliage_procmap_v3/tropical_offshore/tropical-coral_red_big.asset|
+|assets/content/properties/foliage_procmap_v3/tropical_offshore/tropical-coral_red_small.asset|
+|assets/content/properties/foliage_procmap_v3/tropical_offshore/tropical-coral_white_big.asset|
+|assets/content/properties/foliage_procmap_v3/tropical_offshore/tropical-coral_white_small.asset|
+|assets/content/properties/foliage_procmap_v3/tropical_offshore/tropical-corals-1-brown.asset|
+|assets/content/properties/foliage_procmap_v3/tropical_offshore/tropical-corals-2-dark.asset|
+|assets/content/properties/foliage_procmap_v3/tropical_offshore/tropical-corals-3-smooth.asset|
+|assets/content/properties/foliage_procmap_v3/tropical_offshore/tropical-corals-4-sharp.asset|
+|assets/content/properties/foliage_procmap_v3/tropical_offshore/tropical-corals-5-brownflat.asset|
+|assets/content/properties/foliage_procmap_v3/tropical_offshore/tropical-thin_algae.asset|
+|assets/content/properties/foliage_procmap_v3/tropical_stones/gravel-rocks-1-v3.asset|
+|assets/content/properties/foliage_procmap_v3/tropical_stones/gravel-rocks-2-v3.asset|
+|assets/content/properties/foliage_procmap_v3/tropical_stones/gravel-rocks-3-v3.asset|
+|assets/content/properties/foliage_procmap_v3/tropical_stones/gravel-rocks-4-v3.asset|
+|assets/content/properties/foliage_procmap_v3/tropical_stones/gravel-rocks-5-v3.asset|
+|assets/content/properties/foliage_procmap_v3/tropical_stones/soil-rocks-1-v3.asset|
+|assets/content/properties/foliage_procmap_v3/tropical_stones/soil-rocks-2-v3.asset|
+|assets/content/properties/foliage_procmap_v3/tropical_stones/soil-rocks-3-v3.asset|
+|assets/content/properties/foliage_procmap_v3/tropical_stones/soil-rocks-4-v3.asset|
+|assets/content/properties/foliage_procmap_v3/tropical_stones/soil-rocks-5-v3.asset|
 |assets/content/properties/foliage_procmap_v3/tundra_alt/tundra_alt_berry_a.asset|
 |assets/content/properties/foliage_procmap_v3/tundra_alt/tundra_alt_berry_b.asset|
 |assets/content/properties/foliage_procmap_v3/tundra_alt/tundra_alt_crowberry_a.asset|
@@ -783,6 +870,7 @@
 |assets/content/properties/lootspawn/airdrop/toolroll_sub_tools.asset|
 |assets/content/properties/lootspawn/ammo/ammo.asset|
 |assets/content/properties/lootspawn/ammo/ammostandard.asset|
+|assets/content/properties/lootspawn/ammo/cannonballs.asset|
 |assets/content/properties/lootspawn/ammo/pistol.asset|
 |assets/content/properties/lootspawn/ammo/pistolfire.asset|
 |assets/content/properties/lootspawn/ammo/pistolhv.asset|
@@ -1791,6 +1879,7 @@
 |assets/content/properties/lootspawn/generated/items/weapon/multiplegrenadelauncher.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/obsidian.knife.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/paddle.asset|
+|assets/content/properties/lootspawn/generated/items/weapon/paintballgun.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/pistol.eoka.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/pistol.m92.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/pistol.nailgun.asset|
@@ -1929,6 +2018,7 @@
 |assets/content/properties/lootspawn/scientistdrops/scientistuncommon.asset|
 |assets/content/properties/lootspawn/scientistdrops/scientistveryrare.asset|
 |assets/content/properties/lootspawn/tools/tools.asset|
+|assets/content/properties/lootspawn/tools/tools_island.asset|
 |assets/content/properties/lootspawn/tools/toolsbasic.asset|
 |assets/content/properties/lootspawn/tools/toolsmedium.asset|
 |assets/content/properties/lootspawn/tools/toolsprimitive.asset|
@@ -1952,6 +2042,7 @@
 |assets/content/properties/playerinventory/bandit_shopkeeper_stables.asset|
 |assets/content/properties/playerinventory/basedecordlc_frontier.asset|
 |assets/content/properties/playerinventory/bill b.asset|
+|assets/content/properties/playerinventory/boatbuilding.asset|
 |assets/content/properties/playerinventory/builderinventory.asset|
 |assets/content/properties/playerinventory/combat.asset|
 |assets/content/properties/playerinventory/defaultinventory.asset|
@@ -1963,6 +2054,7 @@
 |assets/content/properties/playerinventory/farming.asset|
 |assets/content/properties/playerinventory/fisherman.asset|
 |assets/content/properties/playerinventory/fishing.asset|
+|assets/content/properties/playerinventory/floatingcitymissionprovidera_attire.asset|
 |assets/content/properties/playerinventory/garry.asset|
 |assets/content/properties/playerinventory/gingerbreadman.asset|
 |assets/content/properties/playerinventory/gingerbreadmanmelee.asset|
@@ -1993,6 +2085,9 @@
 |assets/content/properties/playerinventory/science_peacekeeper.asset|
 |assets/content/properties/playerinventory/science_pickaxe.asset|
 |assets/content/properties/playerinventory/science_pistol.asset|
+|assets/content/properties/playerinventory/science_ptboat.asset|
+|assets/content/properties/playerinventory/science_rhib.asset|
+|assets/content/properties/playerinventory/science_rhibalt.asset|
 |assets/content/properties/playerinventory/science_shotgn.asset|
 |assets/content/properties/playerinventory/scientist_nvg_outfit.asset|
 |assets/content/properties/playerinventory/scientistmissionproviderattire.asset|
@@ -2011,6 +2106,7 @@
 |assets/content/properties/protection/barricadestone.asset|
 |assets/content/properties/protection/barricadewood.asset|
 |assets/content/properties/protection/blockmetal.asset|
+|assets/content/properties/protection/blockplayerboatwood.asset|
 |assets/content/properties/protection/blockstone.asset|
 |assets/content/properties/protection/blocktwig.asset|
 |assets/content/properties/protection/blockwood.asset|
@@ -2237,12 +2333,14 @@
 |assets/content/properties/skeletons/skeleton.player.asset|
 |assets/content/properties/skeletons/skeleton.stag.asset|
 |assets/content/properties/skeletons/skeleton.wolf.asset|
+|assets/content/properties/spawnpopulation/collectable-food-coconut.asset|
 |assets/content/properties/spawnpopulation/collectable-food-mushroom.asset|
 |assets/content/properties/spawnpopulation/collectable-resource-hemp.asset|
 |assets/content/properties/spawnpopulation/collectable-resource-stone.asset|
 |assets/content/properties/spawnpopulation/collectable-resource-wood.asset|
 |assets/content/properties/spawnpopulation/divesites.asset|
 |assets/content/properties/spawnpopulation/driftwood.asset|
+|assets/content/properties/spawnpopulation/ghostship_ocean.asset|
 |assets/content/properties/spawnpopulation/hapisspecific/hapis_ores.asset|
 |assets/content/properties/spawnpopulation/hapisspecific/hapis_ores_sand.asset|
 |assets/content/properties/spawnpopulation/hapisspecific/hapis_ores_snow.asset|
@@ -2353,6 +2451,8 @@
 |assets/content/properties/steamcategories/item-free-dropped.steam.asset|
 |assets/content/properties/steamcategories/item-normal.steam.asset|
 |assets/content/properties/steamcategories/limited-350.asset|
+|assets/content/properties/steamcategories/limited-birthday-299.asset|
+|assets/content/properties/steamcategories/limited-birthday-399.asset|
 |assets/content/properties/steamcategories/limited-charity-400.asset|
 |assets/content/properties/steamcategories/limited-chinese-newyear-2019.steam.asset|
 |assets/content/properties/steamcategories/limited-chinese-newyear-2019-cheap.steam.asset|
@@ -2503,6 +2603,9 @@
 |assets/content/properties/volumetriccloudconfigs/stormlayer-small.asset|
 |assets/content/properties/weather/clear.asset|
 |assets/content/properties/weather/clear_vclouds.asset|
+|assets/content/properties/weather/deepsea/clear_deepsea.asset|
+|assets/content/properties/weather/deepsea/storm_deepsea.asset|
+|assets/content/properties/weather/deepsea/storm_deepseaportal.asset|
 |assets/content/properties/weather/dust.asset|
 |assets/content/properties/weather/fog.asset|
 |assets/content/properties/weather/fog_vclouds.asset|
@@ -2514,6 +2617,7 @@
 |assets/content/properties/weather/rainmild_vclouds.asset|
 |assets/content/properties/weather/storm.asset|
 |assets/content/properties/weather/storm_vclouds.asset|
+|assets/content/props/boat town props/models/ring1_colliders.asset|
 |assets/content/props/boomboxportable/sound/boombox-portable-deploy.asset|
 |assets/content/props/boomboxportable/sound/boombox-portable-start.asset|
 |assets/content/props/boomboxportable/sound/boombox-portable-stop.asset|
@@ -2826,6 +2930,81 @@
 |assets/content/sound/construction/construction-upgrade-stone.asset|
 |assets/content/sound/construction/construction-upgrade-wood.asset|
 |assets/content/sound/deployable/small-device-deploy.asset|
+|assets/content/sound/floatingcity/air ambience/ambience-floating-cities-casino-wind-ambience-loop.asset|
+|assets/content/sound/floatingcity/air ambience/ambience-floating-cities-wind-breeze-loop.asset|
+|assets/content/sound/floatingcity/air ambience/ambience-floating-cities-wind-calm-loop.asset|
+|assets/content/sound/floatingcity/air ambience/ambience-floating-cities-wind-strong-loop.asset|
+|assets/content/sound/floatingcity/air ambience/ambience-floating-city-base.ambience-list.asset|
+|assets/content/sound/floatingcity/air ambience/ambience-floating-city-breeze.ambience-def.asset|
+|assets/content/sound/floatingcity/air ambience/ambience-floating-city-calm.ambience-def.asset|
+|assets/content/sound/floatingcity/air ambience/ambience-floating-city-casino-wind.ambience-def.asset|
+|assets/content/sound/floatingcity/air ambience/ambience-floating-city-casino-wind.ambience-list.asset|
+|assets/content/sound/floatingcity/air ambience/ambience-floating-city-windy.ambience-def.asset|
+|assets/content/sound/floatingcity/casino/loop/floating-cities-casino-card-area-loop.ambience-def.asset|
+|assets/content/sound/floatingcity/casino/loop/floating-cities-casino-card-area-loop.ambience-list.asset|
+|assets/content/sound/floatingcity/casino/loop/floating-cities-casino-card-area-loop.asset|
+|assets/content/sound/floatingcity/casino/loop/floating-cities-casino-slot-area-loop.ambience-def.asset|
+|assets/content/sound/floatingcity/casino/loop/floating-cities-casino-slot-area-loop.ambience-list.asset|
+|assets/content/sound/floatingcity/casino/loop/floating-cities-casino-slot-area-loop.asset|
+|assets/content/sound/floatingcity/casino/loop/floating-cities-casino-upstairs-bar-area-loop.ambience-def.asset|
+|assets/content/sound/floatingcity/casino/loop/floating-cities-casino-upstairs-bar-area-loop.ambience-list.asset|
+|assets/content/sound/floatingcity/casino/loop/floating-cities-casino-upstairs-bar-area-loop.asset|
+|assets/content/sound/floatingcity/casino/one-shot/floating-cities-blackjack-machine-idle-sting.ambience-def.asset|
+|assets/content/sound/floatingcity/casino/one-shot/floating-cities-blackjack-machine-idle-sting.ambience-list.asset|
+|assets/content/sound/floatingcity/casino/one-shot/floating-cities-blackjack-machine-idle-sting.asset|
+|assets/content/sound/floatingcity/casino/one-shot/floating-cities-blackjack-machine-shuffle-sting.asset|
+|assets/content/sound/floatingcity/casino/one-shot/floating-cities-machine-idle-call-sting.asset|
+|assets/content/sound/floatingcity/casino/one-shot/floating-cities-slot-machine.ambience-list.asset|
+|assets/content/sound/floatingcity/casino/one-shot/floating-cities-slot-machine-coin-sting.ambience-def.asset|
+|assets/content/sound/floatingcity/casino/one-shot/floating-cities-slot-machine-coin-sting.asset|
+|assets/content/sound/floatingcity/casino/one-shot/floating-cities-slot-machine-win-sting.ambience-def.asset|
+|assets/content/sound/floatingcity/casino/one-shot/floating-cities-slot-machine-win-sting.asset|
+|assets/content/sound/floatingcity/casino/one-shot/floating-island-casino-creak-sting.ambience-def.asset|
+|assets/content/sound/floatingcity/casino/one-shot/floating-island-casino-creak-sting.ambience-list.asset|
+|assets/content/sound/floatingcity/casino/one-shot/floating-island-casino-creak-sting.asset|
+|assets/content/sound/floatingcity/creak/floating-cities-metal-creak.ambience-def.asset|
+|assets/content/sound/floatingcity/creak/floating-cities-metal-creak.ambience-list.asset|
+|assets/content/sound/floatingcity/creak/floating-cities-metal-creak.asset|
+|assets/content/sound/floatingcity/creak/floating-cities-wood-creak.ambience-def.asset|
+|assets/content/sound/floatingcity/creak/floating-cities-wood-creak.ambience-list.asset|
+|assets/content/sound/floatingcity/creak/floating-cities-wood-creak.asset|
+|assets/content/sound/floatingcity/items/floating-cities-washing-machine-loop.ambience-def.asset|
+|assets/content/sound/floatingcity/items/floating-cities-washing-machine-loop.ambience-list.asset|
+|assets/content/sound/floatingcity/items/floating-cities-washing-machine-loop.asset|
+|assets/content/sound/floatingcity/items/floating-island-fly-swarm.ambience-def.asset|
+|assets/content/sound/floatingcity/items/floating-island-fly-swarm.ambience-list.asset|
+|assets/content/sound/floatingcity/items/floating-island-tv-static.ambience-def.asset|
+|assets/content/sound/floatingcity/items/floating-island-tv-static.ambience-list.asset|
+|assets/content/sound/floatingcity/items/tv-static-loop.asset|
+|assets/content/sound/floatingcity/seagul/floating-cities-seagul-ambience-sting.ambience-def.asset|
+|assets/content/sound/floatingcity/seagul/floating-cities-seagul-ambience-sting.ambience-list.asset|
+|assets/content/sound/floatingcity/seagul/floating-cities-seagul-ambience-sting.asset|
+|assets/content/sound/floatingcity/seagul/floating-cities-seagul-group-ambience-sting.ambience-def.asset|
+|assets/content/sound/floatingcity/seagul/floating-cities-seagul-group-ambience-sting.asset|
+|assets/content/sound/floatingcity/seagul/floating-cities-seagul-group-sting.ambience-def.asset|
+|assets/content/sound/floatingcity/seagul/floating-cities-seagul-group-sting.ambience-list.asset|
+|assets/content/sound/floatingcity/seagul/floating-cities-seagul-group-sting.asset|
+|assets/content/sound/floatingcity/seagul/floating-cities-seagul-sting.ambience-def.asset|
+|assets/content/sound/floatingcity/seagul/floating-cities-seagul-sting.ambience-list.asset|
+|assets/content/sound/floatingcity/seagul/floating-cities-seagul-sting.asset|
+|assets/content/sound/floatingcity/seagul/floating-cities-seagul-water-sting.ambience-def.asset|
+|assets/content/sound/floatingcity/seagul/floating-cities-seagul-water-sting.ambience-list.asset|
+|assets/content/sound/floatingcity/seagul/floating-cities-seagul-water-sting.asset|
+|assets/content/sound/floatingcity/security/floating-cities-radio-comms.ambience-def.asset|
+|assets/content/sound/floatingcity/security/floating-cities-radio-comms.ambience-list.asset|
+|assets/content/sound/floatingcity/security/floating-cities-radio-comms.asset|
+|assets/content/sound/floatingcity/water/floating-cities-container-path.ambience-def.asset|
+|assets/content/sound/floatingcity/water/floating-cities-container-path.ambience-list.asset|
+|assets/content/sound/floatingcity/water/floating-cities-walkway-waves-stings.ambience-def.asset|
+|assets/content/sound/floatingcity/water/floating-cities-walkway-waves-stings.ambience-list.asset|
+|assets/content/sound/floatingcity/water/floating-cities-walkway-waves-stings.asset|
+|assets/content/sound/floatingcity/water/floating-cities-wooden-path.ambience-def.asset|
+|assets/content/sound/floatingcity/water/floating-cities-wooden-path.ambience-list.asset|
+|assets/content/sound/floatingcity/water/floating-city-city-waves-loop.asset|
+|assets/content/sound/floatingcity/water/floating-city-walkway-waves-loop.asset|
+|assets/content/sound/floatingcity/wind/floating-cities-tarp-wind-movement-loop.ambience-def.asset|
+|assets/content/sound/floatingcity/wind/floating-cities-tarp-wind-movement-loop.ambience-list.asset|
+|assets/content/sound/floatingcity/wind/floating-cities-tarp-wind-movement-loop.asset|
 |assets/content/sound/footsteps/barefoot/footstep-barefoot-cloth-jump-land.asset|
 |assets/content/sound/footsteps/barefoot/footstep-barefoot-cloth-jump-start.asset|
 |assets/content/sound/footsteps/barefoot/footstep-barefoot-cloth-run.asset|
@@ -4625,6 +4804,11 @@
 |assets/content/structures/excavator/prefabs/sound/excavator-wheel-motor-stop.asset|
 |assets/content/structures/excavator/prefabs/sound/rock_debris_loop.asset|
 |assets/content/structures/excavator/prefabs/sound/rock_debris_loop_quiet.asset|
+|assets/content/structures/excavator/prefabs/sound/signalcomputer/called.asset|
+|assets/content/structures/excavator/prefabs/sound/signalcomputer/signal-computer-flare-launch.asset|
+|assets/content/structures/excavator/prefabs/sound/signalcomputer/signal-computer-ready.asset|
+|assets/content/structures/excavator/prefabs/sound/signalcomputer/signal-computer-transmit.asset|
+|assets/content/structures/excavator/prefabs/sound/signalcomputer/signal-loop.asset|
 |assets/content/structures/harbor/cranes/sound/harbor-bridge-move-loop.asset|
 |assets/content/structures/harbor/cranes/sound/harbor-bridge-move-start.asset|
 |assets/content/structures/harbor/cranes/sound/harbor-bridge-move-stop.asset|
@@ -4823,22 +5007,81 @@
 |assets/content/vehicles/boats/kayak/sound/kayak-push-water.asset|
 |assets/content/vehicles/boats/kayak/sound/kayak-water-loop-idle.asset|
 |assets/content/vehicles/boats/kayak/sound/kayak-water-loop-movement.asset|
+|assets/content/vehicles/boats/ptboat/sounds/50cal/50cal-dryfire.asset|
+|assets/content/vehicles/boats/ptboat/sounds/50cal/double 50cal reload/pt-boat-double-turret-reload-action-1-start-reload.asset|
+|assets/content/vehicles/boats/ptboat/sounds/50cal/double 50cal reload/pt-boat-double-turret-reload-action-2-remove-ammo-box.asset|
+|assets/content/vehicles/boats/ptboat/sounds/50cal/double 50cal reload/pt-boat-double-turret-reload-action-3-ammo-box-pickup.asset|
+|assets/content/vehicles/boats/ptboat/sounds/50cal/double 50cal reload/pt-boat-double-turret-reload-action-4-ammo-box-place.asset|
+|assets/content/vehicles/boats/ptboat/sounds/50cal/double 50cal reload/pt-boat-double-turret-reload-action-5-attach-ammo.asset|
+|assets/content/vehicles/boats/ptboat/sounds/50cal/double 50cal reload/pt-boat-double-turret-reload-action-6-latch-close.asset|
+|assets/content/vehicles/boats/ptboat/sounds/50cal/double 50cal reload/pt-boat-double-turret-reload-action-7-double-handle-pull.asset|
+|assets/content/vehicles/boats/ptboat/sounds/50cal/double 50cal reload/pt-boat-double-turret-reload-action-8-pull-up.asset|
+|assets/content/vehicles/boats/ptboat/sounds/50cal/pt-boat-50cal-double-turret-gunshot-body.asset|
+|assets/content/vehicles/boats/ptboat/sounds/50cal/pt-boat-50cal-double-turret-gunshot-mech.asset|
+|assets/content/vehicles/boats/ptboat/sounds/50cal/pt-boat-50cal-single-turret-gunshot-body.asset|
+|assets/content/vehicles/boats/ptboat/sounds/50cal/pt-boat-50cal-single-turret-gunshot-lfe.asset|
+|assets/content/vehicles/boats/ptboat/sounds/50cal/pt-boat-50cal-single-turret-gunshot-mech.asset|
+|assets/content/vehicles/boats/ptboat/sounds/50cal/pt-boat-50cal-single-turret-gunshot-tail.asset|
+|assets/content/vehicles/boats/ptboat/sounds/50cal/pt-boat-double-turret-dismount.asset|
+|assets/content/vehicles/boats/ptboat/sounds/50cal/pt-boat-double-turret-mount.asset|
+|assets/content/vehicles/boats/ptboat/sounds/50cal/pt-boat-double-turret-pitch-movement-loop.asset|
+|assets/content/vehicles/boats/ptboat/sounds/50cal/pt-boat-double-turret-yaw-movement-loop.asset|
+|assets/content/vehicles/boats/ptboat/sounds/50cal/pt-boat-single-turret-ammo-fall.asset|
+|assets/content/vehicles/boats/ptboat/sounds/50cal/pt-boat-single-turret-ammo-fall-water.asset|
+|assets/content/vehicles/boats/ptboat/sounds/50cal/pt-boat-single-turret-boat-ambience-sting.asset|
+|assets/content/vehicles/boats/ptboat/sounds/50cal/pt-boat-single-turret-dismount.asset|
+|assets/content/vehicles/boats/ptboat/sounds/50cal/pt-boat-single-turret-mount.asset|
+|assets/content/vehicles/boats/ptboat/sounds/50cal/pt-boat-single-turret-movement-loop.asset|
+|assets/content/vehicles/boats/ptboat/sounds/50cal/pt-boat-single-turret-movement-pitch.asset|
+|assets/content/vehicles/boats/ptboat/sounds/50cal/single 50cal reload/pt-boat-single-turret-reload-action-1-start-reload.asset|
+|assets/content/vehicles/boats/ptboat/sounds/50cal/single 50cal reload/pt-boat-single-turret-reload-action-2-remove-ammo-box.asset|
+|assets/content/vehicles/boats/ptboat/sounds/50cal/single 50cal reload/pt-boat-single-turret-reload-action-3-ammo-box-pickup.asset|
+|assets/content/vehicles/boats/ptboat/sounds/50cal/single 50cal reload/pt-boat-single-turret-reload-action-4-ammo-box-place.asset|
+|assets/content/vehicles/boats/ptboat/sounds/50cal/single 50cal reload/pt-boat-single-turret-reload-action-5-attach-ammo.asset|
+|assets/content/vehicles/boats/ptboat/sounds/50cal/single 50cal reload/pt-boat-single-turret-reload-action-6-latch-close.asset|
+|assets/content/vehicles/boats/ptboat/sounds/50cal/single 50cal reload/pt-boat-single-turret-reload-action-7-handle-pull.asset|
+|assets/content/vehicles/boats/ptboat/sounds/50cal/single 50cal reload/pt-boat-single-turret-reload-action-ammo-box-splash.asset|
+|assets/content/vehicles/boats/ptboat/sounds/pt-boat-creak-stings.ambience-def.asset|
+|assets/content/vehicles/boats/ptboat/sounds/pt-boat-creak-stings.ambience-list.asset|
+|assets/content/vehicles/boats/ptboat/sounds/pt-boat-creak-stings.asset|
+|assets/content/vehicles/boats/ptboat/sounds/pt-boat-driver-dismount.asset|
+|assets/content/vehicles/boats/ptboat/sounds/pt-boat-driver-mount.asset|
+|assets/content/vehicles/boats/ptboat/sounds/pt-boat-engine-idle-loop.asset|
+|assets/content/vehicles/boats/ptboat/sounds/pt-boat-engine-loops.engine-def.asset|
+|assets/content/vehicles/boats/ptboat/sounds/pt-boat-engine-move-loop.asset|
+|assets/content/vehicles/boats/ptboat/sounds/pt-boat-engine-move-slow-loop.asset|
+|assets/content/vehicles/boats/ptboat/sounds/pt-boat-engine-start.asset|
+|assets/content/vehicles/boats/ptboat/sounds/pt-boat-engine-stop.asset|
+|assets/content/vehicles/boats/ptboat/sounds/pt-boat-fuel-storage-close.asset|
+|assets/content/vehicles/boats/ptboat/sounds/pt-boat-fuel-storage-open.asset|
+|assets/content/vehicles/boats/ptboat/sounds/pt-boat-impact.asset|
+|assets/content/vehicles/boats/ptboat/sounds/pt-boat-loot-storage-close.asset|
+|assets/content/vehicles/boats/ptboat/sounds/pt-boat-loot-storage-open.asset|
+|assets/content/vehicles/boats/ptboat/sounds/pt-boat-push.asset|
+|assets/content/vehicles/boats/ptboat/sounds/pt-boat-push-water.asset|
+|assets/content/vehicles/boats/ptboat/sounds/pt-boat-seat-dismount.asset|
+|assets/content/vehicles/boats/ptboat/sounds/pt-boat-seat-mount.asset|
 |assets/content/vehicles/boats/rhib/rhib.population.asset|
 |assets/content/vehicles/boats/rhib/sound/rhib-engine-high.asset|
 |assets/content/vehicles/boats/rhib/sound/rhib-engine-idle.asset|
+|assets/content/vehicles/boats/rhib/sound/rhib-engine-loops.engine-def.asset|
 |assets/content/vehicles/boats/rhib/sound/rhib-engine-low.asset|
 |assets/content/vehicles/boats/rhib/sound/rhib-engine-start.asset|
 |assets/content/vehicles/boats/rhib/sound/rhib-engine-stop.asset|
+|assets/content/vehicles/boats/rhib/sound/rhib-storage-close.asset|
+|assets/content/vehicles/boats/rhib/sound/rhib-storage-open.asset|
 |assets/content/vehicles/boats/rowboat/rowboat.population.asset|
 |assets/content/vehicles/boats/sound/small_boat_engine_high.asset|
 |assets/content/vehicles/boats/sound/small_boat_engine_idle.asset|
 |assets/content/vehicles/boats/sound/small_boat_hull_waves_idle.asset|
 |assets/content/vehicles/boats/sound/small-boat-close-fuel-container.asset|
 |assets/content/vehicles/boats/sound/small-boat-dismount.asset|
+|assets/content/vehicles/boats/sound/small-boat-engine.engine-loop-def.asset|
 |assets/content/vehicles/boats/sound/small-boat-engine-false-start.asset|
 |assets/content/vehicles/boats/sound/small-boat-engine-high.asset|
 |assets/content/vehicles/boats/sound/small-boat-engine-idle.asset|
 |assets/content/vehicles/boats/sound/small-boat-engine-low.asset|
+|assets/content/vehicles/boats/sound/small-boat-engine-med.asset|
 |assets/content/vehicles/boats/sound/small-boat-engine-start.asset|
 |assets/content/vehicles/boats/sound/small-boat-engine-steer.asset|
 |assets/content/vehicles/boats/sound/small-boat-engine-stop.asset|
@@ -4931,10 +5174,12 @@
 |assets/content/vehicles/horse/effects/footsteps/horse-footstep-water-deep-slosh.asset|
 |assets/content/vehicles/horse/effects/footsteps/horse-footstep-wood.asset|
 |assets/content/vehicles/horse/horse.footsteps.asset|
-|assets/content/vehicles/horse/items/roadsign.horse.protection.asset|
-|assets/content/vehicles/horse/items/roadsign.horse.rider.protection.asset|
-|assets/content/vehicles/horse/items/wood.horse.protection.asset|
-|assets/content/vehicles/horse/items/wood.horse.rider.protection.asset|
+|assets/content/vehicles/horse/items/horse armor/horse.armor.roadsign.skinnable.asset|
+|assets/content/vehicles/horse/items/horse armor/roadsign.horse.protection.asset|
+|assets/content/vehicles/horse/items/horse armor/roadsign.horse.rider.protection.asset|
+|assets/content/vehicles/horse/items/horse armor/skins/lny26/horse.armor.lny26.sitem.asset|
+|assets/content/vehicles/horse/items/horse armor/wood.horse.protection.asset|
+|assets/content/vehicles/horse/items/horse armor/wood.horse.rider.protection.asset|
 |assets/content/vehicles/horse/model/horse.skeleton.asset|
 |assets/content/vehicles/horse/ridablehorse.population.asset|
 |assets/content/vehicles/horse/sound/attack.asset|
@@ -5562,6 +5807,7 @@
 |assets/content/workshop/skin/unknown/rorschach skull/skin.balaclava.rorschachskull.itemskin.asset|
 |assets/content/workshop/skin/unknown/rorschach skull/skull.meta.asset|
 |assets/editor/rust/icongeneratormanifest.asset|
+|assets/editor/rust/terraintomeshutilityconfig.asset|
 |assets/editor/rust/tools/fsm/testfsm.asset|
 |assets/manifest.asset|
 |assets/plugins/ezsoftbone/tests/presets/sbmat_default_hard.asset|
@@ -5654,6 +5900,22 @@
 |assets/prefabs/ammo/torpedo/sound/torpedo-explosion-underwater.asset|
 |assets/prefabs/ammo/torpedo/sound/torpedo-explosion-underwater-splash.asset|
 |assets/prefabs/ammo/torpedo/sound/torpedo-movement-loop.asset|
+|assets/prefabs/boat/sounds/player-boat-creak-large.asset|
+|assets/prefabs/boat/sounds/player-boat-creak-medium.asset|
+|assets/prefabs/boat/sounds/player-boat-creak-small.asset|
+|assets/prefabs/boat/sounds/player-boat-damaged-sting.asset|
+|assets/prefabs/boat/sounds/player-boat-physics-impact.asset|
+|assets/prefabs/boat/sounds/player-boat-physics-lurch-large.asset|
+|assets/prefabs/boat/sounds/player-boat-physics-lurch-medium.asset|
+|assets/prefabs/boat/sounds/player-boat-physics-lurch-small.asset|
+|assets/prefabs/boat/sounds/player-boat-place-hull.asset|
+|assets/prefabs/boat/sounds/player-boat-sink.asset|
+|assets/prefabs/boat/sounds/player-boat-steering-creak-large.asset|
+|assets/prefabs/boat/sounds/player-boat-steering-creak-medium.asset|
+|assets/prefabs/boat/sounds/player-boat-steering-creak-small.asset|
+|assets/prefabs/boat/sounds/player-boat-water-side-idle-loop.asset|
+|assets/prefabs/boat/sounds/player-boat-water-side-movement-fast-loop.asset|
+|assets/prefabs/boat/sounds/player-boat-water-side-movement-loop.asset|
 |assets/prefabs/building/door.double.hinged/door.double.hinged.metal.skinnable.asset|
 |assets/prefabs/building/door.double.hinged/door.double.hinged.toptier.skinnable.asset|
 |assets/prefabs/building/door.double.hinged/door.double.hinged.wood.skinnable.asset|
@@ -5703,6 +5965,7 @@
 |assets/prefabs/building/wall.window.bars/sound/window-bars-wood-deploy.asset|
 |assets/prefabs/building/wall.window.embrasure/sound/window-embrasure-deploy.asset|
 |assets/prefabs/building/wall.window.reinforcedglass/sound/reinforced-glass-window-deploy.asset|
+|assets/prefabs/building/wall.window.reinforcedglass/wall.window.glass.reinforced.skinnable.asset|
 |assets/prefabs/building/wall.window.shutter/sounds/shutter-wood-close-end.asset|
 |assets/prefabs/building/wall.window.shutter/sounds/shutter-wood-close-start.asset|
 |assets/prefabs/building/wall.window.shutter/sounds/shutter-wood-deploy.asset|
@@ -5795,7 +6058,7 @@
 |assets/prefabs/clothes/mask.bandana/skull.black/mask.bandana.skull.black.skin.asset|
 |assets/prefabs/clothes/mask.bandana/skull.red/mask.bandana.skull.red.skin.asset|
 |assets/prefabs/clothes/mask.metal/mask.metal.skinnable.asset|
-|assets/prefabs/clothes/mask.metal/metalicefacemask/metal.facemask.icemask.skin.asset|
+|assets/prefabs/clothes/mask.metal/skins/metalicefacemask/metal.facemask.icemask.skin.asset|
 |assets/prefabs/clothes/night.vision.goggles/sound/battery_change.asset|
 |assets/prefabs/clothes/night.vision.goggles/sound/goggles_loop.asset|
 |assets/prefabs/clothes/night.vision.goggles/sound/goggles_off.asset|
@@ -5822,6 +6085,11 @@
 |assets/prefabs/clothes/shoes.boots/tan/shoes.boots.tan.itemskin.asset|
 |assets/prefabs/clothes/shoes.burlap/shoes.burlap.skinnable.asset|
 |assets/prefabs/clothes/shoes.hide/shoes.hide.skinnable.asset|
+|assets/prefabs/clothes/silly.horse.mask/cloth.rubberhorsemask_ears.asset|
+|assets/prefabs/clothes/silly.horse.mask/cloth.rubberhorsemask_eyes.asset|
+|assets/prefabs/clothes/silly.horse.mask/cloth.rubberhorsemask_nose.asset|
+|assets/prefabs/clothes/silly.horse.mask/hat.silly.horse.mask.sitem.asset|
+|assets/prefabs/clothes/silly.horse.mask/sillyhorsemask.skeleton.asset|
 |assets/prefabs/clothes/skin/underwear/halloween/mummywraps.asset|
 |assets/prefabs/clothes/skin/underwear/resources/underwearmanifest.asset|
 |assets/prefabs/clothes/skin/underwear/swimwear/bikini.asset|
@@ -5899,6 +6167,57 @@
 |assets/prefabs/deployable/beehive/sound/bee-hive-natural-bees-active-loop-01.asset|
 |assets/prefabs/deployable/beehive/sound/bee-hive-natural-impact.asset|
 |assets/prefabs/deployable/beehive/sound/bee-hive-open.asset|
+|assets/prefabs/deployable/boat building platform/sound/boat-building-platform-deploy.asset|
+|assets/prefabs/deployable/boat building platform/sound/boat-building-platform-edit-finish.asset|
+|assets/prefabs/deployable/boat building platform/sound/boat-building-platform-edit-start.asset|
+|assets/prefabs/deployable/boatbuilding/anchor/sound/boat-anchor-deploy.asset|
+|assets/prefabs/deployable/boatbuilding/anchor/sound/boat-anchor-lower.asset|
+|assets/prefabs/deployable/boatbuilding/anchor/sound/boat-anchor-raise.asset|
+|assets/prefabs/deployable/boatbuilding/cannon/sound/cannon-ball-explosion.asset|
+|assets/prefabs/deployable/boatbuilding/cannon/sound/cannon-ball-explosion-mech.asset|
+|assets/prefabs/deployable/boatbuilding/cannon/sound/cannon-ball-flight-loop.asset|
+|assets/prefabs/deployable/boatbuilding/cannon/sound/cannon-deploy.asset|
+|assets/prefabs/deployable/boatbuilding/cannon/sound/cannon-dismount.asset|
+|assets/prefabs/deployable/boatbuilding/cannon/sound/cannon-fire-body.asset|
+|assets/prefabs/deployable/boatbuilding/cannon/sound/cannon-fire-fuse.asset|
+|assets/prefabs/deployable/boatbuilding/cannon/sound/cannon-fire-mech.asset|
+|assets/prefabs/deployable/boatbuilding/cannon/sound/cannon-mount.asset|
+|assets/prefabs/deployable/boatbuilding/cannon/sound/cannon-pitch-movement-loop.asset|
+|assets/prefabs/deployable/boatbuilding/cannon/sound/cannon-reload.asset|
+|assets/prefabs/deployable/boatbuilding/cannon/sound/cannon-reload-finish.asset|
+|assets/prefabs/deployable/boatbuilding/cannon/sound/cannon-reload-insert-ammo.asset|
+|assets/prefabs/deployable/boatbuilding/cannon/sound/cannon-reload-start.asset|
+|assets/prefabs/deployable/boatbuilding/cannon/sound/cannon-yaw-movement-loop.asset|
+|assets/prefabs/deployable/boatbuilding/plank/sound/boat-plank-deploy.asset|
+|assets/prefabs/deployable/boatbuilding/plank/sound/boat-plank-ui-drop.asset|
+|assets/prefabs/deployable/boatbuilding/plank/sound/boat-plank-ui-grab.asset|
+|assets/prefabs/deployable/boatbuilding/sail/sound/sail-catch-wind.asset|
+|assets/prefabs/deployable/boatbuilding/sail/sound/sail-deploy.asset|
+|assets/prefabs/deployable/boatbuilding/sail/sound/sail-lower.asset|
+|assets/prefabs/deployable/boatbuilding/sail/sound/sail-lowered-loop.asset|
+|assets/prefabs/deployable/boatbuilding/sail/sound/sail-raise.asset|
+|assets/prefabs/deployable/boatbuilding/sail/sound/sail-raised-loop.asset|
+|assets/prefabs/deployable/boatbuilding/small_ramp/model/base_collider_colliders.asset|
+|assets/prefabs/deployable/boatbuilding/small_ramp/sound/boat-ramp-deploy.asset|
+|assets/prefabs/deployable/boatbuilding/small_ramp/sound/boat-ramp-lower.asset|
+|assets/prefabs/deployable/boatbuilding/small_ramp/sound/boat-ramp-raise.asset|
+|assets/prefabs/deployable/boatbuilding/smallengine/sound/small-boat-engine-active-loop.asset|
+|assets/prefabs/deployable/boatbuilding/smallengine/sound/small-boat-engine-change-direction.asset|
+|assets/prefabs/deployable/boatbuilding/smallengine/sound/small-boat-engine-deploy.asset|
+|assets/prefabs/deployable/boatbuilding/smallengine/sound/small-boat-engine-start.asset|
+|assets/prefabs/deployable/boatbuilding/smallengine/sound/small-boat-engine-stop.asset|
+|assets/prefabs/deployable/boatbuilding/steeringwheel/sound/boat-steering-wheel-deploy.asset|
+|assets/prefabs/deployable/boatbuilding/steeringwheel/sound/boat-steering-wheel-dismount.asset|
+|assets/prefabs/deployable/boatbuilding/steeringwheel/sound/boat-steering-wheel-drop.asset|
+|assets/prefabs/deployable/boatbuilding/steeringwheel/sound/boat-steering-wheel-end-turn.asset|
+|assets/prefabs/deployable/boatbuilding/steeringwheel/sound/boat-steering-wheel-grab.asset|
+|assets/prefabs/deployable/boatbuilding/steeringwheel/sound/boat-steering-wheel-half-turn.asset|
+|assets/prefabs/deployable/boatbuilding/steeringwheel/sound/boat-steering-wheel-mount.asset|
+|assets/prefabs/deployable/boatbuilding/steeringwheel/sound/boat-steering-wheel-start-turn.asset|
+|assets/prefabs/deployable/boatbuilding/steeringwheel/sound/boat-steering-wheel-turn-loop.asset|
+|assets/prefabs/deployable/boatbuilding/steeringwheel/sound/prevous sounds/mailbox-close.asset|
+|assets/prefabs/deployable/boatbuilding/steeringwheel/sound/prevous sounds/mailbox-deploy.asset|
+|assets/prefabs/deployable/boatbuilding/steeringwheel/sound/prevous sounds/mailbox-open.asset|
 |assets/prefabs/deployable/campfire/sound/campfire-burning.ambience-def.asset|
 |assets/prefabs/deployable/campfire/sound/campfire-burning.ambience-list.asset|
 |assets/prefabs/deployable/campfire/sound/campfire-burning.asset|
@@ -5928,6 +6247,7 @@
 |assets/prefabs/deployable/chair/ice_throne/chair.icethrone.skin.asset|
 |assets/prefabs/deployable/chair/skins/cozy_beanbag_seat/beanbag.seat.fabric.skin.asset|
 |assets/prefabs/deployable/chair/skins/cozy_beanbag_seat/beanbag.seat.leather.skin.asset|
+|assets/prefabs/deployable/chair/skins/cozy_beanbag_seat/models/beanbag_seat_col_colliders.asset|
 |assets/prefabs/deployable/chair/skins/pilot_hazmat_ejector_seat/chair.ejector.seat.skin.asset|
 |assets/prefabs/deployable/chair/sound/beanbag-chair-deploy.asset|
 |assets/prefabs/deployable/chair/sound/beanbag-chair-destroy.asset|
@@ -5938,6 +6258,7 @@
 |assets/prefabs/deployable/chair/sound/chair-mount.asset|
 |assets/prefabs/deployable/charity_plushie_01/charity.plushie.01.sitem.asset|
 |assets/prefabs/deployable/charity_plushie_02/charity.plushie.02.sitem.asset|
+|assets/prefabs/deployable/chickencoop/model/coopcabin_col_colliders.asset|
 |assets/prefabs/deployable/chickencoop/sound/chicken-coop-chicken-hatch.asset|
 |assets/prefabs/deployable/chickencoop/sound/chicken-coop-close.asset|
 |assets/prefabs/deployable/chickencoop/sound/chicken-coop-deploy.asset|
@@ -5996,6 +6317,7 @@
 |assets/prefabs/deployable/dropbox/sound/dropbox-deploy.asset|
 |assets/prefabs/deployable/dropbox/sound/dropbox-open.asset|
 |assets/prefabs/deployable/dropbox/sound/submit.asset|
+|assets/prefabs/deployable/easel_deployable/sound/easel-deploy.asset|
 |assets/prefabs/deployable/elevator/sound/elevator-button.asset|
 |assets/prefabs/deployable/elevator/sound/elevator-cage-close-end.asset|
 |assets/prefabs/deployable/elevator/sound/elevator-cage-close-start.asset|
@@ -6284,6 +6606,7 @@
 |assets/prefabs/deployable/shelves/shelves.skinnable.asset|
 |assets/prefabs/deployable/shelves/skins/salvaged_bamboo_shelves/salvaged_bamboo_shelves.skin.asset|
 |assets/prefabs/deployable/shelves/sound/shelves-deploy.asset|
+|assets/prefabs/deployable/signs/models/sign.pole.banner.large_col_colliders.asset|
 |assets/prefabs/deployable/signs/sign.hanging.banner.large.sitem.asset|
 |assets/prefabs/deployable/signs/sign.hanging.ornate.sitem.asset|
 |assets/prefabs/deployable/signs/sign.hanging.sitem.asset|
@@ -6427,6 +6750,7 @@
 |assets/prefabs/deployable/youtooz_figurines/youtooz_hazmat.skin.asset|
 |assets/prefabs/deployable/youtooz_figurines/youtooz_heavy.skin.asset|
 |assets/prefabs/dlc.warhammer.asset|
+|assets/prefabs/dlc/pack_sitems/artist_pack/artist.pack.dlc.sitem.asset|
 |assets/prefabs/dlc/pack_sitems/balloon_pack/balloon.pack.dlc.sitem.asset|
 |assets/prefabs/dlc/pack_sitems/decor_lighting_pack/decor.lighting.dlc.sitem.asset|
 |assets/prefabs/food/berries/sound/ui-berries-drop.asset|
@@ -6440,6 +6764,7 @@
 |assets/prefabs/food/bota bag/sound/bota-bag-slosh.asset|
 |assets/prefabs/food/bota bag/sound/bota-bag-slosh-fast.asset|
 |assets/prefabs/food/bota bag/sound/bota-bag-throw-3p.asset|
+|assets/prefabs/food/coconut/sounds/coconut-pickup.asset|
 |assets/prefabs/food/eggs/sound/egg-ui-drop.asset|
 |assets/prefabs/food/eggs/sound/egg-ui-pick-up.asset|
 |assets/prefabs/food/meat/materials/meat_spoiled_sss.asset|
@@ -6515,6 +6840,34 @@
 |assets/prefabs/locks/keypad/sound/lock-code-shock.asset|
 |assets/prefabs/locks/keypad/sound/lock-code-unlock.asset|
 |assets/prefabs/locks/keypad/sound/lock-code-updated.asset|
+|assets/prefabs/misc/artist_dlc/light-up frame/sound/light-up-frame-deploy.asset|
+|assets/prefabs/misc/artist_dlc/light-up frame/sound/light-up-frame-turn-off.asset|
+|assets/prefabs/misc/artist_dlc/light-up frame/sound/light-up-frame-turn-on.asset|
+|assets/prefabs/misc/artist_dlc/paintable reactive target/paintable_reactive_target.skin.asset|
+|assets/prefabs/misc/artist_dlc/paintable reactive target/sound/paintable-reactive-target-deploy.asset|
+|assets/prefabs/misc/artist_dlc/paintable reactive target/sound/paintable-reactive-target-hit.asset|
+|assets/prefabs/misc/artist_dlc/paintable reactive target/sound/paintable-reactive-target-lower.asset|
+|assets/prefabs/misc/artist_dlc/paintable reactive target/sound/paintable-reactive-target-reset.asset|
+|assets/prefabs/misc/artist_dlc/paintable window/window.paintable.skin.asset|
+|assets/prefabs/misc/artist_dlc/scrap frame/sound/shutter-frame-deploy.asset|
+|assets/prefabs/misc/artist_dlc/scrap frame/sound/shutter-frame-large-movement-loop.asset|
+|assets/prefabs/misc/artist_dlc/scrap frame/sound/shutter-frame-large-movement-start.asset|
+|assets/prefabs/misc/artist_dlc/scrap frame/sound/shutter-frame-large-movement-stop.asset|
+|assets/prefabs/misc/artist_dlc/scrap frame/sound/shutter-frame-medium-movement-loop.asset|
+|assets/prefabs/misc/artist_dlc/scrap frame/sound/shutter-frame-medium-movement-start.asset|
+|assets/prefabs/misc/artist_dlc/scrap frame/sound/shutter-frame-medium-movement-stop.asset|
+|assets/prefabs/misc/artist_dlc/scrap frame/sound/shutter-frame-movement-loop.asset|
+|assets/prefabs/misc/artist_dlc/scrap frame/sound/shutter-frame-movement-start.asset|
+|assets/prefabs/misc/artist_dlc/scrap frame/sound/shutter-frame-movement-stop.asset|
+|assets/prefabs/misc/artist_dlc/scrap frame/sound/shutter-frame-small-movement-loop.asset|
+|assets/prefabs/misc/artist_dlc/scrap frame/sound/shutter-frame-small-movement-start.asset|
+|assets/prefabs/misc/artist_dlc/scrap frame/sound/shutter-frame-small-movement-stop.asset|
+|assets/prefabs/misc/artist_dlc/scrap frame/sound/shutter-frame-xl-movement-loop.asset|
+|assets/prefabs/misc/artist_dlc/scrap frame/sound/shutter-frame-xl-movement-start.asset|
+|assets/prefabs/misc/artist_dlc/scrap frame/sound/shutter-frame-xl-movement-stop.asset|
+|assets/prefabs/misc/artist_dlc/scrap frame/sound/shutter-frame-xxl-movement-loop.asset|
+|assets/prefabs/misc/artist_dlc/scrap frame/sound/shutter-frame-xxl-movement-start.asset|
+|assets/prefabs/misc/artist_dlc/scrap frame/sound/shutter-frame-xxl-movement-stop.asset|
 |assets/prefabs/misc/birthday_balloons_2025/sound/birthday-balloon-deploy-multiple.asset|
 |assets/prefabs/misc/birthday_balloons_2025/sound/birthday-balloon-deploy-single.asset|
 |assets/prefabs/misc/birthday_balloons_2025/sound/birthday-balloon-impact.asset|
@@ -6548,6 +6901,9 @@
 |assets/prefabs/misc/chinesenewyear/dragondoorknocker/dragondoorknocker.sitem.asset|
 |assets/prefabs/misc/chinesenewyear/dragondoorknocker/sound/knock.asset|
 |assets/prefabs/misc/chinesenewyear/dragonmask/dragonmask.sitem.asset|
+|assets/prefabs/misc/chinesenewyear/horsemask/horsemask.rope.mat.asset|
+|assets/prefabs/misc/chinesenewyear/horsemask/horsemask.sitem.asset|
+|assets/prefabs/misc/chinesenewyear/horsemask/player_skeleton.horsemask.asset|
 |assets/prefabs/misc/chinesenewyear/newyeargong/newyeargong.sitem.asset|
 |assets/prefabs/misc/chinesenewyear/newyeargong/sound/gong.asset|
 |assets/prefabs/misc/chinesenewyear/oxmask/oxmask.sitem.asset|
@@ -6649,6 +7005,30 @@
 |assets/prefabs/misc/easter/sound/music-box-trains-loop.asset|
 |assets/prefabs/misc/easter/sound/music-box-underwater-loop.asset|
 |assets/prefabs/misc/easter/sound/silveregg_open.asset|
+|assets/prefabs/misc/ghostships/sound/ghost-ship-flies.ambience-def.asset|
+|assets/prefabs/misc/ghostships/sound/ghost-ship-flies.ambience-list.asset|
+|assets/prefabs/misc/ghostships/sound/ghost-ship-flies.asset|
+|assets/prefabs/misc/ghostships/sound/ghost-ship-hull-ambience.asset|
+|assets/prefabs/misc/ghostships/sound/ghost-ship-hull-intense-ambience.asset|
+|assets/prefabs/misc/ghostships/sound/ghost-ship-hull-intense-sting.ambience-def.asset|
+|assets/prefabs/misc/ghostships/sound/ghost-ship-hull-intense-sting.ambience-list.asset|
+|assets/prefabs/misc/ghostships/sound/ghostship-hull-wave-loop.ambience-def.asset|
+|assets/prefabs/misc/ghostships/sound/ghostship-hull-wave-loop.ambience-list.asset|
+|assets/prefabs/misc/ghostships/sound/ghostship-hull-wave-loop.asset|
+|assets/prefabs/misc/ghostships/sound/ghostship-hull-wave-stings.ambience-def.asset|
+|assets/prefabs/misc/ghostships/sound/ghostship-hull-wave-stings.ambience-list.asset|
+|assets/prefabs/misc/ghostships/sound/ghostship-hull-wave-stings.asset|
+|assets/prefabs/misc/ghostships/sound/ghost-ship-interior-floor-1.reverb-settings.asset|
+|assets/prefabs/misc/ghostships/sound/ghost-ship-interior-floor-2.reverb-settings.asset|
+|assets/prefabs/misc/ghostships/sound/ghostship-mouse-squeak.ambience-def.asset|
+|assets/prefabs/misc/ghostships/sound/ghostship-mouse-squeak.ambience-list.asset|
+|assets/prefabs/misc/ghostships/sound/ghostship-mouse-squeak.asset|
+|assets/prefabs/misc/ghostships/sound/ghostship-seagul.ambience-def.asset|
+|assets/prefabs/misc/ghostships/sound/ghostship-seagul.ambience-list.asset|
+|assets/prefabs/misc/ghostships/sound/ghostship-seagul-ambience-sting.asset|
+|assets/prefabs/misc/ghostships/sound/ghostship-seagul-group.ambience-def.asset|
+|assets/prefabs/misc/ghostships/sound/ghostship-seagul-group.ambience-list.asset|
+|assets/prefabs/misc/ghostships/sound/ghostship-seagul-group-ambience-sting.asset|
 |assets/prefabs/misc/halloween/candies/sound/candy_impact.asset|
 |assets/prefabs/misc/halloween/candles/candlecomboset.sitem.asset|
 |assets/prefabs/misc/halloween/carvablepumpkin/carvable.pumpkin.sitem.asset|
@@ -6848,7 +7228,7 @@
 |assets/prefabs/misc/trophy/twitchtrophy.sitem.asset|
 |assets/prefabs/misc/trophy_2023/twitchtrophy_2023.sitem.asset|
 |assets/prefabs/misc/twitch/blocky_sunglasses/twitchsunglasses.sitem.asset|
-|assets/prefabs/misc/twitch/headsetcap/skins/hat.cap_headset.twitch.itemskin.asset|
+|assets/prefabs/misc/twitch/headsetcap/skins/twitch.cap.headset/hat.cap_headset.twitch.itemskin.asset|
 |assets/prefabs/misc/twitch/headsetcap/twitchheadset.sitem.asset|
 |assets/prefabs/misc/twitch/headsetcap/twitchheadset.skinnable.asset|
 |assets/prefabs/misc/twitch/hobobarrel/hobobarrel.sitem.asset|
@@ -6963,6 +7343,7 @@
 |assets/prefabs/missions/boarhunt_basic.asset|
 |assets/prefabs/missions/deerhunt_basic.asset|
 |assets/prefabs/missions/divemaster_cratefree.asset|
+|assets/prefabs/missions/divemaster_naval_underwaterlabsmission.asset|
 |assets/prefabs/missions/divemaster_sharkhunt.asset|
 |assets/prefabs/missions/dungeonmission.asset|
 |assets/prefabs/missions/fisherman_fishing.asset|
@@ -6970,14 +7351,23 @@
 |assets/prefabs/missions/fisherman_tackle.asset|
 |assets/prefabs/missions/harvestmission.asset|
 |assets/prefabs/missions/lootspawns/bottlespawn.asset|
+|assets/prefabs/missions/lootspawns/deepseatreasurespawn.asset|
+|assets/prefabs/missions/lootspawns/deepseatreasurespawn_armorplates.asset|
 |assets/prefabs/missions/lootspawns/logspawn.asset|
 |assets/prefabs/missions/lootspawns/tacklespawn.asset|
 |assets/prefabs/missions/lumberjack_harvestwood.asset|
 |assets/prefabs/missions/lumberjack_killanimals.asset|
+|assets/prefabs/missions/lumberjack_naval_floatingcitywooddelivery.asset|
 |assets/prefabs/missions/lumberjack_vodka.asset|
+|assets/prefabs/missions/missioniconsconfig/missioniconsconfig.asset|
 |assets/prefabs/missions/movemissiontest_1.asset|
 |assets/prefabs/missions/movemissiontest_2.asset|
 |assets/prefabs/missions/movemissiontest_3.asset|
+|assets/prefabs/missions/naval_boatscientisthunt.asset|
+|assets/prefabs/missions/naval_deepseaislandtreasure.asset|
+|assets/prefabs/missions/naval_oilrigmission.asset|
+|assets/prefabs/missions/objectives/missionobjective_gotodeepsea.asset|
+|assets/prefabs/missions/objectives/missionobjective_gotodeepseaisland.asset|
 |assets/prefabs/missions/objectives/testing/acquirebottle.asset|
 |assets/prefabs/missions/objectives/testing/acquiretackle.asset|
 |assets/prefabs/missions/objectives/testing/catchanyfish5.asset|
@@ -7161,6 +7551,7 @@
 |assets/prefabs/npc/bandit/divemasterconversation.asset|
 |assets/prefabs/npc/bandit/dungeonmissiontestconversation.asset|
 |assets/prefabs/npc/bandit/fishermanconversation.asset|
+|assets/prefabs/npc/bandit/floatingcitymissionprovideraconversation.asset|
 |assets/prefabs/npc/bandit/genericmissionproviderconversation.asset|
 |assets/prefabs/npc/bandit/hunterconversation.asset|
 |assets/prefabs/npc/bandit/hunterconversationfull.asset|
@@ -7173,6 +7564,7 @@
 |assets/prefabs/npc/bandit/scientistmissionconversation.asset|
 |assets/prefabs/npc/bandit/stablehandmissionconversation.asset|
 |assets/prefabs/npc/bandit/stablesconversation.asset|
+|assets/prefabs/npc/bandit/testconversation.asset|
 |assets/prefabs/npc/bandit/treasureconversation.asset|
 |assets/prefabs/npc/bandit/vagabondconversation.asset|
 |assets/prefabs/npc/bandit/vehiclevendoroccupiedconversation.asset|
@@ -7204,6 +7596,7 @@
 |assets/prefabs/npc/flame turret/sound/flameturret-mech-active-loop.asset|
 |assets/prefabs/npc/flame turret/sound/flameturret-mech-idle-loop.asset|
 |assets/prefabs/npc/flame turret/sound/flameturret-open.asset|
+|assets/prefabs/npc/floatingcity/farmaccessconversation.asset|
 |assets/prefabs/npc/m2bradley/sound/bradley-chasis.asset|
 |assets/prefabs/npc/m2bradley/sound/bradley-engine.loop-def.asset|
 |assets/prefabs/npc/m2bradley/sound/bradley-engine-high.asset|
@@ -7468,6 +7861,7 @@
 |assets/prefabs/tools/metaldetector/diggablelootspawn.arctictundra.asset|
 |assets/prefabs/tools/metaldetector/diggablelootspawn.arid.asset|
 |assets/prefabs/tools/metaldetector/diggablelootspawn.beach.asset|
+|assets/prefabs/tools/metaldetector/diggablelootspawn.deepsea.asset|
 |assets/prefabs/tools/metaldetector/diggablelootspawn.field.asset|
 |assets/prefabs/tools/metaldetector/diggablelootspawn.forest.asset|
 |assets/prefabs/tools/metaldetector/diggablelootspawn.global.asset|
@@ -7501,6 +7895,10 @@
 |assets/prefabs/tools/spraycan/sound/spraycan-spray-loop.asset|
 |assets/prefabs/tools/spraycan/sound/spraycan-spray-start.asset|
 |assets/prefabs/tools/spraycan/sound/spraycan-spray-stop.asset|
+|assets/prefabs/tools/spraycan/sprays/skins/artist.pack.dlc/spray.decal.artistdlc_rosette_1st.itemskin.asset|
+|assets/prefabs/tools/spraycan/sprays/skins/artist.pack.dlc/spray.decal.artistdlc_rosette_2nd.itemskin.asset|
+|assets/prefabs/tools/spraycan/sprays/skins/artist.pack.dlc/spray.decal.artistdlc_rosette_3rd.itemskin.asset|
+|assets/prefabs/tools/spraycan/sprays/skins/artist.pack.dlc/spray.decal.artistdlc_rosette_last.itemskin.asset|
 |assets/prefabs/tools/spraycan/sprays/skins/jungledlc/spray.decal.jungledlc_skull.itemskin.asset|
 |assets/prefabs/tools/spraycan/sprays/skins/jungledlc/spray.decal.jungledlc_tiger.itemskin.asset|
 |assets/prefabs/tools/spraycan/sprays/spray.decal.beancan.itemskin.asset|
@@ -8236,6 +8634,21 @@
 |assets/prefabs/weapons/paddle/sound/paddle-throw-cancel.asset|
 |assets/prefabs/weapons/paddle/sound/paddle-throw-start.asset|
 |assets/prefabs/weapons/paddle/sound/paddle-water-movement.asset|
+|assets/prefabs/weapons/paintball_gun/paintballcolourlookup.asset|
+|assets/prefabs/weapons/paintball_gun/sound/paintball-gun-admire-01.asset|
+|assets/prefabs/weapons/paintball_gun/sound/paintball-gun-admire-02.asset|
+|assets/prefabs/weapons/paintball_gun/sound/paintball-gun-admire-03.asset|
+|assets/prefabs/weapons/paintball_gun/sound/paintball-gun-admire-04.asset|
+|assets/prefabs/weapons/paintball_gun/sound/paintball-gun-attack.asset|
+|assets/prefabs/weapons/paintball_gun/sound/paintball-gun-deploy.asset|
+|assets/prefabs/weapons/paintball_gun/sound/paintball-gun-dryfire.asset|
+|assets/prefabs/weapons/paintball_gun/sound/paintball-gun-impact.asset|
+|assets/prefabs/weapons/paintball_gun/sound/paintball-gun-reload-fill-hopper-01.asset|
+|assets/prefabs/weapons/paintball_gun/sound/paintball-gun-reload-finish-01.asset|
+|assets/prefabs/weapons/paintball_gun/sound/paintball-gun-reload-gas-01.asset|
+|assets/prefabs/weapons/paintball_gun/sound/paintball-gun-reload-lower-01.asset|
+|assets/prefabs/weapons/paintball_gun/sound/paintball-gun-reload-raise-01.asset|
+|assets/prefabs/weapons/paintball_gun/sound/paintball-gun-reload-start-01.asset|
 |assets/prefabs/weapons/pickaxe/pickaxe.skinnable.asset|
 |assets/prefabs/weapons/pickaxe/sound/pickaxe-attack.asset|
 |assets/prefabs/weapons/pickaxe/sound/pickaxe-attack-3p.asset|
@@ -8404,6 +8817,7 @@
 |assets/prefabs/weapons/semi auto rifle/sound/semi-auto-rifle-gunshot-lfe.asset|
 |assets/prefabs/weapons/semi auto rifle/sound/semi-auto-rifle-gunshot-mech.asset|
 |assets/prefabs/weapons/semi auto rifle/sound/semi-auto-rifle-gunshot-tail-outdoor.asset|
+|assets/prefabs/weapons/sks/sks.skinnable.asset|
 |assets/prefabs/weapons/sks/sound/sks-admire-01.asset|
 |assets/prefabs/weapons/sks/sound/sks-admire-02.asset|
 |assets/prefabs/weapons/sks/sound/sks-admire-03.asset|
@@ -8686,6 +9100,8 @@
 |assets/rust.ai/agents/npcplayer/gingerbread/gingerbread.aidesign.asset|
 |assets/rust.ai/agents/npcplayer/gingerbread/gingerbreadmelee.aidesign.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/bandit_guard.aidesign.asset|
+|assets/rust.ai/agents/npcplayer/humannpc/scientist/gen2/heavy.backpackhit.asset|
+|assets/rust.ai/agents/npcplayer/humannpc/scientist/gen2/npcvoicelinedb.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/heavyscientist.oilrig.aidesign.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/heavyscientist-1.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/heavyscientist-2.asset|
@@ -8892,6 +9308,10 @@
 |assets/rust.ai/agents/wolf/wolf.population.asset|
 |assets/rust.ai/agents/wolf/wolf.skeleton.asset|
 |assets/rust.ai/agents/zombie/zombie.population.asset|
+|assets/scenes/prefabs/floating city/floating_cities_flat_terrain/floating_city_2_shorevector.asset|
+|assets/scenes/prefabs/floating city/floating_cities_flat_terrain/floating_city_3_shorevector.asset|
+|assets/scenes/prefabs/floating city/floating_cities_flat_terrain/floating_city_4_shorevector.asset|
+|assets/scenes/prefabs/floating city/floating_cities_flat_terrain/floating_city_shorevector.asset|
 |assets/scenes/prefabs/jungle ziggurat/jungle_ziggurat_a.asset|
 |assets/scenes/prefabs/trainyard/sound/coaling-tower-arm-movement-lower.asset|
 |assets/scenes/prefabs/trainyard/sound/coaling-tower-arm-movement-raise.asset|
@@ -8910,6 +9330,10 @@
 |assets/scenes/prefabs/trainyard/sound/coaling-tower-suction-ore-loop-interior-pipe.asset|
 |assets/scenes/prefabs/trainyard/sound/coaling-tower-suction-ore-start.asset|
 |assets/scenes/prefabs/unique environments/ue_lake_a.asset|
+|assets/scenes/release/_highseas/tropical1/tropical1_shorevector.asset|
+|assets/scenes/release/_highseas/tropical2/tropical2_shorevector.asset|
+|assets/scenes/release/_highseas/tropical3/tropical3_shorevector.asset|
+|assets/scenes/release/_highseas/tropical4/tropical4_shorevector.asset|
 |assets/scenes/release/qaisland.asset|
 |assets/scenes/test/assetgallery/assetgallery interior.asset|
 |assets/scenes/test/assetgallery/assetgallery.asset|
@@ -8921,6 +9345,7 @@
 |assets/scenes/test/burstcloth/burstclothmats/spring_bcmat.asset|
 |assets/scenes/test/cargodocking/cargodocking terrain.asset|
 |assets/scenes/test/coastal_cliffs/coastal_cliffs_test.asset|
+|assets/scenes/test/waterworld/waterworld terrain.asset|
 |assets/scripts/entity/misc/f15/sound/f15e-flight-loop.asset|
 |assets/scripts/entity/misc/f15/sound/f15e-fly-by.asset|
 |assets/scripts/game/techtree/techtree.asset|
