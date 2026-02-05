@@ -28,6 +28,7 @@
 |assets/bundled/prefabs/fx/building/thatch_gib.prefab|
 |assets/bundled/prefabs/fx/building/wood_gib.prefab|
 |assets/bundled/prefabs/fx/camera_flash.prefab|
+|assets/bundled/prefabs/fx/collect/collect coconut.prefab|
 |assets/bundled/prefabs/fx/collect/collect fuel barrel.prefab|
 |assets/bundled/prefabs/fx/collect/collect mushroom.prefab|
 |assets/bundled/prefabs/fx/collect/collect plant.prefab|
@@ -102,6 +103,9 @@
 |assets/bundled/prefabs/fx/decals/footstep/boot/snow/decal_footprint_human_snow_boot_right.prefab|
 |assets/bundled/prefabs/fx/decals/footstep/boot/tundra/decal_footprint_human_boot_left.prefab|
 |assets/bundled/prefabs/fx/decals/footstep/boot/tundra/decal_footprint_human_boot_right.prefab|
+|assets/bundled/prefabs/fx/decals/paintball/generic/decal_paintball_01.prefab|
+|assets/bundled/prefabs/fx/decals/paintball/generic/decal_paintball_02.prefab|
+|assets/bundled/prefabs/fx/decals/paintball/generic/decal_paintball_03.prefab|
 |assets/bundled/prefabs/fx/decals/slash/dirt/decal_slash_dirt_01.prefab|
 |assets/bundled/prefabs/fx/decals/slash/forest/decal_slash_forest_01.prefab|
 |assets/bundled/prefabs/fx/decals/slash/glass/decal_slash_glass.prefab|
@@ -462,6 +466,8 @@
 |assets/bundled/prefabs/fx/impacts/jump-start/rubberboots/stones/jump-land-concrete.prefab|
 |assets/bundled/prefabs/fx/impacts/jump-start/rubberboots/water/jump_land_water.prefab|
 |assets/bundled/prefabs/fx/impacts/jump-start/rubberboots/wood/jump-land-wood.prefab|
+|assets/bundled/prefabs/fx/impacts/paintball/generic/paintball_impact_burst_white.prefab|
+|assets/bundled/prefabs/fx/impacts/paintball/water/water.prefab|
 |assets/bundled/prefabs/fx/impacts/physics/phys-impact-meat-hard.prefab|
 |assets/bundled/prefabs/fx/impacts/physics/phys-impact-meat-med.prefab|
 |assets/bundled/prefabs/fx/impacts/physics/phys-impact-meat-soft.prefab|
@@ -490,6 +496,7 @@
 |assets/bundled/prefabs/fx/impacts/physics/phys-impact-wood-small-soft.prefab|
 |assets/bundled/prefabs/fx/impacts/physics/phys-impact-wood-soft.prefab|
 |assets/bundled/prefabs/fx/impacts/physics/water-enter-exit.prefab|
+|assets/bundled/prefabs/fx/impacts/physics/water-enter-exit-silent.prefab|
 |assets/bundled/prefabs/fx/impacts/slash/blood12slash_1.prefab|
 |assets/bundled/prefabs/fx/impacts/slash/blood12slash_2.prefab|
 |assets/bundled/prefabs/fx/impacts/slash/blood13slash.prefab|
@@ -808,11 +815,22 @@
 |assets/content/vehicles/bikes/motorbike/effects/lights on.prefab|
 |assets/content/vehicles/boats/effects/small-boat-push-land.prefab|
 |assets/content/vehicles/boats/effects/small-boat-push-water.prefab|
+|assets/content/vehicles/boats/effects/small-metal-boat-push-water.prefab|
 |assets/content/vehicles/boats/effects/splash.prefab|
 |assets/content/vehicles/boats/effects/splashloop.prefab|
 |assets/content/vehicles/boats/kayak/effects/kayak-paddle.prefab|
 |assets/content/vehicles/boats/kayak/effects/kayak-push-land.prefab|
 |assets/content/vehicles/boats/kayak/effects/kayak-push-water.prefab|
+|assets/content/vehicles/boats/ptboat/effects/50cal_dryfire.prefab|
+|assets/content/vehicles/boats/ptboat/effects/50cal_screenshake.prefab|
+|assets/content/vehicles/boats/ptboat/effects/50cal_screenshake_rear.prefab|
+|assets/content/vehicles/boats/ptboat/effects/attack.50cal.double.left.prefab|
+|assets/content/vehicles/boats/ptboat/effects/attack.50cal.empty.prefab|
+|assets/content/vehicles/boats/ptboat/effects/attack.50cal.single.prefab|
+|assets/content/vehicles/boats/ptboat/effects/pt lighting.prefab|
+|assets/content/vehicles/boats/ptboat/effects/spotlightenabled.ontoattach.prefab|
+|assets/content/vehicles/boats/ptboat/turrets/50cal/effects/double-attack.prefab|
+|assets/content/vehicles/boats/ptboat/turrets/50cal/effects/single-attack.prefab|
 |assets/content/vehicles/boats/tugboat/effects/tugboat_damage_fx.prefab|
 |assets/content/vehicles/crane_magnet/effects/exhaust.prefab|
 |assets/content/vehicles/crane_magnet/effects/lightgroup arm.prefab|
@@ -930,6 +948,8 @@
 |assets/content/weapons/_gestures/effects/eat_2hand_chewymeat.prefab|
 |assets/prefabs/ammo/40mmgrenade/effects/40mm_he_explosion.prefab|
 |assets/prefabs/ammo/rocket/effects/pfx_rockettrail.prefab|
+|assets/prefabs/boat/effects/player-boat-place-hull.prefab|
+|assets/prefabs/boat/effects/player-boat-sink.prefab|
 |assets/prefabs/building/door.double.hinged/effects/door-double-metal-close-end.prefab|
 |assets/prefabs/building/door.double.hinged/effects/door-double-metal-close-start.prefab|
 |assets/prefabs/building/door.double.hinged/effects/door-double-metal-open-start.prefab|
@@ -1017,6 +1037,19 @@
 |assets/prefabs/deployable/bear trap/effects/bear-trap-deploy.prefab|
 |assets/prefabs/deployable/bed/effects/bed-deploy.prefab|
 |assets/prefabs/deployable/beehive/effects/beehive-deploy.prefab|
+|assets/prefabs/deployable/boat building platform/effects/boat-building-platform-deploy.prefab|
+|assets/prefabs/deployable/boatbuilding/anchor/effects/boat-anchor-deploy.prefab|
+|assets/prefabs/deployable/boatbuilding/cannon/effects/attack.prefab|
+|assets/prefabs/deployable/boatbuilding/cannon/effects/cannonball_explosion.prefab|
+|assets/prefabs/deployable/boatbuilding/cannon/effects/cannonball_explosion_water_surface.prefab|
+|assets/prefabs/deployable/boatbuilding/cannon/effects/cannon-deploy.prefab|
+|assets/prefabs/deployable/boatbuilding/cannon/effects/wick ignition.prefab|
+|assets/prefabs/deployable/boatbuilding/plank/effects/plank-deploy.prefab|
+|assets/prefabs/deployable/boatbuilding/sail/effects/sail-deploy.prefab|
+|assets/prefabs/deployable/boatbuilding/small_ramp/effects/boat-ramp-deploy.prefab|
+|assets/prefabs/deployable/boatbuilding/smallengine/effects/small-engine-deploy.prefab|
+|assets/prefabs/deployable/boatbuilding/steeringwheel/effects/boat-steering-wheel-deploy.prefab|
+|assets/prefabs/deployable/boatbuilding/steeringwheel/effects/boat-steering-wheel-finish-building.prefab|
 |assets/prefabs/deployable/campfire/effects/campfire-deploy.prefab|
 |assets/prefabs/deployable/ceiling light/effects/ceiling-light-deploy.prefab|
 |assets/prefabs/deployable/chair/effects/beanbag-chair-deploy.prefab|
@@ -1094,6 +1127,7 @@
 |assets/prefabs/deployable/ptz security camera/effects/ptz-camera-deploy.prefab|
 |assets/prefabs/deployable/quarry/effects/mining-quarry-deploy.prefab|
 |assets/prefabs/deployable/reactive target/effects/bullseye.prefab|
+|assets/prefabs/deployable/reactive target/effects/bullseye_bucket.prefab|
 |assets/prefabs/deployable/reactive target/effects/reactive-target-deploy.prefab|
 |assets/prefabs/deployable/reactive target/effects/snd_hit.prefab|
 |assets/prefabs/deployable/reactive target/effects/snd_knockdown.prefab|
@@ -1125,6 +1159,7 @@
 |assets/prefabs/deployable/signs/effects/wood-sign-deploy.prefab|
 |assets/prefabs/deployable/single shot trap/effects/shotgun-trap-deploy.prefab|
 |assets/prefabs/deployable/sleeping bag/effects/sleeping-bag-deploy.prefab|
+|assets/prefabs/deployable/small engine/effects/lightingfx.prefab|
 |assets/prefabs/deployable/small stash/effects/small-stash-deploy.prefab|
 |assets/prefabs/deployable/sofa/effects/sofa-deploy.prefab|
 |assets/prefabs/deployable/sofa/effects/sofa-destroy.prefab|
@@ -1867,6 +1902,7 @@
 |assets/prefabs/weapons/m249/effects/ammobox_insert.prefab|
 |assets/prefabs/weapons/m249/effects/ammobox_remove.prefab|
 |assets/prefabs/weapons/m249/effects/attack.prefab|
+|assets/prefabs/weapons/m249/effects/attack_altmuzzle.prefab|
 |assets/prefabs/weapons/m249/effects/attack_muzzlebrake.prefab|
 |assets/prefabs/weapons/m249/effects/attack_shake.prefab|
 |assets/prefabs/weapons/m249/effects/attack_shake_ads.prefab|
@@ -2000,6 +2036,12 @@
 |assets/prefabs/weapons/paddle/effects/paddle-hit.prefab|
 |assets/prefabs/weapons/paddle/effects/paddle-hit-soft.prefab|
 |assets/prefabs/weapons/paddle/effects/throw.prefab|
+|assets/prefabs/weapons/paintball_gun/effects/attack.prefab|
+|assets/prefabs/weapons/paintball_gun/effects/paintball_impact_burst_blue.prefab|
+|assets/prefabs/weapons/paintball_gun/effects/paintball_impact_burst_green.prefab|
+|assets/prefabs/weapons/paintball_gun/effects/paintball_impact_burst_orange.prefab|
+|assets/prefabs/weapons/paintball_gun/effects/paintball_impact_burst_purple.prefab|
+|assets/prefabs/weapons/paintball_gun/effects/paintball_impact_burst_yellow.prefab|
 |assets/prefabs/weapons/pickaxe/effects/attack.prefab|
 |assets/prefabs/weapons/pickaxe/effects/deploy.prefab|
 |assets/prefabs/weapons/pickaxe/effects/strike.prefab|
