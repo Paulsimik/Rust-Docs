@@ -3,6 +3,7 @@
 |assets/prefabs/missions/items/captain_log.png|
 |assets/prefabs/missions/items/documents.iconrenderer.icon.png|
 |assets/prefabs/missions/items/fishing.tackle.icon.png|
+|assets/prefabs/missions/items/mrspice_can.icon.png|
 |assets/prefabs/missions/items/vodka_bottle.icon.png|
 |assets/prefabs/missions/portal/proceduraldungeon/effects/bunker_door_haunted_fx.tga|
 |assets/prefabs/missions/textures/mission_icon.png|
@@ -201,6 +202,26 @@
 |assets/scenes/prefabs/fishing_village/fishing_village_c_rootc_lods/fishing_village_c_rootc_hlod_albedo.png|
 |assets/scenes/prefabs/fishing_village/fishing_village_c_rootc_lods/fishing_village_c_rootc_hlod_normals.png|
 |assets/scenes/prefabs/fishing_village/fishing_village_c_rootc_lods/fishing_village_c_rootc_hlod_specular.png|
+|assets/scenes/prefabs/floating city/floating_cities_flat_terrain/alphatexture.png|
+|assets/scenes/prefabs/floating city/floating_cities_flat_terrain/biometexture.png|
+|assets/scenes/prefabs/floating city/floating_cities_flat_terrain/heighttexture.png|
+|assets/scenes/prefabs/floating city/floating_cities_flat_terrain/normaltexture.png|
+|assets/scenes/prefabs/floating city/floating_cities_flat_terrain/splattexture0.png|
+|assets/scenes/prefabs/floating city/floating_cities_flat_terrain/splattexture1.png|
+|assets/scenes/prefabs/floating city/floating_cities_flat_terrain/topologytexture.png|
+|assets/scenes/prefabs/floating city/floating_cities_flat_terrain/watertexture.png|
+|assets/scenes/prefabs/floating city/floating_city_2_root_lods/floating_city_2_root_hlod_albedo.png|
+|assets/scenes/prefabs/floating city/floating_city_2_root_lods/floating_city_2_root_hlod_normals.png|
+|assets/scenes/prefabs/floating city/floating_city_2_root_lods/floating_city_2_root_hlod_specular.png|
+|assets/scenes/prefabs/floating city/floating_city_3_root_lods/floating_city_3_root_hlod_albedo.png|
+|assets/scenes/prefabs/floating city/floating_city_3_root_lods/floating_city_3_root_hlod_normals.png|
+|assets/scenes/prefabs/floating city/floating_city_3_root_lods/floating_city_3_root_hlod_specular.png|
+|assets/scenes/prefabs/floating city/floating_city_4_root_lods/floating_city_4_root_hlod_albedo.png|
+|assets/scenes/prefabs/floating city/floating_city_4_root_lods/floating_city_4_root_hlod_normals.png|
+|assets/scenes/prefabs/floating city/floating_city_4_root_lods/floating_city_4_root_hlod_specular.png|
+|assets/scenes/prefabs/floating city/floating_city_root_lods/floating_city_root_hlod_albedo.png|
+|assets/scenes/prefabs/floating city/floating_city_root_lods/floating_city_root_hlod_normals.png|
+|assets/scenes/prefabs/floating city/floating_city_root_lods/floating_city_root_hlod_specular.png|
 |assets/scenes/prefabs/gas_station/gas_station/alphatexture.png|
 |assets/scenes/prefabs/gas_station/gas_station/biometexture.png|
 |assets/scenes/prefabs/gas_station/gas_station/blendtexture.png|
@@ -825,6 +846,42 @@
 |assets/scenes/prefabs/water wells/water_well_e/water_well_e/splattexture1.png|
 |assets/scenes/prefabs/water wells/water_well_e/water_well_e/topologytexture.png|
 |assets/scenes/prefabs/water wells/water_well_e/water_well_e/watertexture.png|
+|assets/scenes/release/_highseas/tropical1/alphatexture.png|
+|assets/scenes/release/_highseas/tropical1/biometexture.png|
+|assets/scenes/release/_highseas/tropical1/distancetexture.png|
+|assets/scenes/release/_highseas/tropical1/heighttexture.png|
+|assets/scenes/release/_highseas/tropical1/normaltexture.png|
+|assets/scenes/release/_highseas/tropical1/splattexture0.png|
+|assets/scenes/release/_highseas/tropical1/splattexture1.png|
+|assets/scenes/release/_highseas/tropical1/topologytexture.png|
+|assets/scenes/release/_highseas/tropical1/watertexture.png|
+|assets/scenes/release/_highseas/tropical2/alphatexture.png|
+|assets/scenes/release/_highseas/tropical2/biometexture.png|
+|assets/scenes/release/_highseas/tropical2/distancetexture.png|
+|assets/scenes/release/_highseas/tropical2/heighttexture.png|
+|assets/scenes/release/_highseas/tropical2/normaltexture.png|
+|assets/scenes/release/_highseas/tropical2/splattexture0.png|
+|assets/scenes/release/_highseas/tropical2/splattexture1.png|
+|assets/scenes/release/_highseas/tropical2/topologytexture.png|
+|assets/scenes/release/_highseas/tropical2/watertexture.png|
+|assets/scenes/release/_highseas/tropical3/alphatexture.png|
+|assets/scenes/release/_highseas/tropical3/biometexture.png|
+|assets/scenes/release/_highseas/tropical3/distancetexture.png|
+|assets/scenes/release/_highseas/tropical3/heighttexture.png|
+|assets/scenes/release/_highseas/tropical3/normaltexture.png|
+|assets/scenes/release/_highseas/tropical3/splattexture0.png|
+|assets/scenes/release/_highseas/tropical3/splattexture1.png|
+|assets/scenes/release/_highseas/tropical3/topologytexture.png|
+|assets/scenes/release/_highseas/tropical3/watertexture.png|
+|assets/scenes/release/_highseas/tropical4/alphatexture.png|
+|assets/scenes/release/_highseas/tropical4/biometexture.png|
+|assets/scenes/release/_highseas/tropical4/distancetexture.png|
+|assets/scenes/release/_highseas/tropical4/heighttexture.png|
+|assets/scenes/release/_highseas/tropical4/normaltexture.png|
+|assets/scenes/release/_highseas/tropical4/splattexture0.png|
+|assets/scenes/release/_highseas/tropical4/splattexture1.png|
+|assets/scenes/release/_highseas/tropical4/topologytexture.png|
+|assets/scenes/release/_highseas/tropical4/watertexture.png|
 |assets/scenes/release/archipelago/biometexture.png|
 |assets/scenes/release/archipelago/heighttexture.png|
 |assets/scenes/release/archipelago/normaltexture.png|
@@ -995,6 +1052,14 @@
 |assets/scenes/test/waterlevelterrain/splattexture1.png|
 |assets/scenes/test/waterlevelterrain/topologytexture.png|
 |assets/scenes/test/waterlevelterrain/watertexture.png|
+|assets/scenes/test/waterworld/waterworld terrain/alphatexture.png|
+|assets/scenes/test/waterworld/waterworld terrain/biometexture.png|
+|assets/scenes/test/waterworld/waterworld terrain/heighttexture.png|
+|assets/scenes/test/waterworld/waterworld terrain/normaltexture.png|
+|assets/scenes/test/waterworld/waterworld terrain/splattexture0.png|
+|assets/scenes/test/waterworld/waterworld terrain/splattexture1.png|
+|assets/scenes/test/waterworld/waterworld terrain/topologytexture.png|
+|assets/scenes/test/waterworld/waterworld terrain/watertexture.png|
 |assets/scenes/test/world_revamp/world_revamp/biometexture.png|
 |assets/scenes/test/world_revamp/world_revamp/heighttexture.png|
 |assets/scenes/test/world_revamp/world_revamp/normaltexture.png|
