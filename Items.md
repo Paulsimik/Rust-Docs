@@ -703,7 +703,7 @@
 |<img src="https://czechrust.eu/img/textures2D/window.paintable.png" width="100" height="80">|Paintable Window|window.paintable|738611016|ItemModDeployable<br>ItemBlueprint<br>ItemModEntity<br>ItemModSign<br>ItemMod<br>|
 |<img src="https://czechrust.eu/img/textures2D/ammo.paintball.png" width="100" height="80">|Paintball|ammo.paintball|385645417|ItemModProjectile<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/paintballgun.png" width="100" height="80">|Paintball Gun|paintballgun|-707792719|ItemModEntity<br>ItemBlueprint<br>ItemModContainer<br>|
-|<img src="https://czechrust.eu/img/textures2D/paintballoveralls.suit.png" width="100" height="80">|Paintball Overalls|paintballoveralls.suit|-1014934560|ItemModWearable<br>ItemBlueprint<br>|
+|<img src="https://czechrust.eu/img/textures2D/paintballoveralls.suit.png" width="100" height="80">|Paintball Overalls|paintballoveralls.suit|-1014934560|ItemModWearable<br>ItemModPaintballOveralls<br>ItemMod<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/easter.paintedeggs.png" width="100" height="80">|Painted Egg|easter.paintedeggs|-126305173|ItemModUpgrade<br>|
 |<img src="https://czechrust.eu/img/textures2D/fun.flute.png" width="100" height="80">|Pan Flute|fun.flute|-2040817543|ItemModEntity<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/pants.png" width="100" height="80">|Pants|pants|237239288|ItemModWearable<br>ItemBlueprint<br>|
