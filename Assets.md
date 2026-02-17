@@ -5164,6 +5164,7 @@
 |assets/content/vehicles/horse/breeds/pinto.asset|
 |assets/content/vehicles/horse/breeds/redroan.asset|
 |assets/content/vehicles/horse/breeds/white.asset|
+|assets/content/vehicles/horse/cloth.lnyhorsearmourtassels.asset|
 |assets/content/vehicles/horse/effects/footsteps/horse-footstep-concrete.asset|
 |assets/content/vehicles/horse/effects/footsteps/horse-footstep-dirt.asset|
 |assets/content/vehicles/horse/effects/footsteps/horse-footstep-grass.asset|
@@ -5193,10 +5194,13 @@
 |assets/content/vehicles/horse/sound/horse-detach.asset|
 |assets/content/vehicles/horse/sound/horse-dismount.asset|
 |assets/content/vehicles/horse/sound/horse-eat.asset|
+|assets/content/vehicles/horse/sound/horse-lny-armor-drop.asset|
+|assets/content/vehicles/horse/sound/horse-lny-armor-pick-up.asset|
 |assets/content/vehicles/horse/sound/horse-mount.asset|
 |assets/content/vehicles/horse/sound/horse-movement-grunt.asset|
 |assets/content/vehicles/horse/sound/horse-pain.asset|
 |assets/content/vehicles/horse/sound/horse-saddle-movement.asset|
+|assets/content/vehicles/horse/sound/horse-saddle-movement-lny26.asset|
 |assets/content/vehicles/horse/sound/horse-saddle-movement-metal.asset|
 |assets/content/vehicles/horse/sound/horse-saddle-movement-wood.asset|
 |assets/content/vehicles/horse/sound/horse-skid-loop.asset|
