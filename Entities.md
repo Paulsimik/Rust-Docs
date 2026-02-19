@@ -1457,8 +1457,8 @@
 |divesite_d|1429756914|DiveSite<br>Spawnable<br>|assets/prefabs/misc/divesite/divesite_d.prefab|
 |divesite_e|365020138|DiveSite<br>Spawnable<br>|assets/prefabs/misc/divesite/divesite_e.prefab|
 |divesite_f|3158334014|DiveSite<br>Spawnable<br>|assets/prefabs/misc/divesite/divesite_f.prefab|
-|OceanWreckBuoy|2825845166|DiveSiteBuoy<br>BoxCollider<br>|assets/prefabs/misc/divesite/oceanwreckbuoy.prefab|
-|OceanWreckBuoySmall|702334137|DiveSiteBuoy<br>BoxCollider<br>|assets/prefabs/misc/divesite/oceanwreckbuoysmall.prefab|
+|OceanWreckBuoy|2825845166|DiveSiteBuoy<br>|assets/prefabs/misc/divesite/oceanwreckbuoy.prefab|
+|OceanWreckBuoySmall|702334137|DiveSiteBuoy<br>|assets/prefabs/misc/divesite/oceanwreckbuoysmall.prefab|
 |DoorCloser|1831641807|DoorCloser<br>BoxCollider<br>|assets/prefabs/misc/doorcloser/doorcloser.prefab|
 |DynamicPreventBuilding|4124785483|BaseEntity<br>SphereCollider<br>|assets/prefabs/misc/dynamicpreventbuilding.prefab|
 |easter_door_wreath_deployed|3375996320|BaseCombatEntity<br>|assets/prefabs/misc/easter/door_wreath/easter_door_wreath_deployed.prefab|
