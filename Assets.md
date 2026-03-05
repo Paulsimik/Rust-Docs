@@ -65,6 +65,7 @@
 |assets/bundled/prefabs/ui/menu2/_pages/home/_styles/menuui2_quitmodal_exit_button.asset|
 |assets/bundled/prefabs/ui/menu2/_pages/home/_styles/menuui2_searchbar.asset|
 |assets/bundled/prefabs/ui/menu2/_pages/home/_styles/menuui2_small_rounded_button.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/home/social/friendstyle.asset|
 |assets/bundled/prefabs/ui/menu2/_pages/home/social/menuui2_social_dmpicker.asset|
 |assets/bundled/prefabs/ui/menu2/_pages/loading screen/_styles/menuui2_loadingscreen_cancel.asset|
 |assets/bundled/prefabs/ui/menu2/_pages/play/_styles/menuui2_serverbrowser_button.asset|
@@ -573,6 +574,7 @@
 |assets/content/properties/deployguidematerials/deploy-guide-good.asset|
 |assets/content/properties/deployguidematerials/deploy-guide-neutral.asset|
 |assets/content/properties/entitylist/alllists/alldoors.asset|
+|assets/content/properties/entitylist/alllists/debris_list.asset|
 |assets/content/properties/entitylist/alllists/wooden.signs_entitylist.asset|
 |assets/content/properties/entitylist/door_deploy_blacklist.asset|
 |assets/content/properties/entitylist/rug_deploy_blacklist.asset|
@@ -2328,6 +2330,7 @@
 |assets/content/properties/recoil/smgrecoil.asset|
 |assets/content/properties/recoil/t1smgrecoil.asset|
 |assets/content/properties/recoil/thompsonrecoil.asset|
+|assets/content/properties/shadows/shadowqualitypresetsconfig.asset|
 |assets/content/properties/skeletons/skeleton.boar.asset|
 |assets/content/properties/skeletons/skeleton.horse.asset|
 |assets/content/properties/skeletons/skeleton.player.asset|
@@ -2485,6 +2488,11 @@
 |assets/content/properties/steamcategories/limited-chinese-newyear-2025-400.steam.asset|
 |assets/content/properties/steamcategories/limited-chinese-newyear-2025-550.steam.asset|
 |assets/content/properties/steamcategories/limited-chinese-newyear-2025-650.steam.asset|
+|assets/content/properties/steamcategories/limited-chinese-newyear-2026-250.steam.asset|
+|assets/content/properties/steamcategories/limited-chinese-newyear-2026-350.steam.asset|
+|assets/content/properties/steamcategories/limited-chinese-newyear-2026-400.steam.asset|
+|assets/content/properties/steamcategories/limited-chinese-newyear-2026-550.steam.asset|
+|assets/content/properties/steamcategories/limited-chinese-newyear-2026-650.steam.asset|
 |assets/content/properties/steamcategories/limited-christmas2015.steam.asset|
 |assets/content/properties/steamcategories/limited-christmas2017.steam.asset|
 |assets/content/properties/steamcategories/limited-christmas2017-cheap.steam.asset|
@@ -3600,6 +3608,7 @@
 |assets/content/sound/instruments/xylobones/xylobones-g6.asset|
 |assets/content/sound/instruments/xylobones/xylobones-mount.asset|
 |assets/content/sound/monuments/monument-event-notifications/monument-event-cargo-ship-spawn-01.asset|
+|assets/content/sound/monuments/monument-event-notifications/monument-event-deep-sea-open-01.asset|
 |assets/content/sound/monuments/monument-event-notifications/monument-event-excavator-start-01.asset|
 |assets/content/sound/monuments/monument-event-notifications/monument-event-oil-rig-reset-01.asset|
 |assets/content/sound/monuments/monumentnotificationsoundconfig.asset|
@@ -4840,6 +4849,7 @@
 |assets/content/ui/fonts/_nonenglish/arabic/notosansarabic-regular sdf.asset|
 |assets/content/ui/fonts/_nonenglish/chinese/notosanscjksc-bold chinese dynamic sdf.asset|
 |assets/content/ui/fonts/_nonenglish/chinese/notosanscjksc-bold chinese sdf.asset|
+|assets/content/ui/fonts/_nonenglish/currencysymbols/unifont-17.asset|
 |assets/content/ui/fonts/_nonenglish/hebrew/notosanshebrew-bold sdf.asset|
 |assets/content/ui/fonts/_nonenglish/japanese/notosanscjksc-bold japanese dynamic sdf.asset|
 |assets/content/ui/fonts/_nonenglish/japanese/notosanscjksc-bold japanese sdf.asset|
@@ -4853,8 +4863,8 @@
 |assets/content/ui/fonts/_robotocondensed/robotocondensed-bold sdf.asset|
 |assets/content/ui/fonts/_robotocondensed/robotocondensed-regular sdf.asset|
 |assets/content/ui/fonts/droidsansmono/droidsansmono sdf.asset|
-|assets/content/ui/fonts/lcd sdf spacegun.asset|
-|assets/content/ui/fonts/lcd sdf.asset|
+|assets/content/ui/fonts/lcd/lcd sdf spacegun.asset|
+|assets/content/ui/fonts/lcd/lcd sdf.asset|
 |assets/content/ui/fonts/localization font fallback settings.asset|
 |assets/content/ui/fonts/localization font generation settings.asset|
 |assets/content/ui/fonts/permanentmarker/permanentmarker sdf.asset|
@@ -4900,7 +4910,6 @@
 |assets/content/ui/gameui/notices/level-up-notice.asset|
 |assets/content/ui/gameui/notices/notice-close.asset|
 |assets/content/ui/gameui/notices/xp-gain-notice.asset|
-|assets/content/ui/menuui/friendslist/friendstyle.asset|
 |assets/content/vehicles/attackhelicopter/sound/attack-helicopter-alarm-lock.asset|
 |assets/content/vehicles/attackhelicopter/sound/attack-helicopter-alarm-radar-warning.asset|
 |assets/content/vehicles/attackhelicopter/sound/attack-helicopter-change-seat.asset|
@@ -6158,6 +6167,7 @@
 |assets/prefabs/deployable/barricades/sound/barricade-sandbags-deploy.asset|
 |assets/prefabs/deployable/barricades/sound/barricade-stone-deploy.asset|
 |assets/prefabs/deployable/barricades/sound/barricade-wood-deploy.asset|
+|assets/prefabs/deployable/bbq/bbq.skinnable.asset|
 |assets/prefabs/deployable/bbq/sound/barbeque-burn-loop.asset|
 |assets/prefabs/deployable/bbq/sound/barbeque-deploy.asset|
 |assets/prefabs/deployable/bbq/sound/barbeque-extinguish.asset|
@@ -6396,6 +6406,22 @@
 |assets/prefabs/deployable/large wood storage/skins/abyss_dlc_large_wood_box/sound/abyss-storage-close.asset|
 |assets/prefabs/deployable/large wood storage/skins/abyss_dlc_large_wood_box/sound/abyss-storage-deploy.asset|
 |assets/prefabs/deployable/large wood storage/skins/abyss_dlc_large_wood_box/sound/abyss-storage-open.asset|
+|assets/prefabs/deployable/large wood storage/skins/component_storage_boxes_dlc/box_ammo/box.wooden.large.component.ammo.skin.asset|
+|assets/prefabs/deployable/large wood storage/skins/component_storage_boxes_dlc/box_armor/box.wooden.large.component.armor.skin.asset|
+|assets/prefabs/deployable/large wood storage/skins/component_storage_boxes_dlc/box_charcoal/box.wooden.large.component.charcoal.skin.asset|
+|assets/prefabs/deployable/large wood storage/skins/component_storage_boxes_dlc/box_clothing/box.wooden.large.component.clothing.skin.asset|
+|assets/prefabs/deployable/large wood storage/skins/component_storage_boxes_dlc/box_comps/box.wooden.large.component.components.skin.asset|
+|assets/prefabs/deployable/large wood storage/skins/component_storage_boxes_dlc/box_explosives/box.wooden.large.component.explosives.skin.asset|
+|assets/prefabs/deployable/large wood storage/skins/component_storage_boxes_dlc/box_food/box.wooden.large.component.food.skin.asset|
+|assets/prefabs/deployable/large wood storage/skins/component_storage_boxes_dlc/box_guns/box.wooden.large.component.guns.skin.asset|
+|assets/prefabs/deployable/large wood storage/skins/component_storage_boxes_dlc/box_meds/box.wooden.large.component.meds.skin.asset|
+|assets/prefabs/deployable/large wood storage/skins/component_storage_boxes_dlc/box_metal/box.wooden.large.component.metal.skin.asset|
+|assets/prefabs/deployable/large wood storage/skins/component_storage_boxes_dlc/box_ore/box.wooden.large.component.ore.skin.asset|
+|assets/prefabs/deployable/large wood storage/skins/component_storage_boxes_dlc/box_scrap/box.wooden.large.component.scrap.skin.asset|
+|assets/prefabs/deployable/large wood storage/skins/component_storage_boxes_dlc/box_stone/box.wooden.large.component.stone.skin.asset|
+|assets/prefabs/deployable/large wood storage/skins/component_storage_boxes_dlc/box_sulfur/box.wooden.large.component.sulfur.skin.asset|
+|assets/prefabs/deployable/large wood storage/skins/component_storage_boxes_dlc/box_tools/box.wooden.large.component.tools.skin.asset|
+|assets/prefabs/deployable/large wood storage/skins/component_storage_boxes_dlc/box_wood/box.wooden.large.component.wood.skin.asset|
 |assets/prefabs/deployable/large wood storage/skins/jungle_dlc_large_wood_box/jungle.dlc.sitem.asset|
 |assets/prefabs/deployable/large wood storage/skins/medieval_large_wood_box/box.wooden.large.medieval.box.wooden.large.skin.asset|
 |assets/prefabs/deployable/large wood storage/skins/medieval_large_wood_box/medieval.pack.sitem.asset|
@@ -6518,6 +6544,7 @@
 |assets/prefabs/deployable/playerioents/generators/sound/small-generator-start.asset|
 |assets/prefabs/deployable/playerioents/generators/sound/small-generator-stop.asset|
 |assets/prefabs/deployable/playerioents/igniter/sound/igniter-sparks-loop.asset|
+|assets/prefabs/deployable/playerioents/industrialadaptors/storageadaptorallowcollisiongroup.asset|
 |assets/prefabs/deployable/playerioents/industrialconveyor/sound/industrial-conveyor-active-loop.asset|
 |assets/prefabs/deployable/playerioents/industrialconveyor/sound/industrial-conveyor-close.asset|
 |assets/prefabs/deployable/playerioents/industrialconveyor/sound/industrial-conveyor-deploy.asset|
@@ -6757,6 +6784,7 @@
 |assets/prefabs/dlc/pack_sitems/artist_pack/artist.pack.dlc.sitem.asset|
 |assets/prefabs/dlc/pack_sitems/balloon_pack/balloon.pack.dlc.sitem.asset|
 |assets/prefabs/dlc/pack_sitems/decor_lighting_pack/decor.lighting.dlc.sitem.asset|
+|assets/prefabs/dlc/pack_sitems/storage_box_pack/storage_box_pack.dlc.sitem.asset|
 |assets/prefabs/food/berries/sound/ui-berries-drop.asset|
 |assets/prefabs/food/berries/sound/ui-berries-pick-up.asset|
 |assets/prefabs/food/bota bag/sound/bota-bag-cork-squeak.asset|
