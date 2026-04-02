@@ -544,6 +544,7 @@
 |assets/bundled/prefabs/fx/invite_notice.prefab|
 |assets/bundled/prefabs/fx/item_break.prefab|
 |assets/bundled/prefabs/fx/item_unlock.prefab|
+|assets/bundled/prefabs/fx/item_unlock_mulit_start.prefab|
 |assets/bundled/prefabs/fx/kill_notify.prefab|
 |assets/bundled/prefabs/fx/missing.prefab|
 |assets/bundled/prefabs/fx/notice/item.select.fx.prefab|
@@ -983,6 +984,9 @@
 |assets/prefabs/building/door.hinged/effects/vault-metal-open-end.prefab|
 |assets/prefabs/building/door.hinged/effects/vault-metal-open-start.prefab|
 |assets/prefabs/building/floor.grill/effects/floor-grill-deploy.prefab|
+|assets/prefabs/building/floor.ladder.hatch.toptier/effects/close.prefab|
+|assets/prefabs/building/floor.ladder.hatch.toptier/effects/deploy.prefab|
+|assets/prefabs/building/floor.ladder.hatch.toptier/effects/open.prefab|
 |assets/prefabs/building/floor.ladder.hatch/effects/door-ladder-hatch-close-end.prefab|
 |assets/prefabs/building/floor.ladder.hatch/effects/door-ladder-hatch-close-start.prefab|
 |assets/prefabs/building/floor.ladder.hatch/effects/door-ladder-hatch-deploy.prefab|
@@ -1180,6 +1184,9 @@
 |assets/prefabs/deployable/wall cabinet/effects/wall-cabinet-deploy.prefab|
 |assets/prefabs/deployable/water catcher/effects/water-catcher-deploy.prefab|
 |assets/prefabs/deployable/water catcher/effects/water-catcher-large-deploy.prefab|
+|assets/prefabs/deployable/water wheel/effects/effects.prefab|
+|assets/prefabs/deployable/water wheel/effects/water-wheel-deploy.prefab|
+|assets/prefabs/deployable/water wheel/effects/water-wheel-deploy-water.prefab|
 |assets/prefabs/deployable/waterpurifier/effects/water-purifier-deploy.prefab|
 |assets/prefabs/deployable/woodenbox/effects/black-box-deploy.prefab|
 |assets/prefabs/deployable/woodenbox/effects/wooden-box-deploy.prefab|
