@@ -50,6 +50,22 @@
 |assets/bundled/prefabs/radtown/sound/vehicle-parts-close.asset|
 |assets/bundled/prefabs/radtown/sound/vehicle-parts-open.asset|
 |assets/bundled/prefabs/ui/dialogs/ioconfig/rustbutton.iotoggle.asset|
+|assets/bundled/prefabs/ui/dialogs/techtree/tech-tree-unlock.asset|
+|assets/bundled/prefabs/ui/dialogs/techtree/tech-tree-unlock-multi-start.asset|
+|assets/bundled/prefabs/ui/engine2/_styles/engineui2_console_autocomplete.asset|
+|assets/bundled/prefabs/ui/engine2/_styles/engineui2_console_autocomplete_dark.asset|
+|assets/bundled/prefabs/ui/engine2/_styles/engineui2_console_autocomplete_hover.asset|
+|assets/bundled/prefabs/ui/engine2/_styles/engineui2_console_commandlist_changed.asset|
+|assets/bundled/prefabs/ui/engine2/_styles/engineui2_console_input.asset|
+|assets/bundled/prefabs/ui/engine2/developertools/copypastes/copypaste_filebutton_line.asset|
+|assets/bundled/prefabs/ui/engine2/developertools/copypastes/copypaste_filebutton_line_even.asset|
+|assets/bundled/prefabs/ui/engine2/developertools/devlists/styles/devlist_button.asset|
+|assets/bundled/prefabs/ui/engine2/developertools/devlists/styles/devlist_button_favouritebutton.asset|
+|assets/bundled/prefabs/ui/engine2/developertools/devlists/styles/devlist_button_givebutton.asset|
+|assets/bundled/prefabs/ui/engine2/developertools/engineui2_devtools_tabbutton.asset|
+|assets/bundled/prefabs/ui/engine2/developertools/serveradmin/serveradmin_playerentry.asset|
+|assets/bundled/prefabs/ui/engine2/developertools/serveradmin/ugc/serveradmin_ugc_stub_expand.asset|
+|assets/bundled/prefabs/ui/engine2/developertools/toggletools/engineui2_toggletools_layer.asset|
 |assets/bundled/prefabs/ui/menu2/_components/header/menuui2_navbar_main_button.asset|
 |assets/bundled/prefabs/ui/menu2/_components/header/menuui2_navbar_optionsbtn_grey.asset|
 |assets/bundled/prefabs/ui/menu2/_components/header/menuui2_navbar_optionsbtn_warning.asset|
@@ -148,6 +164,12 @@
 |assets/content/accessibility/laserdetectormaterials.dot.asset|
 |assets/content/accessibility/laserdetectormaterials.flare.asset|
 |assets/content/accessibility/laserdetectormaterials.laser.asset|
+|assets/content/accessibility/messagecards.asset|
+|assets/content/accessibility/messageclan.asset|
+|assets/content/accessibility/messagediscord.asset|
+|assets/content/accessibility/messageglobal.asset|
+|assets/content/accessibility/messagelocal.asset|
+|assets/content/accessibility/messageteam.asset|
 |assets/content/accessibility/mushroommaterials.asset|
 |assets/content/accessibility/nametagally.asset|
 |assets/content/accessibility/nametagclan.asset|
@@ -207,6 +229,7 @@
 |assets/content/nature/terrain/config/terrain4.asset|
 |assets/content/nature/terrain/config/terrain4-hapis.asset|
 |assets/content/nature/terrain/config/terrain4-tropical.asset|
+|assets/content/nature/treesprefabs/trees/minigame/treehotspoteffectconfig.asset|
 |assets/content/nature/treesprefabs/trees/sound/tree_spray.asset|
 |assets/content/nature/treesprefabs/trees/sound/tree-bonus-damage.asset|
 |assets/content/nature/treesprefabs/trees/sound/tree-crack-med.asset|
@@ -2187,6 +2210,7 @@
 |assets/content/properties/protection/deployablelighting.asset|
 |assets/content/properties/protection/deployablemetal.asset|
 |assets/content/properties/protection/deployablepinata.asset|
+|assets/content/properties/protection/deployablewaterwheel.asset|
 |assets/content/properties/protection/deployablewindmill.asset|
 |assets/content/properties/protection/deployablewood.asset|
 |assets/content/properties/protection/deployableworkbenchmetal.asset|
@@ -2662,8 +2686,15 @@
 |assets/content/props/strobe light/strobelight.sitem.asset|
 |assets/content/props/train_tunnels/barricade-damage.asset|
 |assets/content/renderpipelinesettings/defaultrustrenderer.asset|
+|assets/content/renderpipelinesettings/playerpreviewrenderer.asset|
+|assets/content/renderpipelinesettings/rendererfeatures/atmosphererendererfeature.asset|
 |assets/content/renderpipelinesettings/rendererfeatures/decalsrendererfeature.asset|
+|assets/content/renderpipelinesettings/rendererfeatures/postopaquedepthfeature.asset|
+|assets/content/renderpipelinesettings/rendererfeatures/postsubsurfacefeature.asset|
 |assets/content/renderpipelinesettings/rendererfeatures/spatialenvironmentvolumerendererfeature.asset|
+|assets/content/renderpipelinesettings/rendererfeatures/volumetriccloudsfeature.asset|
+|assets/content/renderpipelinesettings/rendererfeatures/volumetricfogfeature.asset|
+|assets/content/renderpipelinesettings/rendererfeatures/waterrendererfeature.asset|
 |assets/content/renderpipelinesettings/rustrenderpipelineasset.asset|
 |assets/content/shaders/subsurfaceprofiles/ssp_skindefault.asset|
 |assets/content/sound/ambience/ambience-none.ambience-def.asset|
@@ -3612,7 +3643,6 @@
 |assets/content/sound/monuments/monument-event-notifications/monument-event-deep-sea-open-01.asset|
 |assets/content/sound/monuments/monument-event-notifications/monument-event-excavator-start-01.asset|
 |assets/content/sound/monuments/monument-event-notifications/monument-event-oil-rig-reset-01.asset|
-|assets/content/sound/monuments/monumentnotificationsoundconfig.asset|
 |assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-ambience-base.ambience-def.asset|
 |assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-ambience-base.ambience-list.asset|
 |assets/content/sound/monuments/nuclearmissilesilo/nuclear-missile-silo-ambience-base-loop.asset|
@@ -4871,8 +4901,9 @@
 |assets/content/ui/fonts/permanentmarker/permanentmarker sdf.asset|
 |assets/content/ui/fonts/poxel/poxel sdf.asset|
 |assets/content/ui/fonts/pressstart2p/pressstart2p-regular sdf.asset|
+|assets/content/ui/fonts/robotomono/robotomono sdf.asset|
+|assets/content/ui/fonts/robotomono/robotomono-bold sdf.asset|
 |assets/content/ui/fonts/robotomono/robotomono-regular sdf noztest.asset|
-|assets/content/ui/fonts/robotomono/robotomono-regular sdf.asset|
 |assets/content/ui/fonts/superchiby/super chiby sdf.asset|
 |assets/content/ui/gameui/achievements/item-complete.asset|
 |assets/content/ui/gameui/achievements/list-complete.asset|
@@ -5664,6 +5695,7 @@
 |assets/content/vehicles/trains/workcart/sound/workcart-turn-loop.asset|
 |assets/content/vehicles/trains/workcart/sound/workcart-unloadable-end.asset|
 |assets/content/vehicles/trains/workcart/sound/workcart-unloadable-start.asset|
+|assets/content/viewmodel/defaultviewmodelclearvaluesconfig.asset|
 |assets/content/workshop/items/book.accident.sitem.asset|
 |assets/content/workshop/items/crates/bag.high.sitem.asset|
 |assets/content/workshop/items/crates/bag.low.sitem.asset|
@@ -5820,6 +5852,7 @@
 |assets/content/workshop/skin/unknown/rasta beenie/skin.beenie.rastabeenie.itemskin.asset|
 |assets/content/workshop/skin/unknown/rorschach skull/skin.balaclava.rorschachskull.itemskin.asset|
 |assets/content/workshop/skin/unknown/rorschach skull/skull.meta.asset|
+|assets/content/world/worldnotificationconfig.asset|
 |assets/editor/rust/icongeneratormanifest.asset|
 |assets/editor/rust/terraintomeshutilityconfig.asset|
 |assets/editor/rust/tools/fsm/testfsm.asset|
@@ -5939,6 +5972,11 @@
 |assets/prefabs/building/door.hinged/sound/metal-door-deploy.asset|
 |assets/prefabs/building/door.hinged/sound/wood-door-deploy.asset|
 |assets/prefabs/building/floor.grill/sound/floor-grill-deploy.asset|
+|assets/prefabs/building/floor.ladder.hatch.toptier/sounds/armored-ladder-hatch-close.asset|
+|assets/prefabs/building/floor.ladder.hatch.toptier/sounds/armored-ladder-hatch-deploy.asset|
+|assets/prefabs/building/floor.ladder.hatch.toptier/sounds/armored-ladder-hatch-open.asset|
+|assets/prefabs/building/floor.ladder.hatch.toptier/sounds/armored-ladder-hatch-ui-drop.asset|
+|assets/prefabs/building/floor.ladder.hatch.toptier/sounds/armored-ladder-hatch-ui-grab.asset|
 |assets/prefabs/building/floor.ladder.hatch/sound/ladder-hatch-deploy.asset|
 |assets/prefabs/building/gates.external.high.adobe/gates.external.high.adobe.sitem.asset|
 |assets/prefabs/building/gates.external.high.legacy/gates.external.high.frontier.sitem.asset|
@@ -6768,6 +6806,20 @@
 |assets/prefabs/deployable/water catcher/water catcher collection rates.asset|
 |assets/prefabs/deployable/water well/sound/pump_down.asset|
 |assets/prefabs/deployable/water well/sound/pump_up.asset|
+|assets/prefabs/deployable/water wheel/sounds/water-wheel-deploy.asset|
+|assets/prefabs/deployable/water wheel/sounds/water-wheel-deploy-water.asset|
+|assets/prefabs/deployable/water wheel/sounds/water-wheel-dismount.asset|
+|assets/prefabs/deployable/water wheel/sounds/water-wheel-loop.asset|
+|assets/prefabs/deployable/water wheel/sounds/water-wheel-loop-end.asset|
+|assets/prefabs/deployable/water wheel/sounds/water-wheel-loop-start.asset|
+|assets/prefabs/deployable/water wheel/sounds/water-wheel-mount.asset|
+|assets/prefabs/deployable/water wheel/sounds/water-wheel-movement-accent.asset|
+|assets/prefabs/deployable/water wheel/sounds/water-wheel-ui-drop.asset|
+|assets/prefabs/deployable/water wheel/sounds/water-wheel-ui-pickup.asset|
+|assets/prefabs/deployable/water wheel/sounds/water-wheel-water-loop.asset|
+|assets/prefabs/deployable/water wheel/temp manual water wheel splashing sounds.asset|
+|assets/prefabs/deployable/water wheel/temp water wheel creaking sounds.asset|
+|assets/prefabs/deployable/water wheel/temp water wheel splashing sounds.asset|
 |assets/prefabs/deployable/waterpurifier/sound/water-purifier-deploy.asset|
 |assets/prefabs/deployable/waterpurifier/waterpurifier.deployed.skinnable.asset|
 |assets/prefabs/deployable/waterpurifier/water-purifier-bubbles-loop.asset|
@@ -6865,6 +6917,7 @@
 |assets/prefabs/instruments/trumpet/trumpet.weapon.asset|
 |assets/prefabs/instruments/tuba/tuba.weapon.asset|
 |assets/prefabs/instruments/xylophone/xylophone.deployed.asset|
+|assets/prefabs/io/electric/switches/pressbutton/main button color settings.asset|
 |assets/prefabs/locks/keypad/lock.code.skinnable.asset|
 |assets/prefabs/locks/keypad/skins/codelock_a_pilot/lock.code.a.pilot.skin.asset|
 |assets/prefabs/locks/keypad/sound/lock-code-denied.asset|
@@ -6993,6 +7046,10 @@
 |assets/prefabs/misc/decor_dlc/wantedposter/wantedposter.skinnable.asset|
 |assets/prefabs/misc/easter/bunny_hat/bunnyhat.sitem.asset|
 |assets/prefabs/misc/easter/bunny_hat/sbmat_bunnyhat_ears.asset|
+|assets/prefabs/misc/easter/bunnysuit/bunny.costume.sitem.asset|
+|assets/prefabs/misc/easter/bunnysuit/cloth.bunnycostume.asset|
+|assets/prefabs/misc/easter/bunnysuit/cloth.bunnycostumehat.asset|
+|assets/prefabs/misc/easter/bunnysuit/skeleton.bunny_suit.asset|
 |assets/prefabs/misc/easter/chickencostume/chicken.costume.sitem.asset|
 |assets/prefabs/misc/easter/chickencostume/chickencostume.skeleton.asset|
 |assets/prefabs/misc/easter/chickencostume/sound/chicken-costume-footstep-accent.asset|
@@ -7016,6 +7073,7 @@
 |assets/prefabs/misc/easter/faberge_egg_e/rustige_egg_e.sitem.asset|
 |assets/prefabs/misc/easter/faberge_egg_f/rustige_egg_f.sitem.asset|
 |assets/prefabs/misc/easter/faberge_egg_g/rustige_egg_g.sitem.asset|
+|assets/prefabs/misc/easter/faberge_egg_h/rustige_egg_h.sitem.asset|
 |assets/prefabs/misc/easter/horsecostume/cloth.horsecostume.asset|
 |assets/prefabs/misc/easter/horsecostume/cloth.horsecostume.skinviewer.asset|
 |assets/prefabs/misc/easter/horsecostume/horse.costume.sitem.asset|
@@ -7034,6 +7092,7 @@
 |assets/prefabs/misc/easter/sound/music-box-classic-loop.asset|
 |assets/prefabs/misc/easter/sound/music-box-descent-loop.asset|
 |assets/prefabs/misc/easter/sound/music-box-dust-loop.asset|
+|assets/prefabs/misc/easter/sound/music-box-excavator-loop.asset|
 |assets/prefabs/misc/easter/sound/music-box-oil-rig-loop.asset|
 |assets/prefabs/misc/easter/sound/music-box-trains-loop.asset|
 |assets/prefabs/misc/easter/sound/music-box-underwater-loop.asset|
@@ -7784,6 +7843,7 @@
 |assets/prefabs/player/player_skeleton.asset|
 |assets/prefabs/resource/natural beehive/materials/beehive sss.asset|
 |assets/prefabs/resource/natural beehive/materials/honey sss.asset|
+|assets/prefabs/resource/resourcegatheritemconfig.asset|
 |assets/prefabs/tea/sound/tea-sip.asset|
 |assets/prefabs/tea/sound/ui-tea-drop.asset|
 |assets/prefabs/tea/sound/ui-tea-pick-up.asset|
@@ -8083,6 +8143,9 @@
 |assets/prefabs/wallpaper/skins/2025-12_xmas/skin_assets/ceilingpaper.xmas.plaster.moulded.skin.asset|
 |assets/prefabs/wallpaper/skins/2025-12_xmas/skin_assets/floorpaper.xmas.tiles.a.skin.asset|
 |assets/prefabs/wallpaper/skins/2025-12_xmas/skin_assets/wallpaper.assorted.giftwrap.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-04_easter/skin_assets/floorpaper.grass.easter.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-04_easter/skin_assets/wallpaper.easter.eggs.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-04_easter/skin_assets/wallpaper.rattan.wicker.skin.asset|
 |assets/prefabs/wallpaper/sound/wallpaper-deploy.asset|
 |assets/prefabs/wallpaper/sound/wallpaper-place.asset|
 |assets/prefabs/wallpaper/sound/wallpaper-place-viewmodel.asset|
@@ -8759,6 +8822,7 @@
 |assets/prefabs/weapons/rocketlauncher/sound/rocket-launcher-reload-open-hatch.asset|
 |assets/prefabs/weapons/rocketlauncher/sound/rocket-launcher-reload-start.asset|
 |assets/prefabs/weapons/rocketlauncher/sound/rocket-launcher-rocket-hv-explosion.asset|
+|assets/prefabs/weapons/salvaged_axe/axe.salvaged.skinnable.asset|
 |assets/prefabs/weapons/salvaged_axe/sound/salvaged-axe-attack.asset|
 |assets/prefabs/weapons/salvaged_axe/sound/salvaged-axe-attack-3p.asset|
 |assets/prefabs/weapons/salvaged_axe/sound/salvaged-axe-deploy.asset|
