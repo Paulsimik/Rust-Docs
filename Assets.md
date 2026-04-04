@@ -2558,6 +2558,11 @@
 |assets/content/properties/steamcategories/limited-easter-2025.150.steam.asset|
 |assets/content/properties/steamcategories/limited-easter-2025.350.steam.asset|
 |assets/content/properties/steamcategories/limited-easter-2025.800.steam.asset|
+|assets/content/properties/steamcategories/limited-easter-2026.1000.steam.asset|
+|assets/content/properties/steamcategories/limited-easter-2026.150.steam.asset|
+|assets/content/properties/steamcategories/limited-easter-2026.300.steam.asset|
+|assets/content/properties/steamcategories/limited-easter-2026.350.steam.asset|
+|assets/content/properties/steamcategories/limited-easter-2026.800.steam.asset|
 |assets/content/properties/steamcategories/limited-halloween2015.steam.asset|
 |assets/content/properties/steamcategories/limited-halloween2017.steam.asset|
 |assets/content/properties/steamcategories/limited-halloween2018.steam.asset|
@@ -6814,6 +6819,7 @@
 |assets/prefabs/deployable/water wheel/sounds/water-wheel-loop-start.asset|
 |assets/prefabs/deployable/water wheel/sounds/water-wheel-mount.asset|
 |assets/prefabs/deployable/water wheel/sounds/water-wheel-movement-accent.asset|
+|assets/prefabs/deployable/water wheel/sounds/water-wheel-pushing-particle-loop.asset|
 |assets/prefabs/deployable/water wheel/sounds/water-wheel-ui-drop.asset|
 |assets/prefabs/deployable/water wheel/sounds/water-wheel-ui-pickup.asset|
 |assets/prefabs/deployable/water wheel/sounds/water-wheel-water-loop.asset|
