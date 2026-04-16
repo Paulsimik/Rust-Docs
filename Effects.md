@@ -677,6 +677,8 @@
 |assets/content/effects/explosions/explosion/prefebs/explosion_7.prefab|
 |assets/content/effects/explosions/explosion/prefebs/explosion_8.prefab|
 |assets/content/effects/explosions/fx orientator.prefab|
+|assets/content/effects/explosions/nukedistant/nukedistant.prefab|
+|assets/content/effects/explosions/nukedistant/nukedistant_unscaled.prefab|
 |assets/content/effects/explosions/tests/fire/pfx_campfire.prefab|
 |assets/content/effects/explosions/tests/rfo debug particle.prefab|
 |assets/content/effects/explosions/underwater/explosion_underwater_large.prefab|
