@@ -365,6 +365,7 @@
 |cineflag_L|1760473991|CinematicEntity<br>|assets/bundled/prefabs/modding/cinematic/flags/cineflag_l.prefab|
 |cineflag_M|2859730042|CinematicEntity<br>|assets/bundled/prefabs/modding/cinematic/flags/cineflag_m.prefab|
 |cineflag_S|1094548865|CinematicEntity<br>|assets/bundled/prefabs/modding/cinematic/flags/cineflag_s.prefab|
+|mlrs.entity_bare|3809937682|MLRS<br>BaseCombatEntity<br>Spawnable<br>Model<br>|assets/bundled/prefabs/modding/events/nut/mlrs.entity_bare.prefab|
 |br_sphere|2637346832|SphereEntity<br>|assets/bundled/prefabs/modding/events/twitch/br_sphere.prefab|
 |br_sphere_green|3453089031|SphereEntity<br>|assets/bundled/prefabs/modding/events/twitch/br_sphere_green.prefab|
 |br_sphere_purple|1440656070|SphereEntity<br>|assets/bundled/prefabs/modding/events/twitch/br_sphere_purple.prefab|
@@ -393,6 +394,7 @@
 |invisible_foodbox|3009986025|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/modding/lootables/invisible/invisible_lootable_prefabs/invisible_foodbox.prefab|
 |invisible_vehicle_parts|2291464081|Spawnable<br>LootContainer<br>BaseCombatEntity<br>DecayEntity<br>BoxCollider<br>|assets/bundled/prefabs/modding/lootables/invisible/invisible_lootable_prefabs/invisible_vehicle_parts.prefab|
 |loud.phonebooth.static|1581043470|Telephone<br>BaseCombatEntity<br>DecayEntity<br>IOEntity<br>PhoneController<br>MeshCollider<br>|assets/bundled/prefabs/modding/prefabs_static/loud.phonebooth.static.prefab|
+|AirRaidSound|2051117882|BaseEntity<br>|assets/bundled/prefabs/modding/sound/air raid/airraidsound.prefab|
 |TumblingBoulder.entity|995822742|PhysicsTumblingEntity<br>Rigidbody<br>EntityCollisionMessage<br>|assets/bundled/prefabs/modding/tumblingphysicsobjects/tumblingboulder.entity.prefab|
 |TumblingChassis.entity|4009911629|PhysicsTumblingEntity<br>Rigidbody<br>MagnetLiftable<br>EntityCollisionMessage<br>|assets/bundled/prefabs/modding/tumblingphysicsobjects/tumblingchassis.entity.prefab|
 |napalm|184893264|FireBall<br>Rigidbody<br>BoxCollider<br>|assets/bundled/prefabs/napalm.prefab|
