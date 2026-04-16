@@ -35,6 +35,7 @@
 |assets/bundled/prefabs/deepsea/islands/sounds/wind/deepsea-island-windy-loop.asset|
 |assets/bundled/prefabs/deepsea/sound/deepsea-wipe-alarm.asset|
 |assets/bundled/prefabs/deepsea/sound/deepsea-wipe-alarm-loop.asset|
+|assets/bundled/prefabs/modding/sound/air-raid-sound.asset|
 |assets/bundled/prefabs/radtown/sound/crate-ammunition-close.asset|
 |assets/bundled/prefabs/radtown/sound/crate-ammunition-open.asset|
 |assets/bundled/prefabs/radtown/sound/crate-food-close.asset|
