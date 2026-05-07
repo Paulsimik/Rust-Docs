@@ -1111,6 +1111,11 @@
 |assets/prefabs/deployable/modular car lift/effects/modular-car-lift-deploy.prefab|
 |assets/prefabs/deployable/modular car lift/effects/modular-car-lift-destroy.prefab|
 |assets/prefabs/deployable/modular car lift/effects/modular-car-lift-repair.prefab|
+|assets/prefabs/deployable/mortar/effects/attackmortarbaserot.prefab|
+|assets/prefabs/deployable/mortar/effects/attackmuzzle.prefab|
+|assets/prefabs/deployable/mortar/effects/mortar_explosion_frag.prefab|
+|assets/prefabs/deployable/mortar/effects/mortar_explosion_he.prefab|
+|assets/prefabs/deployable/mortar/effects/mortar-deploy.prefab|
 |assets/prefabs/deployable/oil refinery/effects/oil-refinery-deploy.prefab|
 |assets/prefabs/deployable/plant pots/effects/plant-pot-deploy.prefab|
 |assets/prefabs/deployable/planters/effects/planter-deploy.prefab|
@@ -1437,6 +1442,7 @@
 |assets/prefabs/npc/travelling vendor/effects/vendor truck lighting.prefab|
 |assets/prefabs/npc/travelling vendor/effects/vendor turret laser pointer.prefab|
 |assets/prefabs/tools/binoculars/effects/deploy.prefab|
+|assets/prefabs/tools/binoculars/effects/deploy_end.prefab|
 |assets/prefabs/tools/c4/effects/c4_explosion.prefab|
 |assets/prefabs/tools/c4/effects/c4_stick.prefab|
 |assets/prefabs/tools/c4/effects/deploy.prefab|
@@ -1633,13 +1639,20 @@
 |assets/prefabs/weapons/chainsaw/effects/ignition.prefab|
 |assets/prefabs/weapons/chainsaw/effects/strike.prefab|
 |assets/prefabs/weapons/chainsaw/effects/unscrew-cap.prefab|
+|assets/prefabs/weapons/cleaver big/effects/admire-end.prefab|
+|assets/prefabs/weapons/cleaver big/effects/admire-shake.prefab|
+|assets/prefabs/weapons/cleaver big/effects/admire-start.prefab|
+|assets/prefabs/weapons/cleaver big/effects/admire-touch.prefab|
 |assets/prefabs/weapons/cleaver big/effects/attack-1.prefab|
 |assets/prefabs/weapons/cleaver big/effects/attack-2.prefab|
 |assets/prefabs/weapons/cleaver big/effects/attack-3.prefab|
 |assets/prefabs/weapons/cleaver big/effects/deploy.prefab|
 |assets/prefabs/weapons/cleaver big/effects/hit.prefab|
 |assets/prefabs/weapons/cleaver big/effects/hit-soft.prefab|
+|assets/prefabs/weapons/cleaver big/effects/swing-grab.prefab|
 |assets/prefabs/weapons/cleaver big/effects/throw.prefab|
+|assets/prefabs/weapons/cleaver big/effects/throw-cancel.prefab|
+|assets/prefabs/weapons/cleaver big/effects/throw-prepare.prefab|
 |assets/prefabs/weapons/compound bow/effects/attack.prefab|
 |assets/prefabs/weapons/compound bow/effects/deploy.prefab|
 |assets/prefabs/weapons/compound bow/effects/draw_cancel.prefab|
