@@ -1651,7 +1651,7 @@
 |HexagonTile_Yellow.entity|2266932968|HexagonTile<br>|assets/prefabs/misc/twitch/hex-a-gone/hexagontile_yellow.entity.prefab|
 |hobobarrel.deployed|1748062128|BaseOven<br>BaseCombatEntity<br>DecayEntity<br>GroundWatch<br>DestroyOnGroundMissing<br>EntityFlag_Toggle<br>Model<br>MeshCollider<br>|assets/prefabs/misc/twitch/hobobarrel/hobobarrel.deployed.prefab|
 |door.hinged.industrial.a|358326125|Door<br>BaseCombatEntity<br>DecayEntity<br>StabilityEntity<br>Model<br>|assets/prefabs/misc/twitch/industrialdoora/door.hinged.industrial.a.prefab|
-|twitchrivals2023_desk.ioEnt|1957369594|SimpleLight<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/misc/twitch/twitch_rivals_2023_desk/twitchrivals2023_desk.ioent.prefab|
+|twitchrivals2023_desk.ioEnt|1957369594|ComputerStationIO<br>BaseCombatEntity<br>DecayEntity<br>|assets/prefabs/misc/twitch/twitch_rivals_2023_desk/twitchrivals2023_desk.ioent.prefab|
 |twitchrivals2023_desk|379322905|ComputerStation<br>BaseCombatEntity<br>Model<br>GroundWatch<br>DestroyOnGroundMissing<br>|assets/prefabs/misc/twitch/twitch_rivals_2023_desk/twitchrivals2023_desk.prefab|
 |UnderwaterLab_Dwelling_300_Corner_A|573313214|NPCDwelling<br>|assets/prefabs/misc/underwaterlabsdwelling/underwaterlab_dwelling_300_corner_a.prefab|
 |UnderwaterLab_Dwelling_300_Corner_B|452830878|NPCDwelling<br>|assets/prefabs/misc/underwaterlabsdwelling/underwaterlab_dwelling_300_corner_b.prefab|
