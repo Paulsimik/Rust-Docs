@@ -9568,7 +9568,7 @@
 |assets/third party/fimpossible creations/plugins - animating/legs animator/presets directory/leg custom module presets/utility_parameters_unglue on - ismoving.asset|
 |assets/third party/fimpossible creations/plugins - animating/legs animator/presets directory/leg custom module presets/utility_redirect raycasting.asset|
 |assets/third party/fimpossible creations/plugins - animating/legs animator/presets directory/leg custom module presets/utility_step further with velocity.asset|
-|assets/third party/hotreload/resources/hotreloadsettingsobject.asset|
+|assets/third party/hotreload/resources/editor/hotreloadsettingsobject.asset|
 |assets/third party/volumetriclightbeam/resources/config.asset|
 |assets/workshop/rustslider.workshopblue.asset|
 |assets/workshop/rustslider.workshopcutoff.asset|
