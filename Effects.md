@@ -1087,6 +1087,7 @@
 |assets/prefabs/deployable/frankensteintable/effects/mixingtable.enabled.vfx.prefab|
 |assets/prefabs/deployable/fridge/effects/fridge-deploy.prefab|
 |assets/prefabs/deployable/furnace.large/effects/enabled.prefab|
+|assets/prefabs/deployable/furnace.large/skins/industrial_large_furnace/effects/industrial-furnace-large-deploy.prefab|
 |assets/prefabs/deployable/furnace/effects/furnace-deploy.prefab|
 |assets/prefabs/deployable/hopper/effects/hopper_bloodspurt.prefab|
 |assets/prefabs/deployable/hopper/effects/human corpse ingestion.prefab|
@@ -1094,6 +1095,7 @@
 |assets/prefabs/deployable/lantern/effects/lantern-deploy.prefab|
 |assets/prefabs/deployable/large wood storage/effects/large-wood-box-deploy.prefab|
 |assets/prefabs/deployable/large wood storage/skins/abyss_dlc_large_wood_box/effects/abyss-storage-deploy.prefab|
+|assets/prefabs/deployable/large wood storage/skins/industrial_dlc/effects/industrial-storage-deploy.prefab|
 |assets/prefabs/deployable/large wood storage/skins/warhammer_dlc_large_wood_box/krieg_storage_horizontal/effects/krieg-box-storage-deploy.prefab|
 |assets/prefabs/deployable/large wood storage/skins/warhammer_dlc_large_wood_box/krieg_storage_vertical/effects/krieg-barrel-storage-deploy.prefab|
 |assets/prefabs/deployable/legacyfurnace/effects/small_furnace_particles.prefab|
@@ -1123,6 +1125,7 @@
 |assets/prefabs/deployable/playerioents/detectors/hbhfsensor/effects/detect_up.prefab|
 |assets/prefabs/deployable/playerioents/detectors/tincanalarm/effects/tin-can-alarm-deploy.prefab|
 |assets/prefabs/deployable/playerioents/electricfurnace/effects/electric-furnace-deploy.prefab|
+|assets/prefabs/deployable/playerioents/electricfurnace/skins/industrial_electric_furnace/effects/industrial-electric-furnace-deploy.prefab|
 |assets/prefabs/deployable/playerioents/industrialadaptors/effects/event lights.prefab|
 |assets/prefabs/deployable/playerioents/industrialconveyor/effects/event lights.prefab|
 |assets/prefabs/deployable/playerioents/industrialconveyor/effects/industrial-conveyor-deploy.prefab|
@@ -1407,6 +1410,10 @@
 |assets/prefabs/npc/autoturret/effects/reload.prefab|
 |assets/prefabs/npc/autoturret/effects/targetacquired.prefab|
 |assets/prefabs/npc/autoturret/effects/targetlost.prefab|
+|assets/prefabs/npc/autoturret/skins/industrial_autoturret/effects/industrial-auto-turret-deploy.prefab|
+|assets/prefabs/npc/autoturret/skins/industrial_autoturret/effects/industrial-auto-turret-offline.prefab|
+|assets/prefabs/npc/autoturret/skins/industrial_autoturret/effects/industrial-auto-turret-online.prefab|
+|assets/prefabs/npc/autoturret/skins/industrial_autoturret/effects/industrial-auto-turret-reload.prefab|
 |assets/prefabs/npc/ch47/effects/crashfire.prefab|
 |assets/prefabs/npc/ch47/effects/metaldebris.prefab|
 |assets/prefabs/npc/ch47/effects/metaldebris-2.prefab|
@@ -1663,6 +1670,19 @@
 |assets/prefabs/weapons/crossbow/effects/deploy.prefab|
 |assets/prefabs/weapons/crossbow/effects/dryfire.prefab|
 |assets/prefabs/weapons/crossbow/effects/reload.prefab|
+|assets/prefabs/weapons/crossbow/skins/bowless/effects/admire-move-1.prefab|
+|assets/prefabs/weapons/crossbow/skins/bowless/effects/admire-move-2.prefab|
+|assets/prefabs/weapons/crossbow/skins/bowless/effects/admire-move-3.prefab|
+|assets/prefabs/weapons/crossbow/skins/bowless/effects/admire-move-4.prefab|
+|assets/prefabs/weapons/crossbow/skins/bowless/effects/admire-move-5.prefab|
+|assets/prefabs/weapons/crossbow/skins/bowless/effects/attack.prefab|
+|assets/prefabs/weapons/crossbow/skins/bowless/effects/deploy.prefab|
+|assets/prefabs/weapons/crossbow/skins/bowless/effects/deploy-loaded.prefab|
+|assets/prefabs/weapons/crossbow/skins/bowless/effects/deploy-loaded-grab.prefab|
+|assets/prefabs/weapons/crossbow/skins/bowless/effects/dryfire.prefab|
+|assets/prefabs/weapons/crossbow/skins/bowless/effects/reload.prefab|
+|assets/prefabs/weapons/crossbow/skins/bowless/effects/reload-arrow.prefab|
+|assets/prefabs/weapons/crossbow/skins/bowless/effects/reload-click.prefab|
 |assets/prefabs/weapons/deployablesiegeexplosives/effects/explosion canister deployed.prefab|
 |assets/prefabs/weapons/deployablesiegeexplosives/effects/explosion flame deployed.prefab|
 |assets/prefabs/weapons/deployablesiegeexplosives/effects/gas tank damage.prefab|
@@ -1921,6 +1941,10 @@
 |assets/prefabs/weapons/lr300/skins/space/effects/pfx_clip_out_smoke.prefab|
 |assets/prefabs/weapons/lr300/skins/space/effects/w_drop_magazine.prefab|
 |assets/prefabs/weapons/lr300/skins/space/effects/w_eject_rifle_shell.prefab|
+|assets/prefabs/weapons/m16a2/effects/m16-attack.prefab|
+|assets/prefabs/weapons/m16a2/effects/m16-attack_muzzlebrake.prefab|
+|assets/prefabs/weapons/m16a2/effects/m16-attack_silenced.prefab|
+|assets/prefabs/weapons/m16a2/effects/m16-dryfire.prefab|
 |assets/prefabs/weapons/m249/effects/ammobox_insert.prefab|
 |assets/prefabs/weapons/m249/effects/ammobox_remove.prefab|
 |assets/prefabs/weapons/m249/effects/attack.prefab|
@@ -2389,6 +2413,8 @@
 |assets/prefabs/weapons/torch/effects/strike.prefab|
 |assets/prefabs/weapons/torch/effects/strike_screenshake.prefab|
 |assets/prefabs/weapons/torch/effects/torch_loop.prefab|
+|assets/prefabs/weapons/torch/skins/industrial_torch/effects/attack.prefab|
+|assets/prefabs/weapons/torch/skins/industrial_torch/effects/strike.prefab|
 |assets/prefabs/weapons/warhammer/krieg chainsword/effects/deploy.prefab|
 |assets/prefabs/weapons/warhammer/krieg shotgun/effects/attack.prefab|
 |assets/prefabs/weapons/warhammer/krieg shotgun/effects/attack_muzzlebrake.prefab|
