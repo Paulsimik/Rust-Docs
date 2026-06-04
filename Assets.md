@@ -187,6 +187,8 @@
 |assets/content/accessibility/treemarkerdecalcollection.asset|
 |assets/content/building/parts/m_boat_wood/m_boat_door_colliders.asset|
 |assets/content/building/parts/shipping_container/shippingcontainercolourlookup.asset|
+|assets/content/config/entitycolourswaplookup.asset|
+|assets/content/developer/drawcollidersconfig.asset|
 |assets/content/image effects/postfx_volumes/building_exposure.asset|
 |assets/content/image effects/postfx_volumes/candyworld.asset|
 |assets/content/image effects/postfx_volumes/cctv.asset|
@@ -213,6 +215,7 @@
 |assets/content/image effects/postfx_volumes/main_underwater_lab.asset|
 |assets/content/image effects/postfx_volumes/nightlight.asset|
 |assets/content/image effects/postfx_volumes/nvg.asset|
+|assets/content/image effects/postfx_volumes/player_preview.asset|
 |assets/content/image effects/postfx_volumes/radiation.asset|
 |assets/content/image effects/postfx_volumes/screen_blur.asset|
 |assets/content/image effects/postfx_volumes/screen_blur_heavy.asset|
@@ -455,112 +458,80 @@
 |assets/content/nexus/ferry/sound/nexus-ferry-engine-stop.asset|
 |assets/content/nexus/ferry/sound/nexus-ferry-idle-ambience.asset|
 |assets/content/nexus/ferry/sound/nexus-ferry-water-movement-loop.asset|
-|assets/content/player/clothing/hair/armpit/player.hair.female.armpit01.asset|
-|assets/content/player/clothing/hair/armpit/player.hair.male.armpit01.asset|
-|assets/content/player/clothing/hair/eyebrow/player.hair.female.eyebrow01.asset|
-|assets/content/player/clothing/hair/eyebrow/player.hair.female.eyebrow01dark.asset|
-|assets/content/player/clothing/hair/eyebrow/player.hair.male.eyebrow01.asset|
-|assets/content/player/clothing/hair/eyebrow/player.hair.male.eyebrow01dark.asset|
-|assets/content/player/clothing/hair/facial/player.hair.female.facial00.asset|
-|assets/content/player/clothing/hair/facial/player.hair.male.facial00.asset|
-|assets/content/player/clothing/hair/facial/player.hair.male.facial01.asset|
-|assets/content/player/clothing/hair/facial/player.hair.male.facial02.asset|
-|assets/content/player/clothing/hair/facial/player.hair.male.facial03.asset|
-|assets/content/player/clothing/hair/facial/player.hair.male.facial04.asset|
-|assets/content/player/clothing/hair/head/player.hair.female.head01.asset|
-|assets/content/player/clothing/hair/head/player.hair.female.head02.asset|
-|assets/content/player/clothing/hair/head/player.hair.female.head03.asset|
-|assets/content/player/clothing/hair/head/player.hair.female.head05.asset|
-|assets/content/player/clothing/hair/head/player.hair.male.head01.asset|
-|assets/content/player/clothing/hair/head/player.hair.male.head02.asset|
-|assets/content/player/clothing/hair/head/player.hair.male.head03.asset|
-|assets/content/player/clothing/hair/head/player.hair.male.head04.asset|
-|assets/content/player/clothing/hair/head/player.hair.male.head05.asset|
-|assets/content/player/clothing/hair/player.hairset.female.asian.asset|
+|assets/content/player/clothing/hair/bald/player.dyeset.head.bald.asset|
+|assets/content/player/clothing/hair/beards/midscruffy/player.hairset.midscruffy.asset|
+|assets/content/player/clothing/hair/beards/shortscruffy/player.dyeset.beardshortscruffy.dark.asset|
+|assets/content/player/clothing/hair/beards/shortscruffy/player.dyeset.beardshortscruffy.light.asset|
+|assets/content/player/clothing/hair/beards/shortscruffy/player.hairset.shortscruffy.asset|
+|assets/content/player/clothing/hair/body/player.dyeset.bodyhair.dark.asset|
+|assets/content/player/clothing/hair/body/player.dyeset.bodyhair.light.asset|
+|assets/content/player/clothing/hair/body/player.hairset.body.legs.asset|
+|assets/content/player/clothing/hair/buzzcut/player.dyeset.head.buzzcut.dark.asset|
+|assets/content/player/clothing/hair/buzzcut/player.dyeset.head.buzzcut.light.asset|
+|assets/content/player/clothing/hair/buzzcut/player.dyeset.head.buzzcutcurly.asset|
+|assets/content/player/clothing/hair/buzzcut/player.hairset.female.buzzcut.asset|
+|assets/content/player/clothing/hair/crewcut/player.dyeset.head.crewcut.dark.asset|
+|assets/content/player/clothing/hair/crewcut/player.dyeset.head.crewcut.light.asset|
+|assets/content/player/clothing/hair/crewcut/player.hairset.female.crewcut.asset|
+|assets/content/player/clothing/hair/crewcut/player.hairset.male.crewcut.asset|
+|assets/content/player/clothing/hair/midlength/player.dyeset.head.midlength.dark.asset|
+|assets/content/player/clothing/hair/midlength/player.dyeset.head.midlength.light.asset|
+|assets/content/player/clothing/hair/midlength/player.hairset.female.midlength.asset|
+|assets/content/player/clothing/hair/midlength/player.hairset.male.midlength.asset|
+|assets/content/player/clothing/hair/pixiecut/player.dyeset.head.pixiecut.dark.asset|
+|assets/content/player/clothing/hair/pixiecut/player.dyeset.head.pixiecut.light.asset|
+|assets/content/player/clothing/hair/pixiecut/player.hairset.female.pixiecut.asset|
 |assets/content/player/clothing/hair/player.hairset.female.dark.asset|
 |assets/content/player/clothing/hair/player.hairset.female.light.asset|
-|assets/content/player/clothing/hair/player.hairset.male.asian.asset|
 |assets/content/player/clothing/hair/player.hairset.male.dark.asset|
 |assets/content/player/clothing/hair/player.hairset.male.light.asset|
-|assets/content/player/clothing/hair/pubic/player.hair.female.pubic01.asset|
-|assets/content/player/clothing/hair/pubic/player.hair.female.pubic01dark.asset|
-|assets/content/player/clothing/hair/pubic/player.hair.male.pubic01.asset|
-|assets/content/player/clothing/hair/pubic/player.hair.male.pubic01dark.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.all.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.eyebrow_asian.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.eyebrow_dark.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.eyebrow_light.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.facial_01_male_asian.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.facial_01_male_dark.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.facial_01_male_light.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.facial_02_male_asian.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.facial_02_male_dark.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.facial_02_male_light.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.facial_03_male_asian.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.facial_03_male_dark.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.facial_03_male_light.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.facial_04_male_asian.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.facial_04_male_dark.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.facial_04_male_light.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.hairstyle_01_female_asian.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.hairstyle_01_female_dark.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.hairstyle_01_female_light.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.hairstyle_01_male_asian.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.hairstyle_01_male_dark.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.hairstyle_01_male_light.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.hairstyle_02_female_asian.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.hairstyle_02_female_dark.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.hairstyle_02_female_light.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.hairstyle_02_male_asian.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.hairstyle_02_male_dark.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.hairstyle_02_male_light.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.hairstyle_03_female_asian.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.hairstyle_03_female_dark.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.hairstyle_03_female_light.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.hairstyle_03_male_asian.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.hairstyle_03_male_dark.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.hairstyle_03_male_light.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.hairstyle_04_male_asian.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.hairstyle_04_male_dark.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.hairstyle_04_male_light.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.hairstyle_05_female_asian.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.hairstyle_05_female_dark.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.hairstyle_05_female_light.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.hairstyle_05_male_asian.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.hairstyle_05_male_dark.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.hairstyle_05_male_light.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.pubic_female_asian.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.pubic_female_dark.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.pubic_female_light.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.pubic_male_asian.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.pubic_male_dark.asset|
-|assets/content/player/clothing/hair_dye/player.dyeset.pubic_male_light.asset|
-|assets/content/player/clothing/skin/player.female.asian01.asset|
-|assets/content/player/clothing/skin/player.female.asian02.asset|
-|assets/content/player/clothing/skin/player.female.asian03.asset|
-|assets/content/player/clothing/skin/player.female.dark01.asset|
-|assets/content/player/clothing/skin/player.female.dark02.asset|
-|assets/content/player/clothing/skin/player.female.dark03.asset|
-|assets/content/player/clothing/skin/player.female.dark04.asset|
-|assets/content/player/clothing/skin/player.female.light01.asset|
-|assets/content/player/clothing/skin/player.female.light02.asset|
-|assets/content/player/clothing/skin/player.female.light03.asset|
-|assets/content/player/clothing/skin/player.female.light04.asset|
-|assets/content/player/clothing/skin/player.male.asian01.asset|
-|assets/content/player/clothing/skin/player.male.asian02.asset|
-|assets/content/player/clothing/skin/player.male.asian03.asset|
-|assets/content/player/clothing/skin/player.male.dark01.asset|
-|assets/content/player/clothing/skin/player.male.dark02.asset|
-|assets/content/player/clothing/skin/player.male.dark03.asset|
-|assets/content/player/clothing/skin/player.male.dark04.asset|
-|assets/content/player/clothing/skin/player.male.dark05.asset|
-|assets/content/player/clothing/skin/player.male.light00.asset|
-|assets/content/player/clothing/skin/player.male.light01.asset|
-|assets/content/player/clothing/skin/player.male.light02.asset|
-|assets/content/player/clothing/skin/player.male.light03.asset|
-|assets/content/player/clothing/skin/player.male.light04.asset|
-|assets/content/player/clothing/skin/player.male.light05.asset|
+|assets/content/player/clothing/hair/ponytail/player.dyeset.head.ponytail.dark.asset|
+|assets/content/player/clothing/hair/ponytail/player.dyeset.head.ponytail.light.asset|
+|assets/content/player/clothing/hair/ponytail/player.hairset.female.bun.asset|
+|assets/content/player/clothing/hair/ponytail/player.hairset.female.ponytail.asset|
+|assets/content/player/clothing/hair/ponytail/player.hairset.male.bun.asset|
+|assets/content/player/clothing/hair/ponytail/player.hairset.male.ponytail.asset|
+|assets/content/player/clothing/skin/female.asian.subset.asset|
+|assets/content/player/clothing/skin/female.dark.subset.asset|
+|assets/content/player/clothing/skin/female.light.subset.asset|
+|assets/content/player/clothing/skin/heads/average/player.female.average_barbara.asset|
+|assets/content/player/clothing/skin/heads/average/player.female.average_fiona.asset|
+|assets/content/player/clothing/skin/heads/average/player.male.average_luke.asset|
+|assets/content/player/clothing/skin/heads/female/dark/amy/player.female.amy.asset|
+|assets/content/player/clothing/skin/heads/female/dark/daisy/player.female.daisy.asset|
+|assets/content/player/clothing/skin/heads/female/dark/emma/player.female.emma.asset|
+|assets/content/player/clothing/skin/heads/female/dark/fiona/player.female.fiona.asset|
+|assets/content/player/clothing/skin/heads/female/dark/grace/player.female.grace.asset|
+|assets/content/player/clothing/skin/heads/female/light/barbara/player.female.barbara.asset|
+|assets/content/player/clothing/skin/heads/female/light/clem/player.female.clem.asset|
+|assets/content/player/clothing/skin/heads/female/light/hazel/player.female.hazel.asset|
+|assets/content/player/clothing/skin/heads/female/light/imogen/player.female.imogen.asset|
+|assets/content/player/clothing/skin/heads/female/light/jessica/player.female.jessica.asset|
+|assets/content/player/clothing/skin/heads/female/light/karen/player.female.karen.asset|
+|assets/content/player/clothing/skin/heads/female/light/lucia/player.female.lucia.asset|
+|assets/content/player/clothing/skin/heads/female/light/margaret/player.female.margaret.asset|
+|assets/content/player/clothing/skin/heads/male/dark/adam/player.male.adam.asset|
+|assets/content/player/clothing/skin/heads/male/dark/brian/player.male.brian.asset|
+|assets/content/player/clothing/skin/heads/male/dark/carl/player.male.carl.asset|
+|assets/content/player/clothing/skin/heads/male/dark/david/player.male.david.asset|
+|assets/content/player/clothing/skin/heads/male/dark/edward/player.male.edward.asset|
+|assets/content/player/clothing/skin/heads/male/light/frank/player.male.frank.asset|
+|assets/content/player/clothing/skin/heads/male/light/george/player.male.george.asset|
+|assets/content/player/clothing/skin/heads/male/light/howard/player.male.howard.asset|
+|assets/content/player/clothing/skin/heads/male/light/ian/player.male.ian.asset|
+|assets/content/player/clothing/skin/heads/male/light/james/player.male.james.asset|
+|assets/content/player/clothing/skin/heads/male/light/kevin/player.male.kevin.asset|
+|assets/content/player/clothing/skin/heads/male/light/mike/player.male.mike.asset|
+|assets/content/player/clothing/skin/heads/male/light/nick/player.male.nick.asset|
+|assets/content/player/clothing/skin/heads/male/light/oliver/player.male.oliver.asset|
+|assets/content/player/clothing/skin/heads/male/mid/luke/player.male.luke.asset|
+|assets/content/player/clothing/skin/male.asian.subset.asset|
+|assets/content/player/clothing/skin/male.dark.subset.asset|
+|assets/content/player/clothing/skin/male.light.subset.asset|
+|assets/content/player/clothing/skin/mannequin.subset.asset|
 |assets/content/player/clothing/skin/player.mannequin.asset|
+|assets/content/player/clothing/skin/player.skinset.averagefemale.asset|
+|assets/content/player/clothing/skin/player.skinset.averagemale.asset|
 |assets/content/player/clothing/skin/player.skinset.female.asset|
 |assets/content/player/clothing/skin/player.skinset.male.asset|
 |assets/content/player/clothing/skin/player.skinset.mannequin.asset|
@@ -924,6 +895,7 @@
 |assets/content/properties/lootspawn/armor/armormedium.asset|
 |assets/content/properties/lootspawn/armor/armornobasic.asset|
 |assets/content/properties/lootspawn/armor/armorrare.asset|
+|assets/content/properties/lootspawn/armor/ballisticarmor.asset|
 |assets/content/properties/lootspawn/armor/diving/diving.asset|
 |assets/content/properties/lootspawn/armor/heavyarmorpieces.asset|
 |assets/content/properties/lootspawn/armor/inserts/asbestosinsert.asset|
@@ -941,6 +913,7 @@
 |assets/content/properties/lootspawn/blowpipewithammo.asset|
 |assets/content/properties/lootspawn/collection.ammo.asset|
 |assets/content/properties/lootspawn/collection.attire.asset|
+|assets/content/properties/lootspawn/collection.ballistic.asset|
 |assets/content/properties/lootspawn/collection.firearms.asset|
 |assets/content/properties/lootspawn/collection.rifles.asset|
 |assets/content/properties/lootspawn/collection.tools.asset|
@@ -1169,6 +1142,8 @@
 |assets/content/properties/lootspawn/generated/items.uncommon.asset|
 |assets/content/properties/lootspawn/generated/items.veryrare.asset|
 |assets/content/properties/lootspawn/generated/items/ammunition/ammo.handmade.shell.asset|
+|assets/content/properties/lootspawn/generated/items/ammunition/ammo.mortar.basic.asset|
+|assets/content/properties/lootspawn/generated/items/ammunition/ammo.mortar.fragment.asset|
 |assets/content/properties/lootspawn/generated/items/ammunition/ammo.pistol.asset|
 |assets/content/properties/lootspawn/generated/items/ammunition/ammo.pistol.fire.asset|
 |assets/content/properties/lootspawn/generated/items/ammunition/ammo.pistol.hv.asset|
@@ -1192,6 +1167,7 @@
 |assets/content/properties/lootspawn/generated/items/ammunition/ballista.bolt.incendiary.asset|
 |assets/content/properties/lootspawn/generated/items/ammunition/ballista.bolt.piercer.asset|
 |assets/content/properties/lootspawn/generated/items/ammunition/ballista.bolt.pitchfork.asset|
+|assets/content/properties/lootspawn/generated/items/ammunition/cannonball.asset|
 |assets/content/properties/lootspawn/generated/items/ammunition/catapult.ammo.bee.asset|
 |assets/content/properties/lootspawn/generated/items/ammunition/catapult.ammo.boulder.asset|
 |assets/content/properties/lootspawn/generated/items/ammunition/catapult.ammo.explosive.asset|
@@ -1210,7 +1186,12 @@
 |assets/content/properties/lootspawn/generated/items/attire/attire.hide.poncho.asset|
 |assets/content/properties/lootspawn/generated/items/attire/attire.hide.skirt.asset|
 |assets/content/properties/lootspawn/generated/items/attire/attire.hide.vest.asset|
+|assets/content/properties/lootspawn/generated/items/attire/ballistic.helmet.asset|
+|assets/content/properties/lootspawn/generated/items/attire/ballistic.legarmor.asset|
+|assets/content/properties/lootspawn/generated/items/attire/ballistic.vest.asset|
 |assets/content/properties/lootspawn/generated/items/attire/barrelcostume.asset|
+|assets/content/properties/lootspawn/generated/items/attire/bdu.pants.asset|
+|assets/content/properties/lootspawn/generated/items/attire/bdu.shirt.asset|
 |assets/content/properties/lootspawn/generated/items/attire/bone.armor.jacket.asset|
 |assets/content/properties/lootspawn/generated/items/attire/bone.armor.pants.asset|
 |assets/content/properties/lootspawn/generated/items/attire/bucket.helmet.asset|
@@ -1230,6 +1211,7 @@
 |assets/content/properties/lootspawn/generated/items/attire/diving.fins.asset|
 |assets/content/properties/lootspawn/generated/items/attire/diving.mask.asset|
 |assets/content/properties/lootspawn/generated/items/attire/diving.tank.asset|
+|assets/content/properties/lootspawn/generated/items/attire/diving.tank.double.asset|
 |assets/content/properties/lootspawn/generated/items/attire/diving.wetsuit.asset|
 |assets/content/properties/lootspawn/generated/items/attire/draculacape.asset|
 |assets/content/properties/lootspawn/generated/items/attire/facialhair.style01.asset|
@@ -1365,6 +1347,16 @@
 |assets/content/properties/lootspawn/generated/items/component/vehicle.2mod.passengers.asset|
 |assets/content/properties/lootspawn/generated/items/component/vehicle.module.asset|
 |assets/content/properties/lootspawn/generated/items/component/weapon.mod.burstmodule.asset|
+|assets/content/properties/lootspawn/generated/items/component/workbench.upgrade.accelerated.asset|
+|assets/content/properties/lootspawn/generated/items/component/workbench.upgrade.comfort.asset|
+|assets/content/properties/lootspawn/generated/items/component/workbench.upgrade.defensive.asset|
+|assets/content/properties/lootspawn/generated/items/component/workbench.upgrade.efficiency.asset|
+|assets/content/properties/lootspawn/generated/items/component/workbench.upgrade.prototype.asset|
+|assets/content/properties/lootspawn/generated/items/component/workbench.upgrade.range.asset|
+|assets/content/properties/lootspawn/generated/items/component/workbench.upgrade.recyclebin.asset|
+|assets/content/properties/lootspawn/generated/items/component/workbench.upgrade.reinforced.asset|
+|assets/content/properties/lootspawn/generated/items/component/workbench.upgrade.salvage.asset|
+|assets/content/properties/lootspawn/generated/items/component/workbench.upgrade.surplus.asset|
 |assets/content/properties/lootspawn/generated/items/construction/barricade.concrete.asset|
 |assets/content/properties/lootspawn/generated/items/construction/barricade.medieval.asset|
 |assets/content/properties/lootspawn/generated/items/construction/barricade.metal.asset|
@@ -1386,16 +1378,20 @@
 |assets/content/properties/lootspawn/generated/items/construction/door.hinged.wood.asset|
 |assets/content/properties/lootspawn/generated/items/construction/floor.grill.asset|
 |assets/content/properties/lootspawn/generated/items/construction/floor.ladder.hatch.asset|
+|assets/content/properties/lootspawn/generated/items/construction/floor.ladder.hatch.toptier.asset|
 |assets/content/properties/lootspawn/generated/items/construction/floor.triangle.grill.asset|
 |assets/content/properties/lootspawn/generated/items/construction/floor.triangle.ladder.hatch.asset|
+|assets/content/properties/lootspawn/generated/items/construction/floor.triangle.ladder.hatch.toptier.asset|
 |assets/content/properties/lootspawn/generated/items/construction/gates.external.high.stone.asset|
 |assets/content/properties/lootspawn/generated/items/construction/gates.external.high.wood.asset|
+|assets/content/properties/lootspawn/generated/items/construction/ladder.wooden.boat.asset|
 |assets/content/properties/lootspawn/generated/items/construction/ladder.wooden.wall.asset|
 |assets/content/properties/lootspawn/generated/items/construction/legacy.shelter.wood.asset|
 |assets/content/properties/lootspawn/generated/items/construction/lock.code.asset|
 |assets/content/properties/lootspawn/generated/items/construction/lock.key.asset|
 |assets/content/properties/lootspawn/generated/items/construction/medieval.door.hinged.metal.asset|
 |assets/content/properties/lootspawn/generated/items/construction/mining.quarry.asset|
+|assets/content/properties/lootspawn/generated/items/construction/mortar.deployable.asset|
 |assets/content/properties/lootspawn/generated/items/construction/shutter.metal.embrasure.a.asset|
 |assets/content/properties/lootspawn/generated/items/construction/shutter.metal.embrasure.b.asset|
 |assets/content/properties/lootspawn/generated/items/construction/shutter.wood.a.asset|
@@ -1470,6 +1466,7 @@
 |assets/content/properties/lootspawn/generated/items/electrical/fluid.splitter.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/fluid.switch.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/fridge.asset|
+|assets/content/properties/lootspawn/generated/items/electrical/generator.water.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/generator.wind.scrap.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/hopper.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/hosetool.asset|
@@ -1480,7 +1477,9 @@
 |assets/content/properties/lootspawn/generated/items/electrical/industrial.wall.light.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/industrial.wall.light.green.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/industrial.wall.light.red.asset|
+|assets/content/properties/lootspawn/generated/items/electrical/mini fridge.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/modularcarlift.asset|
+|assets/content/properties/lootspawn/generated/items/electrical/neonsigntr.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/powered.water.purifier.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/ptz.cctv.camera.asset|
 |assets/content/properties/lootspawn/generated/items/electrical/rf_pager.asset|
@@ -1512,6 +1511,7 @@
 |assets/content/properties/lootspawn/generated/items/food/clone.corn.asset|
 |assets/content/properties/lootspawn/generated/items/food/clone.hemp.asset|
 |assets/content/properties/lootspawn/generated/items/food/clone.pumpkin.asset|
+|assets/content/properties/lootspawn/generated/items/food/coconut.asset|
 |assets/content/properties/lootspawn/generated/items/food/corn.asset|
 |assets/content/properties/lootspawn/generated/items/food/crocodilemeat.asset|
 |assets/content/properties/lootspawn/generated/items/food/crocodilemeat.cooked.asset|
@@ -1633,12 +1633,15 @@
 |assets/content/properties/lootspawn/generated/items/items.veryrare.tool.asset|
 |assets/content/properties/lootspawn/generated/items/items.veryrare.traps.asset|
 |assets/content/properties/lootspawn/generated/items/items.veryrare.weapon.asset|
+|assets/content/properties/lootspawn/generated/items/items/anchor.asset|
 |assets/content/properties/lootspawn/generated/items/items/bbq.asset|
 |assets/content/properties/lootspawn/generated/items/items/bed.asset|
+|assets/content/properties/lootspawn/generated/items/items/boatbuildingstation.asset|
 |assets/content/properties/lootspawn/generated/items/items/botabag.asset|
 |assets/content/properties/lootspawn/generated/items/items/box.repair.bench.asset|
 |assets/content/properties/lootspawn/generated/items/items/box.wooden.large.asset|
 |assets/content/properties/lootspawn/generated/items/items/campfire.asset|
+|assets/content/properties/lootspawn/generated/items/items/cannon.asset|
 |assets/content/properties/lootspawn/generated/items/items/ceilinglight.asset|
 |assets/content/properties/lootspawn/generated/items/items/chair.asset|
 |assets/content/properties/lootspawn/generated/items/items/chair.icethrone.asset|
@@ -1666,6 +1669,8 @@
 |assets/content/properties/lootspawn/generated/items/items/goldframe.medium.asset|
 |assets/content/properties/lootspawn/generated/items/items/goldframe.small.asset|
 |assets/content/properties/lootspawn/generated/items/items/goldframe.standing.asset|
+|assets/content/properties/lootspawn/generated/items/items/goldframe.xl.asset|
+|assets/content/properties/lootspawn/generated/items/items/goldframe.xxl.asset|
 |assets/content/properties/lootspawn/generated/items/items/goldmirror.large.asset|
 |assets/content/properties/lootspawn/generated/items/items/goldmirror.medium.asset|
 |assets/content/properties/lootspawn/generated/items/items/goldmirror.small.asset|
@@ -1682,6 +1687,8 @@
 |assets/content/properties/lootspawn/generated/items/items/kayak.asset|
 |assets/content/properties/lootspawn/generated/items/items/lantern.asset|
 |assets/content/properties/lootspawn/generated/items/items/lightup.large.asset|
+|assets/content/properties/lootspawn/generated/items/items/lightup.xl.asset|
+|assets/content/properties/lootspawn/generated/items/items/lightup.xxl.asset|
 |assets/content/properties/lootspawn/generated/items/items/lightupframe.medium.asset|
 |assets/content/properties/lootspawn/generated/items/items/lightupframe.small.asset|
 |assets/content/properties/lootspawn/generated/items/items/lightupframe.standing.asset|
@@ -1697,6 +1704,7 @@
 |assets/content/properties/lootspawn/generated/items/items/photoframe.landscape.asset|
 |assets/content/properties/lootspawn/generated/items/items/photoframe.large.asset|
 |assets/content/properties/lootspawn/generated/items/items/photoframe.portrait.asset|
+|assets/content/properties/lootspawn/generated/items/items/plank.asset|
 |assets/content/properties/lootspawn/generated/items/items/planter.large.asset|
 |assets/content/properties/lootspawn/generated/items/items/planter.small.asset|
 |assets/content/properties/lootspawn/generated/items/items/planter.triangle.asset|
@@ -1704,17 +1712,26 @@
 |assets/content/properties/lootspawn/generated/items/items/research.table.asset|
 |assets/content/properties/lootspawn/generated/items/items/rug.asset|
 |assets/content/properties/lootspawn/generated/items/items/rug.bear.asset|
+|assets/content/properties/lootspawn/generated/items/items/sail.asset|
 |assets/content/properties/lootspawn/generated/items/items/salvaged.bamboo.shelves.asset|
 |assets/content/properties/lootspawn/generated/items/items/scrapframe.large.asset|
 |assets/content/properties/lootspawn/generated/items/items/scrapframe.medium.asset|
 |assets/content/properties/lootspawn/generated/items/items/scrapframe.small.asset|
 |assets/content/properties/lootspawn/generated/items/items/scrapframe.standing.asset|
+|assets/content/properties/lootspawn/generated/items/items/scrapframe.xl.asset|
+|assets/content/properties/lootspawn/generated/items/items/scrapframe.xxl.asset|
 |assets/content/properties/lootspawn/generated/items/items/scrapmirror.large.asset|
 |assets/content/properties/lootspawn/generated/items/items/scrapmirror.medium.asset|
 |assets/content/properties/lootspawn/generated/items/items/scrapmirror.small.asset|
 |assets/content/properties/lootspawn/generated/items/items/scrapmirror.standing.asset|
 |assets/content/properties/lootspawn/generated/items/items/searchlight.asset|
 |assets/content/properties/lootspawn/generated/items/items/shelves.asset|
+|assets/content/properties/lootspawn/generated/items/items/sign.artistcanvas.l.asset|
+|assets/content/properties/lootspawn/generated/items/items/sign.artistcanvas.m.asset|
+|assets/content/properties/lootspawn/generated/items/items/sign.artistcanvas.s.asset|
+|assets/content/properties/lootspawn/generated/items/items/sign.artistcanvas.xl.asset|
+|assets/content/properties/lootspawn/generated/items/items/sign.artistcanvas.xs.asset|
+|assets/content/properties/lootspawn/generated/items/items/sign.artistcanvas.xxl.asset|
 |assets/content/properties/lootspawn/generated/items/items/sign.hanging.asset|
 |assets/content/properties/lootspawn/generated/items/items/sign.hanging.banner.large.asset|
 |assets/content/properties/lootspawn/generated/items/items/sign.hanging.ornate.asset|
@@ -1736,7 +1753,10 @@
 |assets/content/properties/lootspawn/generated/items/items/skidoo.asset|
 |assets/content/properties/lootspawn/generated/items/items/sleepingbag.asset|
 |assets/content/properties/lootspawn/generated/items/items/small.oil.refinery.asset|
+|assets/content/properties/lootspawn/generated/items/items/small_ramp.asset|
+|assets/content/properties/lootspawn/generated/items/items/smallengine.asset|
 |assets/content/properties/lootspawn/generated/items/items/spinner.wheel.asset|
+|assets/content/properties/lootspawn/generated/items/items/steeringwheel.boat.asset|
 |assets/content/properties/lootspawn/generated/items/items/table.asset|
 |assets/content/properties/lootspawn/generated/items/items/target.reactive.asset|
 |assets/content/properties/lootspawn/generated/items/items/tunalight.asset|
@@ -1764,7 +1784,14 @@
 |assets/content/properties/lootspawn/generated/items/medical/bandage.asset|
 |assets/content/properties/lootspawn/generated/items/medical/largemedkit.asset|
 |assets/content/properties/lootspawn/generated/items/medical/syringe.medical.asset|
+|assets/content/properties/lootspawn/generated/items/misc/2module car chassis.asset|
+|assets/content/properties/lootspawn/generated/items/misc/2module car.asset|
+|assets/content/properties/lootspawn/generated/items/misc/3module car chassis.asset|
+|assets/content/properties/lootspawn/generated/items/misc/3module car.asset|
+|assets/content/properties/lootspawn/generated/items/misc/4module car chassis.asset|
+|assets/content/properties/lootspawn/generated/items/misc/4module car.asset|
 |assets/content/properties/lootspawn/generated/items/misc/bicycle.asset|
+|assets/content/properties/lootspawn/generated/items/misc/caboose.asset|
 |assets/content/properties/lootspawn/generated/items/misc/door.key.asset|
 |assets/content/properties/lootspawn/generated/items/misc/easterbasket.asset|
 |assets/content/properties/lootspawn/generated/items/misc/electric.andswitch.asset|
@@ -1878,6 +1905,9 @@
 |assets/content/properties/lootspawn/generated/items/traps/tincan.alarm.asset|
 |assets/content/properties/lootspawn/generated/items/traps/trap.bear.asset|
 |assets/content/properties/lootspawn/generated/items/traps/trap.landmine.asset|
+|assets/content/properties/lootspawn/generated/items/weapon/50cal.mounted.asset|
+|assets/content/properties/lootspawn/generated/items/weapon/50cal.mounted.left.asset|
+|assets/content/properties/lootspawn/generated/items/weapon/50cal.mounted.right.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/ballista.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/ballista.mounted.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/ballista.static.asset|
@@ -1905,6 +1935,7 @@
 |assets/content/properties/lootspawn/generated/items/weapon/knife.combat.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/lmg.m249.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/longsword.asset|
+|assets/content/properties/lootspawn/generated/items/weapon/m16a2.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/mace.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/mace.baseballbat.asset|
 |assets/content/properties/lootspawn/generated/items/weapon/machete.asset|
@@ -2120,6 +2151,7 @@
 |assets/content/properties/playerinventory/missionprovider_tutorial.asset|
 |assets/content/properties/playerinventory/murderer.asset|
 |assets/content/properties/playerinventory/parachute.asset|
+|assets/content/properties/playerinventory/playerupdate_verticalslice.asset|
 |assets/content/properties/playerinventory/plumber.asset|
 |assets/content/properties/playerinventory/projectile weapons.asset|
 |assets/content/properties/playerinventory/pyro.asset|
@@ -2146,6 +2178,7 @@
 |assets/content/properties/playerinventory/summerdlc.asset|
 |assets/content/properties/playerinventory/survivorinventory.asset|
 |assets/content/properties/playerinventory/tutorial.asset|
+|assets/content/properties/playerinventory/v4_player_update.asset|
 |assets/content/properties/playerinventory/vagabond.asset|
 |assets/content/properties/playerinventory/voiceprops.asset|
 |assets/content/properties/playerinventory/waterwell_shopkeeper.asset|
@@ -2168,8 +2201,13 @@
 |assets/content/properties/protection/clothing/armor_insert_metal.asset|
 |assets/content/properties/protection/clothing/armor_insert_wood.asset|
 |assets/content/properties/protection/clothing/balaclava.asset|
+|assets/content/properties/protection/clothing/ballistic_helmet.asset|
+|assets/content/properties/protection/clothing/ballistic_pants.asset|
+|assets/content/properties/protection/clothing/ballistic_plate_torso.asset|
 |assets/content/properties/protection/clothing/bandana.asset|
 |assets/content/properties/protection/clothing/basic_hat.asset|
+|assets/content/properties/protection/clothing/bdu_jacket.asset|
+|assets/content/properties/protection/clothing/bdu_pants.asset|
 |assets/content/properties/protection/clothing/bone_armor.asset|
 |assets/content/properties/protection/clothing/bucket_helmet.asset|
 |assets/content/properties/protection/clothing/burlap_gloves.asset|
@@ -4944,6 +4982,8 @@
 |assets/content/ui/gameui/emoji/coffeecan.emoji.asset|
 |assets/content/ui/gameui/emoji/cool.emoji.asset|
 |assets/content/ui/gameui/emoji/dance.emoji.asset|
+|assets/content/ui/gameui/emoji/dlc/industrial/industrial_hazmat.emoji.asset|
+|assets/content/ui/gameui/emoji/dlc/industrial/industrial_trash.emoji.asset|
 |assets/content/ui/gameui/emoji/dlc/jungledlc/jungle_bush.emoji.asset|
 |assets/content/ui/gameui/emoji/dlc/jungledlc/jungle_sick.emoji.asset|
 |assets/content/ui/gameui/emoji/exclamation.emoji.asset|
@@ -6031,6 +6071,7 @@
 |assets/prefabs/building/wall.external.high.wood/wall.external.high.wood.skinnable.asset|
 |assets/prefabs/building/wall.frame.cell/sound/cell-wall-door-deploy.asset|
 |assets/prefabs/building/wall.frame.fence/sound/chain-link-fence-deploy.asset|
+|assets/prefabs/building/wall.frame.garagedoor/skins/industrial_garage_door/industrial.garage.door.skin.asset|
 |assets/prefabs/building/wall.frame.garagedoor/sound/garagedoor-begin-movement.asset|
 |assets/prefabs/building/wall.frame.garagedoor/sound/garagedoor-close-finish.asset|
 |assets/prefabs/building/wall.frame.garagedoor/sound/garagedoor-movement-loop.asset|
@@ -6054,6 +6095,10 @@
 |assets/prefabs/clothes/backpack.krieg/cloth.krieg_backpack.asset|
 |assets/prefabs/clothes/backpack.krieg/krieg.large.backpack.skin.asset|
 |assets/prefabs/clothes/backpack.krieg/skeleton.krieg_backpack.asset|
+|assets/prefabs/clothes/ballistic.helmet/sounds/ballistic-helmet-drop.asset|
+|assets/prefabs/clothes/ballistic.helmet/sounds/ballistic-helmet-pickup.asset|
+|assets/prefabs/clothes/ballistic.vest/sound/ballistic-vest-drop.asset|
+|assets/prefabs/clothes/ballistic.vest/sound/ballistic-vest-pickup.asset|
 |assets/prefabs/clothes/cocoknightarmor/gloves.cocoknightarmor/cocoknight.gloves.skin.asset|
 |assets/prefabs/clothes/cocoknightarmor/head.cocoknightarmor/cocoknight.head.skin.asset|
 |assets/prefabs/clothes/cocoknightarmor/legs.cocoknightarmor/cocoknight.pants.skin.asset|
@@ -6191,6 +6236,7 @@
 |assets/prefabs/clothes/suit.hazmat/frontier/cloth.frontierbag.asset|
 |assets/prefabs/clothes/suit.hazmat/frontier/cloth.frontierbeltpelts.asset|
 |assets/prefabs/clothes/suit.hazmat/frontier/cloth.tunic.asset|
+|assets/prefabs/clothes/suit.hazmat/frontier/frontier.player_skeleton.asset|
 |assets/prefabs/clothes/suit.hazmat/frontier/frontierhazmat.skeleton.asset|
 |assets/prefabs/clothes/suit.hazmat/frontier/hazmat.frontier.skin.asset|
 |assets/prefabs/clothes/suit.hazmat/hazmat.skinnable.asset|
@@ -6389,6 +6435,7 @@
 |assets/prefabs/deployable/cookingworkbench/sound/cooking-workbench-oven-open.asset|
 |assets/prefabs/deployable/cookingworkbench/sound/visual-cooking-kettle-boil-loop-01.asset|
 |assets/prefabs/deployable/cookingworkbench/sound/visual-cooking-meat-sizzle-loop-01.asset|
+|assets/prefabs/deployable/discord plush/discord.plushie.sitem.asset|
 |assets/prefabs/deployable/drone/sound/drone-deploy.asset|
 |assets/prefabs/deployable/drone/sound/drone-destroy.asset|
 |assets/prefabs/deployable/drone/sound/drone-ground-land.asset|
@@ -6420,6 +6467,7 @@
 |assets/prefabs/deployable/fireworks/smallfireworks.sitem.asset|
 |assets/prefabs/deployable/floor spikes/sound/floor-spikes-deploy.asset|
 |assets/prefabs/deployable/floor_half_shelves/halfheight_salvaged_bamboo_shelves.sitem.asset|
+|assets/prefabs/deployable/floor_half_shelves/skins/halfheight_industrial_shelves/halfheight.salvaged.industrial.shelves.skin.asset|
 |assets/prefabs/deployable/frankensteintable/sound/frankenstein-table-active-climber.ambience-def.asset|
 |assets/prefabs/deployable/frankensteintable/sound/frankenstein-table-active-climber.ambience-list.asset|
 |assets/prefabs/deployable/frankensteintable/sound/frankenstein-table-active-climber.asset|
@@ -6438,6 +6486,11 @@
 |assets/prefabs/deployable/fridge/sound/fridge-close.asset|
 |assets/prefabs/deployable/fridge/sound/fridge-deploy.asset|
 |assets/prefabs/deployable/fridge/sound/fridge-open.asset|
+|assets/prefabs/deployable/furnace.large/furnace.large.skinnable.asset|
+|assets/prefabs/deployable/furnace.large/skins/industrial_large_furnace/industrial.furnace.large.skin.asset|
+|assets/prefabs/deployable/furnace.large/skins/industrial_large_furnace/sound/industrial-furnace-large-close.asset|
+|assets/prefabs/deployable/furnace.large/skins/industrial_large_furnace/sound/industrial-furnace-large-deploy.asset|
+|assets/prefabs/deployable/furnace.large/skins/industrial_large_furnace/sound/industrial-furnace-large-open.asset|
 |assets/prefabs/deployable/furnace.large/sound/furnace-large-deploy.asset|
 |assets/prefabs/deployable/furnace.large/sound/large-furnace-close.asset|
 |assets/prefabs/deployable/furnace.large/sound/large-furnace-extinguish.asset|
@@ -6495,6 +6548,11 @@
 |assets/prefabs/deployable/large wood storage/skins/component_storage_boxes_dlc/box_sulfur/box.wooden.large.component.sulfur.skin.asset|
 |assets/prefabs/deployable/large wood storage/skins/component_storage_boxes_dlc/box_tools/box.wooden.large.component.tools.skin.asset|
 |assets/prefabs/deployable/large wood storage/skins/component_storage_boxes_dlc/box_wood/box.wooden.large.component.wood.skin.asset|
+|assets/prefabs/deployable/large wood storage/skins/industrial_dlc/industrial_storage_horizontal/industrial.storage.horizontal.skin.asset|
+|assets/prefabs/deployable/large wood storage/skins/industrial_dlc/industrial_storage_vertical/industrial.storage.vertical.skin.asset|
+|assets/prefabs/deployable/large wood storage/skins/industrial_dlc/sound/industrial-storage-close.asset|
+|assets/prefabs/deployable/large wood storage/skins/industrial_dlc/sound/industrial-storage-deploy.asset|
+|assets/prefabs/deployable/large wood storage/skins/industrial_dlc/sound/industrial-storage-open.asset|
 |assets/prefabs/deployable/large wood storage/skins/jungle_dlc_large_wood_box/jungle.dlc.sitem.asset|
 |assets/prefabs/deployable/large wood storage/skins/jungle_dlc_large_wood_box/jungle_dlc_storage_horizontal/wickerbarrel.skin.asset|
 |assets/prefabs/deployable/large wood storage/skins/jungle_dlc_large_wood_box/jungle_dlc_storage_vertical/bamboobarrel.skin.asset|
@@ -6610,6 +6668,10 @@
 |assets/prefabs/deployable/playerioents/digitalclock/sounds/digital-clock-alarm-start.asset|
 |assets/prefabs/deployable/playerioents/digitalclock/sounds/digital-clock-alarm-stop.asset|
 |assets/prefabs/deployable/playerioents/electricfurnace/electricfurnace.skinnable.asset|
+|assets/prefabs/deployable/playerioents/electricfurnace/skins/industrial_electric_furnace/industrial.electric.furnace.skin.asset|
+|assets/prefabs/deployable/playerioents/electricfurnace/skins/industrial_electric_furnace/sound/industrial-electric-furnace-close.asset|
+|assets/prefabs/deployable/playerioents/electricfurnace/skins/industrial_electric_furnace/sound/industrial-electric-furnace-deploy.asset|
+|assets/prefabs/deployable/playerioents/electricfurnace/skins/industrial_electric_furnace/sound/industrial-electric-furnace-open.asset|
 |assets/prefabs/deployable/playerioents/electricfurnace/sound/electric-furnace-active-loop.asset|
 |assets/prefabs/deployable/playerioents/electricfurnace/sound/electric-furnace-close.asset|
 |assets/prefabs/deployable/playerioents/electricfurnace/sound/electric-furnace-deploy.asset|
@@ -6727,6 +6789,7 @@
 |assets/prefabs/deployable/secretlab chair/dlc.secretlabchair.asset|
 |assets/prefabs/deployable/shelves/shelves.skinnable.asset|
 |assets/prefabs/deployable/shelves/skins/salvaged_bamboo_shelves/salvaged_bamboo_shelves.skin.asset|
+|assets/prefabs/deployable/shelves/skins/salvaged_industrial_shelves/salvaged.industrial.shelves.skin.asset|
 |assets/prefabs/deployable/shelves/sound/shelves-deploy.asset|
 |assets/prefabs/deployable/signs/models/sign.pole.banner.large_col_colliders.asset|
 |assets/prefabs/deployable/signs/sign.hanging.banner.large.sitem.asset|
@@ -6849,6 +6912,7 @@
 |assets/prefabs/deployable/wall cabinet/sound/wall-cabinet-close.asset|
 |assets/prefabs/deployable/wall cabinet/sound/wall-cabinet-deploy.asset|
 |assets/prefabs/deployable/wall cabinet/sound/wall-cabinet-open.asset|
+|assets/prefabs/deployable/wall_single_shallow_shelves/skins/wall_shallow_industrial_shelf/wall.shallow.industrial.shelves.skin.asset|
 |assets/prefabs/deployable/wall_single_shallow_shelves/wall.single.shallow.shelves.sitem.asset|
 |assets/prefabs/deployable/water catcher/sound/water-catcher-close.asset|
 |assets/prefabs/deployable/water catcher/sound/water-catcher-deploy.asset|
@@ -6862,6 +6926,7 @@
 |assets/prefabs/deployable/water wheel/sounds/water-wheel-deploy.asset|
 |assets/prefabs/deployable/water wheel/sounds/water-wheel-deploy-water.asset|
 |assets/prefabs/deployable/water wheel/sounds/water-wheel-dismount.asset|
+|assets/prefabs/deployable/water wheel/sounds/water-wheel-electric-zap.asset|
 |assets/prefabs/deployable/water wheel/sounds/water-wheel-loop.asset|
 |assets/prefabs/deployable/water wheel/sounds/water-wheel-loop-end.asset|
 |assets/prefabs/deployable/water wheel/sounds/water-wheel-loop-start.asset|
@@ -6901,6 +6966,7 @@
 |assets/prefabs/dlc/pack_sitems/artist_pack/artist.pack.dlc.sitem.asset|
 |assets/prefabs/dlc/pack_sitems/balloon_pack/balloon.pack.dlc.sitem.asset|
 |assets/prefabs/dlc/pack_sitems/decor_lighting_pack/decor.lighting.dlc.sitem.asset|
+|assets/prefabs/dlc/pack_sitems/industrial_decor_pack/industrial_decor_pack.dlc.sitem.asset|
 |assets/prefabs/dlc/pack_sitems/storage_box_pack/storage_box_pack.dlc.sitem.asset|
 |assets/prefabs/food/berries/sound/ui-berries-drop.asset|
 |assets/prefabs/food/berries/sound/ui-berries-pick-up.asset|
@@ -6981,7 +7047,6 @@
 |assets/prefabs/instruments/trumpet/trumpet.weapon.asset|
 |assets/prefabs/instruments/tuba/tuba.weapon.asset|
 |assets/prefabs/instruments/xylophone/xylophone.deployed.asset|
-|assets/prefabs/io/electric/switches/pressbutton/main button color settings.asset|
 |assets/prefabs/locks/keypad/lock.code.skinnable.asset|
 |assets/prefabs/locks/keypad/skins/codelock_a_pilot/lock.code.a.pilot.skin.asset|
 |assets/prefabs/locks/keypad/sound/lock-code-denied.asset|
@@ -7689,6 +7754,15 @@
 |assets/prefabs/missions/tutorialisland/tutorialmission08_objective_deploykayak.asset|
 |assets/prefabs/missions/tutorialisland/tutorialmission08_objective_mountkayak.asset|
 |assets/prefabs/missions/tutorialisland/tutorialmission08_objective_movekayak.asset|
+|assets/prefabs/npc/autoturret/autoturret.skinnable.asset|
+|assets/prefabs/npc/autoturret/skins/industrial_autoturret/industrial.autoturret.skin.asset|
+|assets/prefabs/npc/autoturret/skins/industrial_autoturret/sound/industrial-auto-turret-close.asset|
+|assets/prefabs/npc/autoturret/skins/industrial_autoturret/sound/industrial-auto-turret-deploy.asset|
+|assets/prefabs/npc/autoturret/skins/industrial_autoturret/sound/industrial-auto-turret-movement-loop.asset|
+|assets/prefabs/npc/autoturret/skins/industrial_autoturret/sound/industrial-auto-turret-open.asset|
+|assets/prefabs/npc/autoturret/skins/industrial_autoturret/sound/industrial-auto-turret-power-off.asset|
+|assets/prefabs/npc/autoturret/skins/industrial_autoturret/sound/industrial-auto-turret-power-on.asset|
+|assets/prefabs/npc/autoturret/skins/industrial_autoturret/sound/industrial-auto-turret-reload.asset|
 |assets/prefabs/npc/autoturret/sound/ambient-loop.asset|
 |assets/prefabs/npc/autoturret/sound/attack.asset|
 |assets/prefabs/npc/autoturret/sound/autoturrent-ambient-loop.ambience-def.asset|
@@ -8060,6 +8134,8 @@
 |assets/prefabs/tools/spraycan/sprays/skins/artist.pack.dlc/spray.decal.artistdlc_rosette_2nd.itemskin.asset|
 |assets/prefabs/tools/spraycan/sprays/skins/artist.pack.dlc/spray.decal.artistdlc_rosette_3rd.itemskin.asset|
 |assets/prefabs/tools/spraycan/sprays/skins/artist.pack.dlc/spray.decal.artistdlc_rosette_last.itemskin.asset|
+|assets/prefabs/tools/spraycan/sprays/skins/industrial.dlc/spray.decal.industrial_dlc_keepout.itemskin.asset|
+|assets/prefabs/tools/spraycan/sprays/skins/industrial.dlc/spray.decal.industrial_dlc_toxic.itemskin.asset|
 |assets/prefabs/tools/spraycan/sprays/skins/jungledlc/spray.decal.jungledlc_skull.itemskin.asset|
 |assets/prefabs/tools/spraycan/sprays/skins/jungledlc/spray.decal.jungledlc_tiger.itemskin.asset|
 |assets/prefabs/tools/spraycan/sprays/spray.decal.beancan.itemskin.asset|
@@ -8214,6 +8290,14 @@
 |assets/prefabs/wallpaper/skins/2026-04_easter/skin_assets/floorpaper.grass.easter.skin.asset|
 |assets/prefabs/wallpaper/skins/2026-04_easter/skin_assets/wallpaper.easter.eggs.skin.asset|
 |assets/prefabs/wallpaper/skins/2026-04_easter/skin_assets/wallpaper.rattan.wicker.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-05_kick_off_2/skin_assets/wallpaper.kick.off.2.a.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-05_kick_off_2/skin_assets/wallpaper.kick.off.2.b.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-06_industrial/skin_assets/floorpaper.concrete.painted.bend.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-06_industrial/skin_assets/floorpaper.concrete.painted.cross.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-06_industrial/skin_assets/floorpaper.concrete.painted.end.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-06_industrial/skin_assets/floorpaper.concrete.painted.plain.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-06_industrial/skin_assets/floorpaper.concrete.painted.straight.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-06_industrial/skin_assets/floorpaper.concrete.painted.tjunction.skin.asset|
 |assets/prefabs/wallpaper/sound/wallpaper-deploy.asset|
 |assets/prefabs/wallpaper/sound/wallpaper-place.asset|
 |assets/prefabs/wallpaper/sound/wallpaper-place-viewmodel.asset|
@@ -8408,6 +8492,24 @@
 |assets/prefabs/weapons/compound bow/sound/compound-bow-place-arrow.asset|
 |assets/prefabs/weapons/compound bow/sound/compound-bow-reload-start.asset|
 |assets/prefabs/weapons/crossbow/crossbow.skinnable.asset|
+|assets/prefabs/weapons/crossbow/skins/bowless/crossbow_bowless.skin.asset|
+|assets/prefabs/weapons/crossbow/skins/bowless/sounds/bowless-crossbow-admire-move-1.asset|
+|assets/prefabs/weapons/crossbow/skins/bowless/sounds/bowless-crossbow-admire-move-2.asset|
+|assets/prefabs/weapons/crossbow/skins/bowless/sounds/bowless-crossbow-admire-move-3.asset|
+|assets/prefabs/weapons/crossbow/skins/bowless/sounds/bowless-crossbow-admire-move-4.asset|
+|assets/prefabs/weapons/crossbow/skins/bowless/sounds/bowless-crossbow-admire-move-5.asset|
+|assets/prefabs/weapons/crossbow/skins/bowless/sounds/bowless-crossbow-deploy.asset|
+|assets/prefabs/weapons/crossbow/skins/bowless/sounds/bowless-crossbow-deploy-loaded.asset|
+|assets/prefabs/weapons/crossbow/skins/bowless/sounds/bowless-crossbow-deploy-loaded-grab.asset|
+|assets/prefabs/weapons/crossbow/skins/bowless/sounds/bowless-crossbow-dryfire.asset|
+|assets/prefabs/weapons/crossbow/skins/bowless/sounds/bowless-crossbow-fire.asset|
+|assets/prefabs/weapons/crossbow/skins/bowless/sounds/bowless-crossbow-ironsights-down.asset|
+|assets/prefabs/weapons/crossbow/skins/bowless/sounds/bowless-crossbow-ironsights-up.asset|
+|assets/prefabs/weapons/crossbow/skins/bowless/sounds/bowless-crossbow-reload.asset|
+|assets/prefabs/weapons/crossbow/skins/bowless/sounds/bowless-crossbow-reload-arrow.asset|
+|assets/prefabs/weapons/crossbow/skins/bowless/sounds/bowless-crossbow-reload-click.asset|
+|assets/prefabs/weapons/crossbow/skins/bowless/sounds/bowless-crossbow-ui-drop.asset|
+|assets/prefabs/weapons/crossbow/skins/bowless/sounds/bowless-crossbow-ui-pickup.asset|
 |assets/prefabs/weapons/crossbow/sound/crossbow-attack.asset|
 |assets/prefabs/weapons/crossbow/sound/crossbow-deploy.asset|
 |assets/prefabs/weapons/crossbow/sound/crossbow-deploy-3p.asset|
@@ -8634,6 +8736,25 @@
 |assets/prefabs/weapons/lr300/sound/lr300-gunshot-tail-outdoor.asset|
 |assets/prefabs/weapons/lr300/sound/lr300-insert-mag.asset|
 |assets/prefabs/weapons/lr300/sound/lr300-remove-mag.asset|
+|assets/prefabs/weapons/m16a2/sound/m16-admire-001.asset|
+|assets/prefabs/weapons/m16a2/sound/m16-admire-002.asset|
+|assets/prefabs/weapons/m16a2/sound/m16-admire-003.asset|
+|assets/prefabs/weapons/m16a2/sound/m16-deploy.asset|
+|assets/prefabs/weapons/m16a2/sound/m16-dryfire.asset|
+|assets/prefabs/weapons/m16a2/sound/m16-gunshot-body.asset|
+|assets/prefabs/weapons/m16a2/sound/m16-gunshot-body-silenced.asset|
+|assets/prefabs/weapons/m16a2/sound/m16-gunshot-lfe.asset|
+|assets/prefabs/weapons/m16a2/sound/m16-gunshot-lfe-silenced.asset|
+|assets/prefabs/weapons/m16a2/sound/m16-gunshot-mech.asset|
+|assets/prefabs/weapons/m16a2/sound/m16-gunshot-tail-outdoor.asset|
+|assets/prefabs/weapons/m16a2/sound/m16-reload-empty-charging-handle.asset|
+|assets/prefabs/weapons/m16a2/sound/m16-reload-empty-finish.asset|
+|assets/prefabs/weapons/m16a2/sound/m16-reload-empty-swap-mags.asset|
+|assets/prefabs/weapons/m16a2/sound/m16-reload-finish.asset|
+|assets/prefabs/weapons/m16a2/sound/m16-reload-insert-mag.asset|
+|assets/prefabs/weapons/m16a2/sound/m16-reload-remove-mag.asset|
+|assets/prefabs/weapons/m16a2/sound/m16-reload-smack.asset|
+|assets/prefabs/weapons/m16a2/sound/m16-reload-start.asset|
 |assets/prefabs/weapons/m249/m249.skinnable.asset|
 |assets/prefabs/weapons/m249/sound/m249-ammobox_insert.asset|
 |assets/prefabs/weapons/m249/sound/m249-ammobox_remove.asset|
@@ -9116,6 +9237,24 @@
 |assets/prefabs/weapons/toolgun/sound/repairerror.asset|
 |assets/prefabs/weapons/toolgun/sound/toolgun-attack.asset|
 |assets/prefabs/weapons/torch/effects/sbmat_fire_dynamic.asset|
+|assets/prefabs/weapons/torch/skins/industrial_torch/clothmat_industrialtorch_vm.asset|
+|assets/prefabs/weapons/torch/skins/industrial_torch/clothmat_industrialtorch_wm.asset|
+|assets/prefabs/weapons/torch/skins/industrial_torch/industrial.torch.skin.asset|
+|assets/prefabs/weapons/torch/skins/industrial_torch/sound/industrial-torch-active-loop.asset|
+|assets/prefabs/weapons/torch/skins/industrial_torch/sound/industrial-torch-admire-001.asset|
+|assets/prefabs/weapons/torch/skins/industrial_torch/sound/industrial-torch-admire-002.asset|
+|assets/prefabs/weapons/torch/skins/industrial_torch/sound/industrial-torch-admire-003.asset|
+|assets/prefabs/weapons/torch/skins/industrial_torch/sound/industrial-torch-admire-004.asset|
+|assets/prefabs/weapons/torch/skins/industrial_torch/sound/industrial-torch-admire-005.asset|
+|assets/prefabs/weapons/torch/skins/industrial_torch/sound/industrial-torch-attack.asset|
+|assets/prefabs/weapons/torch/skins/industrial_torch/sound/industrial-torch-attack-settle-off.asset|
+|assets/prefabs/weapons/torch/skins/industrial_torch/sound/industrial-torch-attack-settle-on.asset|
+|assets/prefabs/weapons/torch/skins/industrial_torch/sound/industrial-torch-deploy.asset|
+|assets/prefabs/weapons/torch/skins/industrial_torch/sound/industrial-torch-extinguish-finish.asset|
+|assets/prefabs/weapons/torch/skins/industrial_torch/sound/industrial-torch-extinguish-start.asset|
+|assets/prefabs/weapons/torch/skins/industrial_torch/sound/industrial-torch-ignite-finish.asset|
+|assets/prefabs/weapons/torch/skins/industrial_torch/sound/industrial-torch-ignite-start.asset|
+|assets/prefabs/weapons/torch/skins/industrial_torch/sound/industrial-torch-impact.asset|
 |assets/prefabs/weapons/torch/sound/torch-attack.asset|
 |assets/prefabs/weapons/torch/sound/torch-attack-3p.asset|
 |assets/prefabs/weapons/torch/sound/torch-attack-lit.asset|
