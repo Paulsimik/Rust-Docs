@@ -397,6 +397,7 @@
 |<img src="https://czechrust.eu/img/textures2D/hat.gas.mask.png" width="100" height="80">|Gas Mask|hat.gas.mask|1659114910|ItemModWearable<br>ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/gears.png" width="100" height="80">|Gears|gears|479143914|ItemBlueprint<br>|
 |<img src="https://czechrust.eu/img/textures2D/geiger.counter.png" width="100" height="80">|Geiger Counter|geiger.counter|999690781|ItemModEntity<br>ItemBlueprint<br>|
+|<img src="https://czechrust.eu/img/textures2D/kickgems.png" width="100" height="80">|Gems|kickgems|-1622386500||
 |<img src="https://czechrust.eu/img/textures2D/vehicle.chassis.png" width="100" height="80">|Generic vehicle chassis|vehicle.chassis|1770744540|ItemBlueprint<br>ItemModVehicleChassis<br>|
 |<img src="https://czechrust.eu/img/textures2D/vehicle.module.png" width="100" height="80">|Generic vehicle module|vehicle.module|878301596|ItemBlueprint<br>ItemModVehicleModule<br>|
 |<img src="https://czechrust.eu/img/textures2D/ghostsheet.png" width="100" height="80">|Ghost Costume|ghostsheet|-1043618880|ItemModWearable<br>ItemBlueprint<br>|
