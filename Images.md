@@ -21,6 +21,18 @@
 |assets/scenes/prefabs/airfield/airfield_1_root_lods/airfield_1_root_hlod_albedo.png|
 |assets/scenes/prefabs/airfield/airfield_1_root_lods/airfield_1_root_hlod_normals.png|
 |assets/scenes/prefabs/airfield/airfield_1_root_lods/airfield_1_root_hlod_specular.png|
+|assets/scenes/prefabs/apartments complex/apartments_complex_1_root_lods/apartments_complex_1_root_hlod_albedo.png|
+|assets/scenes/prefabs/apartments complex/apartments_complex_1_root_lods/apartments_complex_1_root_hlod_normals.png|
+|assets/scenes/prefabs/apartments complex/apartments_complex_1_root_lods/apartments_complex_1_root_hlod_specular.png|
+|assets/scenes/prefabs/apartments complex/apartments_complex1/alphatexture.png|
+|assets/scenes/prefabs/apartments complex/apartments_complex1/biometexture.png|
+|assets/scenes/prefabs/apartments complex/apartments_complex1/blendtexture.png|
+|assets/scenes/prefabs/apartments complex/apartments_complex1/heighttexture.png|
+|assets/scenes/prefabs/apartments complex/apartments_complex1/normaltexture.png|
+|assets/scenes/prefabs/apartments complex/apartments_complex1/splattexture0.png|
+|assets/scenes/prefabs/apartments complex/apartments_complex1/splattexture1.png|
+|assets/scenes/prefabs/apartments complex/apartments_complex1/topologytexture.png|
+|assets/scenes/prefabs/apartments complex/apartments_complex1/watertexture.png|
 |assets/scenes/prefabs/arctic research bases/arctic_research_base_a/alphatexture.png|
 |assets/scenes/prefabs/arctic research bases/arctic_research_base_a/biometexture.png|
 |assets/scenes/prefabs/arctic research bases/arctic_research_base_a/blendtexture.png|
@@ -133,6 +145,14 @@
 |assets/scenes/prefabs/compound/compound/splattexture0.png|
 |assets/scenes/prefabs/compound/compound/splattexture1.png|
 |assets/scenes/prefabs/compound/compound/topologytexture.png|
+|assets/scenes/prefabs/compound/compound_redesign/alphatexture.png|
+|assets/scenes/prefabs/compound/compound_redesign/biometexture.png|
+|assets/scenes/prefabs/compound/compound_redesign/blendtexture.png|
+|assets/scenes/prefabs/compound/compound_redesign/heighttexture.png|
+|assets/scenes/prefabs/compound/compound_redesign/normaltexture.png|
+|assets/scenes/prefabs/compound/compound_redesign/splattexture0.png|
+|assets/scenes/prefabs/compound/compound_redesign/splattexture1.png|
+|assets/scenes/prefabs/compound/compound_redesign/topologytexture.png|
 |assets/scenes/prefabs/compound/compound_root_lods/compound_root_hlod_albedo.png|
 |assets/scenes/prefabs/compound/compound_root_lods/compound_root_hlod_normals.png|
 |assets/scenes/prefabs/compound/compound_root_lods/compound_root_hlod_specular.png|
