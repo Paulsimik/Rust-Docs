@@ -793,6 +793,7 @@
 |assets/content/nature/treesprefabs/trees/effects/tree_marking_nospherecast.prefab|
 |assets/content/nature/treesprefabs/trees/effects/tree_marking_spawn.prefab|
 |assets/content/nexus/ferry/effects/nexus-ferry-departure-horn.prefab|
+|assets/content/props/apartment_wood_stove/effects/enabled.prefab|
 |assets/content/props/fog machine/effects/cascade_smoke.prefab|
 |assets/content/props/fog machine/effects/emission.prefab|
 |assets/content/sound/monuments/nuclearmissilesilo/effects/nuclear-missile-silo-elevator-door-close-end.prefab|
@@ -1087,6 +1088,7 @@
 |assets/prefabs/deployable/frankensteintable/effects/mixingtable.enabled.vfx.prefab|
 |assets/prefabs/deployable/fridge/effects/fridge-deploy.prefab|
 |assets/prefabs/deployable/furnace.large/effects/enabled.prefab|
+|assets/prefabs/deployable/furnace.large/effects/furnace-large-deploy.prefab|
 |assets/prefabs/deployable/furnace.large/skins/industrial_large_furnace/effects/industrial-furnace-large-deploy.prefab|
 |assets/prefabs/deployable/furnace/effects/furnace-deploy.prefab|
 |assets/prefabs/deployable/hopper/effects/hopper_bloodspurt.prefab|
@@ -1683,6 +1685,7 @@
 |assets/prefabs/weapons/crossbow/skins/bowless/effects/reload.prefab|
 |assets/prefabs/weapons/crossbow/skins/bowless/effects/reload-arrow.prefab|
 |assets/prefabs/weapons/crossbow/skins/bowless/effects/reload-click.prefab|
+|assets/prefabs/weapons/crossbow/skins/bowless/effects/reload-grab.prefab|
 |assets/prefabs/weapons/deployablesiegeexplosives/effects/explosion canister deployed.prefab|
 |assets/prefabs/weapons/deployablesiegeexplosives/effects/explosion flame deployed.prefab|
 |assets/prefabs/weapons/deployablesiegeexplosives/effects/gas tank damage.prefab|
@@ -1941,10 +1944,13 @@
 |assets/prefabs/weapons/lr300/skins/space/effects/pfx_clip_out_smoke.prefab|
 |assets/prefabs/weapons/lr300/skins/space/effects/w_drop_magazine.prefab|
 |assets/prefabs/weapons/lr300/skins/space/effects/w_eject_rifle_shell.prefab|
+|assets/prefabs/weapons/m16a2/effects/eject_rifle_shell.prefab|
 |assets/prefabs/weapons/m16a2/effects/m16-attack.prefab|
 |assets/prefabs/weapons/m16a2/effects/m16-attack_muzzlebrake.prefab|
 |assets/prefabs/weapons/m16a2/effects/m16-attack_silenced.prefab|
 |assets/prefabs/weapons/m16a2/effects/m16-dryfire.prefab|
+|assets/prefabs/weapons/m16a2/effects/w_drop_magazine.prefab|
+|assets/prefabs/weapons/m16a2/effects/w_eject_rifle_shell.prefab|
 |assets/prefabs/weapons/m249/effects/ammobox_insert.prefab|
 |assets/prefabs/weapons/m249/effects/ammobox_remove.prefab|
 |assets/prefabs/weapons/m249/effects/attack.prefab|
