@@ -50,6 +50,8 @@
 |assets/bundled/prefabs/radtown/sound/tech-parts-open.asset|
 |assets/bundled/prefabs/radtown/sound/vehicle-parts-close.asset|
 |assets/bundled/prefabs/radtown/sound/vehicle-parts-open.asset|
+|assets/bundled/prefabs/ui/apartmentterminal/ui_apartmentterminal_plot.asset|
+|assets/bundled/prefabs/ui/apartmentterminal/ui_apartmentterminal_tab.asset|
 |assets/bundled/prefabs/ui/dialogs/ioconfig/rustbutton.iotoggle.asset|
 |assets/bundled/prefabs/ui/dialogs/techtree/tech-tree-unlock.asset|
 |assets/bundled/prefabs/ui/dialogs/techtree/tech-tree-unlock-multi-start.asset|
@@ -105,8 +107,10 @@
 |assets/bundled/prefabs/ui/menu2/_pages/play/_styles/menuui2_serverbrowser_needspremium.asset|
 |assets/bundled/prefabs/ui/menu2/_pages/play/_styles/menuui2_serverbrowser_quitserver.asset|
 |assets/bundled/prefabs/ui/menu2/_pages/play/_styles/menuui2_serverbrowser_searchbar.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/play/_styles/menuui2_serverbrowser_tag_hardcore.asset|
 |assets/bundled/prefabs/ui/menu2/_pages/play/_styles/menuui2_serverbrowser_tag_premium.asset|
 |assets/bundled/prefabs/ui/menu2/_pages/play/_styles/menuui2_serverbrowser_tag_regular.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/play/_styles/menuui2_serverbrowser_tag_softcore.asset|
 |assets/bundled/prefabs/ui/menu2/_pages/session/_styles/menuui2_button_rustplus_disabled.asset|
 |assets/bundled/prefabs/ui/menu2/_pages/session/_styles/menuui2_button_rustplus_paired.asset|
 |assets/bundled/prefabs/ui/menu2/_pages/session/_styles/menuui2_button_rustplus_unpaired.asset|
@@ -284,6 +288,7 @@
 |assets/content/nature/treessource/bush_monstera_deliciosa/billboards/monstera_deliciosa_m.asset|
 |assets/content/nature/treessource/bush_monstera_deliciosa/billboards/monstera_deliciosa_s.asset|
 |assets/content/nature/treessource/bush_monstera_deliciosa/billboards/monstera_deliciosa_xl.asset|
+|assets/content/nature/treessource/bush_monstera_deliciosa/billboards/monstera_deliciosa_xs.asset|
 |assets/content/nature/treessource/bush_mormon_tea/billboards/mormon_tea_a_lod3.asset|
 |assets/content/nature/treessource/bush_mormon_tea/billboards/mormon_tea_b_lod3.asset|
 |assets/content/nature/treessource/bush_mormon_tea/billboards/mormon_tea_c_lod3.asset|
@@ -2745,6 +2750,11 @@
 |assets/content/props/megaphone/sound/megaphone-stop.asset|
 |assets/content/props/megaphone/sound/megaphone-stop-foley.asset|
 |assets/content/props/mobilephone/sound/mobile-phone-deploy.asset|
+|assets/content/props/playground_assets/sound/playground-seat-dismount.asset|
+|assets/content/props/playground_assets/sound/playground-seat-mount.asset|
+|assets/content/props/playground_assets/sound/roundabout-movement-loop.asset|
+|assets/content/props/playground_assets/sound/swing-movement-loop.asset|
+|assets/content/props/playground_assets/sound/swing-squeak.asset|
 |assets/content/props/strobe light/sound/fast.asset|
 |assets/content/props/strobe light/sound/med.asset|
 |assets/content/props/strobe light/sound/off.asset|
@@ -4873,6 +4883,45 @@
 |assets/content/sound/xmas/gingerbread/gingerbread-impact.asset|
 |assets/content/sound/xmas/present/lootable-present-close.asset|
 |assets/content/sound/xmas/present/lootable-present-open.asset|
+|assets/content/structures/apartments_complex/sound/ambiences/apartment-complex-ambience-apartment_bathroom.asset|
+|assets/content/structures/apartments_complex/sound/ambiences/apartment-complex-ambience-apartment_large.asset|
+|assets/content/structures/apartments_complex/sound/ambiences/apartment-complex-ambience-apartment_medium.asset|
+|assets/content/structures/apartments_complex/sound/ambiences/apartment-complex-ambience-apartment_small.asset|
+|assets/content/structures/apartments_complex/sound/ambiences/apartment-complex-ambience-corridor.asset|
+|assets/content/structures/apartments_complex/sound/ambiences/apartment-complex-ambience-stariwell.asset|
+|assets/content/structures/apartments_complex/sound/ambiences/apartment-complex-ambience-underground.asset|
+|assets/content/structures/apartments_complex/sound/ambiences/apartment-complex-bathroom.ambience-def.asset|
+|assets/content/structures/apartments_complex/sound/ambiences/apartment-complex-bathroom.ambience-list.asset|
+|assets/content/structures/apartments_complex/sound/ambiences/apartment-complex-corridor.ambience-def.asset|
+|assets/content/structures/apartments_complex/sound/ambiences/apartment-complex-corridor.ambience-list.asset|
+|assets/content/structures/apartments_complex/sound/ambiences/apartment-complex-large-room.ambience-def.asset|
+|assets/content/structures/apartments_complex/sound/ambiences/apartment-complex-large-room.ambience-list.asset|
+|assets/content/structures/apartments_complex/sound/ambiences/apartment-complex-medium-room.ambience-def.asset|
+|assets/content/structures/apartments_complex/sound/ambiences/apartment-complex-medium-room.ambience-list.asset|
+|assets/content/structures/apartments_complex/sound/ambiences/apartment-complex-small-room.ambience-def.asset|
+|assets/content/structures/apartments_complex/sound/ambiences/apartment-complex-small-room.ambience-list.asset|
+|assets/content/structures/apartments_complex/sound/ambiences/apartment-complex-stairwell.ambience-def.asset|
+|assets/content/structures/apartments_complex/sound/ambiences/apartment-complex-stairwell.ambience-list.asset|
+|assets/content/structures/apartments_complex/sound/ambiences/apartment-complex-underground.ambience-def.asset|
+|assets/content/structures/apartments_complex/sound/ambiences/apartment-complex-underground.ambience-list.asset|
+|assets/content/structures/apartments_complex/sound/apartment-complex-bathroom.reverb-settings.asset|
+|assets/content/structures/apartments_complex/sound/apartment-complex-core.reverb-settings.asset|
+|assets/content/structures/apartments_complex/sound/apartment-complex-corridor.reverb-settings.asset|
+|assets/content/structures/apartments_complex/sound/apartment-complex-corridor-top.reverb-settings.asset|
+|assets/content/structures/apartments_complex/sound/apartment-complex-entrance.reverb-settings.asset|
+|assets/content/structures/apartments_complex/sound/apartment-complex-garage-underground.reverb-settings.asset|
+|assets/content/structures/apartments_complex/sound/apartment-complex-kitchen.reverb-settings.asset|
+|assets/content/structures/apartments_complex/sound/apartment-complex-living-room.reverb-settings.asset|
+|assets/content/structures/apartments_complex/sound/apartment-complex-reflective-core.reverb-settings.asset|
+|assets/content/structures/apartments_complex/sound/apartment-complex-roof-access.reverb-settings.asset|
+|assets/content/structures/apartments_complex/sound/apartment-complex-stairwell.reverb-settings.asset|
+|assets/content/structures/apartments_complex/sound/apartment-complex-stairwell_entrance.reverb-settings.asset|
+|assets/content/structures/apartments_complex/sound/apartment-complex-underground.reverb-settings.asset|
+|assets/content/structures/apartments_complex/sound/industrial-double-door-close-end.asset|
+|assets/content/structures/apartments_complex/sound/industrial-double-door-close-start.asset|
+|assets/content/structures/apartments_complex/sound/industrial-double-door-open-end.asset|
+|assets/content/structures/apartments_complex/sound/industrial-double-door-open-start.asset|
+|assets/content/structures/apartments_complex/sound/industrial-single-door-open-start.asset|
 |assets/content/structures/arctic_base_modules/sound/arctic-base-garage-door-close-end.asset|
 |assets/content/structures/arctic_base_modules/sound/arctic-base-garage-door-close-start.asset|
 |assets/content/structures/arctic_base_modules/sound/arctic-base-garage-door-open-end.asset|
@@ -4943,6 +4992,9 @@
 |assets/content/structures/lifts/sound/lift-movement-stop.asset|
 |assets/content/structures/office_interiors/sound/vent-close.asset|
 |assets/content/structures/office_interiors/sound/vent-open.asset|
+|assets/content/structures/rentable_shops/sounds/rental-shop-close.asset|
+|assets/content/structures/rentable_shops/sounds/rental-shop-open.asset|
+|assets/content/structures/rentable_shops/sounds/rental-shop-open-neon.asset|
 |assets/content/ui/fonts/_nonenglish/arabic/notosansarabic-bold sdf.asset|
 |assets/content/ui/fonts/_nonenglish/arabic/notosansarabic-regular sdf.asset|
 |assets/content/ui/fonts/_nonenglish/chinese/notosanscjksc-bold chinese dynamic sdf.asset|
@@ -4953,6 +5005,9 @@
 |assets/content/ui/fonts/_nonenglish/japanese/notosanscjksc-bold japanese sdf.asset|
 |assets/content/ui/fonts/_nonenglish/korean/notosanscjksc-bold korean dynamic sdf.asset|
 |assets/content/ui/fonts/_nonenglish/korean/notosanscjksc-bold korean sdf.asset|
+|assets/content/ui/fonts/_nonenglish/notosanscjksc-bold apartmentmailboxes.asset|
+|assets/content/ui/fonts/_nonenglish/notosanscjksc-bold apartmentmediums.asset|
+|assets/content/ui/fonts/_nonenglish/notosanscjksc-bold apartmentpenthouses.asset|
 |assets/content/ui/fonts/_nonenglish/notosanscjksc-bold sdf.asset|
 |assets/content/ui/fonts/_roboto/bootstrap roboto-regular.asset|
 |assets/content/ui/fonts/_roboto/roboto-regular sdf.asset|
@@ -4960,6 +5015,8 @@
 |assets/content/ui/fonts/_robotocondensed/bootstrap robotocondensed-regular sdf.asset|
 |assets/content/ui/fonts/_robotocondensed/robotocondensed-bold sdf.asset|
 |assets/content/ui/fonts/_robotocondensed/robotocondensed-regular sdf.asset|
+|assets/content/ui/fonts/dripping/adrip1 apartments slummy.asset|
+|assets/content/ui/fonts/dripping/adrip1 sdf.asset|
 |assets/content/ui/fonts/droidsansmono/droidsansmono sdf.asset|
 |assets/content/ui/fonts/lcd/lcd sdf spacegun.asset|
 |assets/content/ui/fonts/lcd/lcd sdf.asset|
@@ -4972,6 +5029,7 @@
 |assets/content/ui/fonts/robotomono/robotomono-bold sdf.asset|
 |assets/content/ui/fonts/robotomono/robotomono-regular sdf noztest.asset|
 |assets/content/ui/fonts/superchiby/super chiby sdf.asset|
+|assets/content/ui/fonts/vcr_osd/vcr_osd_mono sdf.asset|
 |assets/content/ui/gameui/achievements/item-complete.asset|
 |assets/content/ui/gameui/achievements/list-complete.asset|
 |assets/content/ui/gameui/achievements/popup.asset|
@@ -5921,7 +5979,9 @@
 |assets/content/workshop/skin/unknown/rorschach skull/skin.balaclava.rorschachskull.itemskin.asset|
 |assets/content/workshop/skin/unknown/rorschach skull/skull.meta.asset|
 |assets/content/world/worldnotificationconfig.asset|
+|assets/demo_compat_manifest.asset|
 |assets/editor/rust/icongeneratormanifest.asset|
+|assets/editor/rust/terrainmeshbakesettings.asset|
 |assets/editor/rust/terraintomeshutilityconfig.asset|
 |assets/editor/rust/tools/fsm/testfsm.asset|
 |assets/manifest.asset|
@@ -5942,6 +6002,7 @@
 |assets/plugins/rust.ui/controls/form.vertical.normal.asset|
 |assets/plugins/rust.ui/controls/menu.normal.asset|
 |assets/plugins/rust.ui/controls/menuoption.normal.asset|
+|assets/plugins/rust.ui/controls/rustbutton.accessorytoggle.asset|
 |assets/plugins/rust.ui/controls/rustbutton.alert.asset|
 |assets/plugins/rust.ui/controls/rustbutton.alt.asset|
 |assets/plugins/rust.ui/controls/rustbutton.altwithdisable.asset|
@@ -6015,6 +6076,7 @@
 |assets/prefabs/ammo/torpedo/sound/torpedo-explosion-underwater.asset|
 |assets/prefabs/ammo/torpedo/sound/torpedo-explosion-underwater-splash.asset|
 |assets/prefabs/ammo/torpedo/sound/torpedo-movement-loop.asset|
+|assets/prefabs/apartment/items/sound/apartment-master-key-unlock.asset|
 |assets/prefabs/boat/sounds/player-boat-creak-large.asset|
 |assets/prefabs/boat/sounds/player-boat-creak-medium.asset|
 |assets/prefabs/boat/sounds/player-boat-creak-small.asset|
@@ -6082,6 +6144,7 @@
 |assets/prefabs/building/wall.frame.shopfront/sound/shop-front-deploy.asset|
 |assets/prefabs/building/wall.frame.shopfront/sound/shop-front-open.asset|
 |assets/prefabs/building/wall.frame.shopfront/sound/transaction_complete.asset|
+|assets/prefabs/building/wall.frame.shopfront/wall.frame.shopfront.metal.skinnable.asset|
 |assets/prefabs/building/wall.window.bars/sound/window-bars-metal-deploy.asset|
 |assets/prefabs/building/wall.window.bars/sound/window-bars-wood-deploy.asset|
 |assets/prefabs/building/wall.window.embrasure/sound/window-embrasure-deploy.asset|
@@ -6096,8 +6159,10 @@
 |assets/prefabs/clothes/backpack.krieg/krieg.large.backpack.skin.asset|
 |assets/prefabs/clothes/backpack.krieg/skeleton.krieg_backpack.asset|
 |assets/prefabs/clothes/ballistic.helmet/sounds/ballistic-helmet-drop.asset|
+|assets/prefabs/clothes/ballistic.helmet/sounds/ballistic-helmet-phys.asset|
 |assets/prefabs/clothes/ballistic.helmet/sounds/ballistic-helmet-pickup.asset|
 |assets/prefabs/clothes/ballistic.vest/sound/ballistic-vest-drop.asset|
+|assets/prefabs/clothes/ballistic.vest/sound/ballistic-vest-phys.asset|
 |assets/prefabs/clothes/ballistic.vest/sound/ballistic-vest-pickup.asset|
 |assets/prefabs/clothes/cocoknightarmor/gloves.cocoknightarmor/cocoknight.gloves.skin.asset|
 |assets/prefabs/clothes/cocoknightarmor/head.cocoknightarmor/cocoknight.head.skin.asset|
@@ -6389,6 +6454,9 @@
 |assets/prefabs/deployable/chair/sound/chair-mount.asset|
 |assets/prefabs/deployable/charity_plushie_01/charity.plushie.01.sitem.asset|
 |assets/prefabs/deployable/charity_plushie_02/charity.plushie.02.sitem.asset|
+|assets/prefabs/deployable/charity_plushie_03/charity.plushie.03.sitem.asset|
+|assets/prefabs/deployable/charity_plushie_04/charity.plushie.04.sitem.asset|
+|assets/prefabs/deployable/charity_plushie_05/charity.plushie.05.sitem.asset|
 |assets/prefabs/deployable/chickencoop/model/coopcabin_col_colliders.asset|
 |assets/prefabs/deployable/chickencoop/sound/chicken-coop-chicken-hatch.asset|
 |assets/prefabs/deployable/chickencoop/sound/chicken-coop-close.asset|
@@ -6901,6 +6969,7 @@
 |assets/prefabs/deployable/vendingmachine/npcsellorders/waterwell_primitive.asset|
 |assets/prefabs/deployable/vendingmachine/npcsellorders/weapons.asset|
 |assets/prefabs/deployable/vendingmachine/npcsellorders/weapons_bandit.asset|
+|assets/prefabs/deployable/vendingmachine/npcvendingmachines/bannedrentableshopitemlist.asset|
 |assets/prefabs/deployable/vendingmachine/sound/ambient_loop.asset|
 |assets/prefabs/deployable/vendingmachine/sound/purchase.asset|
 |assets/prefabs/deployable/vendingmachine/sound/purchase_human.asset|
@@ -6966,6 +7035,7 @@
 |assets/prefabs/dlc/pack_sitems/artist_pack/artist.pack.dlc.sitem.asset|
 |assets/prefabs/dlc/pack_sitems/balloon_pack/balloon.pack.dlc.sitem.asset|
 |assets/prefabs/dlc/pack_sitems/decor_lighting_pack/decor.lighting.dlc.sitem.asset|
+|assets/prefabs/dlc/pack_sitems/glowing_wallpaper_pack/glowing.wallpaper.dlc.sitem.asset|
 |assets/prefabs/dlc/pack_sitems/industrial_decor_pack/industrial_decor_pack.dlc.sitem.asset|
 |assets/prefabs/dlc/pack_sitems/storage_box_pack/storage_box_pack.dlc.sitem.asset|
 |assets/prefabs/food/berries/sound/ui-berries-drop.asset|
@@ -7395,6 +7465,7 @@
 |assets/prefabs/misc/summer_dlc/inner_tube/sound/inner-tube-squeak-small.asset|
 |assets/prefabs/misc/summer_dlc/inner_tube/sound/inner-tube-water-idle-loop.asset|
 |assets/prefabs/misc/summer_dlc/inner_tube/sound/inner-tube-water-movement-loop.asset|
+|assets/prefabs/misc/summer_dlc/instantcamera/instant_camera_flash_toggle.asset|
 |assets/prefabs/misc/summer_dlc/instantcamera/sound/instant-camera-deploy.asset|
 |assets/prefabs/misc/summer_dlc/instantcamera/sound/instant-camera-start-picture.asset|
 |assets/prefabs/misc/summer_dlc/instantcamera/sound/instant-camera-take-picture.asset|
@@ -7754,6 +7825,10 @@
 |assets/prefabs/missions/tutorialisland/tutorialmission08_objective_deploykayak.asset|
 |assets/prefabs/missions/tutorialisland/tutorialmission08_objective_mountkayak.asset|
 |assets/prefabs/missions/tutorialisland/tutorialmission08_objective_movekayak.asset|
+|assets/prefabs/npc/apartment/apartmentsecurityconversation.asset|
+|assets/prefabs/npc/apartment/apartmentsecurityloadout.asset|
+|assets/prefabs/npc/apartment/apartmentvendorconversation.asset|
+|assets/prefabs/npc/apartment/apartmentvendorloadout.asset|
 |assets/prefabs/npc/autoturret/autoturret.skinnable.asset|
 |assets/prefabs/npc/autoturret/skins/industrial_autoturret/industrial.autoturret.skin.asset|
 |assets/prefabs/npc/autoturret/skins/industrial_autoturret/sound/industrial-auto-turret-close.asset|
@@ -8298,6 +8373,33 @@
 |assets/prefabs/wallpaper/skins/2026-06_industrial/skin_assets/floorpaper.concrete.painted.plain.skin.asset|
 |assets/prefabs/wallpaper/skins/2026-06_industrial/skin_assets/floorpaper.concrete.painted.straight.skin.asset|
 |assets/prefabs/wallpaper/skins/2026-06_industrial/skin_assets/floorpaper.concrete.painted.tjunction.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-07_glowing/skin_assets/ceilingpaper.foxfire.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-07_glowing/skin_assets/ceilingpaper.glowing.stars.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-07_glowing/skin_assets/ceilingpaper.graffiti.big.tags.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-07_glowing/skin_assets/ceilingpaper.graffiti.clouds.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-07_glowing/skin_assets/ceilingpaper.graffiti.tags.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-07_glowing/skin_assets/ceilingpaper.graffiti.vehicles.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-07_glowing/skin_assets/ceilingpaperfireflies.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-07_glowing/skin_assets/floorpaper.carpet.neon.hoops.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-07_glowing/skin_assets/floorpaper.carpet.neon.space.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-07_glowing/skin_assets/floorpaper.carpet.neon.splats.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-07_glowing/skin_assets/floorpaper.concrete.graffiti.bend.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-07_glowing/skin_assets/floorpaper.concrete.graffiti.cross.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-07_glowing/skin_assets/floorpaper.concrete.graffiti.end.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-07_glowing/skin_assets/floorpaper.concrete.graffiti.plain.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-07_glowing/skin_assets/floorpaper.concrete.graffiti.straight.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-07_glowing/skin_assets/floorpaper.concrete.graffiti.tjunction.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-07_glowing/skin_assets/wallpaper.explosions.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-07_glowing/skin_assets/wallpaper.firearms.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-07_glowing/skin_assets/wallpaper.foxfire.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-07_glowing/skin_assets/wallpaper.glowing.mushrooms.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-07_glowing/skin_assets/wallpaper.glowing.stars.planets.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-07_glowing/skin_assets/wallpaper.graffiti.base.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-07_glowing/skin_assets/wallpaper.graffiti.hazmats.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-07_glowing/skin_assets/wallpaper.graffiti.raider.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-07_glowing/skin_assets/wallpaper.neon.bolts.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-07_glowing/skin_assets/wallpaper.neon.shapes.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-07_glowing/skin_assets/wallpaper.neon.squiggles.skin.asset|
 |assets/prefabs/wallpaper/sound/wallpaper-deploy.asset|
 |assets/prefabs/wallpaper/sound/wallpaper-place.asset|
 |assets/prefabs/wallpaper/sound/wallpaper-place-viewmodel.asset|
@@ -8305,6 +8407,22 @@
 |assets/prefabs/wallpaper/wallpaper.ceiling.skinnable.asset|
 |assets/prefabs/wallpaper/wallpaper.flooring.skinnable.asset|
 |assets/prefabs/wallpaper/wallpaper.wall.skinnable.asset|
+|assets/prefabs/weapon mods/charms/accessorymanager.asset|
+|assets/prefabs/weapon mods/charms/charm_prefabs/beancan/accessory.beancan.asset|
+|assets/prefabs/weapon mods/charms/charm_prefabs/canbe_charms/backpackcharm/accessory.backpack.asset|
+|assets/prefabs/weapon mods/charms/charm_prefabs/canbe_charms/backpackcharm/accessory.backpackblack.asset|
+|assets/prefabs/weapon mods/charms/charm_prefabs/canbe_charms/charm_fplogo/accessory.fp.asset|
+|assets/prefabs/weapon mods/charms/charm_prefabs/canbe_charms/charm_home_is_a_2x2/accessory.home.asset|
+|assets/prefabs/weapon mods/charms/charm_prefabs/canbe_charms/charm_parental_advisory/accessory.parental.asset|
+|assets/prefabs/weapon mods/charms/charm_prefabs/canbe_charms/charm_raiders_gang/accessory.raiders.asset|
+|assets/prefabs/weapon mods/charms/charm_prefabs/canbe_charms/charm_reflective_rust_logo/accessory.reflective.asset|
+|assets/prefabs/weapon mods/charms/charm_prefabs/canbe_charms/charm_rust_logo/accessory.rust.asset|
+|assets/prefabs/weapon mods/charms/charm_prefabs/canbe_charms/charm_smiley_face/accessory.smiley.asset|
+|assets/prefabs/weapon mods/charms/charm_prefabs/canbe_charms/charm_whenswipe/accessory.wipe.asset|
+|assets/prefabs/weapon mods/charms/charm_prefabs/canbe_charms/frogboots/accessory.frog.asset|
+|assets/prefabs/weapon mods/charms/charm_prefabs/genericcircle/accessory.circle.asset|
+|assets/prefabs/weapon mods/charms/charm_prefabs/pixelsmg/accessory.smg.asset|
+|assets/prefabs/weapon mods/charms/cm_charm.asset|
 |assets/prefabs/weapon mods/flashlight/sound/flashlight-off.asset|
 |assets/prefabs/weapon mods/flashlight/sound/flashlight-on.asset|
 |assets/prefabs/weapon mods/gascompressionoverdrive/sound/gco-attack-layer.asset|
@@ -8505,9 +8623,11 @@
 |assets/prefabs/weapons/crossbow/skins/bowless/sounds/bowless-crossbow-fire.asset|
 |assets/prefabs/weapons/crossbow/skins/bowless/sounds/bowless-crossbow-ironsights-down.asset|
 |assets/prefabs/weapons/crossbow/skins/bowless/sounds/bowless-crossbow-ironsights-up.asset|
+|assets/prefabs/weapons/crossbow/skins/bowless/sounds/bowless-crossbow-phys.asset|
 |assets/prefabs/weapons/crossbow/skins/bowless/sounds/bowless-crossbow-reload.asset|
 |assets/prefabs/weapons/crossbow/skins/bowless/sounds/bowless-crossbow-reload-arrow.asset|
 |assets/prefabs/weapons/crossbow/skins/bowless/sounds/bowless-crossbow-reload-click.asset|
+|assets/prefabs/weapons/crossbow/skins/bowless/sounds/bowless-crossbow-reload-grab.asset|
 |assets/prefabs/weapons/crossbow/skins/bowless/sounds/bowless-crossbow-ui-drop.asset|
 |assets/prefabs/weapons/crossbow/skins/bowless/sounds/bowless-crossbow-ui-pickup.asset|
 |assets/prefabs/weapons/crossbow/sound/crossbow-attack.asset|
