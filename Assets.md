@@ -53,6 +53,7 @@
 |assets/bundled/prefabs/ui/apartmentterminal/ui_apartmentterminal_plot.asset|
 |assets/bundled/prefabs/ui/apartmentterminal/ui_apartmentterminal_tab.asset|
 |assets/bundled/prefabs/ui/dialogs/ioconfig/rustbutton.iotoggle.asset|
+|assets/bundled/prefabs/ui/dialogs/rustbutton.videoplayer.volume.asset|
 |assets/bundled/prefabs/ui/dialogs/techtree/tech-tree-unlock.asset|
 |assets/bundled/prefabs/ui/dialogs/techtree/tech-tree-unlock-multi-start.asset|
 |assets/bundled/prefabs/ui/dialogs/vending machine/styles/vendingadminmenu_amountbuttonstyle.asset|
@@ -155,8 +156,11 @@
 |assets/bundled/prefabs/ui/menu2/_pages/store/navigation/styles/menuui2_store_tabstyle.asset|
 |assets/bundled/prefabs/ui/menu2/_pages/store/navigation/styles/menuui2_store_tabsubbutton.asset|
 |assets/bundled/prefabs/ui/menu2/_pages/store/skinviewer/postfx/main_base_skinviewer.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/store/skinviewer/postfx/main_base_skinviewer_rrp.asset|
 |assets/bundled/prefabs/ui/menu2/_pages/store/skinviewer/postfx/main_biome_skinviewer.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/store/skinviewer/postfx/main_biome_skinviewer_rrp.asset|
 |assets/bundled/prefabs/ui/menu2/_pages/store/skinviewer/postfx/sharpen_vignette_skinviewer.asset|
+|assets/bundled/prefabs/ui/menu2/_pages/store/skinviewer/postfx/sharpen_vignette_skinviewer_rrp.asset|
 |assets/bundled/prefabs/ui/menu2/_styles/menuui2_button_blacktransparent.asset|
 |assets/bundled/prefabs/ui/menu2/_styles/menuui2_button_closeicon.asset|
 |assets/bundled/prefabs/ui/menu2/_styles/menuui2_button_default_grey.asset|
@@ -192,47 +196,96 @@
 |assets/content/building/parts/m_boat_wood/m_boat_door_colliders.asset|
 |assets/content/building/parts/shipping_container/shippingcontainercolourlookup.asset|
 |assets/content/config/entitycolourswaplookup.asset|
+|assets/content/config/powergridstageconfig.asset|
 |assets/content/developer/drawcollidersconfig.asset|
 |assets/content/image effects/postfx_volumes/building_exposure.asset|
+|assets/content/image effects/postfx_volumes/building_exposure_rrp.asset|
 |assets/content/image effects/postfx_volumes/candyworld.asset|
+|assets/content/image effects/postfx_volumes/candyworld_rrp.asset|
 |assets/content/image effects/postfx_volumes/cctv.asset|
 |assets/content/image effects/postfx_volumes/cctv_attackhelicopter.asset|
+|assets/content/image effects/postfx_volumes/cctv_attackhelicopter_rrp.asset|
 |assets/content/image effects/postfx_volumes/cctv_manpad.asset|
+|assets/content/image effects/postfx_volumes/cctv_manpad_rrp.asset|
 |assets/content/image effects/postfx_volumes/cctv_mlrs.asset|
+|assets/content/image effects/postfx_volumes/cctv_mlrs_rrp.asset|
+|assets/content/image effects/postfx_volumes/cctv_rrp.asset|
 |assets/content/image effects/postfx_volumes/cold.asset|
+|assets/content/image effects/postfx_volumes/cold_rrp.asset|
 |assets/content/image effects/postfx_volumes/dof_exposer.asset|
+|assets/content/image effects/postfx_volumes/dof_exposer_rrp.asset|
 |assets/content/image effects/postfx_volumes/explosion.asset|
+|assets/content/image effects/postfx_volumes/explosion_rrp.asset|
 |assets/content/image effects/postfx_volumes/flashbang.asset|
+|assets/content/image effects/postfx_volumes/flashbang_rrp.asset|
 |assets/content/image effects/postfx_volumes/hot.asset|
+|assets/content/image effects/postfx_volumes/hot_rrp.asset|
 |assets/content/image effects/postfx_volumes/hurt.asset|
+|assets/content/image effects/postfx_volumes/hurt_rrp.asset|
 |assets/content/image effects/postfx_volumes/hurtpunch.asset|
+|assets/content/image effects/postfx_volumes/hurtpunch_rrp.asset|
 |assets/content/image effects/postfx_volumes/low_oxygen.asset|
+|assets/content/image effects/postfx_volumes/low_oxygen_rrp.asset|
 |assets/content/image effects/postfx_volumes/main_base.asset|
+|assets/content/image effects/postfx_volumes/main_base_rrp.asset|
 |assets/content/image effects/postfx_volumes/main_biome_arctic.asset|
+|assets/content/image effects/postfx_volumes/main_biome_arctic_rrp.asset|
 |assets/content/image effects/postfx_volumes/main_biome_arid.asset|
+|assets/content/image effects/postfx_volumes/main_biome_arid_rrp.asset|
 |assets/content/image effects/postfx_volumes/main_biome_deepsea.asset|
+|assets/content/image effects/postfx_volumes/main_biome_deepsea_rrp.asset|
 |assets/content/image effects/postfx_volumes/main_biome_jungle.asset|
+|assets/content/image effects/postfx_volumes/main_biome_jungle_rrp.asset|
 |assets/content/image effects/postfx_volumes/main_biome_temperate.asset|
+|assets/content/image effects/postfx_volumes/main_biome_temperate_rrp.asset|
 |assets/content/image effects/postfx_volumes/main_biome_tundra.asset|
+|assets/content/image effects/postfx_volumes/main_biome_tundra_rrp.asset|
 |assets/content/image effects/postfx_volumes/main_underground_monument_softened.asset|
+|assets/content/image effects/postfx_volumes/main_underground_monument_softened_rrp.asset|
 |assets/content/image effects/postfx_volumes/main_underground_neutral.asset|
+|assets/content/image effects/postfx_volumes/main_underground_neutral_rrp.asset|
 |assets/content/image effects/postfx_volumes/main_underwater_lab.asset|
+|assets/content/image effects/postfx_volumes/main_underwater_lab_rrp.asset|
 |assets/content/image effects/postfx_volumes/nightlight.asset|
+|assets/content/image effects/postfx_volumes/nightlight_rrp.asset|
 |assets/content/image effects/postfx_volumes/nvg.asset|
+|assets/content/image effects/postfx_volumes/nvg_rrp.asset|
 |assets/content/image effects/postfx_volumes/player_preview.asset|
+|assets/content/image effects/postfx_volumes/player_preview_rrp.asset|
 |assets/content/image effects/postfx_volumes/radiation.asset|
+|assets/content/image effects/postfx_volumes/radiation_rrp.asset|
 |assets/content/image effects/postfx_volumes/screen_blur.asset|
 |assets/content/image effects/postfx_volumes/screen_blur_heavy.asset|
+|assets/content/image effects/postfx_volumes/screen_blur_heavy_rrp.asset|
+|assets/content/image effects/postfx_volumes/screen_blur_rrp.asset|
+|assets/content/image effects/postfx_volumes/screen_blur_ui_rrp.asset|
 |assets/content/image effects/postfx_volumes/sharpen_vignette.asset|
+|assets/content/image effects/postfx_volumes/sharpen_vignette_rrp.asset|
 |assets/content/image effects/postfx_volumes/skin_viewer.asset|
+|assets/content/image effects/postfx_volumes/skin_viewer_rrp.asset|
 |assets/content/image effects/postfx_volumes/submarine_dof.asset|
+|assets/content/image effects/postfx_volumes/submarine_dof_rrp.asset|
 |assets/content/image effects/postfx_volumes/temporalantialiasing.asset|
+|assets/content/image effects/postfx_volumes/temporalantialiasing_rrp.asset|
 |assets/content/image effects/postfx_volumes/wantedposter_polaroid.asset|
+|assets/content/image effects/postfx_volumes/wantedposter_polaroid_rrp.asset|
 |assets/content/image effects/postfx_volumes/wantedposter_sepia.asset|
+|assets/content/image effects/postfx_volumes/wantedposter_sepia_rrp.asset|
 |assets/content/image effects/postfx_volumes/water.asset|
 |assets/content/image effects/postfx_volumes/water_blur_wiggle.asset|
+|assets/content/image effects/postfx_volumes/water_blur_wiggle_rrp.asset|
 |assets/content/image effects/postfx_volumes/water_goggles.asset|
+|assets/content/image effects/postfx_volumes/water_goggles_rrp.asset|
+|assets/content/image effects/postfx_volumes/water_rrp.asset|
 |assets/content/nature/ores/sound/ore-break-001.asset|
+|assets/content/nature/pipe_hole/sounds/water-pipes-activated.asset|
+|assets/content/nature/pipe_hole/sounds/water-pipes-creak-sting.ambience-def.asset|
+|assets/content/nature/pipe_hole/sounds/water-pipes-creak-sting.ambience-list.asset|
+|assets/content/nature/pipe_hole/sounds/water-pipes-creak-sting.asset|
+|assets/content/nature/pipe_hole/sounds/water-pipes-deactivated.asset|
+|assets/content/nature/pipe_hole/sounds/water-pipes-loop.asset|
+|assets/content/nature/pipe_hole/sounds/water-pipes-tap-turn-close.asset|
+|assets/content/nature/pipe_hole/sounds/water-pipes-tap-turn-open.asset|
 |assets/content/nature/reeds/models/billboards/reeds_dead_lod3.asset|
 |assets/content/nature/reeds/models/billboards/reeds_medium_lod3.asset|
 |assets/content/nature/reeds/models/billboards/reeds_small_dry_lod3.asset|
@@ -455,6 +508,7 @@
 |assets/content/nature/water/content/beaufort_5.asset|
 |assets/content/nature/water/content/ocean_settings.asset|
 |assets/content/nature/water/content/ocean_tropical_shore.asset|
+|assets/content/nature/water/content/water_treatment_tank_water_blend.asset|
 |assets/content/nexus/ferry/sound/nexus-ferry-departure-horn.asset|
 |assets/content/nexus/ferry/sound/nexus-ferry-dock-arrive.asset|
 |assets/content/nexus/ferry/sound/nexus-ferry-dock-depart.asset|
@@ -540,6 +594,7 @@
 |assets/content/player/clothing/skin/player.skinset.female.asset|
 |assets/content/player/clothing/skin/player.skinset.male.asset|
 |assets/content/player/clothing/skin/player.skinset.mannequin.asset|
+|assets/content/player/clothing/special/wolf head dress/hat.wolf.skinnable.asset|
 |assets/content/player/server side ragdoll bone pos data.asset|
 |assets/content/properties/armor/armor.all.asset|
 |assets/content/properties/armor/armor.body.asset|
@@ -1002,6 +1057,7 @@
 |assets/content/properties/lootspawn/collections/rocketammocollection.asset|
 |assets/content/properties/lootspawn/collections/sar with ammo.asset|
 |assets/content/properties/lootspawn/collections/satchels.asset|
+|assets/content/properties/lootspawn/collections/satellitecrashloot.asset|
 |assets/content/properties/lootspawn/collections/scrapsmall.asset|
 |assets/content/properties/lootspawn/collections/smg with ammo.asset|
 |assets/content/properties/lootspawn/collections/spas12 with ammo.asset|
@@ -1016,6 +1072,7 @@
 |assets/content/properties/lootspawn/componentloot/sub/ducttape.asset|
 |assets/content/properties/lootspawn/componentloot/sub/gears.asset|
 |assets/content/properties/lootspawn/componentloot/sub/gearslarge.asset|
+|assets/content/properties/lootspawn/componentloot/sub/heavyfuse.asset|
 |assets/content/properties/lootspawn/componentloot/sub/metal blades.asset|
 |assets/content/properties/lootspawn/componentloot/sub/pipes.asset|
 |assets/content/properties/lootspawn/componentloot/sub/pipes_large.asset|
@@ -1141,6 +1198,7 @@
 |assets/content/properties/lootspawn/electric/teslacoil.asset|
 |assets/content/properties/lootspawn/electric/timer.asset|
 |assets/content/properties/lootspawn/electric/xorswitch.asset|
+|assets/content/properties/lootspawn/enginecomponents.advanced.asset|
 |assets/content/properties/lootspawn/enginecomponents.asset|
 |assets/content/properties/lootspawn/generated/items.common.asset|
 |assets/content/properties/lootspawn/generated/items.rare.asset|
@@ -1522,6 +1580,7 @@
 |assets/content/properties/lootspawn/generated/items/food/crocodilemeat.cooked.asset|
 |assets/content/properties/lootspawn/generated/items/food/deermeat.cooked.asset|
 |assets/content/properties/lootspawn/generated/items/food/deermeat.raw.asset|
+|assets/content/properties/lootspawn/generated/items/food/fishmeat.raw.asset|
 |assets/content/properties/lootspawn/generated/items/food/gloweyes.asset|
 |assets/content/properties/lootspawn/generated/items/food/granolabar.asset|
 |assets/content/properties/lootspawn/generated/items/food/green.berry.asset|
@@ -1529,6 +1588,7 @@
 |assets/content/properties/lootspawn/generated/items/food/horsemeat.cooked.asset|
 |assets/content/properties/lootspawn/generated/items/food/horsemeat.raw.asset|
 |assets/content/properties/lootspawn/generated/items/food/horsemeat.spoiled.asset|
+|assets/content/properties/lootspawn/generated/items/food/humanmeat.raw.asset|
 |assets/content/properties/lootspawn/generated/items/food/jar.pickle.asset|
 |assets/content/properties/lootspawn/generated/items/food/maxhealthtea.asset|
 |assets/content/properties/lootspawn/generated/items/food/meat.boar.asset|
@@ -1543,6 +1603,7 @@
 |assets/content/properties/lootspawn/generated/items/food/pie.pork.asset|
 |assets/content/properties/lootspawn/generated/items/food/pie.pumpkin.asset|
 |assets/content/properties/lootspawn/generated/items/food/pie.survivors.asset|
+|assets/content/properties/lootspawn/generated/items/food/pork.raw.asset|
 |assets/content/properties/lootspawn/generated/items/food/potato.asset|
 |assets/content/properties/lootspawn/generated/items/food/pumpkin.asset|
 |assets/content/properties/lootspawn/generated/items/food/radiationremovetea.asset|
@@ -1550,6 +1611,7 @@
 |assets/content/properties/lootspawn/generated/items/food/radiationtea.asset|
 |assets/content/properties/lootspawn/generated/items/food/red.berry.asset|
 |assets/content/properties/lootspawn/generated/items/food/rose.asset|
+|assets/content/properties/lootspawn/generated/items/food/salmon.asset|
 |assets/content/properties/lootspawn/generated/items/food/scraptea.asset|
 |assets/content/properties/lootspawn/generated/items/food/seed.corn.asset|
 |assets/content/properties/lootspawn/generated/items/food/seed.hemp.asset|
@@ -2088,6 +2150,11 @@
 |assets/content/properties/lootspawn/scientistdrops/scientistrare.asset|
 |assets/content/properties/lootspawn/scientistdrops/scientistuncommon.asset|
 |assets/content/properties/lootspawn/scientistdrops/scientistveryrare.asset|
+|assets/content/properties/lootspawn/supermarketfreezer/full/lootspawn.supermarketfreezer.full.asset|
+|assets/content/properties/lootspawn/supermarketfreezer/reduced/lootspawn.supermarketfreezer.reduced.berries.asset|
+|assets/content/properties/lootspawn/supermarketfreezer/reduced/lootspawn.supermarketfreezer.reduced.meat1.asset|
+|assets/content/properties/lootspawn/supermarketfreezer/reduced/lootspawn.supermarketfreezer.reduced.meat2.asset|
+|assets/content/properties/lootspawn/supermarketfreezer/reduced/lootspawn.supermarketfreezer.reduced.vegetables.asset|
 |assets/content/properties/lootspawn/tools/tools.asset|
 |assets/content/properties/lootspawn/tools/tools_island.asset|
 |assets/content/properties/lootspawn/tools/toolsbasic.asset|
@@ -2096,10 +2163,15 @@
 |assets/content/properties/lootspawn/tools/toolsrare.asset|
 |assets/content/properties/lootspawn/tools/turret.asset|
 |assets/content/properties/lootspawn/vehicles/carburtor.asset|
+|assets/content/properties/lootspawn/vehicles/carburtor_advanced.asset|
 |assets/content/properties/lootspawn/vehicles/crankshaft.asset|
+|assets/content/properties/lootspawn/vehicles/crankshaft_advanced.asset|
 |assets/content/properties/lootspawn/vehicles/pistions.asset|
+|assets/content/properties/lootspawn/vehicles/pistions_advanced.asset|
 |assets/content/properties/lootspawn/vehicles/sparkplugs.asset|
+|assets/content/properties/lootspawn/vehicles/sparkplugs_advanced.asset|
 |assets/content/properties/lootspawn/vehicles/valves.asset|
+|assets/content/properties/lootspawn/vehicles/valves_advanced.asset|
 |assets/content/properties/lootspawn/waterjug.asset|
 |assets/content/properties/lootspawn/workbenchupgrades/subspawns/workbench.upgrade.accelerated.asset|
 |assets/content/properties/lootspawn/workbenchupgrades/subspawns/workbench.upgrade.comfort.asset|
@@ -2221,6 +2293,7 @@
 |assets/content/properties/protection/clothing/burlap_shoes.asset|
 |assets/content/properties/protection/clothing/burlap_trousers.asset|
 |assets/content/properties/protection/clothing/coffeecan_helmet.asset|
+|assets/content/properties/protection/clothing/collared_shirt.asset|
 |assets/content/properties/protection/clothing/draculacape.asset|
 |assets/content/properties/protection/clothing/dragonmask.asset|
 |assets/content/properties/protection/clothing/easter_onesie.asset|
@@ -2313,6 +2386,7 @@
 |assets/content/properties/protection/rowboatprotection.asset|
 |assets/content/properties/protection/samsitedeployed.asset|
 |assets/content/properties/protection/samstatic.asset|
+|assets/content/properties/protection/satellite_remains_protection.asset|
 |assets/content/properties/protection/shelves.asset|
 |assets/content/properties/protection/shieldimprovised.asset|
 |assets/content/properties/protection/shieldmetal.asset|
@@ -2321,6 +2395,7 @@
 |assets/content/properties/protection/siegeweaponprotection.asset|
 |assets/content/properties/protection/signprotection.asset|
 |assets/content/properties/protection/spray.asset|
+|assets/content/properties/protection/stonesculpture.asset|
 |assets/content/properties/protection/submarineprotection.asset|
 |assets/content/properties/protection/tankprotection.asset|
 |assets/content/properties/protection/target_protection.asset|
@@ -2533,6 +2608,7 @@
 |assets/content/properties/spawnpopulation/wood_log_pile.asset|
 |assets/content/properties/steamcategories/associatedgamegift.asset|
 |assets/content/properties/steamcategories/award.steam.asset|
+|assets/content/properties/steamcategories/charity-2026-600.asset|
 |assets/content/properties/steamcategories/clothing-cheap.steam.asset|
 |assets/content/properties/steamcategories/clothing-free.steam.asset|
 |assets/content/properties/steamcategories/clothing-normal.steam.asset|
@@ -2736,9 +2812,40 @@
 |assets/content/props/cassetterecorder/sound/cassette-recorder-rewind.asset|
 |assets/content/props/cassetterecorder/sound/cassette-recorder-start.asset|
 |assets/content/props/cassetterecorder/sound/cassette-recorder-stop.asset|
+|assets/content/props/control_panels/sounds/airdrop-airfield-terminal-charge-complete.asset|
+|assets/content/props/control_panels/sounds/airfield-terminal-charge-interrupt.asset|
+|assets/content/props/control_panels/sounds/airfield-terminal-charge-interval.asset|
+|assets/content/props/control_panels/sounds/airfield-terminal-charge-start.asset|
+|assets/content/props/control_panels/sounds/airfield-terminal-loop.asset|
+|assets/content/props/control_panels/sounds/airfield-terminal-power-off.asset|
+|assets/content/props/control_panels/sounds/airfield-terminal-power-on.asset|
+|assets/content/props/control_panels/sounds/chinook-airfield-terminal-charge-complete.asset|
+|assets/content/props/control_panels/sounds/chinook-airfield-terminal-charge-interval.asset|
+|assets/content/props/control_panels/sounds/chinook-airfield-terminal-loop.asset|
+|assets/content/props/control_panels/sounds/chinook-airfield-terminal-power-on.asset|
 |assets/content/props/discord trophy/discordtrophy.sitem.asset|
+|assets/content/props/electrical_fuse_box/sounds/electrical-box-active-loop.asset|
+|assets/content/props/electrical_fuse_box/sounds/electrical-box-big-close.asset|
+|assets/content/props/electrical_fuse_box/sounds/electrical-box-big-open.asset|
+|assets/content/props/electrical_fuse_box/sounds/electrical-box-fuse-pop.asset|
+|assets/content/props/electrical_fuse_box/sounds/electrical-box-power-off.asset|
+|assets/content/props/electrical_fuse_box/sounds/electrical-box-power-on.asset|
+|assets/content/props/electrical_fuse_box/sounds/electrical-box-small-close.asset|
+|assets/content/props/electrical_fuse_box/sounds/electrical-box-small-open.asset|
 |assets/content/props/fog machine/fogmachine.sitem.asset|
 |assets/content/props/fog machine/sound/fogblast.asset|
+|assets/content/props/gas_pump/sounds/gas-pump-producer-close.asset|
+|assets/content/props/gas_pump/sounds/gas-pump-producer-fill.asset|
+|assets/content/props/gas_pump/sounds/gas-pump-producer-idle-loop.asset|
+|assets/content/props/gas_pump/sounds/gas-pump-producer-open.asset|
+|assets/content/props/gas_pump/sounds/gas-pump-producer-pipe-leak.asset|
+|assets/content/props/gas_pump/sounds/gas-pump-producer-start-1.asset|
+|assets/content/props/gas_pump/sounds/gas-pump-producer-start-2.asset|
+|assets/content/props/gas_pump/sounds/gas-pump-producer-start-3.asset|
+|assets/content/props/gas_pump/sounds/gas-pump-producer-stop.asset|
+|assets/content/props/large_industrial_props/sounds/large-industrial-generator-loop.asset|
+|assets/content/props/large_industrial_props/sounds/large-industrial-generator-power-off.asset|
+|assets/content/props/large_industrial_props/sounds/large-industrial-generator-power-on.asset|
 |assets/content/props/light_fixtures/textures/sirenlight blue sss.asset|
 |assets/content/props/light_fixtures/textures/sirenlight green sss.asset|
 |assets/content/props/light_fixtures/textures/sirenlight orange sss.asset|
@@ -2755,24 +2862,42 @@
 |assets/content/props/playground_assets/sound/roundabout-movement-loop.asset|
 |assets/content/props/playground_assets/sound/swing-movement-loop.asset|
 |assets/content/props/playground_assets/sound/swing-squeak.asset|
+|assets/content/props/powerline_poles/sounds/powerline-electric-box-loop.asset|
 |assets/content/props/strobe light/sound/fast.asset|
 |assets/content/props/strobe light/sound/med.asset|
 |assets/content/props/strobe light/sound/off.asset|
 |assets/content/props/strobe light/sound/on.asset|
 |assets/content/props/strobe light/sound/slow.asset|
 |assets/content/props/strobe light/strobelight.sitem.asset|
+|assets/content/props/supermarket freezer/sound/supermarket-freezer-close.asset|
+|assets/content/props/supermarket freezer/sound/supermarket-freezer-loop.asset|
+|assets/content/props/supermarket freezer/sound/supermarket-freezer-open.asset|
 |assets/content/props/train_tunnels/barricade-damage.asset|
 |assets/content/renderpipelinesettings/defaultrustrenderer.asset|
 |assets/content/renderpipelinesettings/playerpreviewrenderer.asset|
 |assets/content/renderpipelinesettings/rendererfeatures/atmosphererendererfeature.asset|
+|assets/content/renderpipelinesettings/rendererfeatures/atmospherevolumefeature.asset|
+|assets/content/renderpipelinesettings/rendererfeatures/binoculareffectfeature.asset|
+|assets/content/renderpipelinesettings/rendererfeatures/cathoderendererfeature.asset|
+|assets/content/renderpipelinesettings/rendererfeatures/contactshadowsfeature.asset|
 |assets/content/renderpipelinesettings/rendererfeatures/decalsrendererfeature.asset|
+|assets/content/renderpipelinesettings/rendererfeatures/deployguidefeature.asset|
+|assets/content/renderpipelinesettings/rendererfeatures/dofrendererfeature.asset|
+|assets/content/renderpipelinesettings/rendererfeatures/foliagedisplacementfeature.asset|
+|assets/content/renderpipelinesettings/rendererfeatures/geometryclipmapterraindepthprepassrendererfeature.asset|
+|assets/content/renderpipelinesettings/rendererfeatures/lensdirtinessrendererfeature.asset|
+|assets/content/renderpipelinesettings/rendererfeatures/nightlightrendererfeature.asset|
 |assets/content/renderpipelinesettings/rendererfeatures/postopaquedepthfeature.asset|
 |assets/content/renderpipelinesettings/rendererfeatures/postsubsurfacefeature.asset|
 |assets/content/renderpipelinesettings/rendererfeatures/spatialenvironmentvolumerendererfeature.asset|
+|assets/content/renderpipelinesettings/rendererfeatures/ssaorendererfeature.asset|
+|assets/content/renderpipelinesettings/rendererfeatures/terrainholerendererfeature.asset|
+|assets/content/renderpipelinesettings/rendererfeatures/viewmodelrendererfeature.asset|
 |assets/content/renderpipelinesettings/rendererfeatures/volumetriccloudsfeature.asset|
 |assets/content/renderpipelinesettings/rendererfeatures/volumetricfogfeature.asset|
 |assets/content/renderpipelinesettings/rendererfeatures/waterrendererfeature.asset|
-|assets/content/renderpipelinesettings/rustrenderpipelineasset.asset|
+|assets/content/renderpipelinesettings/skinviewerrenderer.asset|
+|assets/content/renderpipelinesettings/skinviewerviewmodelrenderer.asset|
 |assets/content/shaders/subsurfaceprofiles/ssp_skindefault.asset|
 |assets/content/sound/ambience/ambience-none.ambience-def.asset|
 |assets/content/sound/ambience/animals/sting-coyote/sting-coyote.ambience-def.asset|
@@ -4983,6 +5108,11 @@
 |assets/content/structures/harbor/cranes/sound/harbor-crane-root-rotate-loop.asset|
 |assets/content/structures/harbor/cranes/sound/harbor-crane-root-rotate-start.asset|
 |assets/content/structures/harbor/cranes/sound/harbor-crane-root-rotate-stop.asset|
+|assets/content/structures/industrial_structures/sounds/water-tank-blade-loop.asset|
+|assets/content/structures/industrial_structures/sounds/water-tank-spin-powerdown.asset|
+|assets/content/structures/industrial_structures/sounds/water-tank-spin-start.asset|
+|assets/content/structures/industrial_structures/sounds/water-tank-spin-stop.asset|
+|assets/content/structures/industrial_structures/sounds/water-tank-water-loop.asset|
 |assets/content/structures/jungle_ziggurat/sound/ziggurat-door-close-end.asset|
 |assets/content/structures/jungle_ziggurat/sound/ziggurat-door-close-start.asset|
 |assets/content/structures/jungle_ziggurat/sound/ziggurat-door-open-end.asset|
@@ -5979,6 +6109,7 @@
 |assets/content/workshop/skin/unknown/rorschach skull/skin.balaclava.rorschachskull.itemskin.asset|
 |assets/content/workshop/skin/unknown/rorschach skull/skull.meta.asset|
 |assets/content/world/worldnotificationconfig.asset|
+|assets/defaultvolumeprofile.asset|
 |assets/demo_compat_manifest.asset|
 |assets/editor/rust/icongeneratormanifest.asset|
 |assets/editor/rust/terrainmeshbakesettings.asset|
@@ -6076,7 +6207,6 @@
 |assets/prefabs/ammo/torpedo/sound/torpedo-explosion-underwater.asset|
 |assets/prefabs/ammo/torpedo/sound/torpedo-explosion-underwater-splash.asset|
 |assets/prefabs/ammo/torpedo/sound/torpedo-movement-loop.asset|
-|assets/prefabs/apartment/items/sound/apartment-master-key-unlock.asset|
 |assets/prefabs/boat/sounds/player-boat-creak-large.asset|
 |assets/prefabs/boat/sounds/player-boat-creak-medium.asset|
 |assets/prefabs/boat/sounds/player-boat-creak-small.asset|
@@ -6441,6 +6571,8 @@
 |assets/prefabs/deployable/ceiling light/sound/ceiling-light-turn-on-quiet.asset|
 |assets/prefabs/deployable/chair/chair.deployed.skinnable.asset|
 |assets/prefabs/deployable/chair/ice_throne/chair.icethrone.skin.asset|
+|assets/prefabs/deployable/chair/skins/bar_games_bar_stools/bar.games.bar.stool.metal.skin.asset|
+|assets/prefabs/deployable/chair/skins/bar_games_bar_stools/bar.games.bar.stool.wood.skin.asset|
 |assets/prefabs/deployable/chair/skins/cozy_beanbag_seat/beanbag.seat.fabric.skin.asset|
 |assets/prefabs/deployable/chair/skins/cozy_beanbag_seat/beanbag.seat.leather.skin.asset|
 |assets/prefabs/deployable/chair/skins/cozy_beanbag_seat/models/beanbag_seat_col_colliders.asset|
@@ -6456,7 +6588,6 @@
 |assets/prefabs/deployable/charity_plushie_02/charity.plushie.02.sitem.asset|
 |assets/prefabs/deployable/charity_plushie_03/charity.plushie.03.sitem.asset|
 |assets/prefabs/deployable/charity_plushie_04/charity.plushie.04.sitem.asset|
-|assets/prefabs/deployable/charity_plushie_05/charity.plushie.05.sitem.asset|
 |assets/prefabs/deployable/chickencoop/model/coopcabin_col_colliders.asset|
 |assets/prefabs/deployable/chickencoop/sound/chicken-coop-chicken-hatch.asset|
 |assets/prefabs/deployable/chickencoop/sound/chicken-coop-close.asset|
@@ -6503,6 +6634,15 @@
 |assets/prefabs/deployable/cookingworkbench/sound/cooking-workbench-oven-open.asset|
 |assets/prefabs/deployable/cookingworkbench/sound/visual-cooking-kettle-boil-loop-01.asset|
 |assets/prefabs/deployable/cookingworkbench/sound/visual-cooking-meat-sizzle-loop-01.asset|
+|assets/prefabs/deployable/dartboard/sound/dartboard-bullseye.asset|
+|assets/prefabs/deployable/dartboard/sound/dartboard-dart-deploy.asset|
+|assets/prefabs/deployable/dartboard/sound/dartboard-dart-impact.asset|
+|assets/prefabs/deployable/dartboard/sound/dartboard-dart-throw.asset|
+|assets/prefabs/deployable/dartboard/sound/dartboard-deploy.asset|
+|assets/prefabs/deployable/dartboard/sound/dartboard-dismount.asset|
+|assets/prefabs/deployable/dartboard/sound/dartboard-mount.asset|
+|assets/prefabs/deployable/dartboard/sound/dartboard-reset.asset|
+|assets/prefabs/deployable/dartboard/sound/dartboard-win.asset|
 |assets/prefabs/deployable/discord plush/discord.plushie.sitem.asset|
 |assets/prefabs/deployable/drone/sound/drone-deploy.asset|
 |assets/prefabs/deployable/drone/sound/drone-destroy.asset|
@@ -6678,6 +6818,8 @@
 |assets/prefabs/deployable/mannequin/sound/mannequin-close.asset|
 |assets/prefabs/deployable/mannequin/sound/mannequin-deploy.asset|
 |assets/prefabs/deployable/mannequin/sound/mannequin-open.asset|
+|assets/prefabs/deployable/minifridge/minifridge.deployed.skinnable.asset|
+|assets/prefabs/deployable/minifridge/skins/gamesroom_minifridge/gamesroom.minifridge.skin.asset|
 |assets/prefabs/deployable/mixingtable/sound/mixing-table-close.asset|
 |assets/prefabs/deployable/mixingtable/sound/mixing-table-deploy.asset|
 |assets/prefabs/deployable/mixingtable/sound/mixing-table-drop.asset|
@@ -6805,6 +6947,14 @@
 |assets/prefabs/deployable/playerioents/waterpump/sound/water-pump-loop.asset|
 |assets/prefabs/deployable/playerioents/waterpump/sound/water-pump-start.asset|
 |assets/prefabs/deployable/playerioents/waterpump/sound/water-pump-stop.asset|
+|assets/prefabs/deployable/pooltable/sound/pool-table-ball-impact-ball.asset|
+|assets/prefabs/deployable/pooltable/sound/pool-table-ball-impact-bumper.asset|
+|assets/prefabs/deployable/pooltable/sound/pool-table-ball-roll.asset|
+|assets/prefabs/deployable/pooltable/sound/pool-table-deploy.asset|
+|assets/prefabs/deployable/pooltable/sound/pool-table-mount.asset|
+|assets/prefabs/deployable/pooltable/sound/pool-table-rack.asset|
+|assets/prefabs/deployable/pooltable/sound/pool-table-shoot.asset|
+|assets/prefabs/deployable/pooltable/sound/pool-table-sink-ball.asset|
 |assets/prefabs/deployable/primitive lootbox/sound/primitive-lootbox-destroy.asset|
 |assets/prefabs/deployable/ptz security camera/sound/ptz-camera-deploy.asset|
 |assets/prefabs/deployable/ptz security camera/sound/ptz-camera-movement-loop.asset|
@@ -6818,6 +6968,7 @@
 |assets/prefabs/deployable/reactive target/sounds/reactive-target-deploy.asset|
 |assets/prefabs/deployable/reactive target/sounds/reactive-target-lower.asset|
 |assets/prefabs/deployable/reactive target/sounds/reactive-target-raise.asset|
+|assets/prefabs/deployable/recycler/config/recyclerconfig.asset|
 |assets/prefabs/deployable/recycler/sounds/grinding_loop.asset|
 |assets/prefabs/deployable/recycler/sounds/grinding_loop_slow.asset|
 |assets/prefabs/deployable/recycler/sounds/recycler-close.asset|
@@ -6845,6 +6996,7 @@
 |assets/prefabs/deployable/sculptures/icesculpture/sound/ice-sculpture-drop.asset|
 |assets/prefabs/deployable/sculptures/icesculpture/sound/ice-sculpture-impact.asset|
 |assets/prefabs/deployable/sculptures/icesculpture/sound/ice-sculpture-pickup.asset|
+|assets/prefabs/deployable/sculptures/rocksculpture/sculpture.rock.sitem.asset|
 |assets/prefabs/deployable/search light/sound/search-light-active-loop.ambience-def.asset|
 |assets/prefabs/deployable/search light/sound/search-light-active-loop.ambience-list.asset|
 |assets/prefabs/deployable/search light/sound/search-light-active-loop.asset|
@@ -6879,6 +7031,8 @@
 |assets/prefabs/deployable/signs/sound/sign-post-deploy.asset|
 |assets/prefabs/deployable/signs/sound/town-sign-deploy.asset|
 |assets/prefabs/deployable/signs/sound/wood-sign-deploy.asset|
+|assets/prefabs/deployable/single shot trap/shotgun.trap.skinnable.asset|
+|assets/prefabs/deployable/single shot trap/skins/gamesroom_shotgun_trap/gamesroom.shotguntrap.skin.asset|
 |assets/prefabs/deployable/single shot trap/sound/shotgun-trap-close.asset|
 |assets/prefabs/deployable/single shot trap/sound/shotgun-trap-deploy.asset|
 |assets/prefabs/deployable/single shot trap/sound/shotgun-trap-fire.asset|
@@ -7034,6 +7188,7 @@
 |assets/prefabs/dlc.warhammer.asset|
 |assets/prefabs/dlc/pack_sitems/artist_pack/artist.pack.dlc.sitem.asset|
 |assets/prefabs/dlc/pack_sitems/balloon_pack/balloon.pack.dlc.sitem.asset|
+|assets/prefabs/dlc/pack_sitems/bar_games_pack/bar_games_pack.dlc.sitem.asset|
 |assets/prefabs/dlc/pack_sitems/decor_lighting_pack/decor.lighting.dlc.sitem.asset|
 |assets/prefabs/dlc/pack_sitems/glowing_wallpaper_pack/glowing.wallpaper.dlc.sitem.asset|
 |assets/prefabs/dlc/pack_sitems/industrial_decor_pack/industrial_decor_pack.dlc.sitem.asset|
@@ -7117,6 +7272,11 @@
 |assets/prefabs/instruments/trumpet/trumpet.weapon.asset|
 |assets/prefabs/instruments/tuba/tuba.weapon.asset|
 |assets/prefabs/instruments/xylophone/xylophone.deployed.asset|
+|assets/prefabs/io/electric/switches/gearbox/sounds/gearbox-close-01.asset|
+|assets/prefabs/io/electric/switches/gearbox/sounds/gearbox-loop.asset|
+|assets/prefabs/io/electric/switches/gearbox/sounds/gearbox-open-01.asset|
+|assets/prefabs/io/electric/switches/gearbox/sounds/gearbox-start.asset|
+|assets/prefabs/io/electric/switches/gearbox/sounds/gearbox-stop.asset|
 |assets/prefabs/locks/keypad/lock.code.skinnable.asset|
 |assets/prefabs/locks/keypad/skins/codelock_a_pilot/lock.code.a.pilot.skin.asset|
 |assets/prefabs/locks/keypad/sound/lock-code-denied.asset|
@@ -7402,6 +7562,7 @@
 |assets/prefabs/misc/pinata/sound/pinata-deploy.asset|
 |assets/prefabs/misc/pinata/sound/pinata-destroy.asset|
 |assets/prefabs/misc/pinata/sound/pinata-impact.asset|
+|assets/prefabs/misc/smallbackpack/small.backpack.skinnable.asset|
 |assets/prefabs/misc/summer_dlc/abovegroundpool/sound/above-ground-pool-deploy.asset|
 |assets/prefabs/misc/summer_dlc/beach_chair/beachchair.skinnable.asset|
 |assets/prefabs/misc/summer_dlc/beach_chair/beachparasol.skinnable.asset|
@@ -7632,7 +7793,6 @@
 |assets/prefabs/misc/xmas/wreath/wreath.sitem.asset|
 |assets/prefabs/misc/xmas/xmas2020.asset|
 |assets/prefabs/missions/activatesensor.asset|
-|assets/prefabs/missions/basictreasuremission.asset|
 |assets/prefabs/missions/batteryhunt.asset|
 |assets/prefabs/missions/boarhunt_1.asset|
 |assets/prefabs/missions/boarhunt_basic.asset|
@@ -7645,8 +7805,8 @@
 |assets/prefabs/missions/fisherman_oilhunt.asset|
 |assets/prefabs/missions/fisherman_tackle.asset|
 |assets/prefabs/missions/harvestmission.asset|
+|assets/prefabs/missions/hunter_treasurehunt.asset|
 |assets/prefabs/missions/lootspawns/bottlespawn.asset|
-|assets/prefabs/missions/lootspawns/deepseatreasurespawn.asset|
 |assets/prefabs/missions/lootspawns/deepseatreasurespawn_armorplates.asset|
 |assets/prefabs/missions/lootspawns/logspawn.asset|
 |assets/prefabs/missions/lootspawns/tacklespawn.asset|
@@ -8057,9 +8217,26 @@
 |assets/prefabs/player/gestures/sound/gesture-anim-victory.asset|
 |assets/prefabs/player/gestures/sound/gesture-anim-wave.asset|
 |assets/prefabs/player/player_skeleton.asset|
+|assets/prefabs/resource/liquidproducer/maintainablepipewaterproducerrate.asset|
+|assets/prefabs/resource/liquidproducer/staticcrudeproducerrate.asset|
+|assets/prefabs/resource/liquidproducer/staticwaterproducerrate.asset|
 |assets/prefabs/resource/natural beehive/materials/beehive sss.asset|
 |assets/prefabs/resource/natural beehive/materials/honey sss.asset|
 |assets/prefabs/resource/resourcegatheritemconfig.asset|
+|assets/prefabs/satellitecrash/controlcomputer/sound/satellite-control-computer-active-loop.asset|
+|assets/prefabs/satellitecrash/controlcomputer/sound/satellite-control-computer-close.asset|
+|assets/prefabs/satellitecrash/controlcomputer/sound/satellite-control-computer-control-satellite.asset|
+|assets/prefabs/satellitecrash/controlcomputer/sound/satellite-control-computer-dismount.asset|
+|assets/prefabs/satellitecrash/controlcomputer/sound/satellite-control-computer-lock-satellite-trajectory.asset|
+|assets/prefabs/satellitecrash/controlcomputer/sound/satellite-control-computer-mount.asset|
+|assets/prefabs/satellitecrash/controlcomputer/sound/satellite-control-computer-open.asset|
+|assets/prefabs/satellitecrash/controlcomputer/sound/satellite-control-computer-power-off.asset|
+|assets/prefabs/satellitecrash/controlcomputer/sound/satellite-control-computer-power-on.asset|
+|assets/prefabs/satellitecrash/controlcomputer/sound/satellite-control-computer-select-satellite.asset|
+|assets/prefabs/satellitecrash/sounds/satellite-crash-explosion.asset|
+|assets/prefabs/satellitecrash/sounds/satellite-crash-orbital-hum-loop.asset|
+|assets/prefabs/satellitecrash/sounds/satellite-crash-reentry-whoosh.asset|
+|assets/prefabs/satellitecrash/sounds/satellite-crash-whistle.asset|
 |assets/prefabs/tea/sound/tea-sip.asset|
 |assets/prefabs/tea/sound/ui-tea-drop.asset|
 |assets/prefabs/tea/sound/ui-tea-pick-up.asset|
@@ -8157,6 +8334,20 @@
 |assets/prefabs/tools/lumberjack_tools/sound/lumberjack-axe-impact-muted.asset|
 |assets/prefabs/tools/lumberjack_tools/sound/lumberjack-pick-impact.asset|
 |assets/prefabs/tools/lumberjack_tools/sound/lumberjack-pick-impact-muted.asset|
+|assets/prefabs/tools/master key/sound/apartment-master-key-attack-a-001.asset|
+|assets/prefabs/tools/master key/sound/apartment-master-key-attack-a-002.asset|
+|assets/prefabs/tools/master key/sound/apartment-master-key-attack-a-003.asset|
+|assets/prefabs/tools/master key/sound/apartment-master-key-attack-b-001.asset|
+|assets/prefabs/tools/master key/sound/apartment-master-key-attack-b-002.asset|
+|assets/prefabs/tools/master key/sound/apartment-master-key-attack-b-003.asset|
+|assets/prefabs/tools/master key/sound/apartment-master-key-attack-b-004.asset|
+|assets/prefabs/tools/master key/sound/apartment-master-key-attack-b-005.asset|
+|assets/prefabs/tools/master key/sound/apartment-master-key-attack-b-006.asset|
+|assets/prefabs/tools/master key/sound/apartment-master-key-deploy.asset|
+|assets/prefabs/tools/master key/sound/apartment-master-key-end.asset|
+|assets/prefabs/tools/master key/sound/apartment-master-key-start.asset|
+|assets/prefabs/tools/master key/sound/apartment-master-key-unlock.asset|
+|assets/prefabs/tools/master key/sound/apartment-master-key-unlock-loop.asset|
 |assets/prefabs/tools/medical syringe/sound/syringe-deploy.asset|
 |assets/prefabs/tools/medical syringe/sound/syringe-deploy-3p.asset|
 |assets/prefabs/tools/medical syringe/sound/syringe-inject-friend.asset|
@@ -8209,6 +8400,9 @@
 |assets/prefabs/tools/spraycan/sprays/skins/artist.pack.dlc/spray.decal.artistdlc_rosette_2nd.itemskin.asset|
 |assets/prefabs/tools/spraycan/sprays/skins/artist.pack.dlc/spray.decal.artistdlc_rosette_3rd.itemskin.asset|
 |assets/prefabs/tools/spraycan/sprays/skins/artist.pack.dlc/spray.decal.artistdlc_rosette_last.itemskin.asset|
+|assets/prefabs/tools/spraycan/sprays/skins/bar.games.dlc/spray_decal.bar.games.circle.itemskin.asset|
+|assets/prefabs/tools/spraycan/sprays/skins/bar.games.dlc/spray_decal.bar.games.cross.itemskin.asset|
+|assets/prefabs/tools/spraycan/sprays/skins/bar.games.dlc/spray_decal.bar.games.grid.itemskin.asset|
 |assets/prefabs/tools/spraycan/sprays/skins/industrial.dlc/spray.decal.industrial_dlc_keepout.itemskin.asset|
 |assets/prefabs/tools/spraycan/sprays/skins/industrial.dlc/spray.decal.industrial_dlc_toxic.itemskin.asset|
 |assets/prefabs/tools/spraycan/sprays/skins/jungledlc/spray.decal.jungledlc_skull.itemskin.asset|
@@ -8400,6 +8594,8 @@
 |assets/prefabs/wallpaper/skins/2026-07_glowing/skin_assets/wallpaper.neon.bolts.skin.asset|
 |assets/prefabs/wallpaper/skins/2026-07_glowing/skin_assets/wallpaper.neon.shapes.skin.asset|
 |assets/prefabs/wallpaper/skins/2026-07_glowing/skin_assets/wallpaper.neon.squiggles.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-08_bar.games/skin_assets/floorpaper.bar.games.carpet.red.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-08_bar.games/skin_assets/wallpaper.bar.games.wood.panel.skin.asset|
 |assets/prefabs/wallpaper/sound/wallpaper-deploy.asset|
 |assets/prefabs/wallpaper/sound/wallpaper-place.asset|
 |assets/prefabs/wallpaper/sound/wallpaper-place-viewmodel.asset|
@@ -8423,6 +8619,8 @@
 |assets/prefabs/weapon mods/charms/charm_prefabs/genericcircle/accessory.circle.asset|
 |assets/prefabs/weapon mods/charms/charm_prefabs/pixelsmg/accessory.smg.asset|
 |assets/prefabs/weapon mods/charms/cm_charm.asset|
+|assets/prefabs/weapon mods/charms/sounds/charm-equip.asset|
+|assets/prefabs/weapon mods/charms/sounds/charm-unequip.asset|
 |assets/prefabs/weapon mods/flashlight/sound/flashlight-off.asset|
 |assets/prefabs/weapon mods/flashlight/sound/flashlight-on.asset|
 |assets/prefabs/weapon mods/gascompressionoverdrive/sound/gco-attack-layer.asset|
@@ -9430,6 +9628,8 @@
 |assets/prefabs/weapons/wooden spear/spear_wooden.skinnable.asset|
 |assets/prefabs/worldconfig/resources/primitive_world.asset|
 |assets/projectsettings/uiparticleprojectsettings.asset|
+|assets/resources/rustrenderpipelineasset.asset|
+|assets/resources/rustrenderpipelineglobalsettings.asset|
 |assets/resources/shadowqualitypresetsconfig.asset|
 |assets/resources/train wagon loot data.asset|
 |assets/resources/worldspline prefab shared data.asset|
@@ -9753,6 +9953,9 @@
 |assets/scenes/prefabs/floating city/floating_cities_flat_terrain/floating_city_3_shorevector.asset|
 |assets/scenes/prefabs/floating city/floating_cities_flat_terrain/floating_city_4_shorevector.asset|
 |assets/scenes/prefabs/floating city/floating_cities_flat_terrain/floating_city_shorevector.asset|
+|assets/scenes/prefabs/gas_station/sounds/gas-station-car-lift-loop.asset|
+|assets/scenes/prefabs/gas_station/sounds/gas-station-car-lift-start.asset|
+|assets/scenes/prefabs/gas_station/sounds/gas-station-car-lift-stop.asset|
 |assets/scenes/prefabs/jungle ziggurat/jungle_ziggurat_a.asset|
 |assets/scenes/prefabs/trainyard/sound/coaling-tower-arm-movement-lower.asset|
 |assets/scenes/prefabs/trainyard/sound/coaling-tower-arm-movement-raise.asset|
@@ -9785,6 +9988,7 @@
 |assets/scenes/test/burstcloth/burstclothmats/rope_bcmat.asset|
 |assets/scenes/test/burstcloth/burstclothmats/spring_bcmat.asset|
 |assets/scenes/test/cargodocking/cargodocking terrain.asset|
+|assets/scenes/test/characteranimationandskinviewerscene/buttonstyle.asset|
 |assets/scenes/test/coastal_cliffs/coastal_cliffs_test.asset|
 |assets/scenes/test/waterworld/waterworld terrain.asset|
 |assets/scripts/entity/misc/f15/sound/f15e-flight-loop.asset|
@@ -9802,6 +10006,9 @@
 |assets/scripts/game/techtree/techtreet3_hardcore.asset|
 |assets/scripts/postprocessing/customposteffects/resources/custom post effects resources.asset|
 |assets/scripts/postprocessing/postprocessing/postprocessresources.asset|
+|assets/scripts/rendering/terrain/holeshapes/cube_holeshape.asset|
+|assets/scripts/rendering/terrain/holeshapes/cylinder_holeshape.asset|
+|assets/scripts/rendering/terrain/holeshapes/triangleprism_holeshape.asset|
 |assets/scripts/viewmodel/viewmodelcamera/config/defaultviewmodelclearvaluesconfig.asset|
 |assets/skins.asset|
 |assets/textmesh pro/resources/tmp settings.asset|
@@ -9827,7 +10034,6 @@
 |assets/third party/fimpossible creations/plugins - animating/legs animator/presets directory/leg custom module presets/utility_parameters_unglue on - ismoving.asset|
 |assets/third party/fimpossible creations/plugins - animating/legs animator/presets directory/leg custom module presets/utility_redirect raycasting.asset|
 |assets/third party/fimpossible creations/plugins - animating/legs animator/presets directory/leg custom module presets/utility_step further with velocity.asset|
-|assets/third party/hotreload/resources/editor/hotreloadsettingsobject.asset|
 |assets/third party/volumetriclightbeam/resources/config.asset|
 |assets/workshop/rustslider.workshopblue.asset|
 |assets/workshop/rustslider.workshopcutoff.asset|
