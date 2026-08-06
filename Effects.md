@@ -796,6 +796,7 @@
 |assets/content/props/apartment_wood_stove/effects/enabled.prefab|
 |assets/content/props/fog machine/effects/cascade_smoke.prefab|
 |assets/content/props/fog machine/effects/emission.prefab|
+|assets/content/props/supermarket freezer/effects/enabled.prefab|
 |assets/content/sound/monuments/nuclearmissilesilo/effects/nuclear-missile-silo-elevator-door-close-end.prefab|
 |assets/content/sound/monuments/nuclearmissilesilo/effects/nuclear-missile-silo-elevator-door-close-start.prefab|
 |assets/content/sound/monuments/nuclearmissilesilo/effects/nuclear-missile-silo-elevator-door-open-end.prefab|
@@ -1071,6 +1072,10 @@
 |assets/prefabs/deployable/cookingworkbench/effects/cookingtable.bbq.enabled.vfx.prefab|
 |assets/prefabs/deployable/cookingworkbench/effects/cookingtable.enabled.vfx.prefab|
 |assets/prefabs/deployable/cookingworkbench/effects/cooking-workbench-deploy.prefab|
+|assets/prefabs/deployable/dartboard/effects/dart_impact.prefab|
+|assets/prefabs/deployable/dartboard/effects/dart_win_boom.prefab|
+|assets/prefabs/deployable/dartboard/effects/dartboard_bullseye_boom.prefab|
+|assets/prefabs/deployable/dartboard/effects/dartboard-deploy.prefab|
 |assets/prefabs/deployable/drone/effects/drone-deploy.prefab|
 |assets/prefabs/deployable/drone/effects/drone-destroy.prefab|
 |assets/prefabs/deployable/drone/effects/drone-impact.prefab|
@@ -1140,6 +1145,9 @@
 |assets/prefabs/deployable/playerioents/lights/cozypack/orientablespotlight/effects/electric-spotlight-tripod-deploy.prefab|
 |assets/prefabs/deployable/playerioents/teslacoil/effects/pfx tesla coil enabled.prefab|
 |assets/prefabs/deployable/playerioents/waterpump/effects/waterpump-deploy.prefab|
+|assets/prefabs/deployable/pooltable/effects/pooltable.confetti.prefab|
+|assets/prefabs/deployable/pooltable/effects/pool-table-deploy.prefab|
+|assets/prefabs/deployable/pooltable/effects/pool-table-rack.prefab|
 |assets/prefabs/deployable/ptz security camera/effects/ptz-camera-deploy.prefab|
 |assets/prefabs/deployable/quarry/effects/mining-quarry-deploy.prefab|
 |assets/prefabs/deployable/reactive target/effects/bullseye.prefab|
@@ -1164,6 +1172,7 @@
 |assets/prefabs/deployable/sculptures/icesculpture/effects/lightcolors.prefab|
 |assets/prefabs/deployable/sculptures/icesculpture/effects/sculpture fumes.prefab|
 |assets/prefabs/deployable/sculptures/icesculpture/effects/sculpture impact.prefab|
+|assets/prefabs/deployable/sculptures/rocksculpture/effects/sculpture impact rock.prefab|
 |assets/prefabs/deployable/search light/effects/search-light-deploy.prefab|
 |assets/prefabs/deployable/shelves/effects/shelves-deploy.prefab|
 |assets/prefabs/deployable/shelves/skins/salvaged_bamboo_shelves/effects/bamboo-salvaged-shelves-deploy.prefab|
@@ -1589,6 +1598,8 @@
 |assets/prefabs/weapons/blunderbuss/effects/blunderbuss_3p_shell_eject_1_green.prefab|
 |assets/prefabs/weapons/blunderbuss/effects/blunderbuss_3p_shell_eject_1_red.prefab|
 |assets/prefabs/weapons/blunderbuss/effects/pfx_open_barrel_smoke.prefab|
+|assets/prefabs/weapons/blunderbuss/effects/w_eject_shotgun_shell_1.prefab|
+|assets/prefabs/weapons/blunderbuss/effects/w_eject_shotgun_shell_2.prefab|
 |assets/prefabs/weapons/bolt rifle/effects/attack.prefab|
 |assets/prefabs/weapons/bolt rifle/effects/attack_muzzlebrake.prefab|
 |assets/prefabs/weapons/bolt rifle/effects/attack_shake.prefab|
@@ -2449,9 +2460,9 @@
 |assets/prefabs/weapons/wooden spear/effects/strike_wood-muted.prefab|
 |assets/prefabs/weapons/wooden spear/effects/strike_wood-soft.prefab|
 |assets/prefabs/weapons/wooden spear/effects/throw.prefab|
+|assets/rust.ai/agents/fish/effects/sharkmovement.prefab|
 |assets/rust.ai/agents/fish/shark/effects/bloodcloud.prefab|
 |assets/rust.ai/agents/fish/shark/effects/bloodcloud.soundonly.prefab|
-|assets/rust.ai/agents/fish/shark/effects/sharkmovement.prefab|
 |assets/rust.ai/agents/snake/effects/snake_hide_effect.prefab|
 |assets/rust.ai/agents/snake/effects/snake_hit.prefab|
 |assets/rust.ai/agents/snake/effects/snake_reveal effect.prefab|
