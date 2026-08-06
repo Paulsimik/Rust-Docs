@@ -19,16 +19,16 @@
 |16|World|
 |17|Player (Server)|
 |18|Trigger|
-|19|Player Model Rendering|
+|19|Harvestable|
 |20|Physics Projectile|
 |21|Construction|
 |22|Construction Socket|
 |23|Terrain|
 |24|Transparent|
 |25|Clutter|
-|26|Debris|
+|26|Bush|
 |27|Vehicle Large|
 |28|Prevent Movement|
 |29|Prevent Building|
 |30|Tree|
-|31|Impostor|
+|31|Physics Debris|
