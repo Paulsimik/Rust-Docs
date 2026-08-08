@@ -981,6 +981,8 @@
 |assets/scenes/release/range/splattexture1.png|
 |assets/scenes/release/range/topologytexture.png|
 |assets/scenes/release/skinviewer/skinviewer_border.png|
+|assets/scenes/test/automatedteststerrain/splattexture0.png|
+|assets/scenes/test/automatedteststerrain/splattexture1.png|
 |assets/scenes/test/billbtestmap/billbtestmap terrain/alphatexture.png|
 |assets/scenes/test/billbtestmap/billbtestmap terrain/biometexture.png|
 |assets/scenes/test/billbtestmap/billbtestmap terrain/distancetexture.png|
@@ -1007,6 +1009,10 @@
 |assets/scenes/test/cargodocking/cargodocking terrain/splattexture1.png|
 |assets/scenes/test/cargodocking/cargodocking terrain/topologytexture.png|
 |assets/scenes/test/cargodocking/cargodocking terrain/watertexture.png|
+|assets/scenes/test/characteranimationandskinviewerscene/overlay_composition_zones.png|
+|assets/scenes/test/characteranimationandskinviewerscene/overlay_composition_zones_with_text.png|
+|assets/scenes/test/characteranimationandskinviewerscene/overlay_framing_guide_green.png|
+|assets/scenes/test/characteranimationandskinviewerscene/overlay_framing_guide_red.png|
 |assets/scenes/test/coastal_cliffs/coastal_cliffs_test/alphatexture.png|
 |assets/scenes/test/coastal_cliffs/coastal_cliffs_test/biometexture.png|
 |assets/scenes/test/coastal_cliffs/coastal_cliffs_test/heighttexture.png|
