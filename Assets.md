@@ -1850,6 +1850,7 @@
 |assets/content/properties/lootspawn/generated/items/medical/antiradpills.asset|
 |assets/content/properties/lootspawn/generated/items/medical/bandage.asset|
 |assets/content/properties/lootspawn/generated/items/medical/largemedkit.asset|
+|assets/content/properties/lootspawn/generated/items/medical/medical.honey.bandage.asset|
 |assets/content/properties/lootspawn/generated/items/medical/syringe.medical.asset|
 |assets/content/properties/lootspawn/generated/items/misc/2module car chassis.asset|
 |assets/content/properties/lootspawn/generated/items/misc/2module car.asset|
@@ -2364,6 +2365,8 @@
 |assets/content/properties/protection/immortal.asset|
 |assets/content/properties/protection/immortallowdensity.asset|
 |assets/content/properties/protection/loot/genericlootcontainer.asset|
+|assets/content/properties/protection/monumentblocker_explosivesonly.asset|
+|assets/content/properties/protection/monumentblocker_meleeandexplosives.asset|
 |assets/content/properties/protection/no protection.asset|
 |assets/content/properties/protection/npcs/bear.protection.asset|
 |assets/content/properties/protection/npcs/boar_protection.asset|
@@ -2503,6 +2506,7 @@
 |assets/content/properties/spawnpopulation/collectable-food-coconut.asset|
 |assets/content/properties/spawnpopulation/collectable-food-mushroom.asset|
 |assets/content/properties/spawnpopulation/collectable-resource-hemp.asset|
+|assets/content/properties/spawnpopulation/collectable-resource-hqm.asset|
 |assets/content/properties/spawnpopulation/collectable-resource-stone.asset|
 |assets/content/properties/spawnpopulation/collectable-resource-wood.asset|
 |assets/content/properties/spawnpopulation/divesites.asset|
@@ -2523,6 +2527,8 @@
 |assets/content/properties/spawnpopulation/logs_snow.asset|
 |assets/content/properties/spawnpopulation/logs_wet.asset|
 |assets/content/properties/spawnpopulation/loot.asset|
+|assets/content/properties/spawnpopulation/ore_hqm.asset|
+|assets/content/properties/spawnpopulation/ore_hqm_jungle.asset|
 |assets/content/properties/spawnpopulation/ores.asset|
 |assets/content/properties/spawnpopulation/ores_sand.asset|
 |assets/content/properties/spawnpopulation/ores_snow.asset|
@@ -2874,12 +2880,14 @@
 |assets/content/props/supermarket freezer/sound/supermarket-freezer-open.asset|
 |assets/content/props/train_tunnels/barricade-damage.asset|
 |assets/content/renderpipelinesettings/defaultrustrenderer.asset|
+|assets/content/renderpipelinesettings/paintablerenderer.asset|
 |assets/content/renderpipelinesettings/playerpreviewrenderer.asset|
 |assets/content/renderpipelinesettings/rendererfeatures/atmosphererendererfeature.asset|
 |assets/content/renderpipelinesettings/rendererfeatures/atmospherevolumefeature.asset|
 |assets/content/renderpipelinesettings/rendererfeatures/binoculareffectfeature.asset|
 |assets/content/renderpipelinesettings/rendererfeatures/cathoderendererfeature.asset|
 |assets/content/renderpipelinesettings/rendererfeatures/contactshadowsfeature.asset|
+|assets/content/renderpipelinesettings/rendererfeatures/coveragefeature.asset|
 |assets/content/renderpipelinesettings/rendererfeatures/decalsrendererfeature.asset|
 |assets/content/renderpipelinesettings/rendererfeatures/deployguidefeature.asset|
 |assets/content/renderpipelinesettings/rendererfeatures/dofrendererfeature.asset|
@@ -5120,6 +5128,7 @@
 |assets/content/structures/lifts/sound/lift-movement-loop.asset|
 |assets/content/structures/lifts/sound/lift-movement-start.asset|
 |assets/content/structures/lifts/sound/lift-movement-stop.asset|
+|assets/content/structures/monument_blockers/sound/monument-blocker-metal-thin-gib.asset|
 |assets/content/structures/office_interiors/sound/vent-close.asset|
 |assets/content/structures/office_interiors/sound/vent-open.asset|
 |assets/content/structures/rentable_shops/sounds/rental-shop-close.asset|
@@ -5148,6 +5157,7 @@
 |assets/content/ui/fonts/dripping/adrip1 apartments slummy.asset|
 |assets/content/ui/fonts/dripping/adrip1 sdf.asset|
 |assets/content/ui/fonts/droidsansmono/droidsansmono sdf.asset|
+|assets/content/ui/fonts/icon font generation settings.asset|
 |assets/content/ui/fonts/lcd/lcd sdf spacegun.asset|
 |assets/content/ui/fonts/lcd/lcd sdf.asset|
 |assets/content/ui/fonts/localization font fallback settings.asset|
@@ -6200,7 +6210,9 @@
 |assets/plugins/rust.ui/controls/tabcontrol.sidebar.asset|
 |assets/plugins/rust.ui/controls/timelinemarker.asset|
 |assets/plugins/rust.ui/controls/ui.tweaks.dropdown.item.asset|
+|assets/plugins/rust.ui/icons/materialdesignicons-webfont sdf - dynamic.asset|
 |assets/plugins/rust.ui/icons/materialdesignicons-webfont sdf.asset|
+|assets/plugins/rust.ui/icons/rusticon - dynamic.asset|
 |assets/plugins/rust.ui/icons/rusticon.asset|
 |assets/prefabs/ammo/torpedo/sound/torpedo-explosion.asset|
 |assets/prefabs/ammo/torpedo/sound/torpedo-explosion-splash.asset|
@@ -6348,7 +6360,7 @@
 |assets/prefabs/clothes/hoodie/blue/hoodie.blue.itemskin.asset|
 |assets/prefabs/clothes/hoodie/green/hoodie.green.itemskin.asset|
 |assets/prefabs/clothes/hoodie/hoodie.skinnable.asset|
-|assets/prefabs/clothes/hoodie/viewmodelskeleton.asset|
+|assets/prefabs/clothes/jacket.heavyplate/sound/heavy-plate-footstep-accent.asset|
 |assets/prefabs/clothes/jacket.snow/jacket.snow.black.itemskin.asset|
 |assets/prefabs/clothes/jacket.snow/jacket.snow.skinnable.asset|
 |assets/prefabs/clothes/jacket.snow/jacket.snow.woodland.itemskin.asset|
@@ -6790,6 +6802,7 @@
 |assets/prefabs/deployable/locker/sound/locker-close.asset|
 |assets/prefabs/deployable/locker/sound/locker-deploy.asset|
 |assets/prefabs/deployable/locker/sound/locker-open.asset|
+|assets/prefabs/deployable/loot crate b/sound/elite-crate-gib.asset|
 |assets/prefabs/deployable/lunar_new_year_2025_wall_divider/lunar_near_year_2025_wall_divider.item.asset|
 |assets/prefabs/deployable/lunar_new_year_2025_wall_divider/lunar_near_year_2025_wall_divider.skinnable.asset|
 |assets/prefabs/deployable/lunar_new_year_2025_wall_divider/lunar_near_year_2025_wall_divider_b.skin.asset|
@@ -7168,6 +7181,8 @@
 |assets/prefabs/deployable/weaponracks/weapon_racks.item.asset|
 |assets/prefabs/deployable/windmill/sound/windmill_mechanics_loop.asset|
 |assets/prefabs/deployable/windmill/sound/woosh.asset|
+|assets/prefabs/deployable/wooden loot crates/sound/wooden-crate-1-gib.asset|
+|assets/prefabs/deployable/wooden loot crates/sound/wooden-crate-2-gib.asset|
 |assets/prefabs/deployable/woodenbox/skins/pilot_hazmat_wooden_box/pilot.hazmat.box.wooden.skin.asset|
 |assets/prefabs/deployable/woodenbox/sound/small-wooden-box-close.asset|
 |assets/prefabs/deployable/woodenbox/sound/small-wooden-box-deploy.asset|
@@ -8289,12 +8304,18 @@
 |assets/prefabs/tools/flareold/sound/flare-ignite.asset|
 |assets/prefabs/tools/flareold/sound/flare-ignite-3p.asset|
 |assets/prefabs/tools/flareold/sound/flare-throw.asset|
+|assets/prefabs/tools/flashlight/sound/flashlight-admire-01.asset|
+|assets/prefabs/tools/flashlight/sound/flashlight-admire-02.asset|
+|assets/prefabs/tools/flashlight/sound/flashlight-admire-03.asset|
+|assets/prefabs/tools/flashlight/sound/flashlight-admire-04.asset|
+|assets/prefabs/tools/flashlight/sound/flashlight-admire-05.asset|
+|assets/prefabs/tools/flashlight/sound/flashlight-admire-on-01.asset|
 |assets/prefabs/tools/flashlight/sound/flashlight-attack.asset|
-|assets/prefabs/tools/flashlight/sound/flashlight-attack-3p.asset|
+|assets/prefabs/tools/flashlight/sound/flashlight-attack-settle.asset|
 |assets/prefabs/tools/flashlight/sound/flashlight-deploy.asset|
-|assets/prefabs/tools/flashlight/sound/flashlight-deploy-3p.asset|
 |assets/prefabs/tools/flashlight/sound/flashlight-strike.asset|
-|assets/prefabs/tools/flashlight/sound/flashlight-switch.asset|
+|assets/prefabs/tools/flashlight/sound/flashlight-turn-off.asset|
+|assets/prefabs/tools/flashlight/sound/flashlight-turn-on.asset|
 |assets/prefabs/tools/handcuffs/sound/handcuffs-admire-01.asset|
 |assets/prefabs/tools/handcuffs/sound/handcuffs-admire-02.asset|
 |assets/prefabs/tools/handcuffs/sound/handcuffs-admire-03.asset|
@@ -8320,6 +8341,7 @@
 |assets/prefabs/tools/jackhammer/sound/mechanics_loop.asset|
 |assets/prefabs/tools/keycard/sound/keycard_swing.asset|
 |assets/prefabs/tools/keycard/sound/keycard_swipe.asset|
+|assets/prefabs/tools/large medkit/sound/medkit-use.asset|
 |assets/prefabs/tools/lumberjack_tools/concrete_hatchet.skin.asset|
 |assets/prefabs/tools/lumberjack_tools/concrete_pickaxe.skin.asset|
 |assets/prefabs/tools/lumberjack_tools/lumberjack_axe.skin.asset|
@@ -8634,6 +8656,29 @@
 |assets/prefabs/weapons/ak47u/ak47u.skinnable.asset|
 |assets/prefabs/weapons/ak47u/diver/ak47u_diver.skin.asset|
 |assets/prefabs/weapons/ak47u/diver/clothmat_diverak_vm.asset|
+|assets/prefabs/weapons/ak47u/glass skin/ak47u.glass.blue.item.skin.asset|
+|assets/prefabs/weapons/ak47u/glass skin/ak47u.glass.green.item.skin.asset|
+|assets/prefabs/weapons/ak47u/glass skin/ak47u.glass.item.skin.asset|
+|assets/prefabs/weapons/ak47u/glass skin/ak47u.glass.pink.item.skin.asset|
+|assets/prefabs/weapons/ak47u/glass skin/ak47u.glass.red.item.skin.asset|
+|assets/prefabs/weapons/ak47u/glass skin/sound/glass-ak-admire-001.asset|
+|assets/prefabs/weapons/ak47u/glass skin/sound/glass-ak-admire-002.asset|
+|assets/prefabs/weapons/ak47u/glass skin/sound/glass-ak-admire-003.asset|
+|assets/prefabs/weapons/ak47u/glass skin/sound/glass-ak-admire-004.asset|
+|assets/prefabs/weapons/ak47u/glass skin/sound/glass-ak-admire-005.asset|
+|assets/prefabs/weapons/ak47u/glass skin/sound/glass-ak-admire-006.asset|
+|assets/prefabs/weapons/ak47u/glass skin/sound/glass-ak-deploy.asset|
+|assets/prefabs/weapons/ak47u/glass skin/sound/glass-ak-deploy-bolt-back.asset|
+|assets/prefabs/weapons/ak47u/glass skin/sound/glass-ak-deploy-bolt-forward.asset|
+|assets/prefabs/weapons/ak47u/glass skin/sound/glass-ak-dryfire.asset|
+|assets/prefabs/weapons/ak47u/glass skin/sound/glass-ak-gunshot-mech.asset|
+|assets/prefabs/weapons/ak47u/glass skin/sound/glass-ak-reload-bolt-back.asset|
+|assets/prefabs/weapons/ak47u/glass skin/sound/glass-ak-reload-bolt-forward.asset|
+|assets/prefabs/weapons/ak47u/glass skin/sound/glass-ak-reload-finish.asset|
+|assets/prefabs/weapons/ak47u/glass skin/sound/glass-ak-reload-insert-mag.asset|
+|assets/prefabs/weapons/ak47u/glass skin/sound/glass-ak-reload-remove-mag.asset|
+|assets/prefabs/weapons/ak47u/glass skin/sound/glass-ak-reload-slap-mag.asset|
+|assets/prefabs/weapons/ak47u/glass skin/sound/glass-ak-reload-start.asset|
 |assets/prefabs/weapons/ak47u/iceskin/ak47ice.skin.asset|
 |assets/prefabs/weapons/ak47u/jungle skin/ak47u_jungle.item.skin.asset|
 |assets/prefabs/weapons/ak47u/medieval skin/ak47u_med.item.skin.asset|
@@ -8656,6 +8701,7 @@
 |assets/prefabs/weapons/ak47u/sound/ak74u-phys-impact-med.asset|
 |assets/prefabs/weapons/ak47u/sound/ak74u-phys-impact-soft.asset|
 |assets/prefabs/weapons/ak47u/sound/ak74u-reload-start.asset|
+|assets/prefabs/weapons/arms/viewmodelskeleton.asset|
 |assets/prefabs/weapons/bandage/sound/bandage-3p.asset|
 |assets/prefabs/weapons/bandage/sound/bandage-deploy-3p.asset|
 |assets/prefabs/weapons/bandage/sound/bandage-other-3p.asset|
@@ -9355,6 +9401,17 @@
 |assets/prefabs/weapons/salvaged_axe/sound/salvaged-axe-strike-soft.asset|
 |assets/prefabs/weapons/salvaged_axe/sound/salvaged-axe-tap.asset|
 |assets/prefabs/weapons/salvaged_hammer/hammer_salvaged.skinnable.asset|
+|assets/prefabs/weapons/salvaged_hammer/sound/new sounds/salvaged-hammer-admire-01.asset|
+|assets/prefabs/weapons/salvaged_hammer/sound/new sounds/salvaged-hammer-admire-02.asset|
+|assets/prefabs/weapons/salvaged_hammer/sound/new sounds/salvaged-hammer-admire-03.asset|
+|assets/prefabs/weapons/salvaged_hammer/sound/new sounds/salvaged-hammer-admire-04.asset|
+|assets/prefabs/weapons/salvaged_hammer/sound/new sounds/salvaged-hammer-admire-hit.asset|
+|assets/prefabs/weapons/salvaged_hammer/sound/new sounds/salvaged-hammer-deploy.asset|
+|assets/prefabs/weapons/salvaged_hammer/sound/new sounds/salvaged-hammer-throw.asset|
+|assets/prefabs/weapons/salvaged_hammer/sound/new sounds/salvaged-hammer-throw-cancel.asset|
+|assets/prefabs/weapons/salvaged_hammer/sound/new sounds/salvaged-hammer-throw-ready.asset|
+|assets/prefabs/weapons/salvaged_hammer/sound/new sounds/salvaged-hammer-ui-drop.asset|
+|assets/prefabs/weapons/salvaged_hammer/sound/new sounds/salvaged-hammer-ui-pickup.asset|
 |assets/prefabs/weapons/salvaged_hammer/sound/salvaged-hammer-attack.asset|
 |assets/prefabs/weapons/salvaged_hammer/sound/salvaged-hammer-attack-3p.asset|
 |assets/prefabs/weapons/salvaged_hammer/sound/salvaged-hammer-deploy.asset|
@@ -9472,6 +9529,7 @@
 |assets/prefabs/weapons/smg/sound/smg-reload_start.asset|
 |assets/prefabs/weapons/spas12/sound/spas12-attack-silenced.asset|
 |assets/prefabs/weapons/spas12/sound/spas12-deploy.asset|
+|assets/prefabs/weapons/spas12/sound/spas12-deploy-3p.asset|
 |assets/prefabs/weapons/spas12/sound/spas12-fire-1.asset|
 |assets/prefabs/weapons/spas12/sound/spas12-gunshot-body.asset|
 |assets/prefabs/weapons/spas12/sound/spas12-gunshot-body-suppressed.asset|
@@ -10010,6 +10068,14 @@
 |assets/scripts/rendering/terrain/holeshapes/cylinder_holeshape.asset|
 |assets/scripts/rendering/terrain/holeshapes/triangleprism_holeshape.asset|
 |assets/scripts/viewmodel/viewmodelcamera/config/defaultviewmodelclearvaluesconfig.asset|
+|assets/settings/playmode/host + client.asset|
+|assets/settings/playmode/host + clients x2.asset|
+|assets/settings/playmode/host + clients x3.asset|
+|assets/settings/playmode/host.asset|
+|assets/settings/playmode/server + client.asset|
+|assets/settings/playmode/server + clients x2.asset|
+|assets/settings/playmode/server + clients x3.asset|
+|assets/settings/playmode/server x2 + clients x2.asset|
 |assets/skins.asset|
 |assets/textmesh pro/resources/tmp settings.asset|
 |assets/third party/fimpossible creations/plugins - animating/legs animator/modules - community/custom ik example/ik algorithm switch - axis lock ik.asset|
