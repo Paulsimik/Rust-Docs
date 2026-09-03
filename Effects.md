@@ -37,6 +37,7 @@
 |assets/bundled/prefabs/fx/decals/blood/decal_blood_splatter_01.prefab|
 |assets/bundled/prefabs/fx/decals/blood/decal_blood_splatter_02.prefab|
 |assets/bundled/prefabs/fx/decals/blood/decal_blood_splatter_03.prefab|
+|assets/bundled/prefabs/fx/decals/blunt/cactus/decal_blunt_cactus_01.prefab|
 |assets/bundled/prefabs/fx/decals/blunt/dirt/decal_blunt_dirt_01.prefab|
 |assets/bundled/prefabs/fx/decals/blunt/forest/decal_blunt_forest_01.prefab|
 |assets/bundled/prefabs/fx/decals/blunt/glass/decal_blunt_glass.prefab|
@@ -49,6 +50,10 @@
 |assets/bundled/prefabs/fx/decals/blunt/snow/decal_blunt_snow_01.prefab|
 |assets/bundled/prefabs/fx/decals/blunt/tundra/decal_blunt_tundra_01.prefab|
 |assets/bundled/prefabs/fx/decals/blunt/wood/wood 1.prefab|
+|assets/bundled/prefabs/fx/decals/bullet/cactus/decal_bullet_cactus_01.prefab|
+|assets/bundled/prefabs/fx/decals/bullet/cactus/decal_bullet_cactus_02.prefab|
+|assets/bundled/prefabs/fx/decals/bullet/cactus/decal_bullet_cactus_03.prefab|
+|assets/bundled/prefabs/fx/decals/bullet/cactus/decal_bullet_cactus_04.prefab|
 |assets/bundled/prefabs/fx/decals/bullet/concrete/decal_bullet_concrete_01.prefab|
 |assets/bundled/prefabs/fx/decals/bullet/concrete/decal_bullet_concrete_02.prefab|
 |assets/bundled/prefabs/fx/decals/bullet/concrete/decal_bullet_concrete_03.prefab|
@@ -106,6 +111,7 @@
 |assets/bundled/prefabs/fx/decals/paintball/generic/decal_paintball_01.prefab|
 |assets/bundled/prefabs/fx/decals/paintball/generic/decal_paintball_02.prefab|
 |assets/bundled/prefabs/fx/decals/paintball/generic/decal_paintball_03.prefab|
+|assets/bundled/prefabs/fx/decals/slash/cactus/decal_slash_cactus_01.prefab|
 |assets/bundled/prefabs/fx/decals/slash/dirt/decal_slash_dirt_01.prefab|
 |assets/bundled/prefabs/fx/decals/slash/forest/decal_slash_forest_01.prefab|
 |assets/bundled/prefabs/fx/decals/slash/glass/decal_slash_glass.prefab|
@@ -177,6 +183,7 @@
 |assets/bundled/prefabs/fx/impacts/bloodreplacement/fleshbloodimpact_bullet_white.prefab|
 |assets/bundled/prefabs/fx/impacts/bloodreplacement/fleshbloodimpact_slash_white.prefab|
 |assets/bundled/prefabs/fx/impacts/bloodreplacement/fleshbloodimpact_stab_white.prefab|
+|assets/bundled/prefabs/fx/impacts/blunt/cactus/cactus1.prefab|
 |assets/bundled/prefabs/fx/impacts/blunt/cloth/cloth1.prefab|
 |assets/bundled/prefabs/fx/impacts/blunt/clothflesh/clothflesh1.prefab|
 |assets/bundled/prefabs/fx/impacts/blunt/concrete/concrete1.prefab|
@@ -198,6 +205,7 @@
 |assets/bundled/prefabs/fx/impacts/blunt/stones/slash_rock_01.prefab|
 |assets/bundled/prefabs/fx/impacts/blunt/water/water.prefab|
 |assets/bundled/prefabs/fx/impacts/blunt/wood/wood1.prefab|
+|assets/bundled/prefabs/fx/impacts/bullet/cactus/cactus1.prefab|
 |assets/bundled/prefabs/fx/impacts/bullet/cloth/cloth1.prefab|
 |assets/bundled/prefabs/fx/impacts/bullet/clothflesh/clothflesh1.prefab|
 |assets/bundled/prefabs/fx/impacts/bullet/concrete/concrete1.prefab|
@@ -501,6 +509,8 @@
 |assets/bundled/prefabs/fx/impacts/slash/blood12slash_2.prefab|
 |assets/bundled/prefabs/fx/impacts/slash/blood13slash.prefab|
 |assets/bundled/prefabs/fx/impacts/slash/blood14slash.prefab|
+|assets/bundled/prefabs/fx/impacts/slash/cactus/cactus1.prefab|
+|assets/bundled/prefabs/fx/impacts/slash/cactus/cactus2.prefab|
 |assets/bundled/prefabs/fx/impacts/slash/cloth/cloth1.prefab|
 |assets/bundled/prefabs/fx/impacts/slash/clothflesh/clothflesh1.prefab|
 |assets/bundled/prefabs/fx/impacts/slash/concrete/slash_concrete_01.prefab|
@@ -522,6 +532,7 @@
 |assets/bundled/prefabs/fx/impacts/slash/stones/slash_rock_01.prefab|
 |assets/bundled/prefabs/fx/impacts/slash/water/water.prefab|
 |assets/bundled/prefabs/fx/impacts/slash/wood/wood1.prefab|
+|assets/bundled/prefabs/fx/impacts/stab/cactus/cactus1.prefab|
 |assets/bundled/prefabs/fx/impacts/stab/cloth/cloth1.prefab|
 |assets/bundled/prefabs/fx/impacts/stab/clothflesh/clothflesh1.prefab|
 |assets/bundled/prefabs/fx/impacts/stab/concrete/concrete1.prefab|
@@ -696,6 +707,7 @@
 |assets/content/effects/fireworks/pfx fireworks boomer orange v2.prefab|
 |assets/content/effects/fireworks/pfx fireworks boomer red v2.prefab|
 |assets/content/effects/fireworks/pfx fireworks boomer violet v2.prefab|
+|assets/content/effects/fireworks/pfx fireworks boomer white v2.prefab|
 |assets/content/effects/fireworks/pfx fireworks roman candle.prefab|
 |assets/content/effects/fireworks/pfx fireworks volcano red.prefab|
 |assets/content/effects/fireworks/pfx fireworks volcano violet.prefab|
@@ -1559,10 +1571,17 @@
 |assets/prefabs/weapons/ak47u/effects/reload_boltaction.prefab|
 |assets/prefabs/weapons/ak47u/effects/reload_start.prefab|
 |assets/prefabs/weapons/ak47u/effects/w_drop_diver_magazine.prefab|
+|assets/prefabs/weapons/ak47u/effects/w_drop_diver_net_magazine.prefab|
+|assets/prefabs/weapons/ak47u/effects/w_drop_glass_magazine.prefab|
 |assets/prefabs/weapons/ak47u/effects/w_drop_jungle_magazine.prefab|
 |assets/prefabs/weapons/ak47u/effects/w_drop_magazine.prefab|
 |assets/prefabs/weapons/ak47u/effects/w_drop_med_magazine.prefab|
 |assets/prefabs/weapons/ak47u/effects/w_eject_rifle_shell.prefab|
+|assets/prefabs/weapons/ak47u/glass skin/effects/glass_ak_attack.prefab|
+|assets/prefabs/weapons/ak47u/glass skin/effects/glass_ak_attack_muzzlebrake.prefab|
+|assets/prefabs/weapons/ak47u/glass skin/effects/glass_ak_attack_silenced.prefab|
+|assets/prefabs/weapons/ak47u/glass skin/effects/glass_ak_attack_silenced_oilfilter.prefab|
+|assets/prefabs/weapons/ak47u/glass skin/effects/glass_ak_attack_silenced_sodacan.prefab|
 |assets/prefabs/weapons/arms/effects/drop_item.prefab|
 |assets/prefabs/weapons/arms/effects/hook_hit-1.prefab|
 |assets/prefabs/weapons/arms/effects/hook_hit-2.prefab|
@@ -2209,6 +2228,11 @@
 |assets/prefabs/weapons/salvaged_axe/effects/strike-soft.prefab|
 |assets/prefabs/weapons/salvaged_axe/effects/tap.prefab|
 |assets/prefabs/weapons/salvaged_axe/effects/throw.prefab|
+|assets/prefabs/weapons/salvaged_hammer/effects/admire_1.prefab|
+|assets/prefabs/weapons/salvaged_hammer/effects/admire_2.prefab|
+|assets/prefabs/weapons/salvaged_hammer/effects/admire_3.prefab|
+|assets/prefabs/weapons/salvaged_hammer/effects/admire_4.prefab|
+|assets/prefabs/weapons/salvaged_hammer/effects/admire-hit.prefab|
 |assets/prefabs/weapons/salvaged_hammer/effects/attack1.prefab|
 |assets/prefabs/weapons/salvaged_hammer/effects/attack2.prefab|
 |assets/prefabs/weapons/salvaged_hammer/effects/deploy.prefab|
@@ -2216,6 +2240,8 @@
 |assets/prefabs/weapons/salvaged_hammer/effects/strike.prefab|
 |assets/prefabs/weapons/salvaged_hammer/effects/strike_screenshake.prefab|
 |assets/prefabs/weapons/salvaged_hammer/effects/throw.prefab|
+|assets/prefabs/weapons/salvaged_hammer/effects/throw_cancel.prefab|
+|assets/prefabs/weapons/salvaged_hammer/effects/throw_ready.prefab|
 |assets/prefabs/weapons/salvaged_icepick/effects/attack.prefab|
 |assets/prefabs/weapons/salvaged_icepick/effects/deploy.prefab|
 |assets/prefabs/weapons/salvaged_icepick/effects/holster.prefab|
