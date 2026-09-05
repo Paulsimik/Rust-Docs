@@ -2891,6 +2891,7 @@
 |assets/content/renderpipelinesettings/rendererfeatures/decalsrendererfeature.asset|
 |assets/content/renderpipelinesettings/rendererfeatures/deployguidefeature.asset|
 |assets/content/renderpipelinesettings/rendererfeatures/dofrendererfeature.asset|
+|assets/content/renderpipelinesettings/rendererfeatures/flashbangrendererfeature.asset|
 |assets/content/renderpipelinesettings/rendererfeatures/foliagedisplacementfeature.asset|
 |assets/content/renderpipelinesettings/rendererfeatures/geometryclipmapterraindepthprepassrendererfeature.asset|
 |assets/content/renderpipelinesettings/rendererfeatures/lensdirtinessrendererfeature.asset|
