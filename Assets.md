@@ -246,6 +246,7 @@
 |assets/content/image effects/postfx_volumes/main_underground_neutral_rrp.asset|
 |assets/content/image effects/postfx_volumes/main_underwater_lab.asset|
 |assets/content/image effects/postfx_volumes/main_underwater_lab_rrp.asset|
+|assets/content/image effects/postfx_volumes/mugshot_rrp.asset|
 |assets/content/image effects/postfx_volumes/nightlight.asset|
 |assets/content/image effects/postfx_volumes/nightlight_rrp.asset|
 |assets/content/image effects/postfx_volumes/nvg.asset|
@@ -517,6 +518,7 @@
 |assets/content/nexus/ferry/sound/nexus-ferry-engine-stop.asset|
 |assets/content/nexus/ferry/sound/nexus-ferry-idle-ambience.asset|
 |assets/content/nexus/ferry/sound/nexus-ferry-water-movement-loop.asset|
+|assets/content/player/animations/turnclipset.asset|
 |assets/content/player/clothing/hair/bald/player.dyeset.head.bald.asset|
 |assets/content/player/clothing/hair/beards/midscruffy/player.hairset.midscruffy.asset|
 |assets/content/player/clothing/hair/beards/shortscruffy/player.dyeset.beardshortscruffy.dark.asset|
@@ -2219,6 +2221,7 @@
 |assets/content/properties/playerinventory/hunter.asset|
 |assets/content/properties/playerinventory/industrial.asset|
 |assets/content/properties/playerinventory/instruments.asset|
+|assets/content/properties/playerinventory/livestockvendor.asset|
 |assets/content/properties/playerinventory/loadout_t0.asset|
 |assets/content/properties/playerinventory/loadout_t1.asset|
 |assets/content/properties/playerinventory/loadout_t2.asset|
@@ -2372,10 +2375,13 @@
 |assets/content/properties/protection/npcs/boar_protection.asset|
 |assets/content/properties/protection/npcs/ch47_protection.asset|
 |assets/content/properties/protection/npcs/chicken_protection.asset|
+|assets/content/properties/protection/npcs/cow_protection.asset|
+|assets/content/properties/protection/npcs/critter_protection.asset|
 |assets/content/properties/protection/npcs/crocodile.protection.asset|
 |assets/content/properties/protection/npcs/heli_protection.asset|
 |assets/content/properties/protection/npcs/horse_base_protection.asset|
 |assets/content/properties/protection/npcs/rabbit_protection.asset|
+|assets/content/properties/protection/npcs/seaturtle_protection.asset|
 |assets/content/properties/protection/npcs/stag_protection.asset|
 |assets/content/properties/protection/npcs/tiger.protection.asset|
 |assets/content/properties/protection/npcs/wolf_protection.asset|
@@ -2499,6 +2505,7 @@
 |assets/content/properties/recoil/t1smgrecoil.asset|
 |assets/content/properties/recoil/thompsonrecoil.asset|
 |assets/content/properties/skeletons/skeleton.boar.asset|
+|assets/content/properties/skeletons/skeleton.cow.asset|
 |assets/content/properties/skeletons/skeleton.horse.asset|
 |assets/content/properties/skeletons/skeleton.player.asset|
 |assets/content/properties/skeletons/skeleton.stag.asset|
@@ -2894,8 +2901,10 @@
 |assets/content/renderpipelinesettings/rendererfeatures/flashbangrendererfeature.asset|
 |assets/content/renderpipelinesettings/rendererfeatures/foliagedisplacementfeature.asset|
 |assets/content/renderpipelinesettings/rendererfeatures/geometryclipmapterraindepthprepassrendererfeature.asset|
+|assets/content/renderpipelinesettings/rendererfeatures/iconoutlinerendererfeature.asset|
 |assets/content/renderpipelinesettings/rendererfeatures/lensdirtinessrendererfeature.asset|
 |assets/content/renderpipelinesettings/rendererfeatures/nightlightrendererfeature.asset|
+|assets/content/renderpipelinesettings/rendererfeatures/outlinerendererfeature.asset|
 |assets/content/renderpipelinesettings/rendererfeatures/postopaquedepthfeature.asset|
 |assets/content/renderpipelinesettings/rendererfeatures/postsubsurfacefeature.asset|
 |assets/content/renderpipelinesettings/rendererfeatures/spatialenvironmentvolumerendererfeature.asset|
@@ -4483,6 +4492,7 @@
 |assets/content/sound/soundclasses/npc-combat.sound-class.asset|
 |assets/content/sound/soundclasses/npc-footstep.sound-class.asset|
 |assets/content/sound/soundclasses/npc-idle.sound-class.asset|
+|assets/content/sound/soundclasses/npc-idle-occludable.sound-class.asset|
 |assets/content/sound/soundclasses/npc-important.sound-class.asset|
 |assets/content/sound/soundclasses/object-deploy.sound-class.asset|
 |assets/content/sound/soundclasses/object-deploy-no-occlusion.sound-class.asset|
@@ -6245,12 +6255,16 @@
 |assets/prefabs/building/door.hinged/sound/metal-door-deploy.asset|
 |assets/prefabs/building/door.hinged/sound/wood-door-deploy.asset|
 |assets/prefabs/building/floor.grill/sound/floor-grill-deploy.asset|
+|assets/prefabs/building/floor.ladder.hatch.toptier/floor.ladder.hatch.toptier.skinnable.asset|
+|assets/prefabs/building/floor.ladder.hatch.toptier/floor.triangle.ladder.hatch.toptier.skinnable.asset|
 |assets/prefabs/building/floor.ladder.hatch.toptier/sounds/armored-ladder-hatch-close.asset|
 |assets/prefabs/building/floor.ladder.hatch.toptier/sounds/armored-ladder-hatch-deploy.asset|
 |assets/prefabs/building/floor.ladder.hatch.toptier/sounds/armored-ladder-hatch-open.asset|
 |assets/prefabs/building/floor.ladder.hatch.toptier/sounds/armored-ladder-hatch-ui-drop.asset|
 |assets/prefabs/building/floor.ladder.hatch.toptier/sounds/armored-ladder-hatch-ui-grab.asset|
+|assets/prefabs/building/floor.ladder.hatch/floor.ladder.hatch.skinnable.asset|
 |assets/prefabs/building/floor.ladder.hatch/sound/ladder-hatch-deploy.asset|
+|assets/prefabs/building/floor.triangle.ladder.hatch/floor.triangle.ladder.hatch.skinnable.asset|
 |assets/prefabs/building/gates.external.high.adobe/gates.external.high.adobe.sitem.asset|
 |assets/prefabs/building/gates.external.high.legacy/gates.external.high.frontier.sitem.asset|
 |assets/prefabs/building/gates.external.high/gates.external.high.stone/gates.external.high.stone.skinnable.asset|
@@ -6455,6 +6469,11 @@
 |assets/prefabs/clothes/suit.hazmat/pilot/hazmat.pilot.skin.asset|
 |assets/prefabs/clothes/suit.hazmat/pilot/pilot.pack.sitem.asset|
 |assets/prefabs/clothes/suit.hazmat/pilot/player_skeleton.pilot_hazmat.asset|
+|assets/prefabs/clothes/suit.hazmat/plague/plague.hazmat.cloth.bags.asset|
+|assets/prefabs/clothes/suit.hazmat/plague/plague.hazmat.cloth.hood.asset|
+|assets/prefabs/clothes/suit.hazmat/plague/plague.hazmat.cloth.skirt.asset|
+|assets/prefabs/clothes/suit.hazmat/plague/plague.hazmat.skeleton.asset|
+|assets/prefabs/clothes/suit.hazmat/plague/plague.hazmat.skin.asset|
 |assets/prefabs/clothes/suit.hazmat/spacesuit/hazmat.spacesuit.skin.asset|
 |assets/prefabs/clothes/suit.hazmat/warhammer/cloth.krieg_hazmat.asset|
 |assets/prefabs/clothes/suit.hazmat/warhammer/cloth.krieg_hazmat_coat.asset|
@@ -6480,14 +6499,33 @@
 |assets/prefabs/clothes/vest.metal/vest.metal.skinnable.asset|
 |assets/prefabs/clothes/vest.metal/vest.metal_ice/metal.plate.torso.icevest.skin.asset|
 |assets/prefabs/clothes/vest.roadsign/vest.roadsign.skinnable.asset|
+|assets/prefabs/deployable/animal fence/sounds/animal-fence-deploy.asset|
+|assets/prefabs/deployable/animal fence/sounds/animal-fence-gate-close.asset|
+|assets/prefabs/deployable/animal fence/sounds/animal-fence-gate-close-hit.asset|
+|assets/prefabs/deployable/animal fence/sounds/animal-fence-gate-deploy.asset|
+|assets/prefabs/deployable/animal fence/sounds/animal-fence-gate-open.asset|
+|assets/prefabs/deployable/animal fence/sounds/animal-fence-gate-open-hit.asset|
+|assets/prefabs/deployable/animal fence/sounds/animal-fence-gate-ui-drop.asset|
+|assets/prefabs/deployable/animal fence/sounds/animal-fence-gate-ui-pickup.asset|
+|assets/prefabs/deployable/animal fence/sounds/animal-fence-ui-drop.asset|
+|assets/prefabs/deployable/animal fence/sounds/animal-fence-ui-pickup.asset|
+|assets/prefabs/deployable/barricades/1.2.barricade_sandbags.collision_colliders.asset|
+|assets/prefabs/deployable/barricades/3.4.barricade_sandbags.collision_colliders.asset|
 |assets/prefabs/deployable/barricades/barricade.concrete.skinnable.asset|
 |assets/prefabs/deployable/barricades/barricade.medieval.sitem.asset|
 |assets/prefabs/deployable/barricades/barricade.sandbags.skinnable.asset|
+|assets/prefabs/deployable/barricades/barricade_sandbags.collision_colliders.asset|
 |assets/prefabs/deployable/barricades/sound/barricade-concrete-deploy.asset|
 |assets/prefabs/deployable/barricades/sound/barricade-metal-deploy.asset|
 |assets/prefabs/deployable/barricades/sound/barricade-sandbags-deploy.asset|
 |assets/prefabs/deployable/barricades/sound/barricade-stone-deploy.asset|
 |assets/prefabs/deployable/barricades/sound/barricade-wood-deploy.asset|
+|assets/prefabs/deployable/barricades/sound/sandbag/barricade-sandbag-one-quarter.asset|
+|assets/prefabs/deployable/barricades/sound/sandbag/barricade-sandbag-pileup.asset|
+|assets/prefabs/deployable/barricades/sound/sandbag/barricade-sandbag-pillbox.asset|
+|assets/prefabs/deployable/barricades/sound/sandbag/barricade-sandbag-ui-drop.asset|
+|assets/prefabs/deployable/barricades/sound/sandbag/barricade-sandbag-ui-pickup.asset|
+|assets/prefabs/deployable/barricades/sound/sandbag/sandbag-destroy.asset|
 |assets/prefabs/deployable/baseskinitems/halfshelves.skinnable.asset|
 |assets/prefabs/deployable/baseskinitems/horizontalstoragebarrel.skinnable.asset|
 |assets/prefabs/deployable/baseskinitems/singleshelves.skinnable.asset|
@@ -6506,6 +6544,12 @@
 |assets/prefabs/deployable/beehive/sound/bee-hive-natural-bees-active-loop-01.asset|
 |assets/prefabs/deployable/beehive/sound/bee-hive-natural-impact.asset|
 |assets/prefabs/deployable/beehive/sound/bee-hive-open.asset|
+|assets/prefabs/deployable/biofuel generator/sound/biofuel-generator-active-loop.asset|
+|assets/prefabs/deployable/biofuel generator/sound/biofuel-generator-close.asset|
+|assets/prefabs/deployable/biofuel generator/sound/biofuel-generator-deploy.asset|
+|assets/prefabs/deployable/biofuel generator/sound/biofuel-generator-open.asset|
+|assets/prefabs/deployable/biofuel generator/sound/biofuel-generator-powered-loop.asset|
+|assets/prefabs/deployable/biofuel generator/sound/biofuel-generator-stir-loop.asset|
 |assets/prefabs/deployable/boat building platform/sound/boat-building-platform-deploy.asset|
 |assets/prefabs/deployable/boat building platform/sound/boat-building-platform-edit-finish.asset|
 |assets/prefabs/deployable/boat building platform/sound/boat-building-platform-edit-start.asset|
@@ -6617,8 +6661,10 @@
 |assets/prefabs/deployable/cookingworkbench/cookingworkbench.recipelist.asset|
 |assets/prefabs/deployable/cookingworkbench/recipes/applepie.asset|
 |assets/prefabs/deployable/cookingworkbench/recipes/bearpie.asset|
+|assets/prefabs/deployable/cookingworkbench/recipes/beefpie.asset|
 |assets/prefabs/deployable/cookingworkbench/recipes/bigcatpie.asset|
 |assets/prefabs/deployable/cookingworkbench/recipes/bread.asset|
+|assets/prefabs/deployable/cookingworkbench/recipes/briochebread.asset|
 |assets/prefabs/deployable/cookingworkbench/recipes/chickenpie.asset|
 |assets/prefabs/deployable/cookingworkbench/recipes/cookedbear.asset|
 |assets/prefabs/deployable/cookingworkbench/recipes/cookedchicken.asset|
@@ -6631,8 +6677,19 @@
 |assets/prefabs/deployable/cookingworkbench/recipes/crocodilepie.asset|
 |assets/prefabs/deployable/cookingworkbench/recipes/fishpie.asset|
 |assets/prefabs/deployable/cookingworkbench/recipes/hunterspie.asset|
+|assets/prefabs/deployable/cookingworkbench/recipes/muttonpie.asset|
 |assets/prefabs/deployable/cookingworkbench/recipes/porkpie.asset|
 |assets/prefabs/deployable/cookingworkbench/recipes/pumpkinpie.asset|
+|assets/prefabs/deployable/cookingworkbench/recipes/richapplepie.asset|
+|assets/prefabs/deployable/cookingworkbench/recipes/richbearpie.asset|
+|assets/prefabs/deployable/cookingworkbench/recipes/richbeefpie.asset|
+|assets/prefabs/deployable/cookingworkbench/recipes/richbigcatpie.asset|
+|assets/prefabs/deployable/cookingworkbench/recipes/richchickenpie.asset|
+|assets/prefabs/deployable/cookingworkbench/recipes/richfishpie.asset|
+|assets/prefabs/deployable/cookingworkbench/recipes/richhunterspie.asset|
+|assets/prefabs/deployable/cookingworkbench/recipes/richmuttonpie.asset|
+|assets/prefabs/deployable/cookingworkbench/recipes/richporkpie.asset|
+|assets/prefabs/deployable/cookingworkbench/recipes/richpumpkinpie.asset|
 |assets/prefabs/deployable/cookingworkbench/recipes/survivorspie.asset|
 |assets/prefabs/deployable/cookingworkbench/sound/cooking-workbench-cook-finish.asset|
 |assets/prefabs/deployable/cookingworkbench/sound/cooking-workbench-cooking-close.asset|
@@ -8104,6 +8161,9 @@
 |assets/prefabs/npc/rabbit/sound/hop.asset|
 |assets/prefabs/npc/rabbit/sound/run.asset|
 |assets/prefabs/npc/rabbit/sound/sleeping.asset|
+|assets/prefabs/npc/ranch/livestockvendor.saletable.asset|
+|assets/prefabs/npc/ranch/livestockvendor.woolsaletable.asset|
+|assets/prefabs/npc/ranch/livestockvendorconversation.asset|
 |assets/prefabs/npc/sam_site_turret/sound/pitch-movement-loop.asset|
 |assets/prefabs/npc/sam_site_turret/sound/yaw-movement-loop.asset|
 |assets/prefabs/npc/scarecrow/scarecrow.population.asset|
@@ -9687,18 +9747,13 @@
 |assets/prefabs/weapons/wooden spear/spear_wooden.skinnable.asset|
 |assets/prefabs/worldconfig/resources/primitive_world.asset|
 |assets/projectsettings/uiparticleprojectsettings.asset|
+|assets/resources/iconrenderer.asset|
 |assets/resources/rustrenderpipelineasset.asset|
 |assets/resources/rustrenderpipelineglobalsettings.asset|
 |assets/resources/shadowqualitypresetsconfig.asset|
 |assets/resources/train wagon loot data.asset|
 |assets/resources/worldspline prefab shared data.asset|
-|assets/rust.ai/agents/animal/animal.aidesign.asset|
-|assets/rust.ai/agents/animal/animal.bear.aidesign.asset|
-|assets/rust.ai/agents/animal/animal.bear.tutorial.aidesign.asset|
 |assets/rust.ai/agents/animal/animal.controltest.aidesign.asset|
-|assets/rust.ai/agents/animal/animal.polarbear.aidesign.asset|
-|assets/rust.ai/agents/animal/animal.wolf.aidesign.asset|
-|assets/rust.ai/agents/animal/chicken.tutorial.aidesign.asset|
 |assets/rust.ai/agents/bear/bear.footstep.asset|
 |assets/rust.ai/agents/bear/bear.population.asset|
 |assets/rust.ai/agents/bear/bear.skeleton.asset|
@@ -9709,6 +9764,7 @@
 |assets/rust.ai/agents/bear/footsteps/bear-footstep-snow.asset|
 |assets/rust.ai/agents/bear/footsteps/bear-footstep-water.asset|
 |assets/rust.ai/agents/bear/footsteps/bear-footstep-wood.asset|
+|assets/rust.ai/agents/bear/npcteam_bear.asset|
 |assets/rust.ai/agents/bear/polarbear.population.asset|
 |assets/rust.ai/agents/bear/polarbear.skeleton.asset|
 |assets/rust.ai/agents/bear/sound/attack.asset|
@@ -9738,6 +9794,7 @@
 |assets/rust.ai/agents/boar/footsteps/boar-footstep-snow.asset|
 |assets/rust.ai/agents/boar/footsteps/boar-footstep-water.asset|
 |assets/rust.ai/agents/boar/footsteps/boar-footstep-wood.asset|
+|assets/rust.ai/agents/boar/npcteam_boar.asset|
 |assets/rust.ai/agents/boar/sound/attack.asset|
 |assets/rust.ai/agents/boar/sound/boar-snort.asset|
 |assets/rust.ai/agents/boar/sound/boar-snort-short.asset|
@@ -9747,15 +9804,118 @@
 |assets/rust.ai/agents/boar/sound/scream.asset|
 |assets/rust.ai/agents/boar/sound/shake-body.asset|
 |assets/rust.ai/agents/boar/sound/sleeping.asset|
+|assets/rust.ai/agents/bull/bullpattern.asset|
+|assets/rust.ai/agents/calf/calf.soundremapping.asset|
 |assets/rust.ai/agents/chicken/chicken.population.asset|
 |assets/rust.ai/agents/chicken/chicken.skeleton.asset|
 |assets/rust.ai/agents/chicken/chicken_update.skeleton.asset|
+|assets/rust.ai/agents/chicken/npcteam_chicken.asset|
+|assets/rust.ai/agents/chicken/npcteam_chickentutorial.asset|
 |assets/rust.ai/agents/chicken/sound/attack.asset|
 |assets/rust.ai/agents/chicken/sound/chicken-anim-react-happy.asset|
 |assets/rust.ai/agents/chicken/sound/cluck.asset|
 |assets/rust.ai/agents/chicken/sound/flap-wings-idle.asset|
 |assets/rust.ai/agents/chicken/sound/flap-wings-running.asset|
 |assets/rust.ai/agents/chicken/sound/sleeping.asset|
+|assets/rust.ai/agents/cow/animations/cow_attack_charge_impact_rootmotiondata.asset|
+|assets/rust.ai/agents/cow/animations/cow_attack_charge_rootmotiondata.asset|
+|assets/rust.ai/agents/cow/animations/cow_canter_attack_kick_rootmotiondata.asset|
+|assets/rust.ai/agents/cow/animations/cow_canter_death_left_rootmotiondata.asset|
+|assets/rust.ai/agents/cow/animations/cow_canter_death_right_rootmotiondata.asset|
+|assets/rust.ai/agents/cow/animations/cow_canter_knockdown_rootmotiondata.asset|
+|assets/rust.ai/agents/cow/animations/cow_canter_stop_left_160_rootmotiondata.asset|
+|assets/rust.ai/agents/cow/animations/cow_canter_stop_right_160_rootmotiondata.asset|
+|assets/rust.ai/agents/cow/animations/cow_canter_turn_left_160_rootmotiondata.asset|
+|assets/rust.ai/agents/cow/animations/cow_canter_turn_left_180_rootmotiondata.asset|
+|assets/rust.ai/agents/cow/animations/cow_canter_turn_right_180_rootmotiondata.asset|
+|assets/rust.ai/agents/cow/animations/cow_idle_turn_to_canter_left_160_rootmotiondata.asset|
+|assets/rust.ai/agents/cow/animations/cow_idle_turn_to_canter_left_180_rootmotiondata.asset|
+|assets/rust.ai/agents/cow/animations/cow_idle_turn_to_canter_right_160_rootmotiondata.asset|
+|assets/rust.ai/agents/cow/animations/cow_mount_down_rootmotiondata.asset|
+|assets/rust.ai/agents/cow/animations/cow_mount_up_rootmotiondata.asset|
+|assets/rust.ai/agents/cow/animations/cow_stand_attack_kick_rootmotiondata.asset|
+|assets/rust.ai/agents/cow/animations/cow_stand_death_front_rootmotiondata.asset|
+|assets/rust.ai/agents/cow/animations/cow_stand_knockdown_rootmotiondata.asset|
+|assets/rust.ai/agents/cow/animations/cow_stomp_rootmotiondata.asset|
+|assets/rust.ai/agents/cow/cow.population.asset|
+|assets/rust.ai/agents/cow/cow.skeleton.asset|
+|assets/rust.ai/agents/cow/cow.species.asset|
+|assets/rust.ai/agents/cow/cowpattern.asset|
+|assets/rust.ai/agents/cow/livestock.specials.asset|
+|assets/rust.ai/agents/cow/npcteam_livestock.asset|
+|assets/rust.ai/agents/cow/sound/cow-attack-charge-impact.asset|
+|assets/rust.ai/agents/cow/sound/cow-attack-exhale.asset|
+|assets/rust.ai/agents/cow/sound/cow-attack-kick.asset|
+|assets/rust.ai/agents/cow/sound/cow-attack-moo.asset|
+|assets/rust.ai/agents/cow/sound/cow-attack-whoosh.asset|
+|assets/rust.ai/agents/cow/sound/cow-bodyfall.asset|
+|assets/rust.ai/agents/cow/sound/cow-calf-bodyfall.asset|
+|assets/rust.ai/agents/cow/sound/cow-calf-canter-happy-flaps.asset|
+|assets/rust.ai/agents/cow/sound/cow-calf-death-vocal.asset|
+|assets/rust.ai/agents/cow/sound/cow-calf-idle-food-search-head-shake.asset|
+|assets/rust.ai/agents/cow/sound/cow-calf-idle-head-shake-moo-short.asset|
+|assets/rust.ai/agents/cow/sound/cow-calf-idle-moo.asset|
+|assets/rust.ai/agents/cow/sound/cow-calf-idle-moo-02-long.asset|
+|assets/rust.ai/agents/cow/sound/cow-calf-idle-moo-02-short.asset|
+|assets/rust.ai/agents/cow/sound/cow-calf-idle-shake-a.asset|
+|assets/rust.ai/agents/cow/sound/cow-calf-idle-shake-b.asset|
+|assets/rust.ai/agents/cow/sound/cow-calf-knock-down.asset|
+|assets/rust.ai/agents/cow/sound/cow-calf-lay-down.asset|
+|assets/rust.ai/agents/cow/sound/cow-calf-moo-happy.asset|
+|assets/rust.ai/agents/cow/sound/cow-calf-mount-down.asset|
+|assets/rust.ai/agents/cow/sound/cow-calf-mount-up.asset|
+|assets/rust.ai/agents/cow/sound/cow-calf-pain-vocal.asset|
+|assets/rust.ai/agents/cow/sound/cow-calf-sleep.asset|
+|assets/rust.ai/agents/cow/sound/cow-calf-stand.asset|
+|assets/rust.ai/agents/cow/sound/cow-calf-wake-up.asset|
+|assets/rust.ai/agents/cow/sound/cow-calf-wake-up-quick.asset|
+|assets/rust.ai/agents/cow/sound/cow-canter-happy-flaps.asset|
+|assets/rust.ai/agents/cow/sound/cow-chew.asset|
+|assets/rust.ai/agents/cow/sound/cow-death-vocal.asset|
+|assets/rust.ai/agents/cow/sound/cow-eat.asset|
+|assets/rust.ai/agents/cow/sound/cow-eat-trough.asset|
+|assets/rust.ai/agents/cow/sound/cow-footsteps/calf.footsteps.asset|
+|assets/rust.ai/agents/cow/sound/cow-footsteps/cow.footsteps.asset|
+|assets/rust.ai/agents/cow/sound/cow-footsteps/cow-calf-footstep-concrete.asset|
+|assets/rust.ai/agents/cow/sound/cow-footsteps/cow-calf-footstep-generic.asset|
+|assets/rust.ai/agents/cow/sound/cow-footsteps/cow-calf-footstep-grass.asset|
+|assets/rust.ai/agents/cow/sound/cow-footsteps/cow-calf-footstep-metal.asset|
+|assets/rust.ai/agents/cow/sound/cow-footsteps/cow-calf-footstep-sand.asset|
+|assets/rust.ai/agents/cow/sound/cow-footsteps/cow-calf-footstep-snow.asset|
+|assets/rust.ai/agents/cow/sound/cow-footsteps/cow-calf-footstep-wood.asset|
+|assets/rust.ai/agents/cow/sound/cow-footsteps/cow-footstep-concrete.asset|
+|assets/rust.ai/agents/cow/sound/cow-footsteps/cow-footstep-generic.asset|
+|assets/rust.ai/agents/cow/sound/cow-footsteps/cow-footstep-grass.asset|
+|assets/rust.ai/agents/cow/sound/cow-footsteps/cow-footstep-metal.asset|
+|assets/rust.ai/agents/cow/sound/cow-footsteps/cow-footstep-sand.asset|
+|assets/rust.ai/agents/cow/sound/cow-footsteps/cow-footstep-snow.asset|
+|assets/rust.ai/agents/cow/sound/cow-footsteps/cow-footstep-wood.asset|
+|assets/rust.ai/agents/cow/sound/cow-idle-food-search-foot-swipe.asset|
+|assets/rust.ai/agents/cow/sound/cow-idle-food-search-head-shake.asset|
+|assets/rust.ai/agents/cow/sound/cow-idle-head-shake-moo-short.asset|
+|assets/rust.ai/agents/cow/sound/cow-idle-moo.asset|
+|assets/rust.ai/agents/cow/sound/cow-idle-moo-02-long.asset|
+|assets/rust.ai/agents/cow/sound/cow-idle-moo-02-short.asset|
+|assets/rust.ai/agents/cow/sound/cow-idle-shake-a.asset|
+|assets/rust.ai/agents/cow/sound/cow-idle-shake-b.asset|
+|assets/rust.ai/agents/cow/sound/cow-knock-down.asset|
+|assets/rust.ai/agents/cow/sound/cow-lay-down.asset|
+|assets/rust.ai/agents/cow/sound/cow-lick.asset|
+|assets/rust.ai/agents/cow/sound/cow-milk.asset|
+|assets/rust.ai/agents/cow/sound/cow-moo-happy.asset|
+|assets/rust.ai/agents/cow/sound/cow-mount-down.asset|
+|assets/rust.ai/agents/cow/sound/cow-mount-up.asset|
+|assets/rust.ai/agents/cow/sound/cow-pain-vocal.asset|
+|assets/rust.ai/agents/cow/sound/cow-sleep.asset|
+|assets/rust.ai/agents/cow/sound/cow-slide.asset|
+|assets/rust.ai/agents/cow/sound/cow-stand.asset|
+|assets/rust.ai/agents/cow/sound/cow-stomp.asset|
+|assets/rust.ai/agents/cow/sound/cow-stomp-vocal.asset|
+|assets/rust.ai/agents/cow/sound/cow-wake-up.asset|
+|assets/rust.ai/agents/cow/sound/cow-wake-up-quick.asset|
+|assets/rust.ai/agents/crabs/crabs.population.asset|
+|assets/rust.ai/agents/crabs/npcteam_crabs.asset|
+|assets/rust.ai/agents/crabs/sound/crab-walk-loop.asset|
 |assets/rust.ai/agents/crocodile/audio/hiss.asset|
 |assets/rust.ai/agents/crocodile/audio/swim.asset|
 |assets/rust.ai/agents/crocodile/audio/swimfast.asset|
@@ -9775,6 +9935,7 @@
 |assets/rust.ai/agents/crocodile/models/anims/crocodile_turn_180_r_rm_rootmotiondata.asset|
 |assets/rust.ai/agents/crocodile/models/anims/crocodile_turn_90_l_rm_rootmotiondata.asset|
 |assets/rust.ai/agents/crocodile/models/anims/crocodile_turn_90_r_rm_rootmotiondata.asset|
+|assets/rust.ai/agents/crocodile/npcteam_crocodile.asset|
 |assets/rust.ai/agents/crocodile/sound/crocodile-anim-backpedal_rm-01.asset|
 |assets/rust.ai/agents/crocodile/sound/crocodile-anim-death_rm-01.asset|
 |assets/rust.ai/agents/crocodile/sound/crocodile-anim-intimidate_attack_rm.asset|
@@ -9797,10 +9958,23 @@
 |assets/rust.ai/agents/fish/shark/sharkskeletondefinition.asset|
 |assets/rust.ai/agents/fish/shark/sound/shark_bite.asset|
 |assets/rust.ai/agents/fish/shark/sound/shark_movement.asset|
+|assets/rust.ai/agents/frog/animation/frog_death_rootmotiondata.asset|
+|assets/rust.ai/agents/frog/animation/frog_swim_death_rootmotiondata.asset|
+|assets/rust.ai/agents/frog/frog.population.asset|
+|assets/rust.ai/agents/frog/npcteam_critters.asset|
+|assets/rust.ai/agents/frog/sound/frog-croak.asset|
+|assets/rust.ai/agents/frog/sound/frog-death-land.asset|
+|assets/rust.ai/agents/frog/sound/frog-death-water.asset|
+|assets/rust.ai/agents/frog/sound/frog-jump.asset|
+|assets/rust.ai/agents/frog/sound/frog-jump-land.asset|
+|assets/rust.ai/agents/frog/sound/frog-swim.asset|
+|assets/rust.ai/agents/jellyfish/jellyfish.population.asset|
+|assets/rust.ai/agents/jellyfish/materials/jellyfish_sss.asset|
 |assets/rust.ai/agents/npcplayer/gingerbread/gingerbread.aidesign.asset|
 |assets/rust.ai/agents/npcplayer/gingerbread/gingerbreadmelee.aidesign.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/bandit_guard.aidesign.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/gen2/heavy.backpackhit.asset|
+|assets/rust.ai/agents/npcplayer/humannpc/scientist/gen2/npcteam_scientist.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/gen2/npcvoicelinedb.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/heavyscientist.oilrig.aidesign.asset|
 |assets/rust.ai/agents/npcplayer/humannpc/scientist/heavyscientist-1.asset|
@@ -9849,6 +10023,84 @@
 |assets/rust.ai/agents/npcplayer/scarecrow.aidesign.asset|
 |assets/rust.ai/agents/npcplayer/scarecrow.dungeon.noroam.aidesign.asset|
 |assets/rust.ai/agents/panther/panther.population.asset|
+|assets/rust.ai/agents/rabbit/animations/inplace/rabbit_death_stand_right_ip_rootmotiondata.asset|
+|assets/rust.ai/agents/rabbit/rabbit.population.asset|
+|assets/rust.ai/agents/rabbit/sound/rabbit-chewing.asset|
+|assets/rust.ai/agents/rabbit/sound/rabbit-death-fall.asset|
+|assets/rust.ai/agents/rabbit/sound/rabbit-eating.asset|
+|assets/rust.ai/agents/rabbit/sound/rabbit-run.asset|
+|assets/rust.ai/agents/rabbit/sound/rabbit-sniffing.asset|
+|assets/rust.ai/agents/rabbit/sound/rabbit-walk.asset|
+|assets/rust.ai/agents/seaturtle/animations/seaturtle_death_rootmotiondata.asset|
+|assets/rust.ai/agents/seaturtle/seaturtle.population.asset|
+|assets/rust.ai/agents/seaturtle/sound/seaturtle-loco-fins-down.asset|
+|assets/rust.ai/agents/seaturtle/sound/seaturtle-loco-fins-up.asset|
+|assets/rust.ai/agents/sheep/animations/sheep_canter_160_left_rootmotiondata.asset|
+|assets/rust.ai/agents/sheep/animations/sheep_canter_160_right_rootmotiondata.asset|
+|assets/rust.ai/agents/sheep/animations/sheep_canter_death_front_rootmotiondata.asset|
+|assets/rust.ai/agents/sheep/animations/sheep_canter_death_left_rootmotiondata.asset|
+|assets/rust.ai/agents/sheep/animations/sheep_canter_death_right_rootmotiondata.asset|
+|assets/rust.ai/agents/sheep/animations/sheep_canter_turn_180_rootmotiondata.asset|
+|assets/rust.ai/agents/sheep/animations/sheep_charge_attack_hit_rootmotiondata.asset|
+|assets/rust.ai/agents/sheep/animations/sheep_charge_attack_rootmotiondata.asset|
+|assets/rust.ai/agents/sheep/animations/sheep_death_front_rootmotiondata.asset|
+|assets/rust.ai/agents/sheep/animations/sheep_death_left_rootmotiondata.asset|
+|assets/rust.ai/agents/sheep/animations/sheep_death_right_rootmotiondata.asset|
+|assets/rust.ai/agents/sheep/animations/sheep_idle_turn_160_left_rootmotiondata.asset|
+|assets/rust.ai/agents/sheep/animations/sheep_idle_turn_160_lright_rootmotiondata.asset|
+|assets/rust.ai/agents/sheep/animations/sheep_idle_turn_180_rootmotiondata.asset|
+|assets/rust.ai/agents/sheep/animations/sheep_mount_down_rootmotiondata.asset|
+|assets/rust.ai/agents/sheep/animations/sheep_mount_up_rootmotiondata.asset|
+|assets/rust.ai/agents/sheep/lamb.soundremapping.asset|
+|assets/rust.ai/agents/sheep/lambwool.asset|
+|assets/rust.ai/agents/sheep/sheep.population.asset|
+|assets/rust.ai/agents/sheep/sheep.species.asset|
+|assets/rust.ai/agents/sheep/sheepwool.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-charge-impact.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-charge-swipe.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-charge-vocal.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-chew.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-death-bodyfall.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-death-vocal.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-eat.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-eat-trough.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-footsteps/lamb.footsteps.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-footsteps/sheep.footsteps.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-footsteps/sheep-footstep-concrete.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-footsteps/sheep-footstep-generic.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-footsteps/sheep-footstep-grass.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-footsteps/sheep-footstep-metal.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-footsteps/sheep-footstep-sand.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-footsteps/sheep-footstep-snow.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-footsteps/sheep-footstep-wood.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-footsteps/sheep-lamb-footstep-concrete.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-footsteps/sheep-lamb-footstep-generic.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-footsteps/sheep-lamb-footstep-grass.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-footsteps/sheep-lamb-footstep-metal.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-footsteps/sheep-lamb-footstep-sand.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-footsteps/sheep-lamb-footstep-snow.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-footsteps/sheep-lamb-footstep-wood.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-hit-vocal.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-idle-baa.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-lamb-death-bodyfall.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-lamb-death-vocal.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-lamb-hit-vocal.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-lamb-idle-baa.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-lamb-lay-down.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-lamb-mount-down.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-lamb-mount-up.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-lamb-sleep-exit.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-lamb-sleep-start.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-lamb-stand-up.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-lay-down.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-mount-down.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-mount-up.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-shear.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-sleep-exit.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-sleep-start.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-stand-up.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-stomp-vocal.asset|
+|assets/rust.ai/agents/sheep/sound/sheep-stomp-weight.asset|
 |assets/rust.ai/agents/snake/materials/ssp_snake.asset|
 |assets/rust.ai/agents/snake/skeleton.snake.asset|
 |assets/rust.ai/agents/snake/snake.population.asset|
@@ -9857,6 +10109,17 @@
 |assets/rust.ai/agents/snake/sound/snake-death.asset|
 |assets/rust.ai/agents/snake/sound/snake-escape.asset|
 |assets/rust.ai/agents/snake/sound/snake-hiss.asset|
+|assets/rust.ai/agents/squirrel/animations/squirrel_death_right_rootmotiondata.asset|
+|assets/rust.ai/agents/squirrel/sound/squirrel-death-fall.asset|
+|assets/rust.ai/agents/squirrel/sound/squirrel-death-vocal.asset|
+|assets/rust.ai/agents/squirrel/sound/squirrel-idle-breathing.asset|
+|assets/rust.ai/agents/squirrel/sound/squirrel-idle-scratch.asset|
+|assets/rust.ai/agents/squirrel/sound/squirrel-idle-step-double.asset|
+|assets/rust.ai/agents/squirrel/sound/squirrel-idle-step-weak.asset|
+|assets/rust.ai/agents/squirrel/sound/squirrel-idle-vocal.asset|
+|assets/rust.ai/agents/squirrel/sound/squirrel-land.asset|
+|assets/rust.ai/agents/squirrel/sound/squirrel-step-walk.asset|
+|assets/rust.ai/agents/squirrel/squirrel.population.asset|
 |assets/rust.ai/agents/stag/footsteps/stag-footstep-concrete.asset|
 |assets/rust.ai/agents/stag/footsteps/stag-footstep-dirt.asset|
 |assets/rust.ai/agents/stag/footsteps/stag-footstep-grass.asset|
@@ -9864,6 +10127,7 @@
 |assets/rust.ai/agents/stag/footsteps/stag-footstep-snow.asset|
 |assets/rust.ai/agents/stag/footsteps/stag-footstep-water.asset|
 |assets/rust.ai/agents/stag/footsteps/stag-footstep-wood.asset|
+|assets/rust.ai/agents/stag/npcteam_deer.asset|
 |assets/rust.ai/agents/stag/sound/attack.asset|
 |assets/rust.ai/agents/stag/sound/attack-2.asset|
 |assets/rust.ai/agents/stag/sound/death.asset|
@@ -9958,6 +10222,7 @@
 |assets/rust.ai/agents/wolf/footsteps/wolf-footstep-snow.asset|
 |assets/rust.ai/agents/wolf/footsteps/wolf-footstep-water.asset|
 |assets/rust.ai/agents/wolf/footsteps/wolf-footstep-wood.asset|
+|assets/rust.ai/agents/wolf/npcteam_wolf.asset|
 |assets/rust.ai/agents/wolf/sound/attack.asset|
 |assets/rust.ai/agents/wolf/sound/bark.asset|
 |assets/rust.ai/agents/wolf/sound/bodyfall.asset|
@@ -10078,6 +10343,7 @@
 |assets/settings/playmode/server + clients x3.asset|
 |assets/settings/playmode/server x2 + clients x2.asset|
 |assets/skins.asset|
+|assets/steamskinbundles.asset|
 |assets/textmesh pro/resources/tmp settings.asset|
 |assets/third party/fimpossible creations/plugins - animating/legs animator/modules - community/custom ik example/ik algorithm switch - axis lock ik.asset|
 |assets/third party/fimpossible creations/plugins - animating/legs animator/presets directory/leg custom module presets/extra_hard glue on stop.asset|
