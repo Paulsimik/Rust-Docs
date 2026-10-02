@@ -948,6 +948,7 @@
 |assets/content/vehicles/submarine/effects/submarine collision effect abovewater.prefab|
 |assets/content/vehicles/submarine/effects/submarine collision effect underwater.prefab|
 |assets/content/vehicles/submarine/effects/submarine-destroy.prefab|
+|assets/content/vehicles/trains/locomotive/fx/bellring.prefab|
 |assets/content/vehicles/trains/locomotive/fx/coaling tower emptying fx.prefab|
 |assets/content/vehicles/trains/locomotive/fx/coupling fx.prefab|
 |assets/content/vehicles/trains/locomotive/fx/locomotive lighting fx.prefab|
@@ -1047,9 +1048,18 @@
 |assets/prefabs/clothes/halloween.scarecrow/effects/pfx_scarecrow_critdeath_spine3.prefab|
 |assets/prefabs/clothes/halloween.scarecrow/effects/soul_release_effect.prefab|
 |assets/prefabs/clothes/suit.hazmat/diver/effects/breathingbubbles_headbone.prefab|
+|assets/prefabs/deployable/animal fence/effects/animal-fence-deploy.prefab|
+|assets/prefabs/deployable/animal fence/effects/animal-fence-gate-close.prefab|
+|assets/prefabs/deployable/animal fence/effects/animal-fence-gate-close-hit.prefab|
+|assets/prefabs/deployable/animal fence/effects/animal-fence-gate-deploy.prefab|
+|assets/prefabs/deployable/animal fence/effects/animal-fence-gate-open.prefab|
+|assets/prefabs/deployable/animal fence/effects/animal-fence-gate-open-hit.prefab|
 |assets/prefabs/deployable/barricades/effects/barricade-concrete-deploy.prefab|
 |assets/prefabs/deployable/barricades/effects/barricade-metal-deploy.prefab|
 |assets/prefabs/deployable/barricades/effects/barricade-sandbags-deploy.prefab|
+|assets/prefabs/deployable/barricades/effects/barricade-sandbags-destroy.prefab|
+|assets/prefabs/deployable/barricades/effects/barricade-sandbags-pileup.prefab|
+|assets/prefabs/deployable/barricades/effects/barricade-sandbags-pillbox.prefab|
 |assets/prefabs/deployable/barricades/effects/barricade-stone-deploy.prefab|
 |assets/prefabs/deployable/barricades/effects/barricade-wood-deploy.prefab|
 |assets/prefabs/deployable/barricades/effects/damage.prefab|
@@ -1057,6 +1067,10 @@
 |assets/prefabs/deployable/bear trap/effects/bear-trap-deploy.prefab|
 |assets/prefabs/deployable/bed/effects/bed-deploy.prefab|
 |assets/prefabs/deployable/beehive/effects/beehive-deploy.prefab|
+|assets/prefabs/deployable/biofuel generator/effects/biofuel_generator_flies.prefab|
+|assets/prefabs/deployable/biofuel generator/effects/biofuel-generator-deploy.prefab|
+|assets/prefabs/deployable/biofuel generator/effects/fx.prefab|
+|assets/prefabs/deployable/biofuel generator/effects/lighting.prefab|
 |assets/prefabs/deployable/boat building platform/effects/boat-building-platform-deploy.prefab|
 |assets/prefabs/deployable/boatbuilding/anchor/effects/boat-anchor-deploy.prefab|
 |assets/prefabs/deployable/boatbuilding/cannon/effects/attack.prefab|
@@ -2486,9 +2500,19 @@
 |assets/prefabs/weapons/wooden spear/effects/strike_wood-muted.prefab|
 |assets/prefabs/weapons/wooden spear/effects/strike_wood-soft.prefab|
 |assets/prefabs/weapons/wooden spear/effects/throw.prefab|
+|assets/rust.ai/agents/cow/effects/cow-milk.prefab|
 |assets/rust.ai/agents/fish/effects/sharkmovement.prefab|
 |assets/rust.ai/agents/fish/shark/effects/bloodcloud.prefab|
 |assets/rust.ai/agents/fish/shark/effects/bloodcloud.soundonly.prefab|
+|assets/rust.ai/agents/sheep/effects/fx_shear_lamb.prefab|
+|assets/rust.ai/agents/sheep/effects/fx_shear_sheep.prefab|
+|assets/rust.ai/agents/sheep/effects/sheep-footstep-concrete.prefab|
+|assets/rust.ai/agents/sheep/effects/sheep-footstep-generic.prefab|
+|assets/rust.ai/agents/sheep/effects/sheep-footstep-grass.prefab|
+|assets/rust.ai/agents/sheep/effects/sheep-footstep-sand.prefab|
+|assets/rust.ai/agents/sheep/effects/sheep-footstep-snow.prefab|
+|assets/rust.ai/agents/sheep/effects/sheep-footstep-wood.prefab|
+|assets/rust.ai/agents/sheep/effects/sheep-sheer.prefab|
 |assets/rust.ai/agents/snake/effects/snake_hide_effect.prefab|
 |assets/rust.ai/agents/snake/effects/snake_hit.prefab|
 |assets/rust.ai/agents/snake/effects/snake_reveal effect.prefab|
