@@ -10051,6 +10051,7 @@
 |assets/rust.ai/agents/sheep/animations/sheep_idle_turn_180_rootmotiondata.asset|
 |assets/rust.ai/agents/sheep/animations/sheep_mount_down_rootmotiondata.asset|
 |assets/rust.ai/agents/sheep/animations/sheep_mount_up_rootmotiondata.asset|
+|assets/rust.ai/agents/sheep/animations/sheep_stomp_rootmotiondata.asset|
 |assets/rust.ai/agents/sheep/lamb.soundremapping.asset|
 |assets/rust.ai/agents/sheep/lambwool.asset|
 |assets/rust.ai/agents/sheep/sheep.population.asset|
