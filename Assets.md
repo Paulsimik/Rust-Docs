@@ -6714,6 +6714,7 @@
 |assets/prefabs/deployable/dartboard/sound/dartboard-reset.asset|
 |assets/prefabs/deployable/dartboard/sound/dartboard-win.asset|
 |assets/prefabs/deployable/discord plush/discord.plushie.sitem.asset|
+|assets/prefabs/deployable/discord zombie plush/discord.zombie.plushie.sitem.asset|
 |assets/prefabs/deployable/drone/sound/drone-deploy.asset|
 |assets/prefabs/deployable/drone/sound/drone-destroy.asset|
 |assets/prefabs/deployable/drone/sound/drone-ground-land.asset|
@@ -6782,6 +6783,8 @@
 |assets/prefabs/deployable/furnace/sound/furnace-ignite.asset|
 |assets/prefabs/deployable/furnace/sound/furnace-loop.asset|
 |assets/prefabs/deployable/furnace/sound/furnace-open.asset|
+|assets/prefabs/deployable/halloween_string_lights/halloween.stringlights.sitem.asset|
+|assets/prefabs/deployable/halloween_wreath/halloween.wreath.sitem.asset|
 |assets/prefabs/deployable/hazmatplushy/hazmatplushy.sitem.asset|
 |assets/prefabs/deployable/heavyscientistplushie/heavyscientistplushie.skin.asset|
 |assets/prefabs/deployable/hopper/sound/hopper-active-loop-01.asset|
@@ -7158,6 +7161,7 @@
 |assets/prefabs/deployable/tool cupboard/sound/tool-cupboard-close.asset|
 |assets/prefabs/deployable/tool cupboard/sound/tool-cupboard-deploy.asset|
 |assets/prefabs/deployable/tool cupboard/sound/tool-cupboard-open.asset|
+|assets/prefabs/deployable/tuna can wall lamp/skins/skull wall lamp/tunalight.skull.skin.asset|
 |assets/prefabs/deployable/tuna can wall lamp/sound/tuna-can-lamp-burn-loop.asset|
 |assets/prefabs/deployable/tuna can wall lamp/sound/tuna-can-lamp-burn-loop-quiet.asset|
 |assets/prefabs/deployable/tuna can wall lamp/sound/tuna-can-lamp-close.asset|
@@ -7165,6 +7169,7 @@
 |assets/prefabs/deployable/tuna can wall lamp/sound/tuna-can-lamp-extinguish.asset|
 |assets/prefabs/deployable/tuna can wall lamp/sound/tuna-can-lamp-ignite.asset|
 |assets/prefabs/deployable/tuna can wall lamp/sound/tuna-can-lamp-open.asset|
+|assets/prefabs/deployable/tuna can wall lamp/tunalight.deployed.skinnable.asset|
 |assets/prefabs/deployable/vendingmachine/npcsellorders/attire.asset|
 |assets/prefabs/deployable/vendingmachine/npcsellorders/attire_bandit.asset|
 |assets/prefabs/deployable/vendingmachine/npcsellorders/bandit_farming.asset|
@@ -7259,6 +7264,7 @@
 |assets/prefabs/deployable/youtooz_figurines/youtooz_hazmat.skin.asset|
 |assets/prefabs/deployable/youtooz_figurines/youtooz_heavy.skin.asset|
 |assets/prefabs/dlc.warhammer.asset|
+|assets/prefabs/dlc/bundle_sitems/spooky_halloween_decor_pack.asset|
 |assets/prefabs/dlc/pack_sitems/artist_pack/artist.pack.dlc.sitem.asset|
 |assets/prefabs/dlc/pack_sitems/balloon_pack/balloon.pack.dlc.sitem.asset|
 |assets/prefabs/dlc/pack_sitems/bar_games_pack/bar_games_pack.dlc.sitem.asset|
@@ -7556,6 +7562,9 @@
 |assets/prefabs/misc/ghostships/sound/ghostship-seagul-group.ambience-def.asset|
 |assets/prefabs/misc/ghostships/sound/ghostship-seagul-group.ambience-list.asset|
 |assets/prefabs/misc/ghostships/sound/ghostship-seagul-group-ambience-sting.asset|
+|assets/prefabs/misc/halloween/alien.costume/alien.costume.sitem.asset|
+|assets/prefabs/misc/halloween/alien.costume/cloth.alien.costume.asset|
+|assets/prefabs/misc/halloween/alien.costume/player_skeleton.alien.costume.asset|
 |assets/prefabs/misc/halloween/candies/sound/candy_impact.asset|
 |assets/prefabs/misc/halloween/candles/candlecomboset.sitem.asset|
 |assets/prefabs/misc/halloween/carvablepumpkin/carvable.pumpkin.sitem.asset|
@@ -8679,6 +8688,9 @@
 |assets/prefabs/wallpaper/skins/2026-07_glowing/skin_assets/wallpaper.neon.squiggles.skin.asset|
 |assets/prefabs/wallpaper/skins/2026-08_bar.games/skin_assets/floorpaper.bar.games.carpet.red.skin.asset|
 |assets/prefabs/wallpaper/skins/2026-08_bar.games/skin_assets/wallpaper.bar.games.wood.panel.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-10_halloween/skin_assets/ceilingpaper.manor.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-10_halloween/skin_assets/floorpaper.cultist.tile.skin.asset|
+|assets/prefabs/wallpaper/skins/2026-10_halloween/skin_assets/wallpaper.derelict.wood.skin.asset|
 |assets/prefabs/wallpaper/sound/wallpaper-deploy.asset|
 |assets/prefabs/wallpaper/sound/wallpaper-place.asset|
 |assets/prefabs/wallpaper/sound/wallpaper-place-viewmodel.asset|
