@@ -721,6 +721,7 @@
 |assets/content/effects/fumes/pfx_vent_fumes.prefab|
 |assets/content/effects/liquid/assets_bundled_prefabs_world_underwater.prefab.prefab|
 |assets/content/effects/liquid/pfx_sprinkler.prefab|
+|assets/content/effects/liquid/pfx_sprinkler_radioactive.prefab|
 |assets/content/effects/materials/fog/fog_wall.prefab|
 |assets/content/effects/materials/fog/height_fog.prefab|
 |assets/content/effects/mountainfume/mountainfog.prefab|
@@ -770,7 +771,9 @@
 |assets/content/effects/muzzleflashes/smg/muzzle_flash_smg_braked.prefab|
 |assets/content/effects/muzzleflashes/smg/muzzle_flash_smg_silenced.prefab|
 |assets/content/effects/muzzleflashes/smg/muzzle_flash_smg_twin.prefab|
+|assets/content/effects/muzzleflashes/smg/muzzle_flash_smg2.prefab|
 |assets/content/effects/muzzleflashes/smg/shell_eject_smg.prefab|
+|assets/content/effects/muzzleflashes/smg/shell_eject_smg2.prefab|
 |assets/content/effects/objects/decal_box.prefab|
 |assets/content/effects/ocean visibility gizmo.prefab|
 |assets/content/effects/rotorwashparticles_large.prefab|
@@ -1238,6 +1241,7 @@
 |assets/prefabs/deployable/woodenbox/effects/black-box-deploy.prefab|
 |assets/prefabs/deployable/woodenbox/effects/wooden-box-deploy.prefab|
 |assets/prefabs/deployable/woodenbox/skins/pilot_hazmat_wooden_box/effects/lighting.prefab|
+|assets/prefabs/deployable/workbench upgrades/effects/prototype_fail.prefab|
 |assets/prefabs/effects/auroras/auroras_skychild.prefab|
 |assets/prefabs/effects/bouncelighting/bouncelight.prefab|
 |assets/prefabs/effects/bouncelighting/light_bouncable.prefab|
@@ -1272,6 +1276,7 @@
 |assets/prefabs/food/small water bottle/effects/water-bottle-slosh.prefab|
 |assets/prefabs/food/small water bottle/effects/water-bottle-slosh-fast.prefab|
 |assets/prefabs/food/water jug/effects/waterjug_splash.prefab|
+|assets/prefabs/food/water jug/effects/waterjug_splash_radioactive.prefab|
 |assets/prefabs/food/water jug/effects/water-jug-deploy.prefab|
 |assets/prefabs/food/water jug/effects/water-jug-fill-container.prefab|
 |assets/prefabs/food/water jug/effects/water-jug-fill-world.prefab|
@@ -1402,11 +1407,14 @@
 |assets/prefabs/misc/summer_dlc/watergun/effects/pfx_watergun_spray_final.prefab|
 |assets/prefabs/misc/summer_dlc/watergun/effects/pfx_watergun_spray_final_max.prefab|
 |assets/prefabs/misc/summer_dlc/watergun/effects/pfx_watergun_spray_final_min.prefab|
+|assets/prefabs/misc/summer_dlc/watergun/effects/pfx_watergun_spray_final_radioactive.prefab|
 |assets/prefabs/misc/summer_dlc/watergun/effects/pfx_watergun_spray_ideal.prefab|
 |assets/prefabs/misc/summer_dlc/watergun/effects/watergun-fill-container.prefab|
 |assets/prefabs/misc/summer_dlc/watergun/effects/watergun-fill-world.prefab|
 |assets/prefabs/misc/summer_dlc/watergun/effects/watergun-impact.prefab|
+|assets/prefabs/misc/summer_dlc/watergun/effects/watergun-impact-radioactive.prefab|
 |assets/prefabs/misc/summer_dlc/waterpistol/effects/pfx_waterpistol_spray.prefab|
+|assets/prefabs/misc/summer_dlc/waterpistol/effects/pfx_waterpistol_spray_radioactive.prefab|
 |assets/prefabs/misc/summer_dlc/waterpistol/effects/waterpistol-fill-container.prefab|
 |assets/prefabs/misc/summer_dlc/waterpistol/effects/waterpistol-fill-world.prefab|
 |assets/prefabs/misc/xmas/advent_calendar/effects/advent-calendar-deploy.prefab|
@@ -1485,6 +1493,7 @@
 |assets/prefabs/npc/travelling vendor/effects/vendor truck exhaust.prefab|
 |assets/prefabs/npc/travelling vendor/effects/vendor truck lighting.prefab|
 |assets/prefabs/npc/travelling vendor/effects/vendor turret laser pointer.prefab|
+|assets/prefabs/resource/blueprint fragment/effects/blueprintfragment_upgrade.prefab|
 |assets/prefabs/tools/binoculars/effects/deploy.prefab|
 |assets/prefabs/tools/binoculars/effects/deploy_end.prefab|
 |assets/prefabs/tools/c4/effects/c4_explosion.prefab|
@@ -1539,6 +1548,8 @@
 |assets/prefabs/tools/pager/effects/beep.prefab|
 |assets/prefabs/tools/pager/effects/vibrate.prefab|
 |assets/prefabs/tools/pipe/effects/plugeffect.prefab|
+|assets/prefabs/tools/shears/effects/attack-1.prefab|
+|assets/prefabs/tools/shears/effects/deploy.prefab|
 |assets/prefabs/tools/shovel/effects/attack-1.prefab|
 |assets/prefabs/tools/shovel/effects/attack-2.prefab|
 |assets/prefabs/tools/shovel/effects/deploy.prefab|
@@ -2129,6 +2140,7 @@
 |assets/prefabs/weapons/nailgun/effects/clip_in.prefab|
 |assets/prefabs/weapons/nailgun/effects/clip_out.prefab|
 |assets/prefabs/weapons/nailgun/effects/deploy.prefab|
+|assets/prefabs/weapons/nailgun/effects/w_drop_magazine.prefab|
 |assets/prefabs/weapons/paddle/effects/paddle-hit.prefab|
 |assets/prefabs/weapons/paddle/effects/paddle-hit-soft.prefab|
 |assets/prefabs/weapons/paddle/effects/throw.prefab|
@@ -2472,6 +2484,23 @@
 |assets/prefabs/weapons/torch/effects/torch_loop.prefab|
 |assets/prefabs/weapons/torch/skins/industrial_torch/effects/attack.prefab|
 |assets/prefabs/weapons/torch/skins/industrial_torch/effects/strike.prefab|
+|assets/prefabs/weapons/uzi/effects/attack.prefab|
+|assets/prefabs/weapons/uzi/effects/attack_muzzlebrake.prefab|
+|assets/prefabs/weapons/uzi/effects/attack_shake.prefab|
+|assets/prefabs/weapons/uzi/effects/attack_shake_ads.prefab|
+|assets/prefabs/weapons/uzi/effects/attack_silenced.prefab|
+|assets/prefabs/weapons/uzi/effects/bolt_back.prefab|
+|assets/prefabs/weapons/uzi/effects/bolt_shut.prefab|
+|assets/prefabs/weapons/uzi/effects/buttstock_swingback.prefab|
+|assets/prefabs/weapons/uzi/effects/buttstock_unlock.prefab|
+|assets/prefabs/weapons/uzi/effects/clip_in.prefab|
+|assets/prefabs/weapons/uzi/effects/clip_out.prefab|
+|assets/prefabs/weapons/uzi/effects/deploy.prefab|
+|assets/prefabs/weapons/uzi/effects/dryfire.prefab|
+|assets/prefabs/weapons/uzi/effects/eject_shell.prefab|
+|assets/prefabs/weapons/uzi/effects/reload_start.prefab|
+|assets/prefabs/weapons/uzi/effects/w_drop_magazine.prefab|
+|assets/prefabs/weapons/uzi/effects/w_eject_pistol_shell.prefab|
 |assets/prefabs/weapons/warhammer/krieg chainsword/effects/deploy.prefab|
 |assets/prefabs/weapons/warhammer/krieg shotgun/effects/attack.prefab|
 |assets/prefabs/weapons/warhammer/krieg shotgun/effects/attack_muzzlebrake.prefab|
@@ -2486,9 +2515,12 @@
 |assets/prefabs/weapons/waterbucket/effects/fillbucket_fromcontainer.prefab|
 |assets/prefabs/weapons/waterbucket/effects/fillbucket_fromworld.prefab|
 |assets/prefabs/weapons/waterbucket/effects/waterbucket_splash.prefab|
+|assets/prefabs/weapons/waterbucket/effects/waterbucket_splash_radioactive.prefab|
 |assets/prefabs/weapons/waterbucket/effects/waterimpact_explosion.prefab|
+|assets/prefabs/weapons/waterbucket/effects/waterimpact_explosion_radioactive.prefab|
 |assets/prefabs/weapons/waterbucket/effects/waterthrow.prefab|
 |assets/prefabs/weapons/waterbucket/effects/waterthrow3p.prefab|
+|assets/prefabs/weapons/waterbucket/effects/waterthrow3p_radioactive.prefab|
 |assets/prefabs/weapons/wooden shield/effects/wooden-shield-impact.prefab|
 |assets/prefabs/weapons/wooden spear/effects/2hand_deploy.prefab|
 |assets/prefabs/weapons/wooden spear/effects/attack.prefab|
