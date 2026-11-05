@@ -410,6 +410,15 @@
 |assets/scenes/prefabs/lighthouse/lighthouse_root_lods/lighthouse_root_hlod_albedo.png|
 |assets/scenes/prefabs/lighthouse/lighthouse_root_lods/lighthouse_root_hlod_normals.png|
 |assets/scenes/prefabs/lighthouse/lighthouse_root_lods/lighthouse_root_hlod_specular.png|
+|assets/scenes/prefabs/lighthouse/lighthouse_terrain/alphatexture.png|
+|assets/scenes/prefabs/lighthouse/lighthouse_terrain/biometexture.png|
+|assets/scenes/prefabs/lighthouse/lighthouse_terrain/blendtexture.png|
+|assets/scenes/prefabs/lighthouse/lighthouse_terrain/heighttexture.png|
+|assets/scenes/prefabs/lighthouse/lighthouse_terrain/normaltexture.png|
+|assets/scenes/prefabs/lighthouse/lighthouse_terrain/splattexture0.png|
+|assets/scenes/prefabs/lighthouse/lighthouse_terrain/splattexture1.png|
+|assets/scenes/prefabs/lighthouse/lighthouse_terrain/topologytexture.png|
+|assets/scenes/prefabs/lighthouse/lighthouse_terrain/watertexture.png|
 |assets/scenes/prefabs/military tunnels/military_tunnel_1/alphatexture.png|
 |assets/scenes/prefabs/military tunnels/military_tunnel_1/biometexture.png|
 |assets/scenes/prefabs/military tunnels/military_tunnel_1/blendtexture.png|
