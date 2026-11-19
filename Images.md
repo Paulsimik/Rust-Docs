@@ -990,8 +990,6 @@
 |assets/scenes/release/range/splattexture1.png|
 |assets/scenes/release/range/topologytexture.png|
 |assets/scenes/release/skinviewer/skinviewer_border.png|
-|assets/scenes/test/automatedteststerrain/splattexture0.png|
-|assets/scenes/test/automatedteststerrain/splattexture1.png|
 |assets/scenes/test/billbtestmap/billbtestmap terrain/alphatexture.png|
 |assets/scenes/test/billbtestmap/billbtestmap terrain/biometexture.png|
 |assets/scenes/test/billbtestmap/billbtestmap terrain/distancetexture.png|
