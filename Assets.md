@@ -5192,6 +5192,7 @@
 |assets/content/structures/rentable_shops/sounds/rental-shop-close.asset|
 |assets/content/structures/rentable_shops/sounds/rental-shop-open.asset|
 |assets/content/structures/rentable_shops/sounds/rental-shop-open-neon.asset|
+|assets/content/structures/satellite dish tower/sound/satellite-dish-turn-loop.asset|
 |assets/content/ui/fonts/_nonenglish/arabic/notosansarabic-bold sdf.asset|
 |assets/content/ui/fonts/_nonenglish/arabic/notosansarabic-regular sdf.asset|
 |assets/content/ui/fonts/_nonenglish/chinese/notosanscjksc-bold chinese dynamic sdf.asset|
